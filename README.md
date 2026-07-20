@@ -1,12 +1,5 @@
 # 🩺 Tbibk (طبيبك) - Assistant Médical Intelligent RAG pour le Contexte Marocain
 
-> **Projet de Fin de Module :** Programmation Python Avancée  
-> **Établissement :** Faculté des Sciences, Université Chouaïb Doukkali — El Jadida (Année Universitaire 2025/2026)  
-> **Infrastructure :** 100% Local & Hors-ligne (Zero-Data-Leakage)
-
----
-
-## 📌 Présentation du Projet
 
 **Tbibk (طبيبك)** est une application Web médicale intelligente basée sur l'architecture **RAG (Retrieval-Augmented Generation)**, spécifiquement conçue pour le contexte sanitaire marocain. 
 
