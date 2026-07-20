@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0D9488"            # Teal médical (accent principal)
+backgroundColor = "#F7F9FB"        # Fond principal (gris très clair)
+secondaryBackgroundColor = "#FFFFFF" # Sidebar et cartes (blanc)
+textColor = "#0F172A"              # Texte principal (slate foncé)
+font = "sans serif"

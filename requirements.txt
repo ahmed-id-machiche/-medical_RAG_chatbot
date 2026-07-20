@@ -1,0 +1,10 @@
+streamlit
+pypdf
+numpy
+chromadb
+flask
+pymupdf
+ollama
+sentence-transformers
+reportlab
+
