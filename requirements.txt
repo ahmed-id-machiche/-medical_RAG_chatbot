@@ -7,4 +7,6 @@ pymupdf
 ollama
 sentence-transformers
 reportlab
+arabic-reshaper
+python-bidi
 
