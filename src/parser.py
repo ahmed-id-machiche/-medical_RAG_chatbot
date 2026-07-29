@@ -4,9 +4,9 @@ from pypdf import PdfReader
 from src.config import CHUNK_SIZE, CHUNK_OVERLAP, DATA_DIR, DOCS_DIR
 
 # PDF and text configuration based on PDF instructions
-TARGET_MIN_TOKENS = 300
-TARGET_MAX_TOKENS = 800
-DEFAULT_OVERLAP_TOKENS = 100
+TARGET_MIN_TOKENS = 30
+TARGET_MAX_TOKENS = 180
+DEFAULT_OVERLAP_TOKENS = 30
 
 THEME_MAPPING = {
     # PDFs (For backward compatibility / reference)
@@ -37,6 +37,8 @@ THEME_MAPPING = {
     # Markdowns (Fast loading)
     "guide_diabete_maroc.md": "diabète",
     "guide_hypertension_maroc.md": "hypertension",
+    "guide_cardio_vasculaire_maroc.md": "maladies cardiovasculaires",
+    "guide_maladies_respiratoires_maroc.md": "maladies respiratoires",
     "guide_nutrition_maroc.md": "nutrition",
     "guide_tuberculose_maroc.md": "tuberculose",
     "guide_vaccination_maroc.md": "vaccination",
@@ -237,16 +239,7 @@ def chunk_text_by_tokens(text: str, source_name: str, min_tokens: int = TARGET_M
     return chunks
 
 def is_file_in_scope(filename: str) -> bool:
-    # Core mapped files
-    return filename in [
-        "pt_diabete_clean.md",
-        "guide_tabac_clean.md",
-        "guide_diabete_maroc.md",
-        "guide_cardio_vasculaire_maroc.md",
-        "guide_nutrition_maroc.md",
-        "guide_maladies_respiratoires_maroc.md",
-        "guide_vaccination_maroc.md"
-    ]
+    return filename.endswith(".md") or filename.endswith(".txt")
 
 def load_and_chunk_all_documents() -> list:
     """
