@@ -1,12 +1,24 @@
 import os
 import chromadb
+from chromadb.config import Settings
 from src.config import EMBEDDING_MODEL, INDEX_DIR
 from sentence_transformers import SentenceTransformer
 
 class SimpleVectorStore:
     def __init__(self):
-        # Initialize persistent ChromaDB client
-        self.client = chromadb.PersistentClient(path=INDEX_DIR)
+        # Initialize persistent ChromaDB client with explicit settings & KeyError safety
+        chroma_settings = Settings(anonymized_telemetry=False, is_persistent=True)
+        try:
+            self.client = chromadb.PersistentClient(path=INDEX_DIR, settings=chroma_settings)
+        except Exception as e:
+            print(f"ChromaDB init warning, clearing system cache: {str(e)}")
+            try:
+                from chromadb.api.shared_system import SharedSystemClient
+                SharedSystemClient._identifier_to_system.clear()
+            except Exception:
+                pass
+            self.client = chromadb.PersistentClient(path=INDEX_DIR, settings=chroma_settings)
+
         # Create or get collection with cosine similarity space
         self.collection = self.client.get_or_create_collection(
             name="medical_collection",

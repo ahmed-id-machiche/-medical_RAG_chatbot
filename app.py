@@ -53,8 +53,12 @@ st.set_page_config(
     layout="centered"
 )
 
-# Initialize global shared RAG pipeline on every run
-pipeline = RAGPipeline()
+# Initialize global shared RAG pipeline once and cache in resource memory
+@st.cache_resource
+def get_rag_pipeline():
+    return RAGPipeline()
+
+pipeline = get_rag_pipeline()
 
 # Background Indexing Status state
 if "is_indexing" not in st.session_state:
