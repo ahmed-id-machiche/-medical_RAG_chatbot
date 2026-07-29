@@ -741,33 +741,9 @@ if page == "Chatbot Tbibk":
     # Centered Name TBIBK below the logo
     st.markdown("<div style='text-align: center; margin-top: -5px; margin-bottom: 20px;'><span style='font-size: 34px; font-weight: 800; color: #FFFFFF; font-family: \"Outfit\", sans-serif; letter-spacing: 0.05em;'>TBIBK</span></div>", unsafe_allow_html=True)
 
-    # Empty history header & Clickable Sample Question Cards
+    # Empty history header: "Comment puis-je vous aider ?"
     if len(st.session_state.messages) == 0:
-        st.markdown("<div style='text-align: center; margin-top: 0px; margin-bottom: 20px;'><span style='font-size: 24px; font-weight: 600; color: rgba(255, 255, 255, 0.95); font-family: \"Inter\", sans-serif;'>Comment puis-je vous aider aujourd'hui ?</span></div>", unsafe_allow_html=True)
-        
-        st.markdown("<div style='font-size: 12px; font-weight: 700; color: #FFFFFF; opacity: 0.9; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.05em;'>💡 Questions suggérées (Cliquez pour poser) :</div>", unsafe_allow_html=True)
-        
-        col1, col2 = st.columns(2)
-        sample_q = None
-        with col1:
-            if st.button("🧠 شنو هما أعراض جلطة الدماغ (AVC)؟", use_container_width=True):
-                sample_q = "شنو هما أعراض جلطة الدماغ وكيفاش نتصرف؟"
-            if st.button("🩸 كيفاش نحمي راسي من طانسيون (HTA)؟", use_container_width=True):
-                sample_q = "كيفاش نحمي راسي من طانسيون؟"
-            if st.button("🩺 Comment diagnostiquer le diabète ?", use_container_width=True):
-                sample_q = "Comment diagnostiquer le diabète selon les guides ?"
-        with col2:
-            if st.button("🍏 شنو هي الماكلة المناسبة للمرا الحاملة؟", use_container_width=True):
-                sample_q = "شنو هي الماكلة المناسبة للمرا الحاملة بالمغرب؟"
-            if st.button("💉 شنو هو جدول التلقيح للدراري الصغار؟", use_container_width=True):
-                sample_q = "شنو هو جدول التلقيح للأطفال بالمغرب؟"
-            if st.button("🫁 Quels sont les symptômes de l'asthme ?", use_container_width=True):
-                sample_q = "Quels sont les symptômes de l'asthme et la prise en charge ?"
-                
-        if sample_q:
-            st.session_state.messages.append({"role": "user", "content": sample_q})
-            save_current_conversation()
-            st.rerun()
+        st.markdown("<div style='text-align: center; margin-top: 0px; margin-bottom: 25px;'><span style='font-size: 24px; font-weight: 600; color: rgba(255, 255, 255, 0.9); font-family: \"Inter\", sans-serif;'>Comment puis-je vous aider ?</span></div>", unsafe_allow_html=True)
 
     # Warning alert box
     st.warning("⚠️ **Avertissement :** Tbibk est un assistant d'information médicale basé sur les sources officielles du Ministère de la Santé du Maroc. Il ne remplace pas l'avis d'un professionnel de santé.")
