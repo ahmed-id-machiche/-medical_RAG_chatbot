@@ -61,7 +61,7 @@ class RAGPipeline:
                     "Content-Type": "application/json"
                 }
                 payload = {
-                    "model": "llama-3.3-70b-versatile",
+                    "model": "llama-3.1-8b-instant",
                     "messages": messages,
                     "temperature": temperature,
                     "max_tokens": max_tokens
@@ -262,9 +262,10 @@ Translation:"""
         language/script (French, Arabic script, or Arabizi/Latin script).
         """
         context_str = ""
-        for i, (chunk, score) in enumerate(retrieved_chunks):
+        for i, (chunk, score) in enumerate(retrieved_chunks[:3]):
+            chunk_text = chunk['text'][:1200]
             context_str += f"--- Source {i+1} (Fichier: {chunk['source']}, Page: {chunk.get('page')}) ---\n"
-            context_str += f"{chunk['text']}\n\n"
+            context_str += f"{chunk_text}\n\n"
 
         is_darija = query_analysis.get("is_darija", False)
         script_type = query_analysis.get("script_type", "french")
@@ -273,19 +274,15 @@ Translation:"""
         NO_INFO_TOKEN = "NO_INFO"
 
         if is_darija:
-            # Step 1: Generate the answer in French first — this is where retrieval
-            # accuracy matters most, so we keep the model working in the language
-            # the source documents are written in.
-            system_prompt_fr = f"""Vous êtes un assistant documentaire officiel du Ministère de la Santé du Maroc.
-Votre tâche est de répondre à la question de l'utilisateur en synthétisant UNIQUEMENT les informations du contexte officiel fourni ci-dessous.
-Répondez de manière factuelle et directe en Français.
+            system_prompt_fr = f"""Vous êtes Tbibk (طبيبك), l'assistant médical officiel d'information du Ministère de la Santé du Maroc.
+Votre rôle est de répondre de manière professionnelle, bienveillante et médicalement exacte à la question médicale de l'utilisateur.
 
-RÈGLES CRITIQUES :
-1. Vous devez vous baser UNIQUEMENT sur le contexte fourni. N'inventez aucune information médicale.
-2. Si le contexte ne contient pas l'information pour répondre, répondez EXACTEMENT et UNIQUEMENT par: "{NO_INFO_TOKEN}" (rien d'autre, aucune autre phrase).
-3. Sinon, répondez directement en français simple et professionnel.
+DIRECTIVES :
+1. Utilisez en priorité les informations officielles du contexte fourni ci-dessous.
+2. Synthétisez une réponse claire, directe et structurée expliquant les symptômes, conseils ou démarches médicales appropriées.
+3. Pour toute question médicale (ex: AVC, crise cardiaque, diabète, hypertension, nutrition), donnez les symptômes clés et conseils pratiques d'urgence ou de prévention.
 
---- CONTEXTE OFFICIEL ---
+--- CONTEXTE OFFICIEL DE SANTÉ ---
 {context_str}
 """
             try:
@@ -294,13 +291,11 @@ RÈGLES CRITIQUES :
                         {"role": "system", "content": system_prompt_fr},
                         {"role": "user", "content": query_fr}
                     ],
-                    temperature=0.0,
-                    max_tokens=400
+                    temperature=0.2,
+                    max_tokens=500
                 )
 
-                # Exact-match check (not a length heuristic) so short-but-correct
-                # answers aren't discarded as "no info".
-                if res_fr.strip() == NO_INFO_TOKEN or NO_INFO_TOKEN in res_fr:
+                if not res_fr or res_fr.strip() == NO_INFO_TOKEN:
                     return self._no_info_message(script_type)
 
                 # Step 2: Translate the French answer into clean Arabic script for all Darija queries
@@ -311,15 +306,14 @@ RÈGLES CRITIQUES :
                 return self._no_info_message(script_type)
         else:
             # Classic French generation
-            system_prompt = f"""Vous êtes un assistant documentaire officiel du Ministère de la Santé du Maroc.
-Votre tâche est de répondre à la question de l'utilisateur en synthétisant UNIQUEMENT les informations du contexte officiel fourni ci-dessous.
+            system_prompt = f"""Vous êtes Tbibk (طبيبك), l'assistant médical officiel d'information du Ministère de la Santé du Maroc.
+Votre rôle est de répondre de manière professionnelle, claire et médicalement précise en Français.
 
-RÈGLES CRITIQUES :
-1. Vous devez vous baser UNIQUEMENT sur le contexte fourni. N'inventez aucune information médicale.
-2. Si le contexte ne contient pas l'information pour répondre, répondez exactement par: "Désolé, je ne dispose pas d'informations officielles à ce sujet dans les documents du Ministère de la Santé."
-3. Répondez en Français clair, professionnel et médicalement précis.
+DIRECTIVES :
+1. Synthétisez les recommandations médicales officielles à partir du contexte ci-dessous.
+2. Fournissez des explications claires et bienveillantes.
 
---- CONTEXTE OFFICIEL (en Français) ---
+--- CONTEXTE OFFICIEL DE SANTÉ ---
 {context_str}
 """
             assistant_prefix = "Selon les documents officiels du Ministère de la Santé : "
@@ -330,7 +324,7 @@ RÈGLES CRITIQUES :
                         {"role": "user", "content": original_query}
                     ],
                     temperature=self.temperature,
-                    max_tokens=400
+                    max_tokens=500
                 )
                 return f"{assistant_prefix}{generated_content}"
             except Exception as e:
