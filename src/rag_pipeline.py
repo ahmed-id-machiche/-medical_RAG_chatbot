@@ -39,6 +39,51 @@ class RAGPipeline:
             return ollama.Client(host=host)
         return ollama
 
+    def _chat_complete(self, messages: list, temperature: float = 0.0, max_tokens: int = 400) -> str:
+        """
+        Unified LLM chat completion with multi-tier fallback:
+        1. Checks if GROQ_API_KEY is available (in st.secrets or os.environ) -> Uses Groq API via requests.
+        2. Falls back to local/remote Ollama client.
+        """
+        groq_api_key = os.environ.get("GROQ_API_KEY")
+        try:
+            import streamlit as st
+            if not groq_api_key and "GROQ_API_KEY" in st.secrets:
+                groq_api_key = st.secrets["GROQ_API_KEY"]
+        except Exception:
+            pass
+
+        if groq_api_key:
+            try:
+                import requests
+                headers = {
+                    "Authorization": f"Bearer {groq_api_key}",
+                    "Content-Type": "application/json"
+                }
+                payload = {
+                    "model": "llama-3.3-70b-versatile",
+                    "messages": messages,
+                    "temperature": temperature,
+                    "max_tokens": max_tokens
+                }
+                resp = requests.post("https://api.groq.com/openai/v1/chat/completions", json=payload, headers=headers, timeout=15)
+                if resp.status_code == 200:
+                    data = resp.json()
+                    return data["choices"][0]["message"]["content"].strip()
+                else:
+                    print(f"Groq API error {resp.status_code}: {resp.text}")
+            except Exception as e:
+                print(f"Groq API exception: {str(e)}")
+
+        client = self._get_client()
+        res = client.chat(
+            model=self.model_name,
+            messages=messages,
+            options={"temperature": temperature, "num_predict": max_tokens},
+            keep_alive=OLLAMA_KEEP_ALIVE
+        )
+        return res['message']['content'].strip()
+
     def set_model_name(self, model_name: str):
         """Updates the active generative model."""
         self.model_name = model_name
@@ -153,15 +198,14 @@ Translation:"""
         }
 
     def _safe_translate(self, prompt: str, fallback: str) -> str:
-        """Runs a translation prompt through Ollama, falling back to the original text on error/empty output."""
+        """Runs a translation prompt through LLM (Groq / Ollama), falling back to original text on error."""
         try:
-            res = self._get_client().chat(
-                model=self.model_name,
+            translated = self._chat_complete(
                 messages=[{"role": "user", "content": prompt}],
-                options={"temperature": 0.0, "num_predict": 60},
-                keep_alive=OLLAMA_KEEP_ALIVE
+                temperature=0.0,
+                max_tokens=60
             )
-            translated = res['message']['content'].strip().replace('"', '').replace("'", "")
+            translated = translated.replace('"', '').replace("'", "")
             return translated if translated else fallback
         except Exception as e:
             print(f"Translation error: {str(e)}")
@@ -245,16 +289,14 @@ RÈGLES CRITIQUES :
 {context_str}
 """
             try:
-                res_fr_api = self._get_client().chat(
-                    model=self.model_name,
+                res_fr = self._chat_complete(
                     messages=[
                         {"role": "system", "content": system_prompt_fr},
                         {"role": "user", "content": query_fr}
                     ],
-                    options={"temperature": 0.0, "num_predict": 400, "num_ctx": 2048},
-                    keep_alive=OLLAMA_KEEP_ALIVE
+                    temperature=0.0,
+                    max_tokens=400
                 )
-                res_fr = res_fr_api['message']['content'].strip()
 
                 # Exact-match check (not a length heuristic) so short-but-correct
                 # answers aren't discarded as "no info".
@@ -282,16 +324,14 @@ RÈGLES CRITIQUES :
 """
             assistant_prefix = "Selon les documents officiels du Ministère de la Santé : "
             try:
-                response = self._get_client().chat(
-                    model=self.model_name,
+                generated_content = self._chat_complete(
                     messages=[
                         {"role": "system", "content": system_prompt},
                         {"role": "user", "content": original_query}
                     ],
-                    options={"temperature": self.temperature, "num_predict": 400, "num_ctx": 2048},
-                    keep_alive=OLLAMA_KEEP_ALIVE
+                    temperature=self.temperature,
+                    max_tokens=400
                 )
-                generated_content = response['message']['content'].strip()
                 return f"{assistant_prefix}{generated_content}"
             except Exception as e:
                 print(f"Error during response generation locally: {str(e)}")
@@ -313,13 +353,11 @@ RÈGLES CRITIQUES :
         res_ar = ""
         for _attempt in range(2):
             try:
-                res_ar_api = self._get_client().chat(
-                    model=self.model_name,
+                res_ar = self._chat_complete(
                     messages=[{"role": "user", "content": translation_to_ar_prompt}],
-                    options={"temperature": 0.0, "num_predict": 600},
-                    keep_alive=OLLAMA_KEEP_ALIVE
+                    temperature=0.0,
+                    max_tokens=600
                 )
-                res_ar = res_ar_api['message']['content'].strip()
             except Exception as e:
                 print(f"Error in AR translation: {str(e)}")
                 break
@@ -386,16 +424,14 @@ RÈGLES CRITIQUES :
                 sys_prompt = "Vous êtes Tbibk, un assistant médical virtuel officiel du Ministère de la Santé du Maroc. Greet the user warmly in French and ask how you can help them with their health today."
 
             try:
-                response = self._get_client().chat(
-                    model=self.model_name,
+                response_text = self._chat_complete(
                     messages=[
                         {"role": "system", "content": sys_prompt},
                         {"role": "user", "content": user_query}
                     ],
-                    options={"temperature": 0.5, "num_predict": 100},
-                    keep_alive=OLLAMA_KEEP_ALIVE
+                    temperature=0.5,
+                    max_tokens=100
                 )
-                response_text = response['message']['content'].strip()
             except Exception as e:
                 print(f"Error during greeting response: {str(e)}")
                 response_text = "Bonjour ! Comment puis-je vous aider aujourd'hui ?"
