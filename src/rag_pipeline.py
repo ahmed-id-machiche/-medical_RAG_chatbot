@@ -26,6 +26,19 @@ class RAGPipeline:
         # Load the index if it exists
         self.vector_store.load()
 
+    def _get_client(self):
+        """Returns the appropriate Ollama client (local default or custom host from OLLAMA_HOST/st.secrets)."""
+        host = os.environ.get("OLLAMA_HOST")
+        try:
+            import streamlit as st
+            if not host and "OLLAMA_HOST" in st.secrets:
+                host = st.secrets["OLLAMA_HOST"]
+        except Exception:
+            pass
+        if host:
+            return ollama.Client(host=host)
+        return ollama
+
     def set_model_name(self, model_name: str):
         """Updates the active generative model."""
         self.model_name = model_name
@@ -142,7 +155,7 @@ Translation:"""
     def _safe_translate(self, prompt: str, fallback: str) -> str:
         """Runs a translation prompt through Ollama, falling back to the original text on error/empty output."""
         try:
-            res = ollama.chat(
+            res = self._get_client().chat(
                 model=self.model_name,
                 messages=[{"role": "user", "content": prompt}],
                 options={"temperature": 0.0, "num_predict": 60},
@@ -232,7 +245,7 @@ RÈGLES CRITIQUES :
 {context_str}
 """
             try:
-                res_fr_api = ollama.chat(
+                res_fr_api = self._get_client().chat(
                     model=self.model_name,
                     messages=[
                         {"role": "system", "content": system_prompt_fr},
@@ -269,7 +282,7 @@ RÈGLES CRITIQUES :
 """
             assistant_prefix = "Selon les documents officiels du Ministère de la Santé : "
             try:
-                response = ollama.chat(
+                response = self._get_client().chat(
                     model=self.model_name,
                     messages=[
                         {"role": "system", "content": system_prompt},
@@ -300,7 +313,7 @@ RÈGLES CRITIQUES :
         res_ar = ""
         for _attempt in range(2):
             try:
-                res_ar_api = ollama.chat(
+                res_ar_api = self._get_client().chat(
                     model=self.model_name,
                     messages=[{"role": "user", "content": translation_to_ar_prompt}],
                     options={"temperature": 0.0, "num_predict": 600},
@@ -373,7 +386,7 @@ RÈGLES CRITIQUES :
                 sys_prompt = "Vous êtes Tbibk, un assistant médical virtuel officiel du Ministère de la Santé du Maroc. Greet the user warmly in French and ask how you can help them with their health today."
 
             try:
-                response = ollama.chat(
+                response = self._get_client().chat(
                     model=self.model_name,
                     messages=[
                         {"role": "system", "content": sys_prompt},
