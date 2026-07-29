@@ -34,7 +34,7 @@ from src.downloader import download_official_pdfs, create_fallback_documents
 from src.extract_pdf import extract_all_pdfs
 
 from reportlab.lib.pagesizes import letter
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, Image
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib import colors
 
@@ -53,12 +53,8 @@ st.set_page_config(
     layout="centered"
 )
 
-# Initialize global shared RAG pipeline once and cache in resource memory
-@st.cache_resource
-def get_rag_pipeline():
-    return RAGPipeline()
-
-pipeline = get_rag_pipeline()
+# Initialize global shared RAG pipeline on every run
+pipeline = RAGPipeline()
 
 # Background Indexing Status state
 if "is_indexing" not in st.session_state:
@@ -108,9 +104,9 @@ if "indexing_started" not in st.session_state:
     st.session_state.indexing_started = True
     threading.Thread(target=check_and_build_index, daemon=True).start()
 
-# ================= PERSISTENCE: CONVERSATION HISTORY =================
-CONVS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "conversations")
-os.makedirs(CONVS_DIR, exist_ok=True)
+# ================= PERSISTENCE: SESSION-ISOLATED CONVERSATION HISTORY =================
+if "my_conversations" not in st.session_state:
+    st.session_state.my_conversations = {}
 
 def save_current_conversation():
     if "conv_id" not in st.session_state or not st.session_state.conv_id:
@@ -123,230 +119,134 @@ def save_current_conversation():
     first_msg = st.session_state.messages[0]["content"]
     title = first_msg[:24] + "..." if len(first_msg) > 24 else first_msg
     
-    data = {
+    st.session_state.my_conversations[st.session_state.conv_id] = {
         "id": st.session_state.conv_id,
         "title": title,
-        "messages": st.session_state.messages,
-        "poids": st.session_state.poids,
-        "taille": st.session_state.taille,
-        "age": st.session_state.age,
-        "sexe": st.session_state.sexe,
-        "pas": st.session_state.pas,
-        "tabac": st.session_state.tabac
+        "messages": list(st.session_state.messages),
+        "poids": st.session_state.get("poids", 70.0),
+        "taille": st.session_state.get("taille", 170.0),
+        "age": st.session_state.get("age", 45),
+        "sexe": st.session_state.get("sexe", "Femme"),
+        "pas": st.session_state.get("pas", 120),
+        "tabac": st.session_state.get("tabac", "Non"),
+        "timestamp": time.time() if 'time' in globals() or 'time' in locals() else 0
     }
-    
-    filepath = os.path.join(CONVS_DIR, f"{st.session_state.conv_id}.json")
-    with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
 
 def list_conversations():
-    convs = []
-    if os.path.exists(CONVS_DIR):
-        for fname in os.listdir(CONVS_DIR):
-            if fname.endswith(".json"):
-                try:
-                    with open(os.path.join(CONVS_DIR, fname), "r", encoding="utf-8") as f:
-                        data = json.load(f)
-                        convs.append({
-                            "id": data["id"],
-                            "title": data["title"],
-                            "timestamp": os.path.getmtime(os.path.join(CONVS_DIR, fname))
-                        })
-                except Exception:
-                    pass
-    # Sort by timestamp descending
-    convs.sort(key=lambda x: x["timestamp"], reverse=True)
+    if "my_conversations" not in st.session_state:
+        return []
+    convs = list(st.session_state.my_conversations.values())
+    convs.sort(key=lambda x: x.get("timestamp", 0), reverse=True)
     return convs
 
 def load_conversation(conv_id):
-    filepath = os.path.join(CONVS_DIR, f"{conv_id}.json")
-    if os.path.exists(filepath):
-        try:
-            with open(filepath, "r", encoding="utf-8") as f:
-                data = json.load(f)
-                st.session_state.conv_id = data["id"]
-                st.session_state.messages = data["messages"]
-                st.session_state.poids = data.get("poids", 70.0)
-                st.session_state.taille = data.get("taille", 170.0)
-                st.session_state.age = data.get("age", 45)
-                st.session_state.sexe = data.get("sexe", "Femme")
-                st.session_state.pas = data.get("pas", 120)
-                st.session_state.tabac = data.get("tabac", "Non")
-        except Exception:
-            pass
+    if "my_conversations" in st.session_state and conv_id in st.session_state.my_conversations:
+        data = st.session_state.my_conversations[conv_id]
+        st.session_state.conv_id = data["id"]
+        st.session_state.messages = list(data["messages"])
+        st.session_state.poids = data.get("poids", 70.0)
+        st.session_state.taille = data.get("taille", 170.0)
+        st.session_state.age = data.get("age", 45)
+        st.session_state.sexe = data.get("sexe", "Femme")
+        st.session_state.pas = data.get("pas", 120)
+        st.session_state.tabac = data.get("tabac", "Non")
 
-# Helper to reshape Arabic text and handle BiDi right-to-left layout for ReportLab PDF
-def ar(text: str) -> str:
-    if not text:
-        return ""
-    try:
-        import arabic_reshaper
-        from bidi.algorithm import get_display
-        reshaped = arabic_reshaper.reshape(text)
-        return get_display(reshaped)
-    except Exception:
-        return text
-
-# Register Tahoma font for native Arabic rendering in ReportLab PDF
-try:
-    if os.path.exists("C:/Windows/Fonts/tahoma.ttf"):
-        from reportlab.pdfbase import pdfmetrics
-        from reportlab.pdfbase.ttfonts import TTFont
-        pdfmetrics.registerFont(TTFont('Tahoma', 'C:/Windows/Fonts/tahoma.ttf'))
-        pdfmetrics.registerFont(TTFont('Tahoma-Bold', 'C:/Windows/Fonts/tahomabd.ttf'))
-        FONT_AR = 'Tahoma'
-        FONT_AR_BOLD = 'Tahoma-Bold'
-    else:
-        FONT_AR = 'Helvetica'
-        FONT_AR_BOLD = 'Helvetica-Bold'
-except Exception:
-    FONT_AR = 'Helvetica'
-    FONT_AR_BOLD = 'Helvetica-Bold'
-
+# ================= HELPER: PATIENT PDF GENERATOR =================
 def generate_patient_pdf(imc, imc_status, risk_status, messages):
     buffer = BytesIO()
-    doc = SimpleDocTemplate(buffer, pagesize=letter, rightMargin=36, leftMargin=36, topMargin=36, bottomMargin=36)
-    
-    primary_color = colors.HexColor("#1E3A8A")
-    secondary_color = colors.HexColor("#2563EB")
-    text_color = colors.HexColor("#1E293B")
-    
-    fr_header_style = ParagraphStyle(
-        name='FrHeader',
-        fontName=FONT_AR_BOLD,
-        fontSize=8.5,
-        leading=12,
-        textColor=primary_color,
-        alignment=0
+    doc = SimpleDocTemplate(
+        buffer,
+        pagesize=letter,
+        leftMargin=54,
+        rightMargin=54,
+        topMargin=54,
+        bottomMargin=54
     )
     
-    ar_header_style = ParagraphStyle(
-        name='ArHeader',
-        fontName=FONT_AR_BOLD,
-        fontSize=8.5,
-        leading=12,
+    styles = getSampleStyleSheet()
+    primary_color = colors.HexColor("#549FC4")
+    secondary_color = colors.HexColor("#0F172A")
+    text_color = colors.HexColor("#334155")
+    
+    title_style = ParagraphStyle(
+        name='PatientTitle',
+        fontName='Helvetica-Bold',
+        fontSize=22,
+        leading=26,
         textColor=primary_color,
-        alignment=2
+        alignment=1, # Center
+        spaceAfter=20
     )
     
-    doc_title_style = ParagraphStyle(
-        name='DocTitle',
-        fontName=FONT_AR_BOLD,
-        fontSize=12.5,
+    header_style = ParagraphStyle(
+        name='PatientHeader',
+        fontName='Helvetica-Bold',
+        fontSize=12,
         leading=16,
-        textColor=primary_color,
-        alignment=1,
-        spaceBefore=10,
-        spaceAfter=12
+        textColor=secondary_color,
+        spaceBefore=14,
+        spaceAfter=8,
+        keepWithNext=True
     )
     
-    table_header_style = ParagraphStyle(
-        name='TableHeader',
-        fontName=FONT_AR_BOLD,
-        fontSize=9.5,
-        leading=13,
-        textColor=colors.HexColor("#0F172A")
+    body_style = ParagraphStyle(
+        name='PatientBody',
+        fontName='Helvetica',
+        fontSize=10,
+        leading=14,
+        textColor=text_color,
+        spaceAfter=6
     )
     
-    table_body_style = ParagraphStyle(
-        name='TableBody',
-        fontName=FONT_AR,
-        fontSize=9.5,
-        leading=13,
-        textColor=text_color
-    )
-    
-    disclaimer_style = ParagraphStyle(
-        name='Disclaimer',
-        fontName=FONT_AR,
-        fontSize=8,
-        leading=11,
-        textColor=colors.HexColor("#64748B"),
-        alignment=1
+    bold_style = ParagraphStyle(
+        name='PatientBold',
+        fontName='Helvetica-Bold',
+        fontSize=10,
+        leading=14,
+        textColor=secondary_color,
+        spaceAfter=6
     )
 
     story = []
     
-    # 1. Dual-Language Official Moroccan Header (French Left, Logo Center, Reshaped Arabic Right)
-    left_header = Paragraph(
-        "<b>ROYAUME DU MAROC</b><br/>"
-        "<font color='#475569' size=7.5>Ministère de la Santé</font><br/>"
-        "<b><font color='#2563EB' size=8>TBIBK — Assistant RAG</font></b>",
-        fr_header_style
-    )
+    # Title
+    story.append(Paragraph("Tbibk - Fiche Clinique de Consultation", title_style))
+    story.append(Spacer(1, 10))
     
-    right_header = Paragraph(
-        f"<b>{ar('المملكة المغربية')}</b><br/>"
-        f"<font color='#475569' size=7.5>{ar('وزارة الصحة والحماية الاجتماعية')}</font><br/>"
-        f"<b><font color='#2563EB' size=8>{ar('طبيبك — المساعد الطبي')}</font></b>",
-        ar_header_style
-    )
-    
-    logo_path = os.path.join(os.path.dirname(__file__), "tbibk_logo.png")
-    if os.path.exists(logo_path):
-        logo_img = Image(logo_path, width=48, height=48)
-    else:
-        logo_img = Paragraph("<b>TBIBK</b>", fr_header_style)
-        
-    header_table = Table([[left_header, logo_img, right_header]], colWidths=[200, 100, 200])
-    header_table.setStyle(TableStyle([
-        ('VALIGN', (0,0), (-1,-1), 'MIDDLE'),
-        ('ALIGN', (1,0), (1,0), 'CENTER'),
-        ('LEFTPADDING', (0,0), (-1,-1), 0),
-        ('RIGHTPADDING', (0,0), (-1,-1), 0),
-        ('BOTTOMPADDING', (0,0), (-1,-1), 4),
-    ]))
-    story.append(header_table)
-    
-    # Divider line under header
-    divider_table = Table([[""]], colWidths=[500], rowHeights=[2])
-    divider_table.setStyle(TableStyle([
-        ('LINEABOVE', (0,0), (-1,-1), 1.5, primary_color),
-    ]))
-    story.append(divider_table)
-    story.append(Spacer(1, 8))
-    
-    # Document Title
-    story.append(Paragraph(f"<b>FICHE CLINIQUE DE CONSULTATION | {ar('بطاقة الاستشارة الطبية')}</b>", doc_title_style))
-    story.append(Spacer(1, 8))
-    
-    # 2. Bilingual Clinical Parameters Table (Reshaped Arabic)
+    # Parameters table
+    story.append(Paragraph("1. Synthèse des Paramètres Cliniques", header_style))
     param_data = [
-        [
-            Paragraph(f"<b>Indicateur Évalué ({ar('المؤشر السريري')})</b>", table_header_style),
-            Paragraph(f"<b>Résultat & Statut ({ar('النتيجة والتقييم')})</b>", table_header_style)
-        ],
-        [
-            Paragraph(f"Poids / Taille ({ar('الوزن والطول')})", table_body_style),
-            Paragraph(f"{st.session_state.poids} kg / {st.session_state.taille} cm", table_body_style)
-        ],
-        [
-            Paragraph(f"Indice de Masse Corporelle (IMC / {ar('مؤشر كتلة الجسم')})", table_body_style),
-            Paragraph(f"{imc:.1f} ({imc_status})", table_body_style)
-        ],
-        [
-            Paragraph(f"Risque Cardiovasculaire (HTA / {ar('خطر القلب والضغط')})", table_body_style),
-            Paragraph(f"{risk_status}", table_body_style)
-        ]
+        [Paragraph("<b>Indicateur évalué</b>", bold_style), Paragraph("<b>Statut clinique</b>", bold_style)],
+        [Paragraph("Indice de Masse Corporelle (IMC)", body_style), Paragraph(f"{imc:.1f} ({imc_status})", body_style)],
+        [Paragraph("Risque Cardio-Vasculaire (Score HTA)", body_style), Paragraph(risk_status, body_style)]
     ]
-    
-    t = Table(param_data, colWidths=[270, 230])
+    t = Table(param_data, colWidths=[250, 250])
     t.setStyle(TableStyle([
-        ('GRID', (0,0), (-1,-1), 0.5, colors.HexColor("#CBD5E1")),
-        ('BACKGROUND', (0,0), (-1,0), colors.HexColor("#F1F5F9")),
+        ('GRID', (0,0), (-1,-1), 0.5, colors.HexColor("#E2E8F0")),
+        ('BACKGROUND', (0,0), (-1,0), colors.HexColor("#F8FAFC")),
         ('VALIGN', (0,0), (-1,-1), 'MIDDLE'),
-        ('BOTTOMPADDING', (0,0), (-1,-1), 8),
-        ('TOPPADDING', (0,0), (-1,-1), 8),
+        ('BOTTOMPADDING', (0,0), (-1,-1), 6),
+        ('TOPPADDING', (0,0), (-1,-1), 6),
     ]))
     story.append(t)
-    story.append(Spacer(1, 20))
+    story.append(Spacer(1, 15))
     
-    # 3. Disclaimer Footer
-    story.append(Paragraph(
-        f"<i>Avertissement : Ce document est une fiche d'information automatique et ne remplace pas une consultation médicale.<br/>"
-        f"{ar('تنبيه: هذه البطاقة معلوماتية تم إنشاؤها تلقائياً ولا تعوض الاستشارة الطبية الفعلية.')}</i>",
-        disclaimer_style
-    ))
+    # Conversation history
+    story.append(Paragraph("2. Historique de la Discussion Médicale", header_style))
+    
+    if len(messages) == 0:
+        story.append(Paragraph("Aucune discussion enregistrée dans cette session.", body_style))
+    else:
+        for msg in messages:
+            role = "Patient" if msg["role"] == "user" else "Tbibk"
+            story.append(Paragraph(f"<b>{role} :</b>", bold_style))
+            
+            clean_content = msg["content"].replace("<br/>", "\n").replace("<b>", "").replace("</b>", "").replace("<div class=\"arabic-text\">", "").replace("</div>", "")
+            story.append(Paragraph(clean_content, body_style))
+            story.append(Spacer(1, 4))
+            
+    story.append(Spacer(1, 20))
+    story.append(Paragraph("<i>Avertissement : Ce document est une fiche d'information automatique et ne remplace pas une consultation ou prescription médicale. Veuillez le présenter à votre médecin traitant.</i>", body_style))
     
     doc.build(story)
     buffer.seek(0)
@@ -1047,56 +947,25 @@ elif page == "Fiche Patient":
     # Compile patient report bytes
     pdf_bytes = generate_patient_pdf(imc, imc_status, risk_status, st.session_state.messages)
 
-    logo_path = os.path.join(os.path.dirname(__file__), "tbibk_logo.png")
-    b64_str = ""
-    if os.path.exists(logo_path):
-        with open(logo_path, "rb") as f:
-            b64_str = base64.b64encode(f.read()).decode("utf-8")
-
-    card_html = f"""<div class="premium-card" style="margin-bottom: 25px;">
-<div style="display: flex; align-items: center; justify-content: space-between; border-bottom: 2px solid #1E3A8A; padding-bottom: 12px; margin-bottom: 15px;">
-<div style="text-align: left; font-size: 12px; color: #1E3A8A; line-height: 1.3;">
-<b>ROYAUME DU MAROC</b><br/>
-<span style="font-size: 10px; color: #475569;">Ministère de la Santé</span><br/>
-<b><span style="font-size: 11px; color: #2563EB;">TBIBK — Assistant RAG</span></b>
-</div>
-<img src="data:image/png;base64,{b64_str}" style="width: 48px; height: 48px; object-fit: contain;">
-<div style="text-align: right; font-size: 12px; color: #1E3A8A; line-height: 1.3; font-family: 'Tahoma', sans-serif;">
-<b>المملكة المغربية</b><br/>
-<span style="font-size: 10px; color: #475569;">وزارة الصحة والحماية الاجتماعية</span><br/>
-<b><span style="font-size: 11px; color: #2563EB;">طبيبك — المساعد الطبي</span></b>
-</div>
-</div>
-<h3 style="text-align: center; color: #1E3A8A; font-weight: 800; font-size: 15px; margin: 12px 0 18px 0; font-family: 'Outfit', 'Inter', sans-serif;">FICHE CLINIQUE DE CONSULTATION | بطاقة الاستشارة الطبية</h3>
-<table style="width: 100%; border-collapse: collapse; font-family: 'Inter', sans-serif; font-size: 13.5px;">
-<thead>
-<tr style="background-color: #F1F5F9; border-bottom: 2px solid #CBD5E1;">
-<th style="padding: 10px; text-align: left; font-weight: 700; color: #0F172A;">Indicateur Évalué (المؤشر السريري)</th>
-<th style="padding: 10px; text-align: right; font-weight: 700; color: #0F172A;">Résultat & Statut (النتيجة والتقييم)</th>
-</tr>
-</thead>
-<tbody>
-<tr style="border-bottom: 1px solid #E2ECF2;">
-<td style="padding: 10px; font-weight: 600; color: #334155;">Poids / Taille (الوزن والطول)</td>
-<td style="padding: 10px; text-align: right; font-weight: 700; color: #0F172A;">{st.session_state.poids} kg / {st.session_state.taille} cm</td>
-</tr>
-<tr style="border-bottom: 1px solid #E2ECF2;">
-<td style="padding: 10px; font-weight: 600; color: #334155;">Indice de Masse Corporelle (IMC / مؤشر كتلة الجسم)</td>
-<td style="padding: 10px; text-align: right; font-weight: 700; color: {imc_color};">{imc:.1f} ({imc_status})</td>
-</tr>
-<tr>
-<td style="padding: 10px; font-weight: 600; color: #334155;">Risque Cardiovasculaire (HTA / خطر القلب والضغط)</td>
-<td style="padding: 10px; text-align: right; font-weight: 700; color: {risk_color};">{risk_status}</td>
-</tr>
-</tbody>
-</table>
-<div style="font-size: 11px; color: #64748B; text-align: center; margin-top: 20px; font-style: italic; border-top: 1px solid #F1F5F9; padding-top: 12px; line-height: 1.4;">
-Avertissement : Ce document est une fiche d'information automatique et ne remplace pas une consultation médicale.<br/>
-تنبيه: هذه البطاقة معلوماتية تم إنشاؤها تلقائياً ولا تعوض الاستشارة الطبية الفعلية.
-</div>
-</div>"""
-
-    st.markdown(card_html, unsafe_allow_html=True)
+    st.markdown(f"""
+    <div class="premium-card" style="margin-bottom: 25px;">
+        <span style="font-size: 13px; color: #475569; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; display: block; text-align: center; margin-bottom: 15px;">Résumé Médical du Patient</span>
+        <table style="width: 100%; border-collapse: collapse; font-family: 'Inter', sans-serif;">
+            <tr style="border-bottom: 1px solid #E2ECF2;">
+                <td style="padding: 10px 0; font-weight: 600; color: #4B5563;">Poids / Taille :</td>
+                <td style="padding: 10px 0; text-align: right; font-weight: 700; color: #111827;">{st.session_state.poids} kg / {st.session_state.taille} cm</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #E2ECF2;">
+                <td style="padding: 10px 0; font-weight: 600; color: #4B5563;">Indice de Masse Corporelle (IMC) :</td>
+                <td style="padding: 10px 0; text-align: right; font-weight: 700; color: {imc_color};">{imc:.1f} ({imc_status})</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px 0; font-weight: 600; color: #4B5563;">Risque Cardiovasculaire / HTA :</td>
+                <td style="padding: 10px 0; text-align: right; font-weight: 700; color: {risk_color};">{risk_status}</td>
+            </tr>
+        </table>
+    </div>
+    """, unsafe_allow_html=True)
 
     # Render download button
     st.download_button(
