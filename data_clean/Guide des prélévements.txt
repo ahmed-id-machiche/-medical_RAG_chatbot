@@ -1,0 +1,2121 @@
+[Page 1]
+GUIDE DES PRÉLÈVEMENTS
+BIOLOGIQUES POUR L’INVESTIGATION
+DES MALADIES À CARACTÈRE ÉPIDÉMIQUE
+
+[Page 2]
+GUIDE DES PRÉLÈVEMENTS
+BIOLOGIQUES POUR L’INVESTIGATION
+DES MALADIES À CARACTÈRE ÉPIDÉMIQUE
+Edition 2019
+
+[Page 3]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 4]
+Ce travail a été rédigé, sous la direction du Dr Mohamed Rhajaoui, par Dr Mernissi Malika, Pharmacienne biologiste à l’Institut National 
+d’hygiène.
+Ont participé à la réalisation de ce document les médecins biologistes, les médecins et les docteurs en biologie de l’Institut National d’hygiène :
+• Dr Charof Réda 
+: Chef de département Bactériologie médicale
+• Mr Adlaoui El Bachir : Chef du Pôle Maladies Transmissibles 
+• Dr Oumzil Hicham 
+: Chef du Département de Virologie
+• Dr Hansali Amina 
+: Responsable du Laboratoire de Référence des IST
+• Dr Berrada Mostafa : Responsable de la cellule de conseil des voyageurs
+• Dr El Harti Elmir 
+: Département de virologie
+• Dr Tajounte Latifa 
+: Responsable du Laboratoire de Référence de la rougeole et de la rubéole
+• Mme Tantane asmae : Chef de département de Biochimie - Hématologie
+• Dr Boumaaza Ouafae : Département de Biochimie - Hématologie
+
+[Page 5]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 6]
+Remerciements : 
+L’équipe de l’INH remercie l’OMS pour le financement de l’atelier de validation du guide sur les modalités des prélèvements biologiques pour 
+l’investigation des maladies à caractère épidémique. Un atelier auquel ont participé :
+Dr. N. Meskaoui, Médecin épidémiologiste, Direction de l’épidémiologie et de lutte conte les maladies, Rabat, Maroc
+Pr. Z. Tlemçani, Professeur assistant- Chef de service de Parasitologie-Mycologie, CHU Fes, Maroc. 
+Dr. S.Benjelloun, Institut Pasteur, Casablanca, Maroc. 
+Dr. M. Mouloua, Pharmacien biologiste, CHR Meknes, Maroc 
+Dr. A. Srifi, Parmacien biologiste, CHR El Kelaa de Sraghna, Marrrakech, Maroc. 
+Dr. W .Zeroual, Parmacienne biologiste, CHR Guelmim, Maroc. 
+Dr. K. Triki, Pharmacienne biologiste, CHR Rabat, Maroc 
+Mme.F. Benlmeliani Fatima, Biologiste, CHR Agadir, Maroc. 
+Dr. O. Chbouki, Medecin biologiste, CHP Sidi Kacem, Maroc.
+Dr. N. Baghdad, Médecin biologiste,CHP Settat, Maroc. 
+Dr. D. Akka, Médecin biologiste, Laboratoire d’Analyse de biologie médicale, Rabat, Maroc. 
+Nous remercions également toutes les personnes ayant contribué à l’élaboration de ce guide. 
+
+[Page 7]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 8]
+Préface
+La survenue d’une épidémie devrait toujours faire l’objet d’une enquête dont les étapes et les modalités sont largement 
+décrites qu’il s’agisse d’une flambée de fièvre hémorragique meurtrière ou d’une toxi-infection alimentaire collective 
+banale. De telle enquête, idéalement multidisciplinaire, requière des moyens de diagnostic biologique adaptés pour 
+identifier avec certitude l’agent pathogène en cause ou pour confirmer les cas lorsque les critères de diagnostic clinique 
+ne sont pas assez discriminants. L’ambiance épidémique revêt généralement un caractère d’urgence lié à la gravité 
+de la maladie ou à l’accessibilité imminente au traitement, ou encore à la pression de l’opinion publique attisée par la 
+médiatisation de l’événement. Tout retard dans la communication des résultats d’investigation favorise la propagation de rumeurs souvent 
+fausses et alarmistes.
+Dans ce contexte, il est une primordiale de disposer d’un diagnostic biologique simple, fiable et rapide des maladies infectieuses à caractère 
+épidémique. Avec les progrès de la microbiologie et des biotechnologies, cette exigence n’est plus du domaine de l’utopie. 
+Toutefois, un diagnostic biologique bien précis repose sur des modalités de prélèvement respectant les normes afin de prévenir toute perte de 
+temps, d’efforts, de réactifs et surtout tout acte déplorable vis-à-vis du patient. 
+Etant fortement impliqué dans la confirmation biologique des situations épidémiologiques, l’Institut National d’Hygiène (INH) et les laboratoires 
+de biologie médicale reçoivent chaque année un nombre important de prélèvements venant de différentes provinces/préfectures. Aussi, et 
+pour pallier aux problèmes rencontrés dans la pratique de ces prélèvements, l’INH met à la disposition des professionnels de santé un guide, 
+sous forme de fiches, des prélèvements biologiques pour l’investigation des maladies à caractère épidémique. Ce guide décrit pour chaque 
+maladie épidémique bactérienne, virale ou parasitaire les analyses à réaliser et les recommandations relatives aux modalités de prélèvements 
+et de transports de l’échantillon.
+L’utilisation du contenu de ce guide va permettre d’agir efficacement et promptement devant des situations épidémiques dues aux maladies 
+infectieuses à potentiel épidémique.
+
+[Page 9]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 10]
+Sommaire
+Liste des abréviations........................................................................................................................................................................... 11
+Introduction............................................................................................................................................................................................ 13
+But de ce guide...................................................................................................................................................................................... 14
+BACTERIOLOGIE.................................................................................................................................................................................... 15
+1. Les méningites................................................................................................................................................................................16
+2. Les Toxi-Infections Alimentaires Collectives  ...................................................................................................................................18
+3. Le choléra......................................................................................................................................................................................19
+4. La fièvre typhoïde...........................................................................................................................................................................20
+5. La coqueluche :..............................................................................................................................................................................22
+6. La diphtérie....................................................................................................................................................................................23
+7. La leptospirose................................................................................................................................................................................24
+8. La brucellose..................................................................................................................................................................................26
+9. La maladie du charbon..................................................................................................................................................................28
+10. La peste .......................................................................................................................................................................................30
+11. La gonococcie...............................................................................................................................................................................32
+12. La syphilis.....................................................................................................................................................................................34
+13. La lèpre........................................................................................................................................................................................36
+
+[Page 11]
+VIROLOGIE............................................................................................................................................................................................ 37
+14. L’hépatite virale A : VHA............................................................................................................................................................. 38
+15. Le rotavirus................................................................................................................................................................................... 39
+16. Les fièvres éruptives : Rougeole/Rubéole................................................................................................................................. 40
+17. Les virus Dengue, Chikungunya et Zika..................................................................................................................................... 42
+18. Le virus du Nil Occidental (WNV).............................................................................................................................................. 44
+19. Les virus de la grippe et des maladies respiratoires................................................................................................................ 45
+20. Le virus de l’Immunodéficience Humaine : VIH ....................................................................................................................... 46
+21. La poliomyélite............................................................................................................................................................................. 48
+PARASITOLOGIE................................................................................................................................................................................... 49
+22. La leishmaniose .......................................................................................................................................................................... 50
+23. Le paludisme................................................................................................................................................................................ 52
+Références Bibliographiques............................................................................................................................................................... 54
+Annexe .................................................................................................................................................................................................. 59
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 12]
+Liste des abréviations
+BHI 
+: Brain Heart Infusion
+Ig 
+: Immunoglobuline
+INH 
+: Institut National d’Hygiène
+IST 
+: Infection Sexuellement Transmissible
+LC 
+: Leishmaniose Cutanée
+LCR 
+: Liquide Céphalo-Rachidien
+LV 
+: Leishmaniose Viscérale
+PCR 
+: Polymerase Chain Reaction
+PFA 
+: Paralysie Flasque Aigue
+PU 
+: Prélèvement Urétrale
+PV 
+: Prélèvement Vaginal
+SRESS : Service du Réseau des Soins de Santé Primaires
+TIAC 
+: Toxi-Infection Alimentaire Collective
+TPHA : Treponema Pallidum Haemagglutination Test
+VDRL : Veneral Disease Research Laboratory
+VIH 
+: Virus d’Immunodéficience Humaine 
+VRS 
+: Virus Respiratoire Syncial
+WB 
+: Westen-Blot
+
+[Page 13]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 14]
+Introduction
+Le diagnostic biologique des maladies infectieuses à caractère épidémique, parasitaires, bactériennes, virales ou fongiques fait appel à deux 
+grands types de techniques complémentaires: les techniques directes qui permettent de rechercher l’agent pathogène en cause ou une partie 
+de ce dernier (antigène, génome) et des techniques indirectes qui mettent en évidence la réponse de l’hôte à l’infection, le plus souvent la 
+réponse immunitaire humorale ou « sérologique ». 
+Le plus souvent, les prélèvements et leurs analyses biologiques sont réalisés localement. Cependant, si les moyens ne permettent pas de 
+réaliser un diagnostic sur place, le biologiste est tenu de référer le prélèvement au laboratoire réfèrent dans les conditions répondant aux 
+normes en vigueur.
+Le recours à un laboratoire pour complément d’analyses est souvent observé dans le cas de certaines maladies à caractère épidémique 
+qui nécessitent plus de précision et de rapidité pour leur diagnostic. Ce dernier est fortement influencé par la compatibilité entre la méthode 
+d’analyse utilisée, la nature et le conditionnement du prélèvement à réaliser. Cette incompatibilité est source de faux résultats ou carrément 
+de rejet de prélèvement. A ceci, s’ajoutent les erreurs dues au transport et à la conservation. 
+Différentes études ont démontré qu’un nombre très élevé d’erreurs de laboratoire sont en fait des erreurs inhérentes à la phase pré-analytique. 
+Cette dernière s’étend du prélèvement du patient à l’obtention d’un échantillon prêt à l’analyse. Cette phase est cruciale dans le sens que sa 
+maitrise conditionne le bon déroulement des étapes ultérieures du parcours des échantillons au sein des laboratoires (phases analytiques et 
+post-analytiques) et donc la qualité du résultat. 
+
+[Page 15]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+But de ce guide
+L
+a vocation de ce guide est de fournir les informations nécessaires à la sélection adéquate des prélèvements relatifs aux principales 
+maladies à poussées épidémiques pouvant sévir à l’échelle nationale, à leur conservation et leur transport depuis le lieu du prélèvement 
+jusqu’au laboratoire référent où ils seront analysés. 
+Ce guide a été conçu et mis à la disposition, principalement :
+• des utilisateurs des services des laboratoires, 
+• des épidémiologistes, 
+• des animateurs de certains programmes sanitaires, 
+• des responsables des services de santé publique ou de SRESS.
+Il montre les prélèvements à réaliser par rapport à la maladie infectieuse suspectée et précise :
+• Les exigences concernant la prescription elle-même, 
+• les particularités liées au patient (à jeun, debout, …), 
+• la nature et le nombre de tubes ou flacons nécessaires, 
+• les conditions liées au transport et à la conservation des prélèvements, 
+• les renseignements obligatoires à fournir. 
+Comment utiliser ce guide ?
+Ce guide reprend les principales maladies épidémiques, chacune sous forme de fiche avec une présentation générale et un tableau précisant 
+les analyses à réaliser et les principales recommandations pour chacune, notamment :
+• Les conditions de transport et d’acheminement,
+• Les directives pour la phase pré-analytique,
+• Les principaux renseignements cliniques à fournir.
+Selon la maladie suspectée, l’utilisateur du guide devra se conformer à ces recommandations pour l’envoi des prélèvements au laboratoire référent. 
+
+[Page 16]
+BACTERIOLOGIE 
+
+[Page 17]
+1. Les méningites
+Définition :
+La méningite est une infection des enveloppes entourant le cerveau, les méninges, causée par plusieurs types de virus, de bactéries et de 
+champignons. C’est une urgence médicale. [1]
+La seule méningite qui soit épidémique en Afrique est celle causée par Neisseria meningitidis, appelée méningite à méningocoque ou 
+encore méningite cérébrospinale. Le réservoir de la bactérie est l’homme, la transmission est inter-humaine. Le plus souvent il s’agit d’un 
+portage pharyngé, qui a l’avantage de permettre au patient de fabriquer des anticorps. La méningite à méningocoque peut donner lieu 
+à deux manifestations cliniques distinctes : le syndrome méningé et le purpura fulminans qui est une forme foudroyante rencontrée dans 
+10% des cas. La période d’incubation dure de 2 à 10 jours. [2]
+D’autres germes peuvent être rencontrés :
+•Méningite communautaire de l’adulte ou de l’enfant surtout : S. pneumoniae, H. influenzae, N. meningitidis
+•Méningite du nouveau-né : principalement S. agalactiae, E. coli
+•Méningite lymphocytaire de l’immunodéprimé (VIH) : Cryptococcus neoformans
+Diagnostic biologique :
+- Tout LCR doit être traité au niveau des Laboratoires Provinciaux ou Régionaux, sauf contraintes.
+- Tout examen de LCR révélant une cytologie positive avec une culture négative sera acheminé à l’INH.
+- Tout prélèvement peut être envoyé à l’INH sauf l’hémoculture qui demeure obligatoire et devrait se faire au niveau du Laboratoire 
+Provincial ou Régional où la suspicion de la méningite a été élucidée. (Incubation à 37°C dans l’immédiat).
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 18]
+Analyse 
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de récipient
+Prélèvement
+Conditions de transport 
+et d’acheminement 
+Remarques
+Examen direct/culture :
+Recherche d’Ag solubles dans le LCR
+Une fiche de 
+renseignements 
+cliniques, (en particulier 
+l’âge, la présomption 
+diagnostique, les 
+traitements antibiotiques 
+antérieurement reçus 
+par le malade), doit 
+être transmise au 
+laboratoire de l’INH
+Tube stérile : dans la 
+mesure du possible 
+réaliser 3 tubes 
+stériles numérotés 1, 
+2,3 servant respectivement à l’examen 
+biochimique, microbiologique et cytologique.
+- LCR en dehors 
+ de toute contre- 
+ indication 
+- Prélèvement cutané 
+ en cas de purpura 
+ fulminans 
+- Souche isolée 
+- Transport sur «milieu 
+Amies» dans les 3 jours 
+qui suivent le prélèvement
+- Transport sur milieu 
+trans-isolate (MTI) jusqu’à 
+14 jours 
+Prélèvements 
+potentiellement 
+infectieux : 
+manipulation 
+respectant les 
+bonnes pratiques de 
+prélèvement
+Biologie moléculaire 
+- Tube stérile
+- Tube sec ou EDTA 
+- LCR «au moins 
+200µl »
+- Sang total EDTA ou 
+sur tube sec
+- Prélèvement cutané 
+en cas de purpura 
+fulminans 
+
+[Page 19]
+2. Les Toxi-Infections Alimentaires Collectives :
+Définition :
+Une toxi-infection alimentaire collective (TIAC) est une maladie contractée par un groupe de personnes qui présentent la même 
+symptomatologie suite à l’ingestion de denrées alimentaires (liquides ou solides). Les TIAC sont des maladies à déclaration obligatoire, 
+fréquentes et parfois graves. Elles représentent un véritable problème de santé publique. [3,4] 
+Les bactéries les plus incriminées sont Salmonella (enteritidis ou typhimurium), Staphylococcus aureus, Clostridium perfringens ou 
+autres (Shigella, Listeria, C. boutulinum, Y.enterocolitica, C.jéjuni...).
+Diagnostic biologique :
+- Tout prélèvement peut être envoyé à l’INH sauf l’hémoculture qui demeure obligatoire et devrait se faire au niveau du Laboratoire 
+Provincial ou Régional où la suspicion de la TIAC a été élucidée. (Incubation à 37°C dans l’immédiat).
+- Pour tout sérotypage des salmonelles, la souche isolée dans le Laboratoire Provincial ou Régional peut être acheminée à l’INH.
+Germes recherchés
+Données cliniques / 
+biologiques / thérapeutiques
+Type de 
+récipient
+Prélèvement
+Analyse
+Conditions de 
+transport et 
+d’acheminement 
+Remarques
+Salmonelle (invasif)
+Sérotypage
+Diarrhée aigue
+Fièvre 39-40°C
+Pot stérile
+- Selles
+- Aliment
+- Souche isolée
+- Analyses cytobactériologique 
+des selles 
+- Hémoculture 
+- Selles : +4°C 
+dans les 24H
+- Gélose stock 
+- Serum +4°C
+- Prélèvements 
+potentiellement 
+infectieux : 
+manipulation 
+respectant les 
+bonnes pratiques 
+de prélèvement
+- Un échantillon 
+de l’aliment 
+suspect devrait 
+obligatoirement 
+être envoyé au 
+Laboratoire de 
+l’Institut national 
+d’hygiène 
+S. Aureus (toxine)
+Diarrhées sans fièvre 
+Douleurs abdominales
+vomissement
+Pot stérile
+- Selles
+- Vomissements
+- Aliment 
+- Analyses 
+cytobactériologique des selles 
+- Analyses 
+cytobactériologique des 
+vomissements
+Clostridium perfringes 
+(toxine)
+Diarrhée isolée sans fièvre
+Pot stérile
+- Selles
+- Aliment 
+Analyses cytobactériologique 
+des selles 
+Shigella (invasif)
+Campylobacter jejuni 
+(invasif)
+Syndrome dysentérique, fièvre
+Pot stérile
+- Selles
+- Aliment 
+Analyses cytobactériologique 
+des selles 
+Clostridium 
+boutulinum 
+Troubles digestifs banals et sans 
+fièvre
+Troubles visuels (diplopie,…..)
+Sècheresse des muqueuses 
+Paralysie respiratoire
+Pot stérile
+tube sec 
+- Selles 
+- Sang total sur 
+tube sec
+- Aliment 
+Analyse cytobactériologique 
+des selles 
+Recherche de toxine (test 
+rapides ou ELISA)
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 20]
+3. Le choléra
+Définition :
+Infection diarrhéique aigue à caractère épidémique provoquée par l’ingestion d’aliments ou d’eau contaminée par le bacille Vibrio cholerae. 
+Il existe plusieurs sérogroupes, les plus pathogènes sont le O1 et le O139.
+C’est une véritable urgence en santé publique. [5,6] 
+Clinique :
+Tableau évocateur : survenue brutale de diarrhée aqueuse « eau de riz » d’odeur fade sans glaire ni sang avec des vomissements en jet 
+entrainant une déshydratation rapide et sévère. [7] 
+Diagnostic biologique :
+Analyse
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de récipient
+Prélèvement
+Conditions de 
+transport et 
+d’acheminement 
+Remarques 
+Diagnostic direct :
+ED, culture et identification : 
+sérogroupage du O1 et 
+O139
+Prélèvement dès 
+le début de la 
+maladie avant toute 
+antibiothérapie 
+- Milieu de transport « Pot 
+stérile Milieu Cary Blair »
+- NE PAS UTILISER de 
+soluté salin tamponné 
+glycérolé.
+- Pot stérile
+- Ecouvillon spécifique à 
+la bactériologie
+- Selles (Coproculture) :
+  - Pots stériles
+ - Ecouvillonnage rectal
+ - Papier buvard
+- Vomissements
+- Eau 
++4°C dans les 24H 
+- Prélèvements hautement 
+contagieux : manipulation 
+respectant les bonnes 
+pratiques de prélèvement
+- Un échantillon d’eau 
+devrait obligatoirement être 
+envoyé au Laboratoire de 
+L’INH 
+Tests rapides : 
+immunochromatographie 
+sur bandelette d’Ag O1 et 
+O139
+- Pot stérile
+- Ecouvillon spécifique à 
+la bactériologie
+Prélèvements de selles :
+ - Pots stériles
+  - Ecouvillonnage rectal
++4°C dans les 24H 
+
+[Page 21]
+4. La fièvre typhoïde
+Définition :
+Les fièvres typhoïdes et paratyphoïdes sont provoquées par quatre sérotypes de Salmonelles, strictement humains, antigéniquement distincts 
+mais de pouvoir pathogène similaire : S. Typhi, S. paratyphi A, S. paratyphi B et S. paratyphi C. Ces Salmonelles sont dites majeures en raison 
+de la gravité de la pathologie qu’elles provoquent. [8] 
+Les Salmonelles sont ingérées avec une boisson ou un aliment contaminé (exemple : coquillages). 
+Clinique :
+Elle se manifeste par :
+- Une phase d’invasion : une fièvre d’installation progressive sur 7 jours, des maux de tête frontaux, des épistaxis et une dissociation pouls /
+Température (pouls lent avec fièvre élevée). 
+- Une phase d’état : une prostration (tuphos), une diarrhée fétide, souvent en «jus de melon». Une accélération du pouls est un très fort signe 
+de complications : hémorragies, perforations digestives, myocardite, encéphalite…
+L’état clinique s’améliore ensuite progressivement en quelques semaines.
+Diagnostic biologique : 
+Il repose sur la mise en évidence de Salmonella responsable par hémoculture et/ou par coproculture, et/ou sur la mise en évidence d’anticorps 
+spécifiques par le sérodiagnostic. 
+Tout prélèvement peut être envoyé à l’INH sauf l’hémoculture qui demeure obligatoire et devrait se faire au niveau du Laboratoire Provincial 
+ou Régional où la suspicion de la fièvre typhoïde a été élucidée. (Incubation à 37°C dans l’immédiat).
+- Pour tout sérotypage des salmonelles, la souche isolée dans le Laboratoire Provincial ou Régional peut être acheminée à l’INH.
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 22]
+Analyse
+Données cliniques / biologiques / 
+thérapeutiques
+Type de récipient
+Prélèvement
+Conditions de 
+transport et 
+d’acheminement 
+Remarques
+Examen direct/
+culture
+- Le prélèvement par les méthodes directes doit être 
+réalisé avant toute antibiothérapie
+- L’hémoculture est le moyen essentiel de faire le 
+diagnostic d’une fièvre typhoïde pendant les 2 
+premières semaines. 
+- La coproculture se positive à partir de la 2éme 
+semaine.se fait sur milieu sélectif, avant et après 
+culture sur milieux d’enrichissement. 
+Pot stérile
+- Selles
+- Hémoculture
+- Souches isolées 
+du sang et des 
+selles
+- Selles : +4°C 
+dans les 24H
+- Gélose stock
+- Prélèvements 
+potentiellement 
+infectieux : 
+manipulation 
+respectant les 
+bonnes pratiques de 
+prélèvement
+Biologie 
+moléculaire
+- Le prélèvement par les méthodes directes doit être 
+réalisé avant toute antibiothérapie
+Tube EDTA
+Sang total EDTA 
++4°C dans les 
+24H 
+Sérotypage 
+Souche isolée sur 
+MH
+Gélose Stock 
+
+[Page 23]
+5. La coqueluche :
+Définition :
+Toxi-infection causée essentiellement par Bordetella pertussis et plus rarement par B. parapertussis (5% des cas) ou B. holmesii (1%). Sa 
+transmission interhumaine est aérienne (gouttelettes) au cours de la toux, essentiellement lors de la phase catarrhale.
+La contagiosité peut se prolonger jusqu’à trois semaines en absence de traitement. [9] 
+Clinique :
+En pratique, une toux persistante de plus de 7 jours, tout particulièrement en cas de signes évocateurs (toux émétisante, notion de contage) 
+doit faire évoquer le diagnostic de coqueluche et inciter à la prescription d’une PCR coqueluche. 
+L’isolement du patient et la recherche des contacts (famille, école, crèche…) sont nécessaires ; l’éviction scolaire et la notification de cas 
+groupés sont obligatoires.
+La vaccination reste la meilleure prévention contre cette infection.
+Diagnostic biologique : 
+Analyse
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de récipient
+Prélèvement
+Conditions de transport 
+et d’acheminement 
+Remarques
+Biologie 
+moléculaire 
+- Le statut vaccinal inconnu 
+ou vaccination > à 3 ans 
+- Toux inférieure 
+à 3 semaines et 
+avant le début de 
+l’antibiothérapie. 
+Ecouvillon spécifique 
+à la bactériologie 
+- Prélèvement 
+nasopharyngé par 
+écouvillon 
++4°C dans le milieu de 
+transport dans les 24H qui 
+suivent le prélèvement
+1. Prélèvements potentiellement 
+infectieux : manipulation 
+respectant les bonnes pratiques 
+de prélèvement
+2. Ne pas utiliser les écouvillons 
+utilisés pour la grippe car ils 
+sont imprégnés d’antibiotiques
+Diagnostic 
+sérologique :
+ELISA : recherche 
+des IgM
+Tube sec /
+Héparinate de 
+lithium
+- Sang total hépariné 
+ou sur tube sec
+ Transport + 4°C dans les 
+12H 
+Diagnostic 
+direct : Peu utilisé 
+en routine
+ 
+- Le germe n’est présent 
+que dans les 3 premières 
+semaines d’évolution.
+- Prélèvement dès le début 
+de la maladie avant toute 
+antibiothérapie
+Ecouvillon spécifique 
+à la bactériologie 
+- Ecouvillonnage 
+ou aspiration 
+nasopharyngée 
+douce
+Sans délai dans des boites 
+de culture « Bordet et 
+Gengou »
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 24]
+6. La diphtérie
+Définition :
+Toxi-infection bactérienne hautement contagieuse, due à Corynebacterium diphtheriae, bacille qui produit une exotoxine, entraînant 
+morbidité et mortalité. 
+La diphtérie est une urgence diagnostique et thérapeutique. 
+Sa transmission se fait uniquement par les gouttelettes respiratoires ou par un contact physique proche (plaies cutanées...). [10] 
+Clinique :
+Infection aigue des amygdales dite angine diphtérique caractérisée par la présence de fausses membranes au siège de la multiplication 
+des bacilles diphtériques qui peuvent s’étaler sur le pharynx, le larynx et occasionnellement d’autres muqueuses ou la peau : on parle de 
+diphtérie cutanée. [11] 
+Parallèlement on retrouve des manifestations toxiniques entrainant une paralysie sévère des muscles respiratoires.
+Diagnostic biologique :
+La PCR demeure la méthode de diagnostic de certitude. 
+Analyse
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de 
+récipient
+Prélèvement
+Conditions de transport 
+et d’acheminement 
+Remarques
+Diagnostic direct :
+ED, culture et 
+identification
+ Prélèvement dès le début 
+de la maladie avant toute 
+antibiothérapie
+Il est recommandé de 
+faire au minimum 3 prélèvements
+Ecouvillon 
+spécifique à la 
+bactériologie
+- Ecouvillonnage du 
+nasopharynx ou des fausses 
+membranes
+- Prélèvements en bordure des 
+fausses membranes recouvrant 
+l’ulcération cutanée
+Envoi de prélèvement :
+- Transport immédiat au laboratoire
+- Si le délai dépasse les 24h 
+enrichissement en tellurite ou 
+milieu de Loeffler
+Envoi de souches 
+- Transport en milieu semi-gélosé ou 
+contenant de la silice
+1. Prélèvements 
+hautement contagieux : manipulation respectant 
+les bonnes 
+pratiques de 
+prélèvement
+2. Ne pas utiliser 
+les écouvillons 
+utilisés pour la 
+grippe car ils 
+sont imprégnés 
+d’antibiotiques
+Recherche du 
+pouvoir toxinique
+- A partir de la culture
+- Incubation à 37°C
+Biologie 
+moléculaire : 
+Détection du gène de 
+la toxine
+- Ecouvillon 
+spécifique à la 
+bactériologie
+- Tube EDTA
+- Ecouvillonnage du nasopharynx ou des fausses 
+membranes
+- Prélèvements en bordure des 
+fausses membranes recouvrant 
+l’ulcération cutanée
+- Sang total EDTA
+- +4°C jusqu’à 7 jours
+- Congélation au delà de 7jours 
+Placer l’écouvillon dans un milieu 
+de transport approprié 
+
+[Page 25]
+7. La leptospirose
+Définition :
+La leptospirose est une anthropozoonose endémique dans le monde entier avec une prédominance tropicale causée par des bactéries 
+du genre Leptospira. 
+Le réservoir est essentiellement animal (rongeur insectivore, chien, bovin, porc, etc.). [12] 
+La contamination se fait par passage transcutané suite à une excoriation de la peau ou après son ramollissement (station prolongée dans 
+l’eau).
+Clinique : 
+La leptospirose se traduit par un ictère infectieux accompagné de myalgies violentes, un syndrome méningé franc avec hépatonéphrite 
+aigue. Ces signes régressent au cours de la troisième semaine.
+Cette forme typique demeure rare par rapport aux autres formes comme la forme méningée isolée et la forme hémorragique gravissime 
+souvent mortelles.
+La confirmation biologique de la leptospirose, selon l’OMS, repose sur l’isolement de la bactérie ou de ses acides nucléiques dans les 
+échantillons biologiques et sur la sérologie positive dans un contexte clinique et épidémiologique évocateur.
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 26]
+Diagnostic biologique :
+Analyse
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de récipient
+Prélèvement
+Conditions de 
+transport et 
+d’acheminement 
+Remarques
+Biologie moléculaire 
+- Le prélèvement doit 
+être réalisé avant toute 
+antibiothérapie et dans 
+les 10 premiers jours de 
+la phase aigüe. 
+- Prélèvement du LCR : à 
+partir de la 2ème semaine 
+après l’apparition de 
+l’ictère 
+- Tube EDTA
+- Pot stérile
+- Tube stérile 
+- Sang total EDTA 
+- Urines 
+- LCR si possible 
+- Sans milieu de transport: 
++4 °C dans 24 h 
+- Avec milieu de 
+transport : +4°C 
+- Prélèvements 
+potentiellement 
+infectieux : 
+manipulation respectant 
+les bonnes pratiques de 
+prélèvement
+Diagnostic sérologique :
+MAT/ RAL
+ELISA « IgM, IgG si nécessaire »
+Recherche de l’Ag TR « test de 
+macroagglutination » 
+Test immunochromatographique +++
+- Prélèvement: > à 10 
+jours 
+- Tube sec/
+Héparinate de 
+lithium
+- Sang total sur 
+tube sec ou 
+hépariné
++4 °C jusqu’à 7jrs
+
+[Page 27]
+8. La brucellose
+Définition :
+La brucellose est reconnue comme maladie professionnelle pour les individus en contact de ruminants infectés ainsi que pour le personnel 
+de laboratoire. Elle est due à trois espèces principales de Brucella : B .abortus, dominant chez les bovins, B. melitensis, pathogène chez 
+les caprins et les ovins, et B. suis, pathogène essentiellement chez le porc. [13] 
+La transmission à l’homme se fait principalement par contact direct avec le bétail, en général par voie cutanéomuqueuse (peau saine 
+ou lésée, conjonctive, tractus respiratoire) ou indirectement, dans 25% des cas, par voie digestive où la contamination est alors liée aux 
+habitudes alimentaires (lait cru, fromage frais, crème non pasteurisée). [14] 
+Clinique:
+Dans 90% des cas de brucellose, la symptomatologie est silencieuse. Les formes symptomatiques se caractérisent par une fièvre ondulante 
+sudoralgique associée à des douleurs musculaires et une asthénie. L’endocardite brucellienne est une complication rare mais gravissime 
+survenant sur un terrain débilité (alcoolisme, diabète, cardiopathie…)
+Diagnostic biologique :
+Tout prélèvement peut être envoyé à l’INH sauf l’hémoculture qui demeure obligatoire et devrait se faire au niveau du Laboratoire 
+Provincial ou Régional où la suspicion de la brucellose a été élucidée. (Incubation à 37°C dans l’immédiat). 
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 28]
+Analyses au laboratoire 
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de récipient
+Prélèvement
+Conditions de transport 
+et d’acheminement 
+Remarques
+Biologie moléculaire
+Le prélèvement par les 
+méthodes directes doit 
+être réalisé avant toute 
+antibiothérapie 
+- Tube Sec
+- Tube EDTA
+- Sang total sur tube sec
+- Sang total EDTA
+Hors milieu de transport : 
++4°C dans les 24H 
+Prélèvements 
+potentiellement 
+infectieux : 
+manipulation 
+respectant les 
+bonnes pratiques de 
+prélèvement
+Diagnostic sérologique :
+EAT : épreuve à l’Ag 
+tamponné ou Rose Bengale « 
+IgM et IgG »
+Test de Wright « IgM »
+Prélever dès les 
+premiers signes 
+évocateurs et 
+reprélever 2 à 3 
+semaines plus tard
+Tube sec ou héparinate 
+de lithium 
+- Sang total sur tube sec ou 
+hépariné 
++4°C 
+Diagnostic direct : culture 
+tardive: intérêt limité pour le 
+diagnostic précoce
+Le prélèvement par les 
+méthodes directes doit 
+être réalisé avant toute 
+antibiothérapie 
+Ecouvillon / Pot stérile
+- Pus foyers divers
+- Biopsie destinée 
+au Laboratoire 
+d’Anathomopathologie au 
+sein de l’INH, si l’hôpital 
+ne dispose pas de service 
+d’Anatomo-pathologie 
+Sans délai
+
+[Page 29]
+9. La maladie du charbon
+Définition :
+Une anthropozoonose touchant les troupeaux et parfois l’homme en contact avec les produits animaux (laine, peau…) dans un contexte 
+de maladies professionnelles, industrielles ou de toxi-infections alimentaires. 
+Bacillus anthracis est l’agent responsable de la maladie du charbon. [15] 
+Clinique : 
+Il existe différentes formes cliniques : 
+- Charbon cutané : Prurit local qui se transforme en une papule, puis en un ulcère, et puis une escarre noire, qui va se dessécher et 
+tomber après 1 à 3 semaines sans laisser de cicatrice
+- Charbon par injection : Rapporté seulement chez des toxicomanes. Ressemble au charbon cutané.
+- Charbon gastro-intestinal : Deux formes distinctes :
+ 1. La forme intestinale : nausées, vomissements et fièvre, suivies de douleurs abdominales sévères, de vomissement de sang et de 
+diarrhées sanglantes.
+ 2. La forme oro-pharyngée : troubles de la déglutition, fièvre, gonflement des ganglions lymphatiques au niveau du cou et ulcères 
+buccaux.
+- Charbon pulmonaire ou par inhalation :Syndrome grippal pouvant s’aggraver par des difficultés respiratoires sévères, une cyanose, 
+une hypersudation, une fièvre élevée, et des expectorations sanglantes.
+Les formes pulmonaires et les formes digestives peuvent être associées à un risque de méningite hémorragique sévère ou des septicémies 
+presque toujours mortelles.
+Diagnostic biologique :
+Tout prélèvement peut être envoyé à l’INH sauf l’hémoculture qui demeure obligatoire et devrait se faire au niveau du Laboratoire 
+Provincial ou Régional où la suspicion de la maladie du charbon a été élucidée. (Incubation à 37°C dans l’immédiat). 
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 30]
+Analyse
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de récipient
+Prélèvement
+Conditions de 
+transport et 
+d’acheminement 
+Remarques
+Examen direct/
+culture 
+Le prélèvement par les 
+méthodes directes doit 
+être réalisé avant toute 
+antibiothérapie
+- Tube stérile
+- Pot stérile
+- Ecouvillon stérile
+- Prélèvement cutané, 
+- LCR, 
+- Prélèvement oro-pharyngé, 
+- Prélèvement broncho-alvéolaire 
+- Sans délai à +4°C
+- Transport dans le milieu 
+BHI, gélose non sélective
+1. Prélèvements 
+potentiellement 
+infectieux : 
+manipulation 
+respectant les 
+bonnes pratiques de 
+prélèvement
+2. Ne pas utiliser les 
+écouvillons utilisés 
+pour la grippe car 
+ils sont imprégnés 
+d’antibiotiques
+Biologie 
+moléculaire 
+Diagnostic 
+sérologique :
+ELISA
+> 3 semaines après l’apparition des symptômes 
+Tube sec/Héparinate de 
+lithium
+- Sang total sur tube sec ou 
+hépariné 
++ 4°C 
+
+[Page 31]
+10. La Peste
+Définition :
+La peste est une maladie qui sévit toujours de nos jours en Afrique, en Asie et en Amérique. C’est une maladie infectieuse hautement 
+contagieuse, causée par une bactérie Yersinia pestis transmise à l’homme par les rongeurs. [16]
+Clinique :
+Chez l’Homme, la peste revêt deux principales formes cliniques : 
+- La Peste bubonique : Transmise par des piqures de puces de rongeurs, elle se caractérise par des adénopathies inflammatoires et peut 
+évoluer en une peste septicémique mortelle.
+- La peste pulmonaire: transmise par voie aérienne. En absence de traitement précoce et approprié, l’évolution est mortelle en trois jours.
+Diagnostic biologique :
+Tout prélèvement peut être envoyé à l’INH sauf l’hémoculture qui demeure obligatoire et devrait se faire au niveau du Laboratoire Provincial 
+ou Régional où la suspicion de la peste a été élucidée. (Incubation à 37°C dans l’immédiat). [17]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 32]
+Analyse
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de 
+récipient
+Prélèvement
+Conditions de 
+transport et 
+d’acheminement 
+Remarques
+Diagnostic direct : 
+ED, culture et 
+identification 
+Avant toute 
+antibiothérapie
+- Tube stérile 
+- Bouin 
+- Suc ganglionnaire (bubon),
+- Expectorations,
+- Biopsie Hépatique ou pulmonaire en Post mortem destinée 
+au Laboratoire d’Anathomo-pathologie au sein de l’INH, si 
+l’hôpital ne dispose pas de 
+service d’Anatomo-pathologie 
+- Examen et 
+ensemencement 
+immédiat 
+- Conservation à + 
+4°C au réfrigérateur.
+- Transport dans 
+un milieu gélosé 
+adéquat, à l’abri de 
+la chaleur et de la 
+lumière, 
+Prélèvements potentiellement 
+infectieux : manipulation 
+respectant les bonnes pratiques 
+de prélèvement
+ 
+Diagnostic 
+immunologique : 
+Immunochromatographie 
+combinée sur 
+bandelettes»AgF1 et AC 
+antiF1 »
+Ag F1 pour peste 
+bubonique et pulmonaire
+- tube sec 
+- Tube stérile
+- Sang total sur tube sec 
+- Suc
+- expectoration
+Température de 
+conservation et de 
+transport à +4°C 
+
+[Page 33]
+11. La gonococcie
+Définition :
+Infection sexuellement transmissible (lST) due à Neisseria gonorrhoeae : germe strictement humain qui touche particulièrement les 
+muqueuses de l’urètre, du col utérin, du vagin, de la région ano-rectale, de l’oropharynx et parfois des conjonctives. [18]
+Clinique : 
+Elle est à l’origine :
+- Chez l’homme, d’un écoulement urétral (urétrites et épididymites).
+- Chez la femme, l’infection est souvent asymptomatique, affectant les voies urinaires et génitales basses (cervicites, cystites) et peut atteindre le 
+haut appareil donnant des salpingites, pelvipéritonites avec des séquelles telles que : la stérilité et la grossesse extra utérine.
+- Chez le nouveau-né, d’une conjonctivite purulentes aiguë. [19]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 34]
+Diagnostic biologique :
+Analyse
+Données 
+cliniques / 
+biologiques / 
+thérapeutiques
+Type de 
+récipient
+Prélèvement
+Conditions de transport et 
+d’acheminement 
+Remarques
+Diagnostic direct :
+Microscopique 
+Culture et identification 
+Fenêtre 
+thérapeutique : 
+Absence de 
+traitement 
+systémique 
+antibiotique 
+depuis au moins 
+5 jours
+Ecouvillon stérile 
+- Recueil des urines (premier 
+jet) : pour le diagnostic 
+d’urétrites chez l’homme 
+- Prélèvement urétral:réalisé 
+avant la première miction 
+ou à distance d’une miction 
+avec 2 écouvillons (un pour 
+l’examen direct et un pour 
+l’ensemencement) après 
+nettoyage du méat.
+- Prélèvement de l’endocol : par 
+écouvillonnage si signes de 
+cervicites chez la femme.
+- Prélèvement oculaire chez le 
+nouveau-né
+- Autres : Prélèvement 
+oro-pharyngé et/ou anal. 
+- Germe très fragile: le transport 
+du prélèvement doit se faire 
+dans l’immédiat sinon il est 
+préférable d’ensemencer dans 
+un milieu approprié 
+- Si milieu de transport (milieu 
+Amies) l’acheminement ne doit 
+pas dépasser les 72H 
+1. Prélèvements 
+potentiellement 
+infectieux : 
+manipulation 
+respectant les 
+bonnes pratiques de 
+prélèvement.
+2. Ne pas utiliser les 
+écouvillons utilisés 
+pour la grippe car 
+ils sont imprégnés 
+d’antibiotiques
+Biologie moléculaire 
+- Pot stérile ou 
+pas
+- Ecouvillon 
+stérile
+- Recueil des urines (premier 
+jet) : pour le diagnostic 
+d’urétrites chez l’homme 
+- Prélèvement de l’endocol : par 
+écouvillonnage si signes de 
+cervicite chez la femme.
+- Prélèvement oculaire chez le 
+nouveau-né
+- Autres : Prélèvement oropharyngé et/ou anal. 
+Stockage et transport : 
+- Sans milieu de transport (pot 
+stérile) dans les 24h à +4°C 
+- Dans milieu de transport 
+à+4°C 
+
+[Page 35]
+12. La syphilis
+Définition :
+Infection systémique bactérienne sexuellement transmissible due à Treponema pallidum qui constitue aujourd’hui encore un problème de 
+santé ; sa gravité est liée à :
+• La disparition spontanée des symptômes en absence de traitement et par conséquent aux possibles complications tardives plus sévères, 
+• La transmission congénitale (mère / enfant), 
+La syphilis augmente le risque de transmission du VIH et des autres IST. [20] 
+Clinique :
+Elle se manifeste dans un premier temps par l’apparition d’ulcérations isolées de la peau et des muqueuses puis dans un deuxième temps, 
+des complications de gravité croissante surgissent. 
+Elle évolue en trois phases sur plusieurs mois (voir plusieurs années), entrecoupées de phases asymptomatiques pendant lesquelles seul le 
+diagnostic sérologique est possible: [21]
+- La syphilis primaire se caractérise par l’apparition d’un chancre : ulcération rosée, indolore, non inflammatoire, propre, bien limitée 
+devenant dure, laissant sortir un liquide clair. Le chancre est souvent localisé au niveau des organes génitaux mais peut aussi être 
+extra-génital (lèvres, langue, amygdale, anus) et peut aussi passer inaperçu. Des ganglions satellites durs et indolores sont aperçus 
+simultanément. 
+- La syphilis secondaire correspond à une phase de dissemination dans tous les tissus, caractérisée par des éruptions cutanées maculopapuleuses, de fièvres… 
+- La syphilis tertiare qui se manifeste après plusieurs années par des lesions cutanées, viscérales et des atteintes neurologiques.
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 36]
+Diagnostic biologique :
+Analyse
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de 
+récipient
+Prélèvement
+Conditions de transport 
+et d’acheminement
+Remarques
+Diagnostic sérologique :
+Tests non tréponémiques:
+- VDRL
+Tests tréponémiques:
+- TPHA,
+- FTA,
+- EIA, 
+Fiche de renseignement 
+notifiant la présence ou 
+non de :
+- Chancre syphilitique
+- Symptomatologie cutanée
+- Symptomatologie 
+neurologique
+- Tube sec 
+- Tube stérile 
+- Sang total sur tube 
+sec
+- LCR
++ 4°C jusqu’à 15 jours 
+Prélèvements 
+potentiellement 
+infectieux : 
+manipulation 
+respectant les 
+bonnes pratiques de 
+prélèvement
+Test rapide : 
+immunochromatographique 
+test tréponémiques et non 
+tréponémiques
+Tube sec /
+Héparinate de 
+Lithium
+Sang total sur tube 
+sec ou hépariné 
+Examen direct : microscope à 
+fond noir
+Vaccinostyle/
+Ecouvillon 
+- Prélèvement sur 
+chancre (sérosité) sur 
+les lésions primaires 
+(col de l’utérus, 
+pénis, anus, gorge, 
+ganglion)  
+- Prélèvement cutané 
+chez le nouveau-né 
++ 4°C dans les 24H 
+Sinon -20°C si > 7 jrs
+
+[Page 37]
+36
+13. La lèpre
+Définition :
+La lèpre est une maladie infectieuse, transmissible, due à Mycobacterium leprae ou bacille de Hansen (1873) atteignant préférentiellement 
+la peau, les muqueuses, le système nerveux périphérique, les yeux, et réalisant en fonction de l’immunité cellulaire du sujet infecté différentes 
+formes cliniques. Peu contagieuse, elle se transmet par des gouttelettes buccales ou nasales émises par un sujet malade infecté non traité. 
+Elle peut aussi être transmise par contact direct avec la peau endommagée. 
+L’OMS définit un cas de lèpre comme étant « Un malade qui présente des signes évocateurs de lèpre, avec ou sans confirmation 
+bactériologique et qui a besoin de suivre un traitement spécifique ». Les trois objectifs majeurs pour le contrôle de la lèpre dans le monde 
+sont l’interruption de la transmission, le traitement des patients et la prévention des déformations. [22]
+Clinique :
+Une période d’incubation de 5 à 20 ans.
+Cliniquement, on distingue deux formes de lèpre [23] : 
+- La lèpre tuberculoïde qui est non contagieuse d’évolution relativement bénigne aussi appelée lèpre paucibacillaire. Elle se manifeste par 
+des lésions cutanées qui sont soient de grandes tâches hypochromiques (ou chamois sur peau claire) à bords nets parfois infiltrés, soient 
+de grands placards infiltrés en relief et des atteintes neurologiques pouvant entrainer des paralysies.
+- La lèpre lépromateuse, grave évolutive et contagieuse qui siège sur le visage principalement et s’accompagne d’une rhinite chronique 
+pouvant entrainer à terme des perforations de la cloison en outre des signes neurologiques. 
+Diagnostic biologique :
+Analyse
+Type de récipent
+Prélèvement
+Conditions de 
+transport et 
+d’acheminement 
+Remarques
+ Examen direct seul
+ « bactérie non cultivable »
+Pot stérile 
+- mucus nasal (frottis), 
+- lésions cutanées (biopsie 
+cutanée, scarification). 
++4°C dans les 24H 
+Prélèvements 
+potentiellement 
+infectieux : manipulation 
+respectant les bonnes 
+pratiques de prélèvement
+ Biologie moléculaire 
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 38]
+VIROLOGIE
+
+[Page 39]
+14. L’hépatite virale A : VHA
+Définition :
+L’hépatite A est dûe à un picornavirus à ARN. Le virus de l’hépatite A se propage par voie oro-fécale, suite à la contamination de l’eau 
+et des aliments. Il se transmet aussi par contact direct avec une personne infectée. Dans la plus part des cas, la personne infectée guérit 
+spontanément et est immunisée à vie. Néanmoins, dans certains cas (1%), l’infection peut évoluer vers une hépatite fulminante. Pour lutter 
+contre l’épidémie de l’hépatite A, il existe un vaccin protecteur. Les mesures d’hygiène et l’utilisation d’eau potable sont aussi efficaces 
+dans les efforts de lutte contre les épidémies à VHA. [24] 
+Clinique :
+La période d’incubation de l’hépatite A est généralement de 14 à 28 jours.
+Les symptômes de l’hépatite A peuvent être bénins ou graves : on peut observer une fièvre, une altération de l’état général, une perte 
+d’appétit, des diarrhées, des nausées, une gêne abdominale, des urines foncées et un ictère. Les personnes infectées ne présentent pas 
+toutes l’ensemble de ces symptômes. [25] 
+Le diagnostic est essentiellement sérologique. Il repose avant tout sur la mise en évidence des anticorps de type IgM présents dès la phase 
+ictérique, et qui disparaissent 8 à 12 semaines plus tard. Les anticorps de type IgG persistent et signent l’immunité acquise, soit après une 
+infection, soit après vaccination.
+Diagnostic biologique :
+Analyse
+Données cliniques / 
+biologiques / thérapeutiques
+Type de récipient
+Prélèvement
+Conditions de 
+transport et 
+d’acheminement 
+Remarques
+Diagnostic sérologique :
+Recherche des IgM 
+Tube sec/Héparinate de 
+lithium/EDTA 
+Sang total sur tube 
+sec ou hépariné ou 
+EDTA 
++ 4°C 
+Prélèvements 
+potentiellement infectieux : 
+manipulation respectant 
+les bonnes pratiques de 
+prélèvement
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 40]
+15. Le rotavirus
+Définition :
+Premier agent étiologique responsable des gastroentérites aiguës (GEA) chez les enfants âgés de moins de 5 ans dans les pays industrialisés 
+et dans les pays en voie de développement. 
+Le rotavirus serait responsable d’environ 44% des hospitalisations chez les enfants de moins de 5 ans avec le génotype G1P comme 
+souche prédominante. 
+Les rotavirus appartiennent à la famille des Reoviridae et au genre des Rotavirus. [26] 
+Clinique : 
+Après une phase d’incubation qui dure 24 à 48h apparaissent les signes cliniques d’une diarrhée aigüe aqueuse sans sang ni glaire avec 
+vomissement et fièvre entrainant parfois une déshydratation sévère nécessitant l’hospitalisation. [27] 
+Diagnostic biologique :
+Analyse
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de récipient
+Prélèvement
+Conditions de transport
+et d’acheminement 
+Remarques
+Biologie moléculaire 
+Pot à selles 
+Selles 
++4°C dans les 48H 
+Prélèvements potentiellement 
+infectieux : manipulation 
+respectant les bonnes 
+pratiques de prélèvement
+Tests rapides  
+Diagnostic sérologique
+Tube sec
+Sang total sur tube 
+sec
++4°C jusqu’à 7jrs
+
+[Page 41]
+16. Les fièvres éruptives : Rougeole/Rubéole
+Définition :
+- Fièvres éruptives : Un cas de fièvre éruptive se définit comme étant « Toute personne, quel que soit son âge, présentant : Une fièvre et 
+une éruption cutanée non vésiculeuse ; Avec ou sans l’un des trois signes suivants : toux, rhinite ou conjonctivite ».
+- Rougeole : due à un virus appartenant à la Famille des Paramyxoviridae et au genre Morbillivirus. C’est une maladie très contagieuse et 
+se transmet par les gouttelettes respiratoires en suspension dans l’air et par contact direct. Considérée comme une maladie bénigne, ses 
+complications sont graves (encéphalite, pneumonie, otite moyenne, problème neurologique et décès).
+Le virus est connu par sa stabilité génétique, un seul type et 24 génotypes groupés de A à H. Un vaccin est disponible et assure une 
+protection contre tous les génotypes sauvages.
+- Rubéole [28] : due à un virus appartenant à la famille des Togaviridae et au genre Rubivirus, dont il est le seul membre. C’est une 
+maladie virale, contagieuse et endémo-épidémique. 
+Généralement bénigne, c’est une infection redoutable pendant la grossesse en raison d’un risque tératogène élevé. Grâce à la vaccination, 
+l’incidence a fortement diminué dans les pays industrialisés.
+Ces pathologies peuvent être évitées par la vaccination et le Maroc a adhéré à l’initiative régionale de l’élimination de cette maladie 
+en 2015 [Résolution EM/RC44/R.6-1997(Éliminationen2010), Résolution EM/RC58/R.5-2011(Éliminationen2015)]. Pour atteindre cet 
+objectif, le Maroc a implanté depuis 2010 un système de surveillance exhaustif basé sur la confirmation biologique de tous les cas.
+Clinique :
+Rougeole : 
+- Incubation : 10 – 12 jours /Phase d’invasion : 2-4 jours. 
+- Fièvre 38,5°C suivie d’un catarrhe oculo-respiratoire (toux, rhinite et conjonctivite) accompagné d’un malaise général puis asthénie.
+- Le signe de KOPLIK est pathognomonique mais inconstant apparait à la 36 ème heure puis disparait avec l’éruption.
+- l’éruption apparait dans les 2 semaines après l’exposition, se traduisant par une éruption maculo-papuleuse qui débute au niveau de la 
+tête de haut en bas et vers les extrémités en trois jours.
+Les formes compliquées surviennent surtout chez les moins de 1 an et les plus de 20 ans. [29] 
+Rubéole : L’éruption, quand elle se manifeste, succède à une période d’incubation de 12 à 23 jours ; la phase d’invasion brève et discrète 
+associe une fièvre modérée, des arthralgies, des adénopathies cervicales, un exanthème qui débute au visage et s’étend en moins de 24 
+heures au tronc et aux membres supérieurs. Les symptômes disparaissent en 1 à 3 jours et la guérison est rapide. [30] 
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 42]
+Analyse au 
+laboratoire 
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de récipient
+Prélèvement
+Conditions de transport et 
+d’acheminement 
+Remarques
+Détection directe 
+du virus sur culture 
+cellulaire
+- Prélèvement urinaire < 7 
+jours du début de l’éruption
+- Prélèvement pharyngé < 3 
+jours du début de l’éruption 
+- Pot/tube stérile
+- Ecouvillon spécifique à 
+la virologie : Kit fourni par 
+l’INH
+- Urines
+- Sérosités 
+pharyngées
+- Urines : +4°C dans les 24h qui 
+suivent le prélèvement.
+- Ecouvillon dans le milieu de 
+transport viral : +4°C dans les 
+48h qui suivent le prélèvement
+Prélèvements 
+hautement 
+contagieux : 
+manipulation 
+respectant les 
+bonnes pratiques 
+de prélèvement
+Sérodiagnostic 
+- Prélèvement dans les premiers 28 jours après le début 
+de l’éruption 
+- Tube sec
+- Ecouvillon salivaire sans 
+milieu de transport
+- Sang total sur tube 
+sec 
+- Prélèvement 
+salivaire si le 
+prélèvement 
+sanguin est difficile 
+à réaliser 
+- Sang Total 4°C dans les 24h 
+qui suivent le prélèvement. 
+- Sérum 4°C dans les 48h qui 
+suivent le prélèvement. 
+- Prélèvement salivaire : +4°C 
+dans les 48h qui suivent le 
+prélèvement.
+Biologie 
+moléculaire 
+- Prélèvement urinaire : < 7 
+jours du début de l’éruption
+- Prélèvement pharyngé : < 3 
+jours du début de l’éruption
+- Prélèvement salivaire : < 28 
+jours du début de l’éruption
+- Pot/tube stérile
+- Ecouvillon avec milieu de 
+transport spécifique à la 
+virologie
+- Ecouvillon salivaire sans 
+milieu de transport
+- Urines
+- Sérosité pharyngée
+- Prélèvement 
+salivaire
+- Urines : +4°C dans les 24h qui 
+suivent le prélèvement.
+- Ecouvillon dans le milieu de 
+transport : +4°C dans les 48h 
+qui suivent le prélèvement.
+- Prélèvement salivaire : +4°C 
+dans les 48h qui suivent le 
+prélèvement.
+
+[Page 43]
+17. Les Virus Dengue/Chikungunya et Zika 
+17.1 Définition et clinique : 
+Ce sont des arboviroses transmises à l’homme par piqûres de moustiques de genre Aedes lors d’un repas sanguin. [31,32]
+Zika : Arbovirose causée par le virus Zika qui est un flavivirus. En mai 2015, une importante épidémie due à ce virus s’est déclarée au Brésil. 
+[33,34]
+• Définition du cas [35] : “Toute personne ayant effectué un voyage dans un pays touché par l’épidémie à virus Zika et ayant présenté dans 
+les 12 jours suivant le retour les signes cliniques suivants :
+• Eruption cutanée avec ou sans fièvre
+• Et au moins deux signes parmi les suivants :
+• Hyperhémie conjonctivale;
+• Arthralgies;
+• Myalgies.”
+Dengue : due à un arbovirus, appartenant à la famille des Flaviviridae, du genre flavivirus, comme le virus West Nile et le virus de la fièvre 
+jaune. Les souches du virus de la dengue se répartissent en quatre sérotypes distincts : DEN-1, DEN-2, DEN-3 et DEN-4. L’immunité acquise en 
+réponse à l’infection par l’un des sérotypes confère une immunité protectrice contre le sérotype infectant mais pas contre les autres sérotypes. 
+[36]
+Chikungunya : due à un Arbovirus appartenant à la famille des Togaviridae et appartenant au genre alphavirus.
+Ces trois arboviroses se manifestent par des signes cliniques communs dont la fréquence et l’intensité varie d’un virus à l’autre comme le montre 
+le tableau suivant: [37]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 44]
+Signe 
+Dengue 
+Chikungunya
+Zika
+Fièvre 
+++++ 
++++ 
++++ 
+Myalgie/arthralgie 
++++ 
+++++ 
+++ 
+Œdème aux membres 
+- 
+- 
+++ 
+Exanthème 
+maculopapulaire 
+++ 
+++ 
++++ 
+Douleur rétro-orbitaire
+++ 
++ 
+++ 
+Conjonctivite 
+- 
++ 
++++ 
+Lymphadénopathie 
+++ 
+++ 
++ 
+Hépatomégalie 
+- 
++++ 
+- 
+Saignement 
++ 
+- 
+- 
+17.2 Diagnostic biologique :
+Analyse au 
+laboratoire 
+Données cliniques / 
+biologiques / thérapeutiques
+Type de récipient
+Prélèvement
+Conditions de transport 
+et d’acheminement 
+Remarques
+Diagnostic 
+Indirect 
+ 
+- Dengue : > 4 jours après le 
+début de la maladie 
+Chikungunya : > 7 jours suivants 
+l’apparition des signes cliniques
+Tube sec/Héparinate de Lithium 
+- Sang total sur tube 
+sec ou hépariné 
++4°C dans les 24 à 48 h 
+qui suivent le prélèvement 
+Prélèvements potentiellement 
+infectieux : manipulation 
+respectant les bonnes 
+pratiques de prélèvement
+Biologie 
+moléculaire 
+- Virus Zika : < 5 jours après 
+le moment de survenue des 
+symptômes.
+- Virus de la Dengue et de 
+Chikungunya : dès la suspicion 
+de la maladie. 
+Tube EDTA
+Pot stérile
+Tube stérile 
+- Sang total EDTA
+- Urine,
+- LCR 
+
+[Page 45]
+18. Le Virus du Nil Occidental (WNV)
+Définition :
+Le virus du Nil Occidental ou le virus du West Nile appartient à la famille des Flaviviridae du genre flavivirus. Ce sont les oiseaux 
+migrateurs qui jouent le rôle d’animaux réservoirs du WNV. Sa transmission se fait par la piqûre de moustiques du genre Culex : après 
+avoir piquées des oiseaux infectés, les femelles moustiques deviennent compétentes pour la transmission du virus aux humains lors d’un 
+repas sanguin. [38] 
+Clinique :
+Dans la majorité des cas (80%), l’infection par le virus West Nile est asymptomatique. Les formes symptomatiques de la maladie se 
+caractérisent par l’apparition brutale d’une fièvre importante après 3 à 6 jours d’incubation. Cette fièvre est accompagnée de maux de 
+tête et de dos, de douleurs musculaires, d’une toux, d’un gonflement des ganglions du cou, et souvent d’une éruption cutanée, de nausées, 
+de douleurs abdominales, de diarrhées et de symptômes respiratoires.
+Diagnostic biologique :
+Analyse
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de récipient
+Prélèvement
+Conditions de 
+transport et 
+d’acheminement 
+Remarques
+Biologie moléculaire 
+ Dès la suspicion de la 
+maladie 
+- Tube EDTA
+- Tube stérile
+- Sang total EDTA
+- LCR 
++4°C dans les 24 H 
+ 
+Prélèvements 
+potentiellement infectieux : 
+manipulation respectant 
+les bonnes pratiques de 
+prélèvement
+Diagnostic Indirect 
+> 8 jours suivants 
+l’apparition des signes 
+cliniques
+- Tube sec/Héparinate de Lithium/
+EDTA 
+- Sang total sur tube 
+sec/Hépariné/EDTA 
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 46]
+19. Les virus de la grippe et des maladies respiratoires
+Définition :
+En plus des virus respiratoires «traditionnels», tels que les virus de la grippe, les virus parainﬂuenza, le virus respiratoire syncytial ou 
+les adénovirus, les infections respiratoires peuvent être dues à des virus non couramment recherchés en pratique, tels que les rhinovirus 
+ou les coronavirus OC43 ou 229E, ou à des virus nouvellement identiﬁés à l’aide de techniques de criblage moléculaire, comme le 
+métapneumovirus, le bocavirus ou les coronavirus NL63 et HKU1. À cela s’ajoute l’émergence des virus tels que de nouveaux variants de 
+la grippe A, le coronavirus du syndrome respiratoire aigu sévère (SRAS), les hantavirus du Nouveau-Monde ou, à une échelle bien plus 
+restreinte, les virus Hendra et Nipah. Les techniques traditionnelles de diagnostic virologique ne sont plus adaptées à cette diversité virale. 
+Les techniques de PCR-multiplex, permettant de rechercher simultanément un nombre important de pathogènes, sont devenues les méthodes 
+de choix. Les techniques disponibles sur le marché permettent de détecter près d’une vingtaine de virus plus ou moins couramment impliqués 
+dans les infections respiratoires. Cette approche est certainement amenée à se développer rapidement. [39, 40, 41] 
+Diagnostic biologique :
+Analyse
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de récipient
+Prélèvement
+Conditions de 
+transport et 
+d’acheminement 
+Remarques
+Biologie moléculaire :
+Recherche des virus de la grippe A et B 
+et des autres virus respiratoires par PCR 
+en temps réel (Adénovirus, Parainflenza 
+1,2 et 3, VRS, Coronavirus (229E, 
+OC43, NL63, HKU1, Mers coronavirus), 
+Métapneumovirus, rhinovirus et 
+bocavirus (NS, NP)
+Syndrome grippal
+IRAS 
+Ecouvillon dans un 
+milieu de transport viral 
+(Kit fourni par l’INH)
+- Ecouvillonnage 
+ naso-pharyngé 
+- Produits d’aspiration 
+ naso-pharyngé ou de lavage 
+nasal.
+- Liquide de lavage 
+ broncho-alvéolaire
+- Sécrétions nasales ou 
+nasopharyngées. 
+Acheminement 
+dans les 48H 
+à température 
+ambiante (entre 
+15 et 28°C) 
+Prélèvements 
+potentiellement 
+infectieux : 
+manipulation 
+respectant 
+les bonnes 
+pratiques de 
+prélèvement
+Culture cellulaire et détection des 
+virus de la grippe A et B (par 
+hémagglutination)
+Identification et sous-typage des virus 
+de la grippe A et B (par inhibition de 
+l’hémagglutination)
+Séquençage des gènes du virus de la 
+grippe A et B 
+
+[Page 47]
+20. Le Virus de l’Immunodéficience Humaine : VIH
+Agent causal : Famille des Rétroviridae 
+Le génome du VIH est constitué de deux molécules d’ARN avec au moins trois régions appelées gag, pol et env qui codent respectivement : 
+• pour les antigènes de la nucléocapside (p17, p24, p7), 
+• pour les enzymes nécessaires à la réplication virale (protéases, reverse transcriptase et intégrase) 
+• pour les glycoprotéines de l’enveloppe du virion (gp120, gp41).
+Modes de transmission : Transmission sexuelle/ Transmission sanguine/ Transmission mère- enfant. [42] 
+Clinique : 
+La primo-infection : au cours de cette phase, le patient peut présenter des symptômes non spécifiques se traduisant par un syndrome 
+pseudo grippal 1 à 2 semaines après la contamination. 
+La phase latente : est souvent silencieuse et peut s’étaler sur 5 à 8 ans. 
+Le stade Sida : En l’absence de dépistage précoce et donc de traitement antirétroviral, de nombreux patients découvrent leur séropositivité 
+au stade final de la maladie, à l’occasion de l’apparition d’infections opportunistes (pneumonie à Pneumocystis jiroveci, Sarcome de 
+Kaposi …)
+Situations cliniques déterminant la stratégie du diagnostic biologique
+Le diagnostic est prescrit pour les sujets qui présentent des signes évocateurs, pour le(s) partenaire (s) d’un sujet infecté, les personnes 
+présentant un comportement à risque, les enfants de mères séropositives, ou en cas d’Accident d’exposition au sang. 
+Le médecin est confronté à trois principales situations cliniques conduisant chacune à une stratégie spécifique de diagnostic biologique : 
+• En cas d’exposition supposée au VIH.
+• En présence de signes cliniques évocateurs d’une primo-infection due au VIH ; 
+• En cas d’exposition possible au VIH, professionnelle ou non, même en l’absence de signes cliniques évocateurs de primo-infection. [43]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 48]
+Diagnostic biologique :
+Analyse
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de 
+récipient
+Prélèvement
+Conditions de transport et 
+d’acheminement 
+Remarques
+Dépistage du VIH : détection 
+des anticorps/AgP24
+Tests ELISA 
+Test de chimiluminescence 
+Test rapide 
+immunochromatographique 
+  
+Tube sec ou 
+tube EDTA 
+Sang total sur tube sec ou 
+EDTA
+- Sang total : +4 °C dans les 
+48H 
+- Sérum ou plasma +4 jusqu’à 
+7 jrs 
+- Si plus de 7jrs congeler à 
+-20°C
+Prélèvements 
+potentiellement 
+infectieux : 
+manipulation 
+respectant les 
+bonnes pratiques de 
+prélèvement
+Confirmation du VIH : WB
+Tube sec ou 
+tube EDTA
+Sang total sur tube sec ou 
+EDTA
+Biologie moléculaire :
+PCR-Diagnostique (Qualitatif)
+Diagnostic des 
+enfants nés de mères 
+séropositives 
+Age < 18 mois
+Primo-infection
+ Tube EDTA
+Sang total EDTA
+Biologie moléculaire : Suivi 
+virologique : PCR-suivi 
+(Quantitatif)
+Charge virale 
+plasmatique du VIH1
+ Tube EDTA
+Suivi immunologique : 
+Numération CD4 
+ Tube EDTA
+Sang total EDTA
+ T° ambiante (entre 15 et 
+°28C) dans les 48H 
+Génotypage de la résistance du 
+VIH1 aux antirétroviraux 
+ Tube EDTA
+Sang total EDTA
+Sang total : +4 °C dans les 
+48H 
+Sérum ou plasma +4 jusqu’à 
+7 jrs 
+
+[Page 49]
+48
+21. La poliomyélite 
+Définition : 
+La poliomyélite est une infection virale très contagieuse touchant principalement les enfants de moins de 5 ans. Elle est due au poliovirus 
+de type 1, 2 et 3 qui se transmet par l’eau ou les aliments contaminés. 
+Au Maroc, la vaccination contre la poliomyélite fait partie du programme national d’immunisation (PNI). Le système national de surveillance 
+des paralysies flasques aigues (PFA) n’a enregistré aucun cas depuis 1989. La surveillance des PFA au Maroc est basée sur la déclaration 
+obligatoire immédiate et systématique de tout cas de PFA chez un enfant de moins de 15 ans. De plus, les PFA bénéficient d’une surveillance 
+active hebdomadaire selon la définition de cas suivante : 
+« Tout enfant de moins de 15 ans présentant une paralysie flasque aiguë, y compris le syndrome de Guillain-Barré, ou toute personne 
+souffrant d’une pathologie avec paralysie, quel que soit son âge, si l’on suspecte la poliomyélite. »
+L’investigation virologique des cas de PFA est effectuée sur deux prélèvements de selles prélevés à 24 heures d’intervalle au moins, et ce 
+dans les 14 jours qui suivent la paralysie. 
+Si le cas de PFA est exploré au-delà des 14 jours d’apparition des symptômes, il faut faire un prélèvement de selles supplémentaire chez 
+au moins 5 contacts immédiats de la personne (frères et sœurs, les contacts familiaux, enfants du quartier). 
+Les échantillons sont acheminés directement au laboratoire de référence de la poliomyélite à l’INH, munis des fiches d’investigations. [44] 
+Analyse au laboratoire 
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de récipient
+Prélèvement
+Température et Délai de 
+Transmission
+Remarques
+Détection directe 
+du virus sur culture 
+cellulaire
+Définition du cas de PFA. 
+Prélèvement des selles < 
+14 jours
+Pot
+Selles 
+Selles : +4°C dans les 48 h 
+qui suivent le prélèvement.
+Prélèvements hautement 
+contagieux : manipulation 
+respectant les bonnes pratiques 
+de prélèvement.
+Biologie moléculaire 
+Définition du cas de PFA
+Pot
+Selles 
+Selles : +4°C dans les 48 h 
+qui suivent le prélèvement.
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 50]
+PARASITOLOGIE 
+
+[Page 51]
+22. La leishmaniose
+Définition :
+La leishmaniose est une maladie parasitaire due à un protozoaire flagellé du genre Leishmania et transmise par un insecte vecteur, le 
+phlébotome.
+Au Maroc, les leishmanioses se présentent sous deux formes cliniques différentes : les leishmanioses viscérales (LV) qui peuvent être mortelles 
+en absence de traitement et les leishmanioses cutanées (LC). [45,46] 
+C’est un problème de santé publique qui est actuellement intégré dans les priorités du Ministère de la Santé. 
+En effet, les leishmanioses sont des maladies à déclaration obligatoire (Arrêté ministériel N° 683-95 du 31 mars 1995) et sont gérées dans 
+le cadre du Programme National de Lutte contre les Leishmanioses instauré en 1997(Ministère de la santé, Guide des activités 2010). 
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 52]
+Type de 
+leishmaniose
+Analyse
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de 
+récipient 
+Prélèvement
+Conditions de transport 
+et d’acheminement 
+Remarques
+L. Cutanée
+Examen 
+direct 
+Une fiche de renseignement 
+doit être soigneusement 
+remplie et acheminée avec 
+le prélèvement. 
+Vaccinostyle
+Lames 
+- Sérosité : 
+- Désinfection préalable de 
+la lésion et enlèvement de la 
+croute qui la recouvre.
+- Raclage cutané de la lésion 
+avec un vaccinostyle 
+- Biopsie cutanée 
+destinée au Laboratoire 
+d’Anathomo-pathologie au 
+sein de l’INH si l’hôpital 
+ne dispose pas de service 
+d’Anatomo-pathologie.
+- Confection des lames au 
+moment du prélèvement
+- Transport des lames colorées ou fixées à T° ambiante 
+Prélèvements 
+potentiellement 
+infectieux : 
+manipulation 
+respectant 
+les bonnes 
+pratiques de 
+prélèvement
+Biologie
+moléculaire
+L. Viscérale 
+Test rapide
+Une fiche de renseignement 
+doit être soigneusement 
+remplie et acheminée avec 
+le prélèvement.
+Tube sec/tube 
+héparinate de 
+Lithium
+Sang total sur tube sec ou 
+hépariné
+- Sérum/Plasma : +4°C dans 
+les 24 à 48 h qui suivent le 
+prélèvement
+Examen 
+Direct
+- La ponction médullaire 
+est un geste médical.
+- Une fiche de 
+renseignement doit être 
+soigneusement remplie 
+et acheminée avec le 
+prélèvement. 
+Tube EDTA
+Sang médullaire sur tube EDTA
+- Sang médullaire : +4°C dans 
+les 24 à 48 h qui suivent le 
+prélèvement
+- Lames : Confection des lames 
+au moment du prélèvement
+- Transport des lames colorées 
+ou fixées à T° ambiante
+Biologie 
+moléculaire
+Diagnostic biologique :
+
+[Page 53]
+23. Le paludisme
+Définition :
+Le paludisme ou malaria est une maladie parasitaire se traduisant par de la fièvre et des troubles digestifs. Elle se transmet à l’Homme 
+essentiellement par la piqûre d’un moustique (la femelle du genre Anophèle) infecté, et plus rarement lors d’une transfusion sanguine ou 
+par transmission mère-enfant pendant la grossesse. [47]
+Toute suspicion clinique de paludisme doit faire pratiquer en urgence une recherche de Plasmodium avec un délai de rendu de résultat 
+inférieur à 2 heures.
+Toute fièvre au retour d’une zone d’endémie est un paludisme jusqu’à preuve du contraire
+On compte cinq espèces différentes de Plasmodium :
+• P.falciparum sévit sur le continent africain. Il est le plus agressif et responsable de la moitié des décès liés au paludisme ;
+• P.vivax est surtout présent en Asie, Amérique latine et certaines régions d’Afrique ;
+• P.ovale est localisé en Afrique de l’Ouest ;
+• P.malariae et P.knowlesi sont moins fréquents.
+Clinique :
+La maladie se manifeste par une fièvre, des maux de tête, des vomissements, des douleurs musculaires et de la fatigue. Dans le cas d’une 
+contamination par P. falciparum et en absence de traitement dans les 24h, la maladie évolue vers des atteintes plus sévères, souvent 
+mortelles. [48]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 54]
+Analyse
+Données cliniques 
+/ biologiques / 
+thérapeutiques
+Type de récipient
+Prélèvement
+Conditions de transport 
+et d’acheminement 
+Remarques
+Test Rapide 
+Une fiche de renseignement 
+doit être soigneusement 
+remplie et acheminée avec le 
+prélèvement avec :
+- Signes cliniques
+- Séjour en zone d’endémie 
+ (lieu, durée et date de 
+ retour)
+- Prophylaxie/ traitement
+Tube EDTA
+Sang total sur 
+tube EDTA
+- Sang : +4°C dans les 
+24 à 48 h qui suivent le 
+prélèvement
+- Lames : Confection des 
+lames au moment du 
+prélèvement
+Transport des lames 
+colorées ou fixées à T° 
+ambiante
+Prélèvements potentiellement 
+infectieux : manipulation 
+respectant les bonnes pratiques de 
+prélèvement
+Examen direct 
+Diagnostic biologique :
+
+[Page 55]
+Références Bibliographiques
+1. Guide de lutte contre les méningites bactériennes communautaires. Juin 2010. 
+2. OMS, WHO/EMC/BAC/98.3 Lutte contre les épidémies de méningite à méningocoque : Guide pratique OMS.
+3. G. Delmas1, F. Le Querrec2, F-X. Weill 3, A. Gallay1, E. Espié1, S. Haeghebaert1, V. Vaillant1Les toxi-infections alimentaires collectives en 
+France en 2001-2003 1 Institut de veille sanitaire, 2 Direction générale de l’alimentation, 3 Centre national de référence des Salmonella. 
+4. TIAC: déclaration, investigation, conduite à tenir. Journal officiel de la République française n° 1487. Juin, 1988.
+5. OMS. Choléra 2016. REH 2017 ; 92 : 521-530. 
+6. Harris J.B., LaRocque R.C., Qadri F., Ryan E.T., Calderwood S.B. Cholera. Lancet, 2012, 379, 24662476. 
+7. Thefenne H., Garnotel E. Choléra. EMC Maladies infectieuses 2013 ; 10(4) : 1-10 [Article 8-026-F-10]. 
+8. InVS. Les fièvres typhoïdes et paratyphoïdes en France entre 2004 re 2009. REH, 2011, n°2, 9-11. 
+9. Guiso N. Coqueluche: physiopathologie, diagnostic et prévention. EMC-Maladies infectieuses 2013 ; 10(1) : 1-10 [Article 8-017-B-10]. 
+10. OMS. Diphtérie. REH 2017; 92 : 320-321. 
+11. Baron S. Binet F., Lequellec-Nathan M., Patey O., Rebière I. Vachon F. Conduite à tenir lors de l’apparition d’un cas de diphtérie. Bull. 
+Epidemio. Hebdo, 1998, 23, 97-101. 
+12. Didier Musso, Bernard Lascola, Diagnostic biologique de la leptospirose, revue francophone des Laboratoires, volume 2013,Issue 449 
+February2013. 
+13. Lavigne J-P, Mailles A, Sotto A. Brucellose. EMC – Maladies infectieuse 2017 : 1-10 [Article 8-038A-10]. 
+14. Maurin M., Brion J.P. Brucellose. EMC (Elsever Masson SAS Paris), Maladies infectieuses, 8-038-A10, 2009, 12 p. 
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 56]
+15. Valade E., Tournier J.N., Vial D., Morillon M. Maladie du charbon. EMC (Elsevier Masson SAS, Paris), Maladies infectieuses, 8-035-A10, 2009. 
+16. OMS. La peste humaine en 2002 et 2003. REH, 2004, 79, 301-306.
+17. Chanteau S., Nato F., Migliani R. L’intérêt des tests rapides par immunochromatographie pour la surveillance des maladies à caractère 
+épidémique dans les pays en développement: l’exemple de la peste à Madagascar. Med. Trop. , 2003, 63, 574-576. 
+18. Rapport annuel d’activité- année 2012, CNR des gonocoques, institut Alfred fournier. 
+19. Dépistage et prise en charge de l’infection à Neisseria gonorrhoeae : état des lieux et propositions», HAS décembre 2010. 
+20. Morand J.J., Simon F., Garnotel E, Mahé A., Clity E., Morlain B. Panorama des tréponématoses endémiques. Med. Trop., 2006, 66, 15-20. 
+21. OMS. Le pian. Aide-mémoire n° 316, juin 2016. 
+22. OMS. Situation de la lèpre dans le monde, 2016 : accélération de la réduction de la charge de morbidité. REH 2017 ; 92 : 501-519.
+23. Lèpre ou maladie de Hansen Actualités 2017 Professeur Pierre Aubry, Docteur B-A. Gaüzère. Mise à jour le 09/09/2017 Centre René 
+Labusquière, Institut de Médecine Tropicale, Université de Bordeaux.
+24. Centers for Disease Control and prevention. Hepatitis A Information for health professionals. Consulté le 27/02/2013.
+25. Institut de veille sanitaire — Guide pour l’investigation, la prévention et l’appui à la gestion des cas d’hépatite aiguë ; Fiche 5. Clinique 
+et diagnostic de l’hépatite aiguë A
+26. Benhafid M, Elomari N, Elqazoui M, Meryem AI, Rguig A, Filali-MaltoufA,Elaouad R. Diversity of rotavirus strains circulating in children 
+under 5 years of age admitted to hospital for acute gastroenteritis in Morocco, june 2006 to May 2009. J Med Virol. 2013. Feb ; 
+85(2):354-62.
+27. Parashar UD, Gibson CJ, Bresse JS, Glass RI. Rotavirus and severe childhood diarrhea. Emerg Infect Dis. 2006. Feb; 12(2):304-6. 
+28. Rubéole et vaccins anti rubéoleux Actualités 2011 Professeur Pierre Aubry. Texte mis à jour le 29/10/2012 Médecine et maladie tropicale
+
+[Page 57]
+29. Mourez T. Rougeole. Aspects virologiques, épidémiologiques et cliniques ; diagnostic, traitement et prophylaxie. EMC – Maladies 
+infectieuses 2017 ; 14(4) : 1-10 [Article 8-070-A-60].
+30. OMS, Aide-mémoire Rubéole N°367 Janvier 2018
+31. American Academy of Pediatrics. Arboviruses. In: Pickering LK, Baker CJ, Kimberlin DW, Long SS, editors. Red book: 2012 Report of the 
+Committee on Infectious diseases. 29th ed. Elk Grove Village, IL: American Academy of Pediatrics; 2012
+32. Beltrán-Silva, S. L., Chacón-Hernández, S. S., Moreno-Palacios, E., & Pereyra-Molina, J. A. (2016). Clinical and differential diagnosis: 
+Dengue, chikungunya and Zika. Revista Médica del Hospital General de México
+33. OMS. Infection à virus Zika – Inde. Trois cas dans l’Etat du Gujarat. 7 juin 2017
+34. De Laval F, Lepars-Goffart L, Meynard J-B et coll. Infections à virus Zika. Med Santé Trop 2016 ; 26 : 145-150.
+35. https://www.santé.gov.ma
+36. Fatiha Najioullah Florent Viron Laure Paturel Raymond Césaire, Diagnostic biologique de la dengue, Virologie 2012, 16 (1):18-31
+37. OMS. Réunion du groupe spécial international pour l’éradication des maladies, novembre 2015. REH 2016 ; 91 : 61-71
+38. http://www.who.int/fr/news-room/fact-sheets/detail/west-nile-virus
+39. GBD 2015 LRI Collaborators. Estimates of the global, regional, and national morbidity, mortality, and etiologies of lower respiratory tract 
+infections in 195 countries
+40. OMS. Surveillance mondiale du VRS. REH 2016 ; 91 :523-524. 
+41. Michel Segondy, Novel respiratory viruses and their diagnosis, mt pédiatrie 2012 ; 15 (2) : 123-32
+42. 9th IAS (International AIDS Society). Conférence on HIV Science : 23-26 juillet 2017.
+43. OMS. Centre des médias. VIH/Sida. Aide-mémoire. Actualisée juillet 2017. 
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 58]
+44. de riposte contre une épidémie de poliomyélite. Ministère de la Santé.
+45. Bastien P, Lachaud L. Leishmanioses : biologie, clinique et thérapeutique. EMC – Maladies infectieuses 2016 ;1-12 [Article 8-506-A-10].
+46. OMS. La leishmaniose dans les pays à forte charge de morbidité : mise à jour épidémiologique à partir des données notifiées en 2014. 
+REH 2016 ; 91 : 287-296. 
+47. OMS. Rapport sur le paludisme dans le monde 2017. 29 novembre 2017. 
+48. Rogier C., Henry M.C., Spiegel A. Diagnostic des accès palustres en zone d’endémie : bases théoriques et implications pratiques. Med. 
+Trop., 2001, 61, 27-46
+
+[Page 59]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+
+[Page 60]
+Annexe 
+
+[Page 61]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+A- Les prélèvements veineux :
+Concernant les prélèvements veineux, L’ordre de remplissage des tubes lors du prélèvement est établi pour : 
+• Minimiser les interférences liées à la ponction veineuse elle-même,
+• Éviter une contamination d’un tube à l’autre du fait des additifs
+Couleur 
+du tube
+Type de tube
+Tube Citrate de sodium 9NC/ 5 ml
+Tube Sec / 5 ml
+Tube Héparine de lithium/ 5 ml
+Tube EDTA / 5 ml
+Tube Fluorure de sodium/oxalate de potassium 5 ml
+B- Les prélèvements de Bactériologie :
+La nature du prélèvement bactériologique doit être indiquée sur l’échantillon bactériologique.
+Si possible recueillir les prélèvements avant toute antibiothérapie.
+
+[Page 62]
+a- Examen Cytobactériologique des urines : 
+• Cas général : 
+• Le patient réalise le prélèvement lui-même après avoir été correctement informé, de préférence au moins 4 heures après la précédente 
+miction. 
+• Après une désinfection du méat ou de la région vulvaire (d’avant en arrière et une seule fois) avec un savon doux ou du dakin, on élimine 
+le 1er jet d’urines (+/- 20 mL) dans les toilettes et on recueille dans un pot stérile (quantité minimum de recueil 2mL). 
+• Patient sondé à demeure : 
+• NE JAMAIS PRELEVER DANS LE SAC COLLECTEUR (pullulation microbienne importante) Le recueil se fera après une désinfection du site 
+de prélèvement spécifique de la sonde. 
+• Nourrisson : 
+• Uniquement dans le cas où le recueil d’urine spontanée n’est pas possible (< 3 ans), on utilise un collecteur d’urine posé au laboratoire. 
+Il est posé après désinfection au dakin du méat urinaire ou du périnée. Ne peut être laissé en place qu’une heure après ce délai, il est 
+impératif de le changer. 
+b- Prélèvements Génitaux :
+• Urines 1er jet
+• Prélèvement urétral chez l’homme :
+Doit être de préférence au moins une heure après la dernière miction et toujours avant le premier jet d’urines 
+• Prélèvement Vaginal :
+Après la pause de spéculum ils sont réalisés à deux niveaux :
+• Le cul de sac postérieur pour rechercher un déséquilibre de la flore vaginale (recherche de vaginose) ou une vaginite (trichomonas) 
+• Après nettoyage de la glaire cervicale au niveau de l’endocol pour recherche de Chlamydiae et Neisseria gonorrhoeae. 
+
+[Page 63]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+Les prélèvements doivent être transportés dans les conditions pré-citées dans les tableaux selon le germe recherché ou la nature des prélèvements.
+C- Autres prélèvements :
+Nature du prélèvement
+Mode de prélèvement
+Matériels
+Selles
+Échantillon de selles recueilli dans le flacon stérile fourni par le 
+laboratoire.
+Pour les bébés et nouveau-nés, apporter la couche bien fermée au 
+laboratoire dans un sac plastique.
+Pot à coproculture stérile
+Sécrétions broncho-pulmonaires
+et crachats
+- Le matin, au réveil, à jeun après rinçage de la bouche
+- Après un effort de toux pour éviter au maximum de recueillir de la 
+salive 
+- Prélèvements 3 jours consécutifs si BK
+Flacon stérile 
+Gorge Amygdales
+Nez
+Oreilles
+Prélèvement pharyngé
+Prélèvement oculaire
+- Gorge/Amygdales : Prélever au niveau des zones inflammatoires 
+ou nécrotiques, à la périphérie des fausses membranes, sur les 
+amygdales 
+- Nez : Ecouvillonnage fin des sécrétions au niveau des 2 narines
+- Oreilles: Ecouvillonner le conduit auditif externe, sous éclairage direct, 
+après avoir nettoyé le conduit avec un écouvillon imbibé d’eau stérile 
+sauf si l’écoulement purulent est abondant.
+- Pharynx: Insérer délicatement l’écouvillon dans la bouche, en veillant 
+à maintenir en contact avec les amygdales et le fond de la gorge, puis 
+retirer l’écouvillon sans toucher l’interieur des joues, ni de la langue.
+- Conjonctive: Il faut d’abord bien tirer la paupière puis prélever avec 
+les deux écouvillons au niveau du bord interne de la conjonctive, en 
+passant au niveau de l’angle interne de l’oeil.
+Il est indispensable de ne pas confondre 
+entre les écouvillons pour des prélèvements de bactériologie et les écouvillons 
+pour des prélèvements de Virologie (Additionnés d’antibiotiques et d’Antifongiques)
+Liquides de Ponctions : Ascite, 
+Articulaire, LCR...
+- Ponctions réalisées par le médecin 
+Flacon stérile 
+Flacon d’hémocultures 
+Matériel divers : cathéter, stérilets, 
+drains ...
+- Transmettre le matériel suspect dans un flacon stérile 
+Flacon stérile 
+
+[Page 64]
+En général, lors de la phase pré-analytique, il est impératif de respecter les conditions en termes de : 
+• Délai d’acheminement 
+• Conditions d’acheminement 
+• Procédures particulières de prélèvement 
+• Adéquation avec les conditions particulières d’analyses.
+Le préleveur doit s’assurer de la conformité ou de l’optimisation des conditions de prélèvement en application des recommandations du 
+présent Guide de Prélèvement. 
+D- ETIQUETAGE DES SPECIMENS 
+Il est demandé d’écrire les renseignements suivants sur chaque spécimen :
+• Nom et Prénom
+• Nature du prélèvement pour les examens de bactériologie 
+• Renseignements cliniques 
+• Date et heure du prélèvement
+E- ACHEMINEMENT DES ECHANTILLONS 
+Tout prélèvement déstiné à la sérologie doit être obligatoirement centrifugé dans le laboratoire où a eu lieu le prélèvement.
+Les précautions pour le transport des échantillons sont détaillées dans les tableaux du guide des prélèvements biologiques pour l’investigation 
+des maladies à caractère épidémique. Leur consultation permet de connaitre les recommandations particulières pour certaines analyses 
+portant notamment sur les milieux de transport appropriés selon le type de germe ou la nature du prélèvement.
+
+[Page 65]
+Guide des prélèvements biologiques pour l’investigation des maladies à caractère épidémique
+Les prélèvements envoyés sont contrôlés à la réception et les anomalies constatées par le personnel habilité à réceptionner ces prélèvements 
+feront l’objet d’une fiche de non-conformité.
+Selon les cas définis, un prélèvement pourra être refusé s’il ne satisfait pas les critères prés établis.
+Le laboratoire pourra, dans des circonstances exceptionnelles (caractère d’urgence) déroger à un refus.
+ 
+Ecouvillon de microbiologie/Cary-blair
+Ecouvillon de microbiologie /Amies
+Ecouvillon spécifique à la virologie
+
+[Page 66]
+27, Avenue Ibn Batouta, B.P. 769 - Rabat
+Tél : +212 5 37 77 19 02 / +212 5 37 77 19 65 / +212 5 37 77 21 62 
+Fax : +212 5 37 77 20 67 • Site web : http://www.inh.ma

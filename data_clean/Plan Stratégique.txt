@@ -1,0 +1,1582 @@
+[Page 1]
+Stratégie Nationale Multisectorielle
+de Prévention et de Contrôle des
+Maladies Non Transmissibles
+2019 - 2029
+"Notre santé dans
+notre mode de vie"
+  
+" 
+
+[Page 2]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+
+[Page 3]
+Préface
+Les Maladies Non Transmissibles (MNT) constituent un 
+problème de santé publique qui comprend une catégorie vaste 
+de maladies chroniques. Selon l’Organisation Mondiale de la 
+Santé, les MNT sont la principale cause de mortalité au niveau 
+mondiale, elles sont également responsables de 60% de la 
+charge mondiale de morbidité surpassant les autres problèmes 
+de santé du 21ème siècle. Leur progression se fait d’une 
+manière exponentielle menaçant la croissance économique et le développement 
+des pays aussi bien à haut, à moyen ou à faible revenus.
+La stratégie nationale multisectorielle de prévention et de contrôle des MNT 20192029 vient dans un contexte mondial marqué par l’engagement des Etats membres 
+des Nations Unies dans la prévention et la maîtrise des MNT en les définissant 
+comme des priorités du développement durable.
+Cette stratégie vient également dans un contexte national manifesté par des 
+réformes institutionnelles, politiques et sociales menées sous l’égide de Sa Majesté 
+le Roi Mohammed VI que Dieu Le glorifie. Elle s’inscrit dans le Plan Santé 2025, 
+lequel donne la priorité aux soins de santé primaires et la promotion de la santé 
+dans le cadre d’une approche servicielle centrée sur le citoyen.
+L’élaboration de cette stratégie s’est déroulée selon une approche globale et 
+participative impliquant les secteurs et les partenaires dont les actions ont un 
+impact sur les MNT. Cette stratégie s’inscrit dans la dynamique de capitalisation 
+et d’identification des rôles des différents intervenants chacun dans le champ 
+d’action qui lui est dévolu.
+Ce document présente une analyse de la situation épidémiologique nationale des 
+MNT ainsi que la réponse du système de santé à cette situation. Il décrit d’une 
+manière détaillée les quatre domaines d’action stratégiques avec leur déclinaison 
+en soixante- quinze mesures.
+Enfin, nous tenons à remercier l’Organisation Mondiale de la Santé pour l’appui 
+technique et financier qu’elle a apporté au Ministère de la Santé pour l’élaboration 
+de cette stratégie et pour la réalisation de l’enquête Stepwise. Nous remercions 
+également tous nos partenaires et toutes les personnes ayant contribué avec 
+dévouement et professionnalisme à son élaboration.
+Mr. Anass DOUKKALI 
+Ministre de la Santé
+
+[Page 4]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+
+[Page 5]
+LISTE DES ACRONYMES
+ALD
+:
+Affection de Longue Durée
+AMO
+:
+Assurance Maladie Obligatoire
+ANAM
+:
+Agence Nationale d’Assurance Maladie
+BPCO
+:
+Broncho Pneumopathies Chroniques Obstructives
+CCLAT
+:
+Convention Cadre de la Lutte Anti-Tabac de l’OMS
+CSU
+:
+Couverture Sanitaire Universelle
+CNOPS
+:
+Caisse Nationale des Organismes de Prévoyances Sociales
+CNSS
+:
+Caisse Nationale de Sécurité Sociale
+DAC
+:
+Directions de l’Adminstration Centrale
+DRS
+:
+Directions Régionales de la Santé
+DPRF
+:
+Direction de la Planification et des Ressources Financières
+DTCOQ
+:
+Diphtérie Tétanos Coqueluche
+EMRO
+:
+Eastern Mediterranean Regional Office (World Health Organization)
+ENSPF
+:
+Enquête Nationale sur la Population et la Santé Familiale
+ESSP
+:
+Etablissements de Soins de Santé Primaire
+ETHNA
+:
+Enquête Epidémiologique sur la Prévalence de la HTA en Afrique du Nord
+FR
+:
+Facteur de Risque
+GYTS
+:
+Global Youth Tabacco Survey
+HPV
+:
+Human Papilloma Virus
+HTA
+:
+Hypertension Artérielle
+HVB
+:
+Hépatite Virale B
+INDH
+:
+Initiative Nationale de Développement Humain
+Magredial
+:
+Registre National de l’Insuffisance Rénale chronique Terminale
+MaReMar
+:
+Enquête sur les facteurs de risque de la maladie rénale chronique 2013
+MNT
+:
+Maladies Non Transmissibles
+MS
+:
+Ministère de la Santé
+NA
+:
+Non Applicable
+ODD
+:
+Objectifs du Développement Durable
+OMS
+:
+Organisation Mondiale de la Santé
+ONG
+:
+Organisation Non Gouvernementale
+PEC
+:
+Prise en Charge
+PPP
+:
+Partenariat Public-Privé
+RAMED
+:
+Régime d’Assistance Médicale aux Economiquement Démunis
+RBPM
+:
+Recommandations de Bonnes Pratiques Médicales
+SSP
+:
+Soins de Santé Primaire
+
+[Page 6]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+LISTE DES FIGURES
+Figure 1 Etapes franchies dans la prévention et le contrôle des MNT 
+Figure 2
+Résumé de la transition épidémiologique 
+Figure 3
+Décès imputables aux MNT 2018 
+Figure 4
+Effectif de la population ALD 
+Figure 5
+Part des dépenses AMO de la population ALD 
+Figure 6
+Répartition des dépenses ALD par type d’affection dans les secteurs 
+privé et public- Exercice 2016
+Figure 7
+Distribution des dépenses des MNT par fonction 
+Figure 8
+Cadre conceptuel de prévention et de contrôle des MNT 
+Figure 9
+Filière de prise en charge des MNT 
+LISTE DES TABLEAUX
+Tableau I
+Comptes nationaux des MNT au Maroc 
+Tableau II
+Cibles fixées par le Maroc pour les MNT d’ici 2029 
+Tableau III
+Estimation budgétaire 
+[Page 7]
+Table des matières
+I . Introduction..................................................................................................... 9
+II. Cadre de référence......................................................................................... 10
+2.1. Cadrage international.................................................................................. 10
+2.2. Cadrage national......................................................................................... 14
+II. Etat des lieux................................................................................................... 15
+3.1. Situation épidémiologique........................................................................... 15
+2.2. Fardeau économique.................................................................................. 18
+2.3. Analyse stratégique..................................................................................... 21
+3.3.1. Acquis.................................................................................................. 21
+3.3.2. Défis..................................................................................................... 24
+IV. Stratégie......................................................................................................... 25
+4.1. Méthodologie.............................................................................................. 25
+4.2. Vision.......................................................................................................... 25
+4.3. Principes directeurs et valeurs..................................................................... 26
+4.4.Objectif général............................................................................................ 26
+4.5. Objectifs spécifiques................................................................................... 26
+4.6. Cibles proposées........................................................................................ 27
+4.7. Cadre conceptuel pour la prévention et le contrôle des MNT...................... 28
+4.8. Domaines stratégiques................................................................................ 28
+V. Estimation Budgétaire pour la mise en œuvre de la stratégie Nationale
+ multisectorielle de prévention et de contrôle du MNT.................................. 38
+
+[Page 8]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+
+[Page 9]
+I. Introduction
+Les maladies non transmissibles (MNT) sont, à l’échelle mondiale, la principale 
+cause de mortalité, elles constituent le mal du 21ème siècle qui challenge tous les 
+pays. La progression des MNT est étroitement liée au niveau du développement 
+socio-économique d’un pays notamment le manque d’instruction, la pauvreté et 
+d’autres déterminants.
+En effet, selon l’Organisation Mondiale de la Santé (OMS), 41 millions de décès, 
+parmi 57 millions du total des décès mondiaux sont dus aux MNT soit 71%1, dont 
+15 millions sont des décès prématurés survenant entre 30 et 70 ans.
+Les MNT sont également responsables de 60% de la charge mondiale de 
+morbidité surpassant les autres problèmes de santé du XXIème siècle. Elles 
+progressent d’une manière exponentielle et menacent la croissance économique 
+et le développement à l’échelle mondiale. Des études récentes ont montré que 
+dans les quinze prochaines années, les MNT coûteront aux pays à revenu faible 
+ou intermédiaire plus de 7000 milliards de dollars de pertes au niveau des revenus 
+nationaux. Un constat qui invite les pays à mettre en place des mesures urgentes 
+pour améliorer la santé de la population2.
+Aussi, l’OMS estime qu’environ 58% des décès prématurés liés à la pollution de 
+l’air extérieur résultaient en 2016 de cardiopathies ischémiques et d’accidents 
+vasculaires cérébraux, 18% de broncho-pneumopathies chroniques obstructives 
+ou d’infections aiguës des voies respiratoires inférieures, tandis que les 6% restants 
+sont imputables au cancer du poumon3.
+Il est à noter que les MNT sont en grande partie évitables. En effet, des mesures 
+préventives efficaces, rentables, réalisables et abordables existent. Leur mise en 
+œuvre nécessite des actions intégrées et multisectorielles.
+Au Maroc, la situation est également problématique. La transition épidémiologique 
+et démographique se traduit par une augmentation de la charge de morbidité 
+et de mortalité des MNT, en particulier les cancers, le diabète, les maladies 
+cardiovasculaires, les maladies respiratoires chroniques et l’insuffisance rénale 
+chronique. Le coût de prise en charge de ces maladies est très élevé. La situation 
+est d’autant plus préoccupante que la couverture médicale ne couvre pas la totalité 
+de la population (62%). Les résultats des études d’impact de la charge liée aux 
+soins démontrent la lourdeur du fardeau assumé par les ménages et la gravité des 
+retombées sociales et économiques.
+1 OMS, Rapport sur la situation mondiale des maladies non transmissibles 2010 Résumé d’orientation, 2010. 
+2 OMS, Communiqué de presse sur les maladies non transmissibles, 19 JANVIER 2015. 
+3 Principaux repères sur la qualité de l’air ambiant et santé: principaux faits, actions de l’OMS ; 2 mai 2018. 
+
+[Page 10]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+Face aux défis que posent les MNT et leurs facteurs de risque, le Ministère de la 
+Santé (MS) s’est engagé depuis plusieurs années à faire face à ses maladies. En 
+effet, la lutte contre ces MNT a constitué une priorité dans les plans sectoriels de 
+santé, essentiellement en matière de prise en charge du cancer, du diabète, de 
+l’hypertension artérielle et de l’insuffisance rénale, ainsi que le renforcement de la 
+multi-sectorialité, du partenariat public-privé et la collaboration avec les ONG.
+Ce document stratégique qui renforce cette volonté de lutter contre les MNT traduit 
+l’engagement du Maroc aux principes des déclarations politiques adoptées lors 
+des réunions de très haut niveau des Nations Unis sur la prévention et la maitrise 
+des MNT en 2011-2014- 2018 et aux Objectifs du Développement Durable (ODD) 
+notamment l’ODD 3 sur la santé (objectif 3.4).
+Cette stratégie traite les cinq maladies telles que définies par l’OMS (le cancer, 
+le diabète, les maladies cardio-vasculaires, les maladies respiratoires chroniques 
+et les maladies mentales) et leurs facteurs de risque communs (le tabagisme, 
+l’alcoolisme, la sédentarité et l’alimentation malsaine). Cette stratégie aborde aussi 
+l’addictologie, la santé bucco-dentaire et les affections oculaires. Elle propose 
+également de développer de nouveaux programmes relatifs aux maladies rares, 
+maladies inflammatoires chroniques, aux déficiences auditives et aux BronchoPneumopathies Chroniques Obstructives (BPCO).
+II. Cadre de référence
+2.1. Cadrage international
+• En mai 2000, l’Assemblée Mondiale de la Santé (WHA) a adopté une résolution 
+(WHA / 53.17) approuvant une stratégie mondiale de l’OMS pour la prévention 
+des MNT. La stratégie repose sur trois piliers : la surveillance, la prévention 
+primaire et les systèmes de santé renforcés.
+• Depuis 2000, plusieurs résolutions ont été adoptées afin d’appuyer les 
+composantes de la stratégie mondiale : (1) La Convention-cadre pour la lutte 
+antitabac (CCLAT), (2) la Stratégie mondiale de l’alimentation, l’activité physique 
+et (3) la stratégie mondiale de réduction de l’usage nocif de l’alcool.
+• En 2008, l’Assemblée Mondiale de la Santé a approuvé le «Plan d’action 
+de la Stratégie mondiale de Prévention et de Contrôle des Maladies Non 
+Transmissibles». Le plan d’action comporte six objectifs, avec un accent 
+particulier sur les pays à bas et moyen revenus et les populations vulnérables.
+• En septembre 2011, l’Assemblée Générale des Nations Unies adopte la 
+Déclaration Politique de sa réunion de haut niveau sur la prévention et la maîtrise 
+
+[Page 11]
+des MNT. Dans cette déclaration, les chefs d’États reconnaissent que le fardeau 
+et la menace que les MNT représentent à l’échelle mondiale sont l’un des 
+principaux défis pour le développement au 21ème siècle. Les États membres 
+des Nations Unies s’engagent à prendre les mesures suivantes :
+• Réduction des facteurs de risque et instauration d’environnements sains ;
+• Renforcement des politiques et systèmes de santé nationaux ;
+• Renforcement de la coopération internationale, y compris les partenariats ;
+• Renforcement, des systèmes nationaux de surveillance et de suivi, y compris 
+les enquêtes qui sont intégrées aux systèmes nationaux d’information 
+sanitaire existants.
+• En 2013, un plan d’action mondial de prévention et de contrôle des MNT 2013 - 
+2020 a été élaboré avec 9 cibles mondiales et 25 indicateurs. Un cadre d’action 
+régional pour la mise en œuvre de la Déclaration Politique des Nations Unies 
+sur les MNT a été mis en place et qui définit les engagements ainsi que les 
+interventions stratégiques des pays.
+• Les Objectifs de Développement Durable (ODD), constituent une plateforme 
+de travail de premier ordre et sont de réels défis, du fait des transitions socioéconomique, démographique et culturelle au niveau mondial et de l’inadéquation 
+entre les besoins de santé et les ressources mobilisables. Les cibles de l’objectif 
+3, « Permettre à tous de vivre en bonne santé et promouvoir le bien-être de tous 
+à tout âge » engagent le Maroc à poursuivre ses efforts pour l’amélioration de 
+la santé et la promotion du bien- être de la population, à réduire les inégalités, 
+à garantir la sécurité sanitaire et améliorer la réactivité et la réponse du système 
+de santé aux changements climatiques, aux urgences de santé publique et 
+aux catastrophes naturelles. Parmi les neuf cibles de l’ODD, trois devraient être 
+atteintes d’ici 2030, les cibles 3.a, 4 et 5 concernent directement les MNT :
+• Cible 4 : D’ici à 2030, réduire d’un tiers, par la prévention et le traitement, le 
+taux de la mortalité prématurée due à des maladies non transmissibles et 
+promouvoir la santé mentale et le bien-être.
+• Cible 5 : Renforcer la prévention et le traitement de l’abus de substances 
+psychoactives, notamment de stupéfiants et d’alcool.
+• Cible 3.a : Renforcer dans tous les pays, selon qu’il convient, l’application de 
+la CCLAT.
+
+[Page 12]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+• En 2017, la conférence mondiale de l’OMS sur les MNT, à Montevideo, a défini 
+les MNT comme des priorités du développement durable.
+• En septembre 2018, la 73ème Assemblée Générale, les Chefs d’États se sont 
+engagés à continuer à placer les MNT au rang de priorité, intensifier les efforts et 
+à poursuivre la mise en œuvre de leurs engagements pris en 2011 et 2014 afin 
+d’atteindre les ODD d’ici 2030 ; ainsi 34 actions stratégiques ont été adoptées 
+et peuvent être résumées en :
+• Promouvoir les modes de vie sains à travers des actions et mécanismes 
+multisectoriels forts, en mettant l’accent sur la lutte antitabac par l’accélération 
+de la mise en œuvre de la CCLAT, l’alimentation saine par les mesures 
+législatives nécessaires, la pollution de l’air, de l’eau, produits chimiques … ;
+• Investir dans la recherche, y compris dans les mesures de santé publique, sur 
+la promotion de la santé et la prévention des maladies et le rôle du secteur de 
+la santé dans ce domaine, ainsi que dans les nouvelles options de traitement 
+pour des thérapies efficientes ;
+• Prendre les mesures nécessaires pour reconnaître le droit de chacun à la 
+jouissance d’un niveau de santé physique et mentale le plus élevé possible 
+tout au long de la vie, en respectant les obligations en matière de droits de 
+l’homme ;
+• Redoubler d’efforts pour utiliser les technologies de l’information et de 
+communication, y compris la e-santé et la télésanté, ainsi que d’autres 
+solutions innovantes, notamment en promouvant partenariat public-privé 
+(PPP) pour accélérer les actions ambitieuses de prévention et de lutte contre 
+les MNT ;
+• Permettre à la personne de faire des choix en mettant en œuvre des campagnes 
+de masse et de médias sociaux qui éduquent le public sur les méfaits des 
+facteurs de risque (FR) ;
+• Renforcer la couverture sanitaire universelle et améliorer les services de 
+santé primaires et spécialisés centrés sur la personne pour la prévention, le 
+dépistage et contrôle des MNT et des troubles mentaux, soins palliatifs ainsi 
+que des systèmes d’information ;
+• Mettre en œuvre des mesures pour améliorer la santé mentale et le bienêtre, notamment par le développement et l’intégration des services et les 
+traitements complets pour les personnes vivant avec les troubles mentaux.
+
+[Page 13]
+• Les affections buccodentaires partagent les mêmes facteurs de risque que les 
+principales MNT et restent tributaires des déterminants socio-économiques, 
+culturels, comportementaux et à l’offre de soins et son accessibilité et à la 
+couverture médicale (Rapports de l’OMS 2003 et stratégie mondiale de la santé 
+buccodentaire 2014).
+• Les recommandations de l’oral Heath Side Event à la réunion du Haut Niveau 
+sur les MNT en 2018 et la résolution de 2007 de l’OMS (A60-17) qui incitent à 
+prendre conscience des défis mondiaux à relever pour améliorer la santé buccodentaire, et des besoins spécifiques et uniques des pays à faible et moyen 
+revenu et des groupes de population pauvres et défavorisés.
+2003
+2008
+2010
+2013
+2015
+2018
+2030
+World Health Assembly
+UN General Assebly
+First WHO Global Status
+Report on NCDs
+UN Task 
+Force on 
+NCDS
+Contry Frameworks for Action to engage
+Attainment of the 9 global 
+targets for NCDs by 2025
+Attainment of the 9 global targets for NCDs by 2030
+as part of the post - 2015 development agenda
+section beyond health on NCDs
+WHO Global NCD Action Plan 
+2013 - 2020, including 9 global 
+targets and 25 indicators
+2008- 2013 Action Plan on the Strategy for the
+Prevention and Control of NCDs
+Global Strategy on Diet.
+Physical Activity and Heath
+Global Strategy to reduce
+the Harmful Use of Alcohol
+UN General Assembly 
+Comprehensive
+Review 2014 on NCDs
+Adoption of the
+Post- 2025 development Agenda
+ECOSOC
+UN Political Declaration on NCDs
+UN Political Declaration on NCDs
+UN Process to address NCDs as one of the major challenges for development in the 21e centry 
+Global Strategy for the Prevention and Control of NCDs
+Moscow Declaration
+Figure 1 : Etapes franchies dans la prévention et le contrôle des MNT
+
+[Page 14]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+2.2. Cadrage national
+• La Constitution du Royaume de 2011, notamment les dispositions de l’article 
+31 consacré au droit d’accès aux soins de santé, qui stipule : « L’Etat, les 
+établissements publics et les collectivités territoriales œuvrent à la mobilisation 
+de tous les moyens disponibles pour faciliter l’égal accès des citoyennes et des 
+citoyens aux conditions leur permettant de jouir du droit : aux soins de santé, 
+à la protection sociale, à la couverture médicale et à la solidarité mutualiste ou 
+organisée par l’Etat…».
+• Le message de Sa Majesté le Roi Mohammed VI adressé aux participants 
+à la 2ème Conférence nationale sur la Santé (Marrakech, juillet 2013) « Au cours 
+de vos débats constructifs, vous vous devez de garder à l’esprit la nécessité 
+d’intégrer la dimension sanitaire dans les différentes politiques publiques, en 
+alliant efficience et transversalité… ».
+• Le discours de Sa Majesté le Roi du 29 juillet 2018 à l’occasion de la fête du 
+trône : « […] Redresser les anomalies qui entachent l’exécution du programme 
+de couverture médicale RAMED et, parallèlement, refondre en profondeur le 
+système national de santé, qui se caractérise par des inégalités criantes et une 
+faible gestion. […] ».
+• La couverture médicale de base qui a marqué une avancée substantielle sur 
+la voie d’une couverture sanitaire universelle (CSU). Aujourd’hui, 62 % de la 
+population marocaine dispose d’une couverture médicale de base (AMO, y 
+compris pour les étudiants et RAMED).
+• Le partenariat public privé (PPP) comme voie de recherche de performance 
+nouvelle dans le secteur de la santé. Le programme Gouvernemental 20162021 a promu la mise en œuvre du cadre juridique des PPP adopté en 2015 
+comme action- phare pour l’amélioration de la gouvernance et le financement 
+des établissements et entreprises publics.
+• La réforme de la loi organique des finances 130-13, qui incite à passer d’une 
+culture de moyens à une culture d’objectifs et de résultats.
+• La régionalisation avancée, où la région sanitaire est une donnée fondamentale 
+et un atout pour le progrès, en regard de la marge d’autonomie de l’espace 
+régional et des effets d’entraînement sur les acteurs de la région.
+• Dahir portant loi n°1-73-282 du 21 Mai 1974 : relatif à la répression de la 
+toxicomanie, qui classe les infractions en 3 catégories : le trafic, l’incitation et 
+
+[Page 15]
+l’usage et accorde dans l’article 8, l’importance au traitement et au suivi des 
+consommateurs de stupéfiants.
+• Dahir du 3 Octobre 1977 portant sur la mise en place de la Commission Nationale 
+des Stupéfiants, ayant pour mission le contrôle des substances psycho- actives 
+licites; répression des cultures, du commerce et du trafic des drogues illicites; 
+politique de prévention de l’usage des drogues.
+• Plan Stratégique « Santé 2025 » lequel et structuré en 3 piliers :
+a. 1er pilier : Organisation et développement de l’offre de soins en vue d’améliorer 
+l’accès aux services de santé ;
+b. 2ème pilier : Renforcement des programmes nationaux de santé et de lutte 
+contre les maladies ;
+c. 3ème pilier : Amélioration de la gouvernance et optimisation de l’allocation et 
+de l’utilisation des ressources.
+III. Etat des lieux
+3.1. Situation épidémiologique
+L’état de santé de la population Marocaine a connu une importante évolution au 
+cours des dernières années. Les progrès dans les conditions de vie et l’accès 
+aux soins ont contribué à l’amélioration de nombreux indicateurs démographiques 
+et épidémiologiques : maîtrise de l’accroissement démographique, progression 
+de l’espérance de vie, baisse de la charge des maladies transmissibles, avec 
+cependant une augmentation de la charge des maladies chroniques. L’espérance 
+de vie à la naissance est passée de 47 années en 1962 à 75,8 années en 2015. 
+Le vieillissement de la population est un défi majeur. La proportion actuelle des 
+personnes âgées de 60 ans et plus est de 11,1%. Elle passera à presque 25% 
+d’ici l’an 2050.
+Cette transition épidémiologique et démographique se traduit par une augmentation 
+de la charge de morbidité et de mortalité des MNT, notamment les maladies 
+cardiovasculaires, le cancer, le diabète, les maladies respiratoires chroniques et 
+l’insuffisance rénale chronique.
+
+[Page 16]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+1979
+Présent
+Présent
+Présent
+Elimination et contrôle
+des Maladies
+Transmissibles
+(lepre,Paludisme,
+Trachome, DTCOQ,
+Poliomyéalite...)
+Diminution de la mortalité
+maternelle (de 359 décès à
+72 pour 100,000 naissances vivantes)
+& la mortalité infantle (de
+92 par 1,000 naissances
+vivantes à 28)
+40.000 Nouveaux cas de
+Cancer par an6
+29,3% Hypertension5
+10,6% Diabète5
+10,4% de prédiabéte5
+26,9% hommes fument 5
+20% des adultes Obèses5
+Consommation4
+Sel 9-12g/j
+Consommation4
+Sucre 95,25g/j
+Augmentation de
+lʻespèrance de vie à la
+naissance de 47 à 75 ans
+Figure 2 Résumé de la transition épidémiologique
+Au Maroc la mortalité par MNT est la principale cause de mortalité. Elle est 
+estimée à 80% selon l’OMS7 et la mortalité prématurée est estimée à 12%. Ce qui 
+dépasse, la moyenne à l’échelle mondiale qui est de 70% des décès. Ceci place 
+le Maroc parmi les premiers pays à forte mortalité par les MNT dans la région de la 
+méditerranée orientale, comme le démontre le graphique ci-dessous.
+Figure 3 : Décès imputables aux MNT 20185
+4 Observatoire Mondial de la Santé OMS, 2018.
+5 Enquête nationale sur les facteurs de risque communs des MNT Stepwise 2017-2018.
+6 Registre des Cancers Grand Casablanca 2008 -2012.
+7 Country profile WHO, OMS 2018.
+
+[Page 17]
+Certains facteurs de risque communs sont à l’origine de la plupart des maladies 
+non transmissibles. Ce sont les facteurs de risque comportementaux à savoir 
+le tabagisme, la consommation excessive d’alcool, une alimentation malsaine, 
+l’inactivité physique et les facteurs de risque physiologiques : la pression artérielle 
+élevée, l’hyperglycémie et l’hyperlipidémie et l’obésité.
+Plusieurs études ont exploré les associations entre de nombreux problèmes de santé 
+et l’apport en sucre ou la consommation de boissons sucrées. Les associations 
+qui semblent être plus robustes sont celles avec la carie dentaire, le surpoids et 
+le diabète de type 2. D’autres associations telles que celles avec l’hypertension, 
+les triglycérides, le cholestérol, les maladies rénales chroniques et les maladies 
+coronariennes sont probables, mais nécessitent davantage de recherches avant 
+d’être confirmées.
+La consommation du sucre par la population marocaine est de 95,25 g/personne/
+jour, dépassant les recommandations de l’OMS fixées à 50g/j/per4.
+La consommation moyenne de sel est estimée à 11g/j, soit plus que deux fois 
+l’apport maximum recommandé (Selon les recommandations de l’OMS, l’apport 
+quotidien maximal en sel, est de 5g/j (moins d’une cuillère à café)). Sachant qu’il existe 
+des preuves scientifiques concluantes des effets néfastes d’une consommation 
+excessive de sodium alimentaire et un éventail d’affections comprenant les MCV, le 
+cancer de l’estomac, l’ostéoporose, la cataracte, les calculs rénaux et le diabète.
+L’enquête sur la consommation et les dépenses des ménages 2013/2014 a 
+montré une augmentation de 31.8% dans la consommation des huiles par rapport 
+à l’enquête sur la consommation et les dépenses des ménages 2000/2001 (12,15). 
+Par ailleurs, le niveau de consommation des d’acides gras trans dans la population 
+Marocaine n’est pas déterminé, alors que ces derniers représentent un important 
+facteur déterminant du risque des maladies cardiovasculaires, du diabète et de 
+certains cancers.
+Une consommation insuffisante de fruits et de légumes est une des principales 
+causes des MNT. A l’échelle mondiale, l’OMS estime que 1,7 million de décès 
+sont attribués à leur faible consommation dont 14% des décès sont associés 
+chaque année dans le monde au cancer gastro-intestinal, 11% aux maladies 
+cardiovasculaires et 9% à l’AVC.
+La sédentarité est considérée comme le quatrième facteur de risque de décès dans 
+le monde, on lui attribue 3,2 millions de décès annuellement. Elle est responsable 
+de 21 à 25% des cancers du sein ou du colon, de 27% des cas de diabète et 
+d’environ 30% des cas de cardiopathie ischémique et elle double les risques de 
+4 Observatoire Mondial de la Santé OMS, 2018.
+
+[Page 18]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+l’obésité. L’OMS recommande de pratiquer au moins 30 min d’activité physique 
+d’intensité modérée par jour.
+Au Maroc, les résultats de l’enquête nationale sur les facteurs de risques des MNT5 
+transcrivent la charge de morbidité de plus en plus importante des MNT et de leurs 
+facteurs de risque en effet :
+• 29,3% sont hypertendus ;
+• 10,6% sont diabétiques et 10,4% sont pré-diabétiques ;
+• 11,7% des Marocains âgés de 18 ans et plus fument du tabac ;
+• 92,9% n’ont jamais consommé de l’alcool toute leur vie et 1,7% en consomment 
+actuellement ;
+• 21,1% ont un niveau d’activité physique insuffisante ;
+• 76,3% n’atteignent pas les recommandations internationales de consommation 
+de cinq portions de légumes et fruits par jour ;
+• 53% sont en surpoids et 20% sont obèses ;
+• 10,5% ont un taux de cholestérol sanguin élevé.
+Les maladies bucco-dentaires les plus répandues au Maroc, selon les résultats de 
+l’enquête épidémiologique réalisée en 2012, sont :
+• la carie dentaire touche (81,8% des enfants de 12 ans et 91,8% entre 35 et 44 
+ans) avec un indice CAO (ou nombre moyen des dents Cariées, Absentes, ou 
+Obturées) est de : 4,8 chez les enfants de 12 ans et de 14,8 chez les adultes 
+entre 35 et 44 ans ;
+• les parodontopathies affectent 42% des enfants de 12 ans ; 79,2% des adultes 
+entre 35 et 44 ans.
+3.2. Fardeau économique
+Le fardeau économique des MNT est très important. En effet, 3% de la population 
+AMO qui recourt aux soins liées à une Affection de Longue Durée (ALD) consomme 
+47,7% des dépenses totales8.
+5 Enquête nationale sur les facteurs de risque communs des MNT Stepwise 2017-2018. 
+8 Rapport Annuel Global de l’AMO 2016.
+
+[Page 19]
+52,3
+47,7
+2
+ALD
+3%
+ALD
+Autres
+Autres
+97%
+Figure 4 : Effectif de la population ALD8 Figure 5 : Part des dépenses AMO
+ 
+ 
+ 
+ 
+ de la population ALD8
+Par ailleurs, 73% des dépenses des ALD sont consommées par les quatre 
+affections suivantes :
+• Insuffisance Rénale Chronique Terminale : 26,40 % ;
+• Tumeurs malignes : 24 % ;
+• Hypertension artérielle sévère : 11,70 % ;
+• Diabète type 1 et 2 : 11%.
+Autres
+ 27,20%
+Insufﬁsance Rénale
+Chronique Terminale
+26,40%
+Diabète
+ 11,00%
+HTA
+11,70%
+Tumeurs
+malignes
+24,00%
+Figure 6 : Répartition des dépenses ALD par type d’affection dans les secteurs 
+privé et public-Exercice 20168.
+8 Rapport Annuel Global de l’AMO 2016.
+
+[Page 20]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+Le Maroc, avec l’appui de l’OMS a procédé à l’élaboration des sous comptes 
+nationaux des quatre MNT pour l’année 2011 à savoir les maladies cardiovasculaires, 
+le diabète, les cancers et les Maladies respiratoires chroniques. Cette étude a 
+montré que les dépenses totales des MNT constituent environ 13,9% du total des 
+dépenses en santé, une dépense qui reste très faible par rapport à l’importance 
+de ce fléau. La part des dépenses des ménages représente environ la moitié des 
+dépenses totales pour les quatre MNT comme le montre le tableau suivant9 :
+Tableau I : Comptes nationaux des MNT au Maroc9
+Dépenses Totales en santé (million US$)
+5,593
+Dépenses Totales des 4 MNT (millions US$)
+Total dépenses des ménages (mil US$)
+2,996
+Total dépenses des ménages pour les 4 MNT (millions US$)
+Dépenses pour les 4 MNT en % par rapport aux dépenses totales 
+en santé
+13.9%
+Dépenses des ménages pour les 4 MNT (%) par rapport aux 
+dépenses totales des ménages
+12.2%
+Dépenses des ménages pour les 4 MNT (%) par rapport aux 
+dépenses totales en MNT
+46.9%
+Les dépenses sont majoritairement consacrées pour les soins curatifs. L’étude a 
+montré que les soins préventifs ne dépassent pas 3,8% des dépenses totales des 
+MNT.
+9 Selected NCD Expenditure within a full distribution of diseases using SHA 2011 framework in Morocco, 
+WHO 2014.
+
+[Page 21]
+COPD
+CANCER
+DIABETE
+CVD
+0,0%
+20,0%
+40,0%
+60,0%
+80,0%
+Figure 7 : Distribution des dépenses des MNT par fonction9
+Les 2/3 des maladies non transmissibles sont liées aux comportements nocifs à la 
+santé : on impute au tabac plus de 7,2 millions de décès par an (y compris ceux 
+par exposition à la fumée des autres) et, selon les projections, ce chiffre devrait 
+sensiblement augmenter dans les prochaines années 3. De plus, Le tabac est la 
+principale cause évitable de cancer. Les consommateurs de tabac qui décèdent 
+prématurément privent leur famille de revenus, font augmenter les dépenses de 
+santé et freinent le développement économique.
+3.3. Analyse stratégique
+3.3.1. Acquis
+L’engagement du Maroc aux orientations internationales s’est concrétisé par la 
+mise en place de plusieurs politiques et actions des différents départements. A ce 
+titre, le Ministère de la Santé a déployé plusieurs efforts en matière de :
+• La mise en place de plusieurs plans nationaux de prévention et de contrôle du 
+cancer, du diabète, de l’HTA et du RAA qui sont gérés par la Division des Maladies 
+Non Transmissibles (DMNT) à la Direction de l’Epidémiologie et de Lutte contre 
+les Maladies DELM au niveau du Ministère de la Santé. La DMNT est composée 
+de six services spécialisés dédiés à la mise en place, le suivi et l’évaluation des 
+actions de prévention et de contrôle des Maladies Non Transmissibles et d’une 
+unité chargée des modes de vie sains.
+9 Selected NCD Expenditure within a full distribution of diseases using SHA 2011 framework in Morocco, 
+WHO 2014.
+
+[Page 22]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+• Les données épidémiologiques en matière de MNT et leurs FR existent et sont 
+obtenus à travers le système d’information de routine des programmes et des 
+enquêtes épidémiologiques (Enquête Nationale sur les FR cardiovasculaires en 
+2000, ETHNA en 2008, Enquête MaReMar en 2009, enquêtes nationales sur 
+la population et la santé familiale (ENPSF), l’enquête STEPS sur les facteurs de 
+risque des MNT 2017-2018 ainsi que les enquêtes nationales sur le tabagisme des 
+jeunes âgés de 13-15 ans en milieu scolaire, enquêtes nationales sur l’état de santé 
+buccodentaires…), des Registres des Cancers (registre du Grand Casablanca, de 
+Rabat), du Registre Magrédial pour l’insuffisance rénale.
+• La prise en charge s’est améliorée avec intégration des programmes de prévention 
+et de contrôle des MNT au niveau des établissements soins de santé primaires 
+SSP (2800 ESSP dont certains sont dédiés à la prise en charge intégrée des 
+MNT). Dans ce cadre, la médecine de famille est développée avec la formation 
+de médecins généralistes en Médecine de la Famille et Santé Communautaire 
+et ce, pour les outiller en compétences, attitudes et aptitudes nécessaires pour 
+réorienter leur exercice vers une nouvelle pratique où le patient est considéré dans 
+sa globalité et dans son contexte familial et social.
+• Un paquet minimum de services au niveau des SSP a été défini et diffusé.
+• 150 hôpitaux avec 16 centres régionaux publics d’oncologie existent et deux 
+autres sont en cours de construction et d’équipement.
+• 39 centres de références pour la détection précose des cancers du seins et des 
+col de l’utérus.
+• Une stratégie mobile est aussi adoptée pour atteindre les zones les plus 
+enclavées avec mise en place du plan de santé rurale visant le renforcement des 
+soins de santé primaires.
+• Des filières de soins spécifiques pour les principales MNT (circulaire ministérielle 
+N° 129/DE du 9 octobre 2015) ont été institutionnalisées définissant et décrivant 
+le parcourt du patient dans le système.
+• Des Recommandations de Bonnes Pratiques Médicales (RBPM) de certaines 
+MNT ont été élaborées (HTA, diabète, maladies respiratoires chroniques, 
+insuffisance rénale et certains cancers) en collaboration avec la société savante, 
+l’Agence Nationale de l’Assurance Maladie (ANAM) et le Conseil National de 
+l’Ordre des Médecins.
+• L’accessibilité aux médicaments s’est améliorée grâce à l’amélioration de la 
+politique des médicaments avec :
+• Augmentation du budget des médicaments ;
+
+[Page 23]
+• Couverture des structures sanitaires en médicaments antidiabétiques, 
+antihypertenseurs, anticancéreux, psychotropes, traitement de substitusion 
+aux opiacés, etc ;
+• Renforcement de l’utilisation du médicament générique rendant disponible 
+une large gamme de médicaments génériques disponibles, notamment les 
+antihypertenseurs et les antimitotiques (loi 17-04) ;
+• Révision de la liste nationale des médicaments essentiels avec introduction de 
+nouvelles molécules ;
+• Contrôle des prix des médicaments notamment les médicaments destinés au 
+traitement des MNT.
+Par ailleurs, les interventions des autres départements constituent une opportunité 
+pour la prévention et le contrôle des MNT. On cite, notamment :
+• Le rôle de l’INDH dans la lutte contre les déterminants socioéconomiques de la 
+santé ;
+• Le Plan Maroc Vert dont l’objectif est de garantir la sécurité alimentaire à tous les 
+Marocains ;
+• La Stratégie Halieutis qui a pour objectif de faire du secteur halieutique un véritable 
+moteur de croissance durable pour l’économie nationale ;
+• L’Office National de la Sécurité Sanitaire des Aliments dont la principale mission 
+est le contrôle des denrées alimentaires et le contrôle vétérinaire ;
+• La Charte Nationale sur l’Environnement et le Développement Durable pour que la 
+préservation de l’environnement soit une préoccupation permanente de tous les 
+marocains ;
+• La Stratégie Sport Pour Tous qui met en exergue le rôle du sport comme étant 
+un droit essentiel de tout citoyen (hommes, femmes, personnes à besoins 
+spécifiques…) ;
+• Les dispositions fiscales et de taxation prises par le Ministère des Finances et 
+de l’Economie permettant la réduction de la consommation de certains produits 
+nocifs à la santé (tabac, alcool…) et l’exonération de Taxe sur la Valeur Ajoutée 
+(TVA) des médicaments de certaines ALD ;
+• La Stratégie du Ministère de l’Education Nationale, de la Formation Professionnelle, 
+de l’Enseignement Supérieur et de la Recherche Scientifique visant l’information, 
+l’éducation et la communication en matière de protection de la santé et de lutte 
+antitabac « Collèges et Lycées Sans Tabac » ;
+
+[Page 24]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+• La société civile (ONG – sociétés savantes) dont le rôle est la promotion, la 
+prévention et le contrôle des MNT et leurs FR ;
+• L’implication de l’ANAM et des caisses nationales de prévoyance sociale (CNOPS) 
+dans la promotion des modes de vie sains et la lutte contre les MNT ;
+• Le renforcement du partenariat et de la mobilisation sociale dans le domaine de la 
+prévention et le contrôle des MNT (le et de Contrôle 
+du Cancer 2010-2019 via le partenariat MS/Fondation lala Salma - le partenariat 
+public/ privé dans l’insuffisance rénale chronique).
+3.3.2. Défis
+Malgré toutes les réalisations qui ont été faites, certaines contraintes existent 
+toujours en effet :
+• Certaines MNT (affections respiratoires chroniques, insuffisance rénale chronique, 
+greffe rénale, maladies rares…) ne bénéficient pas de programmes structurés, 
+d’autres ne disposent pas de RBPM ou les RBPM ne sont pas actualisées.
+• Les structures de prise en charge des MNT sont insuffisantes, l’intégration des 
+actions de prévention et de prise en charge des MNT et leurs FR est faible et les 
+pôles d’excellences manquent.
+• Une pénurie est marquée en RH avec une répartition inéquitable des ressources 
+humaines spécialisées dans la PEC des MNT.
+• La qualité des services et l’insuffisance en accessibilité aux médicaments et aux 
+équipements biomédicaux sont également des problématiques majeures qui 
+non seulement entravent l’accès aux soins mais compliquent en plus la relation 
+avec la population.
+• Le budget dédié au contrôle et à la prévention des MNT reste insuffisant, les 
+organes de gouvernance des MNT et leurs facteurs de risque manquent et la 
+législation est insuffisante.
+• Le système d’information relatif aux MNT et leurs FR est fragmenté et non 
+centralisé ne permettant pas le monitoring et la bonne surveillance.
+• La faible couverture des ALD par l’AMO (3%) et le coût élevé pour la prise en 
+charge des MNT entravent l’accès à la prise en charge.
+• La coordination intersectorielle et la mobilisation sociale et communautaire en 
+matière de prévention et la lutte contre les MNT et leurs FR reste faible.
+• Le secteur informel et l’exercice illégal des professions de santé est encore 
+développé (santé bucco-dentaire, santé mentale, cancer…) mettant en danger 
+la santé de la population.
+
+[Page 25]
+IV. Stratégie
+4.1. Méthodologie
+Dans le cadre de l’élaboration de la stratégie multisectorielle de prévention et de 
+contrôle des MNT 2019-2029, le Ministère de la Santé (Direction de l’Epidémiologie 
+et de Lutte contre les Maladies) a adopté une démarche participative impliquant 
+les représentants des autres secteurs. Pour ce faire, les étapes suivantes ont été 
+suivies :
+• Création d’un comité de pilotage composé des Directeurs de l’Administration 
+Centrale et présidé par Monsieur le Secrétaire Général du Ministère de la Santé ;
+• Création d’un comité technique présidé par le Directeur de la DELM et constitué 
+par : les représentants des DAC, les DRS, les autres départements ministériels, 
+la société savante, les ONG, le secteur privé y compris les représentants de 
+l’industrie agro-alimentaire ;
+• Recrutement de consultants nationaux et internationaux afin d’élaborer ladite 
+stratégie avec l’appui de l’OMS et autres partenaires ;
+• Organisation d’ateliers et réunions de travail et de discussion des différents 
+axes stratégiques et des différentes mesures à entreprendre avec les parties 
+prenantes :
+• Départements ministériels ;
+• Société civile (sociétés savantes, associations, fédérations …) ;
+• Secteur privé ;
+• Organismes internationaux (OMS …).
+• Elaboration d’un projet de la stratégie ;
+• Validation de « la Stratégie Nationale Multisectorielle de Prévention et de Contrôle 
+des MNT 2019-2029 » ;
+• Finalisation du projet de la stratégie avec les parties prenantes ;
+• Soumission dudit projet au comité de lecture ;
+• Edition et diffusion de la stratégie.
+4.2. Vision
+Placer au rang de priorité nationale la prévention et le contrôle des maladies non 
+transmissibles et les intégrer dans les plans de développement et les politiques des 
+départements ministériels et institutionnels concernés afin de réduire la charge de 
+morbidité, les incapacités et les décès prématurés liés à ces maladies.
+
+[Page 26]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+4.3. Principes directeurs et valeurs
+La stratégie nationale multisectorielle de prévention et de contrôle des MNT 
+reposent sur les principes directeurs suivants :
+1. Priorisation de la promotion de la santé et la prévention des MNT comme 
+levier de lutte contre ces maladies ;
+2. Intégration et multisectorialité des actions de prévention et de contrôle des 
+MNT ;
+3. Accessibilité aux activités de prévention et de lutte contre les MNT 
+indépendamment du genre, du statut social, du niveau de revenu ou du lieu 
+de résidence de la population y compris la population à besoins spécifiques 
+(approche genre et approche de droit) ;
+4. Renforcement du rôle de la communauté et responsabilisation des personnes 
+de leur propre santé et la santé de leurs proches.
+Le citoyen sera au cœur de notre engagement, pour maintenir et entretenir cet 
+engagement, 4 valeurs seront les piliers de la stratégie de prévention et de contrôle 
+des MNT :
+• L’équité : une offre de soins identique pour tous et accéssible à tous ;
+• La solidarité : prise en charge assurée et par la particiaption mutuelle ;
+• La responsabilisation : ensemble des devoirs et obligations de la société et de 
+l’individu face à la maladie ;
+• La qualité : une prise en charge compléte répondant aux normes.
+4.4. Objectif général
+Réduire la morbidité, les incapacités et la mortalité prématurée, liées aux MNT et 
+leurs facteurs de risques selon une approche intégrée et multisectorielle.
+4.5. Objectifs spécifiques
+• Objectif spécifique 1 : Renforcer la promotion des modes de vie sains et la 
+prévention des MNT.
+• Objectifs spécifique 2 : Assurer une prise en charge de qualité des MNT.
+• Objectif spécifique 3 : Améliorer la gouvernance à tous les niveaux de 
+compétence et de responsabilité.
+• Objectif spécifique 4 : Développer un système de suivi-évaluation des MNT et 
+de leurs facteurs de risque.
+
+[Page 27]
+4.6. Cibles proposées
+Les cibles fixées par notre pays en matière de MNT à l’horizon de 2029, par rapport 
+aux cibles volontaires de l’OMS :
+Tableau II : Cibles fixées par le Maroc pour les MNT d’ici 2029
+Réduction de la consommation de tabac chez la population âgée de 15 ans
+et plus dʼenviron 20% à lʼhorizon de 2029
+Réduction de lʼactivité physique insufﬁsante (sédentarité) dʼenviron 10% à
+lʼhorizon de 2029
+Réduction de la consommation de sel chez la population dʼenviron 10% à
+lʼhorizon de 2029
+Réduction de lʼhypertension artérielle chez la population âgée de 20 ans et
+plus de 10% à lʼhorizon de 2029
+Réduire de 15% lʼaugmentation de la prévalence du diabète à lʼhorizon
+de 2029 (actuellement elle est de 30% sur 10 ans)
+Accessibilité de 80% des patients suivis pour diabète et HTA aux
+médicaments essentiels au niveau des établissements de soins de santé
+primaires
+50% des personnes remplissant les conditions bénéﬁciant dʼun traitement
+dans le but de prévenir les infarctus du myocarde et les accidents vasculaires
+cérébraux
+Réduction de 10% lʼusage nocif dʼalcool à lʼhorizon de 2029
+Réduction de 25% la mortalité prématurée liée au MNT à lʼhorizon de 2029
+
+[Page 28]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+4.7. Cadre conceptuel pour la prévention et le contrôle des MNT
+DE LA PEC
+Figure 8 : Cadre conceptuel de prévention et de contrôle des MNT
+4.8. Domaines stratégiques
+En se référant au cadre conceptuel des maladies non transmissibles, la prévention 
+et le contrôle des MNT reposent sur quatre axes stratégiques.
+• Promotion des modes de vie sains et prévention des MNT ;
+• Amélioration de l’accès aux soins ;
+• Amélioration de la gouvernance ;
+• Renforcement de la surveillance, du suivi - évaluation et de la recherche.
+
+[Page 29]
+Domaine Stratégique 1 : Promotion des modes de vie sains et prévention 
+des MNT
+La promotion des modes de vie sains est la pierre angulaire de la prévention et du 
+contrôle des facteurs de risque des MNT. Pour maîtriser ces maladies, il est urgent 
+de s’attaquer aux principaux facteurs de risque communs et à leurs déterminants 
+sous-jacents, par une approche multisectorielle basée sur la communauté et 
+capable de mobilier tous les acteurs de la société. La promotion de modes de vie 
+sains est considérée actuellement comme une stratégie forte et incontournable, 
+dont les interventions peuvent réduire ces facteurs de risque : le tabagisme, la 
+mauvaise alimentation, la sédentarité et l’usage nocif de l’alcool.
+La pollution de l’air est aussi incriminée dans l’épidémie de maladies non 
+transmissibles ; un quart à un tiers de la charge de morbidité liée aux accidents 
+vasculaires cérébraux, aux infarctus, au cancer du poumon et à la bronchopneumopathie chronique obstructive (BCPO) lui est imputable, de même que plus 
+de la moitié des décès des suites de pneumonie chez l’enfant. Ainsi, la pollution de 
+l’air fait partie des principaux facteurs de risque de morbidité et de mortalité. Dans 
+certaines régions, il s’agit même du premier facteur de risque10.
+La reconnaissance de l’influence du milieu sur les choix de vie et les comportement 
+sains conduit à mettre l’accent sur divers contextes, tels que les écoles, les prisons 
+et les lieux de travail, et sur les politiques visant à créer des environnements 
+favorables à la santé de sorte que les choix sains deviennent aussi des choix 
+plus faciles. Les interventions s’adressant à l’ensemble de la population peuvent 
+s’avérer hautement bénéfiques.
+La prévention des MNT fait notamment appel aux services cliniques et préventifs 
+comme les programmes de vaccination, les programmes de dépistage axés sur 
+la population et l’évaluation du risque cardio-vasculaire dans les services de soins 
+primaires.
+10 Soixante et onzième Assemblée Mondiale de la Santé. Santé, environnement et changement climatique; 
+A71/10 Add.1 20 avril 2018.
+
+[Page 30]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+Action 1.1 : Renforcer la sensibilisation et la communication en matière 
+ 
+ des MNT et leurs FR
+Mesure 1 : Organiser des campagnes annuelles de sensibilisation sur les MNT et 
+leurs FR ;
+Mesure 2 : Organiser des campagnes annuelles pour la promotion des modes de 
+vie sains ;
+Mesure 3 : Développer une stratégie de plaidoyer, de communication et de 
+ 
+mobilisation sociale en matière de prévention des MNT et leurs FR ;
+Mesure 4 : Elaborer un plan de formation auprès des professionnels de santé sur la 
+promotion des modes de vie sains et la lutte contre les FR des MNT ;
+Mesure 5 : Elaborer et mettre en œuvre un plan de communication anti-stigma 
+ 
+des troubles mentaux et ceux liés à l’usage de substances 
+psychoactives.
+Action 1.2 : Consolider les services sanitaires de prévention
+Mesure 6 : Redynamiser les services de prise en charge de la dépendance 
+ 
+tabagique à différents niveaux ;
+Mesure 7 : Encourager et soutenir l’abandon des habitudes alcooliques ;
+Mesure 8 : Renforcer la vaccination contre l’hépatite virale B ; 
+Mesure 9 : Développer un programme pour la vaccination contre HPV.
+Action 1.3 : Créer des environnements favorables pour la promotion des 
+ 
+ modes de vie sains
+Mesure 10 : Créer des environnements favorables pour la promotion d’une 
+ 
+ alimentation saine ;
+Mesure 11 : Elaborer et implanter un plan d’action de réduction du sel sucre gras ;
+Mesure 12 : Créer des environnements favorables pour la promotion de l’activité 
+ physique ;
+Mesure 13 : Rendre les espaces publics sans tabac ;
+Mesure 14 : Promouvoir le mode de vie sain et les comportements favorables à 
+la santé mentale en milieu scolaire et universitaire et en milieu du 
+travail ;
+Mesure 15 : Renforcer les actions de lutte contre la pollution de l’air.
+
+[Page 31]
+Domaine Stratégique 2 : Renforcement de la prise en charge des MNT 
+et développement de nouveaux programmes
+Malgré les efforts déployés par le système de santé en matière de prévention et 
+contrôle des MNT, la majorité des interventions de lutte efficaces et rentables ne 
+sont pas mises en œuvre à grande échelle.
+Le système de santé a besoin de consolider les acquis à travers les programmes 
+existants par l’intégration des actions de PEC des MNT et le développement de 
+la responsabilisation (ou l’autonomisation) des patients et des familles pour mieux 
+gérer leur maladie, l’adoption de comportements plus sains et l’utilisation efficace 
+des services de santé.
+• Afin d’optimiser et mieux organiser la prise en charge des MNT, un modèle de 
+filière de soins spécifiques aux MNT est à mettre en place. Ce modèle proposera 
+des interventions, des structures et des ressources humaines et matérielles 
+normalisées aux trois niveaux de soins, à intégrer dans le système de santé :
+• Le niveau primaire, qui concerne les activités essentiellement assurées dans 
+les centres de santé. Les activités de promotion de proximité et les activités 
+de dépistage des MNT, voire le traitement, l’éducation thérapeutique et le suivi 
+de certaines MNT, seront les principales activités délivrées par ce niveau.
+• Une nouvelle structure de santé est à créer dans chaque province, représentant 
+le centre de référence pour le diagnostic, le traitement et le suivi des MNT. Ce 
+centre agira comme un niveau de recours à des soins plus spécialisés que 
+ceux du niveau 1.
+• Des soins hautement spécialisés à prodiguer au niveau des centres hospitaliers 
+régionaux et/ou interrégionaux, nécessitant un plateau technique et des 
+traitements innovants.
+• Le système de santé nécessite également la mise en place de nouveaux 
+programmes de prévention et de contrôle des MNT afin de lutter contre 
+certaines MNT émergentes et répondre aux besoins spécifiques des populations 
+concernées.
+
+[Page 32]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+Figure 9 : Filière de soins des MNT
+Action 2.1 : Améliorer de la prise en charge des Maladies Non 
+ 
+ Transmissible
+Mesure 16 : Institutionnaliser les filières de soins spécifiques pour les MNT et 
+les intégrer dans les schémas régionaux de l’offre de soins ;
+Mesure 17 : Créer des centres de référence pour les MNT ;
+Mesure 18 : Créer des pôles d’excellence pour la PEC des MNT ; 
+Mesure 19 : Créer une « maison des jeunes diabétiques » par région ; 
+Mesure 20 : Elaborer et actualiser les protocoles thérapeutiques ;
+Mesure 21 : Implanter l’approche d’évaluation du risque cardio-vasculaire au 
+niveau des ESSP ;
+Mesure 22 : Elaborer et mettre en place des programmes d’éducation 
+ 
+thérapeutique ;
+Mesure 23 : Renforcer la prophylaxie et améliorer la prise en charge des 
+ 
+affections bucco- dentaires ;
+Mesure 24 : Généraliser le programme des soins palliatifs et soins de support ;
+
+[Page 33]
+Mesure 25 : Renforcer les mesures préventives et curatives de lutte contre les 
+affections oculaires et éviter les complications ;
+Mesure 26 : Redynamiser le programme de prise en charge de l’Hémophilie et 
+la thalassémie ;
+Mesure 27 : Redynamiser le programme national du Rhumatisme Articulaire Aigu ;
+Mesure 28 : Améliorer l’accès aux médicaments, aux équipements et aux 
+technologies essentiels en matière de MNT ;
+Mesure 29 : Elaborer un plan de formation au profit des professionnels de 
+santé pour les programmes des MNT ;
+Mesure 30 : Intégrer la santé mentale de l’enfant et de l’adolescent dans les 
+programmes de prévention en santé de la mère et de l’enfant ;
+Mesure 31: Promouvoir le repérage et la détection précoces et systématiques 
+des troubles mentaux courants et des situations de détresse 
+psychologique à tous les âges et chez les populations vulnérables 
+(porteurs de maladies chroniques, les personnes qui s’injectent 
+des drogues, migrants, femmes enceintes et / en post-partum) ;
+Mesure 32 : Améliorer le diagnostic précoce des troubles addictifs et généraliser 
+la formation en matière d’intervention brève et d’entretien 
+motivationnel en prévention des dépendances comportementales 
+et aux substances au niveau des ESSP ;
+Mesure 33 : Améliorer la réponse aux urgences neuro-cardio-vasculaires.
+Action 2.2 : Développer de nouveaux programmes de prévention et de 
+ 
+ contrôle des MNT
+Mesure 34 : Mettre en place un programme national de prévention et de 
+contrôle des Broncho-pneumopathies Chroniques obstructives 
+(BPCO) ;
+Mesure 35 : Développer et mettre en œuvre un programme national de 
+prévention et de lutte contre les déficiences auditives ;
+Mesure 36 : Mettre en place un programme national de prévention et de 
+contrôle des maladies inflammatoires chroniques ;
+Mesure 37 : Développer un programme national de prévention et de lutte 
+contre les maladies rares ;
+Mesure 38 : Développer un programme de prévention et de contrôle des 
+maladies cardio- vasculaires ;
+Mesure 39 : Mettre en place de nouveaux programmes relatifs aux maladies 
+neurodégénératives, pédopsychiatrie et géronto-psychiatrie.
+
+[Page 34]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+Domaine stratégique 3 : Amélioration de la gouvernance des MNT et 
+de leurs FR
+La gouvernance en matière de prévention et de contrôle des maladies non 
+transmissibles exige la mise en place de mécanismes de collaboration 
+intersectorielle et le renforcement de l’approche participative, à divers niveaux, 
+de manière à agir sur les déterminants socio- économiques de la santé.
+Pour cela, il serait pertinent d’élaborer des mesures concrètes et coordonnées 
+en matière de prévention et de contrôle des MNT, à travers l’amélioration du 
+financement et le développement d’un partenariat efficace et productif.
+Action 3.1 : Renforcer la coordination des actions de promotion des 
+modes de vie sains et de lutte contre les facteurs de risque 
+des MNT
+Mesure 40 : Créer une structure pour la gestion et la coordination des actions 
+relatives à la promotion des modes de vie sains et la prévention 
+des MNT ;
+Mesure 41 : Mettre en place d’un comité national multisectoriel de pilotage 
+pour la coordination des actions relatives à la promotion de 
+modes de vie sains et à la lutte contre les facteurs de risque des 
+MNT et le décliner à l’échelle régionale et provinciale ;
+Mesure 42 : Mettre en place un comité technique multisectoriel des actions 
+relatives à la promotion de modes de vie sains et de lutte contre 
+les facteurs de risque des MNT ;
+Mesure 43 : Institutionnaliser les comités de coordination des actions relatives 
+à la promotion de modes de vie sains et à la lutte contre les 
+facteurs de risque des MNT ;
+Mesure 44 : Redynamiser et institutionnaliser les comités spécifiques des 
+programmes MNT ;
+Mesure 45 : Elaborer des plans stratégiques de prévention et de contrôle du 
+cancer, du diabète et de l’HTA pour la période 2020-2029 ;
+Mesure 46 : Elaborer des plans stratégiques des nouveaux programmes pour 
+la période 2020-2029 ;
+Mesure 47 : Mettre à jour les plans nationaux de la santé mentale, d’addictologie 
+et la santé bucco-dentaire pour la période 2020-2029.
+
+[Page 35]
+Action 3.2 : Renforcer le financement en matière des MNT
+Mesure 48 : Plaidoyer pour le renforcement de la couverture médicale de base ;
+Mesure 49 : Rationaliser le budget alloué aux MNT ;
+Mesure 50 : Renforcer la mobilisation de fonds additionnels.
+Action 3.3 : Développer le partenariat pour les MNT et leur FR
+Mesure 51 : Développer le partenariat public-privé dans le domaine de la 
+promotion des modes de vie sains et de lutte contre les facteurs 
+de risque des MNT et de prise en charge des MNT ;
+Mesure 52 : Renforcer la collaboration avec la société civile, les sociétés 
+savantes et les organisations nationales et internationales en 
+matière de prévention et de contrôle des MNT ;
+Mesure 53 : Améliorer le partenariat avec les autres départements publics en 
+matière de prévention et de contrôle des MNT.
+Action 3.4 : Renforcer l’arsenal juridique pour les MNT et leurs FR
+Mesure 54 : Renforcer la législation relative à la normalisation des FR des MNT ;
+Mesure 55 : Plaidoyer pour la ratification de la Convention Cadre de l’OMS 
+pour la lutte anti-tabac ;
+Mesure 56 : Réviser la loi 15-91 relative à l’interdiction de fumer et de faire de 
+la publicité et de la propagande en faveur du Tabac ;
+Mesure 57 : Plaidoyer pour l’augmentation des taxes sur les prix du tabac, de 
+l’alcool, des boissons sucrées et sur tous les produits nocifs à la 
+santé ;
+Mesure 58 : Plaidoyer pour l’activation de l’approbation du projet de loi 2514 relatif à l’exercice de la profession de préparateurs et de 
+manipulateurs de produits de santé ;
+Mesure 59 : Actualiser le Dahir de 1960 relatif à l’exercice de la médecine 
+dentaire ;
+Mesure 60 : Mener des actions de plaidoyer pour l’adaptation du cadre 
+législatif relatif à la “ Toxicomanie et au problème de drogues 
+(dahir 1974 et dispositions du code pénal) à l’approche santé 
+publique promue par les Nations Unies ;
+Mesure 61 : Adapter le cadre législatif en santé mentale aux évolutions 
+scientifiques et culturelles ;
+Mesure 62 : Renforcer le cadre réglementaire relative à la lutte contre la 
+pollution de l’air.
+
+[Page 36]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+Domaine stratégique 4 : Renforcement de la surveillance, du suivi- 
+évaluation et développement de la recherche en matière des MNT et 
+leurs FR
+La surveillance des Maladies non Transmissibles et de leurs déterminants 
+repose essentiellement sur la réalisation d’enquêtes épidémiologiques, la mise 
+en place de registres pour certaines maladies chroniques et l’élaboration d’un 
+système de routine pour le suivi de ces maladies. Les données de surveillance 
+sont essentielles pour la définition d’actions ciblées, le suivi des progrès 
+accomplis dans la lutte contre les Maladies Non Transmissibles, ainsi que pour 
+l’élaboration et l’évaluation des stratégies et des politiques mises en œuvre.
+Le renforcement du système de surveillance et de suivi permettra de :
+• Générer une base factuelle qui permettra une meilleure prise de décisions en 
+matière de prévention et de contrôle des Maladies Non Transmissibles ;
+• Rendre compte de la situation, y compris par rapport aux 25 indicateurs qui 
+figurent dans le cadre global mondial de suivi et aux 09 cibles arrêtées par OMS 
+à l’échelle mondiale et/ou tout autre indicateur concernant les Maladies Non 
+Transmissibles ;
+• Comparer la situation nationale avec celles d’autres pays de la région ou dans le 
+monde.
+Action 4.1: Renforcer le système de surveillance des MNT et leurs FR
+Mesure 63 : Actualiser les données épidémiologiques relatives aux MNT et à leurs 
+FR par des enquêtes épidémiologiques régulières (STEPS …) ;
+Mesure 64 : Mettre en place des registres pour les MNT (cancers, maladies 
+rares…) ;
+Mesure 65 : Mener des enquêtes de prévalences des troubles mentaux parmi 
+la population générale, y compris les enfants et adolescents ;
+Mesure 66 : Généraliser les dispositifs de surveillance éco-épidémiologique 
+de la qualité de l’air.
+
+[Page 37]
+Action 4.2 : Mettre en place un mécanisme de suivi-évaluation des MNT 
+ et leurs FR
+Mesure 67 : Mettre en place un tableau de bord pour les programmes des 
+MNT et leurs FR à tous les niveaux ;
+Mesure 68 : Révision des systèmes d’information des MNT ;
+Mesure 69 : Informatiser le système d’information des MNT à tous les niveaux 
+de soins.
+Action 4.3 : Développer la recherche en matière de MNT
+Mesure 70 : Réaliser des études d’impact socio-économique des MNT et 
+leurs FR sur la santé ;
+Mesure 71 : Réaliser des études sur les connaissances, attitudes, pratiques 
+des MNT et leurs FR ;
+Mesure 72 : Renforcer la recherche en matière des MNT et leurs complications ;
+Mesure 73 : Réaliser des études d’évaluation des actions menées pour prévenir 
+et contrôler les MNT ;
+Mesure 74 : Mener des enquêtes socio- anthropologiques en matière de santé 
+mentale, des troubles mentaux ; d’addictologie et de conduites 
+addictives ;
+Mesure 75 : Réaliser des enquêtes bio-comportementales (RDS) régulières et 
+des évaluations de la situation parmi les personnes qui s’injectent 
+des drogues.
+
+[Page 38]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+V. Estimation budgétaire pour la mise en œuvre de la 
+stratégie Nationale multisectorielle de prévention et de 
+contrôle du MNT
+Le financement de cette stratégie, sans compter les dépenses en ressources 
+humaines, nécessitera un budget global de l’ordre 5 430 590 000 DH, de 
+dirhams. Ce budget se ventile en quatre grandes lignes comme suit :
+Tableau III : Estimation budgétaire
+Domaines strategiques
+Budget estimatif 
+(MAD)
+%
+ Promotion des modes de vie sains et prévention
+des MNT
+271 529 500
+5%
+ Renforcement de la prise en charge des MNT et
+développement de nouveaux programmes
+4 344 472 000
+80%
+ Amélioration de la gouvernance des MNT et de
+leurs FR
+108 611 800
+2%
+Renforcement de la surveillance, du suivi- évaluation et développement de la recherche en
+matière des MNT et leurs FR
+705 976 700
+13%
+Total
+5 430 590 000
+100%
+
+[Page 39]
+ANNEXE
+
+[Page 40]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+
+[Page 41]
+ANNEXE : Matrice de suivi de la stratégie nationale multisectorielle de prévention 
+et de contrôle des MNT
+Les indicateurs de suivi de la mise en œuvre de la stratégie nationale sont sélectionnés parmi les 25 indicateurs 
+de la stratégie mondiale de l’OMS, et conformément aux cibles choisies par notre pays et le processus engagé 
+pour les atteindre.
+ Élément du
+ cadre du Plan
+d’Action
+Cible fixée par notre pays
+Indicateur
+ Source de
+vérification
+ Valeur de
+référence
+Lutte contre le 
+cancer
+- Avoir un taux de 80% de 
+participation au programme de 
+détection précoce du cancer 
+du sein pour les femmes âgées 
+entre 40 ans et 69 ans
+- Avoir un taux de 80% de 
+participation au programme de 
+détection précoce du cancer du 
+col de l’utérus pour les femmes 
+âgées entre 30 ans et 49 ans
+- Prise en charge de 100 % de 
+malades atteints de cancer
+- Pourcentage des 
+femmes âgées de 30 à 
+49 ans ayant bénéficié 
+d’au moins un test de 
+dépistage du cancer du 
+col de l’utérus
+- Nombre de malades 
+pris en charge dans 
+les centres régionaux 
+d’oncologie
+- Système 
+d’information 
+de routine du 
+dépistage du 
+cancer du sein et 
+du col de l’utérus 
+du col
+- 
+- 
+- Système 
+d’information (SI)
+- 36% pour le 
+cancer du sein en 
+- 8% pour le 
+cancer du col de 
+l’utérus en 2017
+- 71% de malades 
+pris en charge en 
+ Lutte contre le
+cancer
+- 90 % des jeunes filles de tranche 
+d’âge ciblée vaccinées par le 
+HPV
+- Pourcentage des 
+jeunes filles vaccinées 
+par le HPV
+- Système 
+d’information de 
+la vaccination 
+contre HPV 
+intégrée dans PNI
+NA
+
+[Page 42]
+"Notre santé dans
+notre mode de vie"
+  
+" 
+Stratégie Nationale Multisectorielle de Prévention
+et de Contrôle des Maladies Non Transmissibles
+ Élément du
+ cadre du Plan
+d’Action
+Cible fixée par notre pays
+Indicateur
+ Source de
+vérification
+ Valeur de
+référence
+Manque d’activité physique
+- Réduire de 10 % la prévalence 
+de l’inactivité physique
+- Prévalence 
+standardisée selon 
+l’âge des personnes 
+âgées de 18 ans et 
+plus.
+- Enquête sur la 
+prévalence des 
+FR des MNT en 
+- 21,1% ont un 
+niveau d’activité 
+insuffisant (steps 
+2018)
+Apport en sel/
+sodium
+- Réduction de 10 % de l’apport 
+moyen en sel/sodium dans la 
+population
+- Apport journalier moyen 
+en sel (chlorure de 
+sodium) en grammes 
+dans la population, 
+standardisé selon l’âge 
+chez les personnes 
+âgées de 18 ans et plus
+- Enquête sur la 
+prévalence des 
+FR des MNT 
+(Stepwise) 2025
+- Estimation 
+actuelle 12 g
+Tabagisme
+- Réduction relative de 20 % de la 
+prévalence du tabagisme actuel 
+chez les personnes âgées de 15 
+ans et plus
+- Prévalence du 
+tabagisme chez la 
+population adulte âgée 
+de 18 ans et plus.
+- Enquête sur la 
+prévalence des 
+FR des MNT en 
+- 13,4 % (hommes 
+26,9 % ; et 
+femmes 0,4 %) 
+(steps 2018)
+- 6% des élèves 
+(13 et 15 ans) 
+(GYTS, 2016)
+Hypertension 
+artérielle
+- Baisse relative de10 % de la 
+prévalence de l’hypertension 
+artérielle
+- Prévalence 
+standardisée selon 
+l’âge de l’hypertension 
+artérielle chez les 
+personnes âgées de 18 
+ans et plus
+- Enquête sur la 
+prévalence des 
+FR des MNT en 
+- 29,3% sont 
+hypertendus 
+(steps 2018)
+
+[Page 43]
+ Élément du
+ cadre du Plan
+d’Action
+Cible fixée par notre pays
+Indicateur
+ Source de
+vérification
+ Valeur de
+référence
+Diabète
+Réduire de 15% l’augmentation de 
+la prévalence du diabète
+ Prévalence standardisée
+selon l’âge, l’hyperglycémie/du diabète chez
+ les personnes âgées de
+18 ans et plus
+ Enquête sur la
+ prévalence des
+ FR des MNT en
+10,6 % sont 
+diabétiques et 
+10,4% sont pré- 
+diabétiques (steps 
+2018)
+Médicaments 
+essentiels et 
+technologies 
+de base pour 
+traiter les principales MNT
+Accessibilité de 80% des médicaments essentiels et des technologies de base (génériques compris) 
+nécessaires pour traiter l’hypertension et diabète
+Disponibilité des médicaments antihypertenseurs
+ et Antidiabétiques oraux
+pour couvrir 80% des patients suivis et nécessitant
+un 
+traitement 
+médicamenteux
+ Système
+d’information
+60% (steps 2018)
+Chimiothérapie 
+pour prévenir 
+les infarctus du 
+myocarde et 
+les accidents 
+vasculaires 
+cérébraux
+Au moins 50 % des personnes 
+remplissant les conditions bénéficient d’une chimiothérapie et de 
+conseils au niveau des ESSP dans 
+le but de prévenir les infarctus du 
+myocarde et les accidents vasculaires cérébraux
+ Répartition au niveau des
+ ESSP de la statine et
+ l’aspirine pour couvrir au
+moins 50% des patients
+ Système
+d’information
+NA
+Santé buccodentaire
+- Améliorer de 80% de la population cible sensibilisée aux risques 
+des affections buccodentaires ;
+- Améliorer de 30 % le taux de 
+couverture en médecins dentistes 
+et en équipements dentaires pour 
+10.000 habitants
+- Le taux de la population cible sensibilisée
+- Le ratio de couverture 
+en équipementws dentaires et de médecins 
+dentistes pour 10.000 
+habitants
+ Système
+d’information
+En passant de 
+400.000 en 2014 à 
+750.000
+En passant de 12 
+(Année 2017) à 16 
+pour 10.000 habit

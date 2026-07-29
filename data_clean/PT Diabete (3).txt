@@ -1,0 +1,4122 @@
+[Page 2]
+Edition 2023
+PROTOCOLE THÉRAPEUTIQUE
+LE DIABETE
+livre diabete vf.indd 1
+livre diabete vf.indd 1
+05/09/2023 16:33:17
+05/09/2023 16:33:17
+
+[Page 3]
+livre diabete vf.indd 2
+livre diabete vf.indd 2
+05/09/2023 16:33:17
+05/09/2023 16:33:17
+
+[Page 4]
+ 
+Préface 
+ 
+ 
+La généralisation de l’Assurance Maladie Obligatoire (AMO), composante essentielle du Chantier Royal 
+de généralisation de la protection sociale lancé par Sa Majesté le Roi Mohammed VI Que Dieu L’assiste, 
+est une avancée sociale majeure sur la voie de la consécration du droit constitutionnel d’accès aux soins 
+dans notre pays. Ce chantier d’envergure inédite ambitionne de faire bénéficier tous les marocains d’un 
+accès équitable au juste soin, au juste coût, au moment le plus opportun et au niveau de la structure soignante 
+la plus appropriée. 
+ 
+ Dans cette conjoncture fortement marquée par la priorité gouvernementale accordée à la refonte du système 
+de santé national conformément aux Hautes Orientations Royales afin d’accompagner les chantiers de la 
+protection sociale et de la généralisation de l’AMO, et par les conclusions et recommandations du rapport 
+sur le nouveau modèle de développement du Royaume qui promeut particulièrement l’amélioration de la 
+gouvernance et la mise en place d’une politique de prévention et de promotion de la santé, une amélioration 
+notable a été soulignée aussi bien au niveau des paramètres de gestion des différents régimes d’AMO, 
+qu’au niveau de la qualité de prise en charge des assurés AMO et de leurs ayants droits. 
+ 
+Dans ce sens, l’Agence Nationale de l’Assurance Maladie (ANAM), sous l’égide du Ministère de la Santé 
+et de la Protection Sociale, et conformément à ses missions de régulation et d’encadrement technique fixées 
+au niveau de l’article 59 de la loi n°65-00, et afin d’accompagner cette dynamique, a procédé, à 
+l’élaboration d’une série de protocoles thérapeutiques, diffusés auprès de la communauté médicale, des 
+institutions concernées et des intervenants dans le domaine de la santé, et ce, dans un souci d’amélioration 
+des conditions d’accès aux soins aux assurés AMO et de maitrise médicalisée des dépenses du système. 
+ 
+Cette action s’inscrit également dans le cadre la convention de partenariat signée entre le Ministère de la 
+Santé et de la Protection Sociale, la Société Marocaine des Sciences Médicales (SMSM) et le Conseil 
+National de l’Ordre des Médecins (CNOM) relative à l'élaboration et la diffusion des protocoles 
+thérapeutiques. Elle ambitionne, entre autres, à harmoniser les pratiques médicales, à organiser l’arsenal 
+diagnostic et thérapeutique nécessaire à la prise en charge adéquate des malades, et à encadrer l’exercice 
+du contrôle médical assigné légalement aux Organismes Gestionnaires de la couverture médicale. 
+ 
+Ces protocoles contribuent, entre autres, à la réussite de l’instauration de parcours coordonnés de soins 
+spécifiques à la prise en charge des pathologies en vue de renforcer la synergie d’action entre les équipes 
+soignantes à différents niveaux, ce qui permettra d’améliorer l’accès aux soins et prestations requises. 
+ 
+Elaborés par un groupe d’experts pluridisciplinaires et multiprofessionnels, ces référentiels ne sont pas 
+figés; ils sont actualisés périodiquement. Il s’agit en effet, d’un processus dynamique et évolutif qui vise 
+essentiellement de faire bénéficier les assurés de l’AMO d’un accès aux soins équitable, de qualité, et dans 
+les meilleures conditions. 
+ 
+Un objectif qui se profile de plus en plus grâce à la mobilisation de l’ensemble des parties prenantes dans 
+une approche institutionnelle et consensuelle privilégiant une Couverture-Santé Universelle (CSU) pérenne 
+et effective comme garante du développement humain de la Nation. 
+ 
+ 
+ 
+ 
+livre diabete vf.indd 3
+livre diabete vf.indd 3
+05/09/2023 16:33:17
+05/09/2023 16:33:17
+
+[Page 5]
+livre diabete vf.indd 4
+livre diabete vf.indd 4
+05/09/2023 16:33:17
+05/09/2023 16:33:17
+
+[Page 6]
+SOMMAIRE 
+I- Introduction 
+II- État des lieux 
+1- Situation épidémiologique 
+2- Fardeau économique 
+III- Objectif et méthodologie 
+III-1. Objectif 
+III-2 Méthodologie 
+IV- Présentation de la maladie 
+1. Définition et classification de la maladie 
+2. Description clinique 
+3. Évolution de la maladie 
+4. Prévention 
+V- Diagnostic 
+1. Diagnostic Positif 
+2. Diagnostic Différentiel 
+VI- Recommandations thérapeutiques 
+1. Traitement du Diabète de type 1 
+2. Traitement du Diabète de type 2 
+3. Traitement du Diabète gestationnel 
+4. Autres types de diabètes 
+VII- Situations particulières 
+1. Diabète et grossesse 
+2. Prise en charge péri opératoire 42 
+3. Aspects psychologiques et psychiatriques 
+5. Préventions des accidents liés aux PCI 
+6. Diabète et corticothérapie 
+7. Diabète et Ramadan 
+8. Diabète et cavité buccodentaire 
+9. Diabète et vaccinations 
+10. Diabète et travail 
+VIII- Modalités de suivi 
+IX- Références bibliographiques 
+X- Annexes 
+- Annexe 1 : Commission d’élaboration du référentiel 
+- Annexe 2 : Déclaration des conflits d’intérêt 
+- Annexe 3 : Liste des abréviations 
+- Annexe 4 : Liste des professionnels concernés 
+- Annexe 5 : Actes et prestations 
+- Annexe 6 : Liste des médicaments et dispositifs médicaux 
+ 
+ 
+ 
+livre diabete vf.indd 5
+livre diabete vf.indd 5
+05/09/2023 16:33:18
+05/09/2023 16:33:18
+
+[Page 7]
+livre diabete vf.indd 6
+livre diabete vf.indd 6
+05/09/2023 16:33:18
+05/09/2023 16:33:18
+
+[Page 8]
+I- INTRODUCTION 
+ 
+Le diabète sucré, décrit comme « Épidémie mondiale » par l’Organisation Mondiale de la Santé (OMS), 
+est une maladie chronique silencieuse. Si elle n’est pas maîtrisée, elle handicape et peut même tuer. Elle 
+touche les personnes dans leurs années les plus productives et entraine des dépenses importantes pour les 
+ménages et la communauté. Femmes, enfants et personnes âgées sont les groupes les plus vulnérables aux 
+différentes souffrances associées à cette maladie. 
+ 
+Le diabète sucré est l’une des principales urgences sanitaires mondiales du 21ème siècle. Il figure parmi les 
+dix premières causes de décès. Il est la première cause de cécité, d’insuffisance rénale terminale chronique 
+et d’amputations des membres inférieurs. 
+ 
+A l’instar des autres pays, le Maroc n’échappe pas à ce problème de santé publique à cause de la transition 
+épidémiologique, démographique mais surtout de l’adoption des modes de vie propices au développement 
+de la maladie (alimentation déséquilibrée, sédentarité, habitudes toxiques). Conscient de l’ampleur de ce 
+problème, notre pays a toujours inscrit le diabète sucré comme priorité dans ses plans sectoriels de santé en 
+œuvrant selon une approche à même d’améliorer les services de prévention et de prise en charge. Afin de 
+renforcer tous ses efforts et assurer une prise en charge optimale des personnes diabétiques, il est judicieux 
+de mettre en place le référentiel de prise en charge du diabète en tant que principal outil d’harmonisation 
+de la pratique médicale au niveau des structures de soins publiques et privées. 
+ 
+CONTEXTE 
+ 
+L’élaboration du présent référentiel de prise en charge du diabète sucré s’inscrit dans le cadre de : 
+ 
+La concrétisation de la généralisation de la protection sociale conformément aux hautes orientations 
+de Sa Majesté le Roi Mohammed VI que Dieu l’assiste ; 
+ 
+La mise en œuvre de la stratégie de l’ANAM 2020-2024, notamment le volet relatif à la mise en 
+place du Parcours Coordonné de Soins (PCS). En effet, le PCS constitue une composante majeure 
+du chantier de la généralisation de l’assurance maladie, car il permet la maitrise médicalisée des 
+dépenses et une meilleure coordination des soins prodigués aux assurés ; 
+ 
+La mise en œuvre de la stratégie nationale multisectorielle de prévention et de contrôle des Maladies 
+Non Transmissibles (MNT) 2019-2029 dont le principal objectif est de réduire la mortalité, la 
+morbidité et les incapacités liées à ces maladies et leurs facteurs de risque selon une approche 
+intégrée et multisectorielle ; 
+ 
+Les efforts déployés par le Maroc pour honorer ses engagements en matière de réalisation des 
+Objectifs de Développement Durable (ODD) à l’horizon 2030, notamment les cibles relatives à la 
+Couverture Sanitaire Universelle, et celles liées aux MNT : « Réduire d’un tiers, par la prévention 
+et le traitement, le taux de mortalité prématurée due à des MNT (y compris le diabète sucré) ». 
+ 
+II- ETAT DES LIEUX 
+ 
+II-1. Situation épidémiologique 
+ 
+Selon les estimations de l’OMS et de l’IDF [1], la hausse continue de l’incidence et de la prévalence du 
+diabète est manifeste. En effet, 463 millions de personnes de plus de 20 ans dans le monde sont diabétiques, 
+soit une prévalence de 9,3%. Ce chiffre pourrait s’élever à 700 millions en 2045. A l’échelle mondiale, le 
+nombre d’enfants et d’adolescents vivant avec le diabète de type 1 est estimé à plus d’1 million d’enfants 
+livre diabete vf.indd 7
+livre diabete vf.indd 7
+05/09/2023 16:33:18
+05/09/2023 16:33:18
+
+[Page 9]
+et le nombre de nouveaux cas diagnostiqués chaque année est de l’ordre de 128 900 nouveaux cas. Pour le 
+diabète gestationnel la prévalence mondiale est estimée à 15,8%. Au Maroc, le nombre d’enfants et 
+d’adolescents de moins de 15 ans vivant avec le diabète est estimé à plus de 20000 [2]. L’incidence du DT1 
+augmente et l’âge de diagnostic se décale vers des âges de plus en plus jeunes, notamment vers les enfants 
+entre 0 et 5 ans. 
+ 
+Par ailleurs, les données de l’enquête nationale Stepwise sur les facteurs de risque des MNT ont montré que 
+chez les personnes âgées de plus de 18 ans [3] : 
+ 
+ 10,6% sont diabétiques soit 2.5 millions des adultes avec une prédominance chez les femmes 10,6% 
+vs 8,6% chez les hommes et une prédominance en milieu urbain 12,1% vs 8% en milieu rural ; 
+ 50% des diabétiques méconnaissent leur maladie ; 
+ 10,4% sont en état de pré diabète soit 2.2 millions ; 
+ 33% des personnes sont en surpoids et 20% sont obèses. 
+ 
+En plus, le diabète sucré représente, avec les trois autres MNT (maladies cardiovasculaires, cancers et 
+maladies respiratoires chroniques), plus de 80 % de tous les décès. 
+ 
+Pour le Diabète gestationnel (DG), la prévalence nationale est encore méconnue. Mais, les résultats d’une 
+première étude transversale exploratoire, utilisant des méthodes mixtes dans la région de Marrakech-El 
+Haouz en 2015, a montré que la prévalence du DG était de 23.7% à Marrakech et 18.3% à Al Haouz [4]. 
+ 
+II-2. Fardeau économique 
+ 
+Le diabète sucré et ses complications sont responsables d’importantes pertes économiques pour les 
+diabétiques et leur famille, ainsi que pour les systèmes de santé et les économies nationales, du fait des 
+coûts médicaux directs et indirects qu’ils engendrent. En effet, les coûts globaux de soins de santé pour le 
+traitement du diabète sucré et de ses complications sont estimés à 760 milliards USD chaque année. Au 
+Maroc, selon le rapport annuel global Assurance Maladie Obligatoire (AMO) établi par l’Agence Nationale 
+de l’Assurance Maladie au titre de l’année 2018 [5]: 
+ 
+ Seuls 3,2% de la population AMO qui correspond à la population atteinte d’au moins une Affection 
+de Longue Durée (ALD) consomme 51,5% des dépenses totales ; 
+ Plus des deux tiers (71,8%) des dépenses des ALD sont consommées par les quatre affections et le 
+diabète sucré types (1 et 2) représente 10,4%. 
+ 
+III- OBJECTIF ET METHODOLOGIE 
+ 
+III-1. Objectif 
+ 
+L’objectif de l’élaboration du référentiel de prise en charge du diabète sucré est de proposer principalement 
+aux professionnels de santé une synthèse des recommandations actuelles en matière de prise en charge du 
+diabète. Il s’agit d’un outil d’aide à la décision médicale pour une prise en charge optimale et adaptée à 
+chaque patient en tenant compte de son âge, des autres pathologies éventuellement présentes, de la sévérité 
+et de l’ancienneté de son diabète. 
+ 
+Ce référentiel va non seulement définir une stratégie thérapeutique pour obtenir la normalisation de la 
+glycémie selon des objectifs thérapeutiques, mais aussi rappeler les modalités de traitement des facteurs de 
+risque vasculaires associés tels que la dyslipidémie, l’hypertension artérielle et le tabagisme. Des chapitres 
+seront consacrés aux complications du diabète et à leurs traitements. 
+livre diabete vf.indd 8
+livre diabete vf.indd 8
+05/09/2023 16:33:18
+05/09/2023 16:33:18
+
+[Page 10]
+Ainsi, en utilisant ce document, les professionnels de santé, notamment de 1ère ligne, devraient être capables 
+de : 
+ 
+Dépister et diagnostiquer un diabète sucré 
+ 
+Différencier entre le diabète de type 1, le diabète de type 2 et les autres types de diabète 
+ 
+Instaurer le traitement adéquat et l’adapter en fonction de l’équilibre glycémique 
+ 
+Assurer le suivi du diabétique 
+ 
+Dépister les complications 
+ 
+Éduquer le patient diabétique 
+ 
+Identifier les patients à référer 
+ 
+Ce référentiel sera aussi utile pour les décideurs qui planifient la prestation de soins aux diabétiques, pour 
+les administrateurs de programmes nationaux chargés de la formation, de la planification et du suivi de la 
+prestation de services. Il sera réévalué régulièrement en fonction des données scientifiques. 
+ 
+III-2. Méthodologie 
+ 
+La démarche adoptée pour l’élaboration du présent référentiel est participative, impliquant les parties 
+prenantes concernées par la gestion et la prise en charge médicale du diabète. Un comité scientifique et 
+technique pluridisciplinaire a été créé sous la présidence de l’ANAM avec la participation de représentants 
+du Ministère de la Santé (DELM, DHSA, CHR-Rabat et DRS-Casablanca Settat), de la Société Marocaine 
+des Sciences Médicales (SMSM), de la Société Marocaine d’Endocrinologie Diabétologie et Nutrition 
+(SMEDIAN), des CHU de Rabat et Casablanca et du secteur privé. 
+ 
+La méthode AGREE (Appraisal of Guidelines for Research and Evaluation) (6) a été adoptée par le 
+comité scientifique et technique pour toutes les étapes du processus de développement de ce référentiel. 
+Plusieurs réunions de concertation et de coordination en présentiel et par vidéo conférence ont été 
+organisées. 
+ 
+Ce travail de revue de la littérature tient compte de tous ces éléments et de l'état actuel des recherches 
+scientifiques dans le diabète de type 2. 
+ 
+Niveau de preuve scientifique fourni par la littérature (études 
+thérapeutiques) 
+Grade des protocoles 
+Niveau 1 
+Essais comparatifs randomisés de forte puissance 
+Analyse de décision basée sur des études bien menées 
+Méta-analyse d’essais comparatifs randomisés. 
+ 
+A 
+Preuve scientifique 
+ 
+Niveau 2 
+Essais comparatifs randomisés de faible puissance 
+Études comparatives non randomisées bien menées 
+Études de cohorte 
+B 
+Présomption scientifique 
+ 
+Niveau 3 
+Études cas-témoins 
+C 
+Faible niveau de preuve 
+Niveau 4 
+Études comparatives comportant des biais importants 
+Études rétrospectives 
+Séries de cas 
+Etudes épidémiologiques descriptives (transversale, 
+longitudinale) 
+ 
+Lorsque les données de la littérature sont insuffisantes ou incomplètes, les protocoles ont été établis à partir 
+d’un accord professionnel fort pour prendre en compte l’état des pratiques et les opinions d’experts. 
+livre diabete vf.indd 9
+livre diabete vf.indd 9
+05/09/2023 16:33:18
+05/09/2023 16:33:18
+
+[Page 11]
+IV- PRESENTATION DE LA MALADIE 
+ 
+IV-1. Définition et classification de la maladie (7) 
+ 
+Le diabète sucré est un groupe de maladies métaboliques caractérisées par une hyperglycémie chronique 
+résultant d’un défaut de sécrétion d’insuline ou de son action ou de ces deux anomalies associées. 
+L’hyperglycémie chronique (HG) est associée, à terme, à des complications organiques spécifiques 
+touchant, particulièrement, les yeux, les reins, les nerfs, le cœur et les vaisseaux. La classification actuelle 
+permet de retenir : 
+ 
+1. Diabète de type 1 
+2. Diabète de type 2 
+3. Diabète gestationnel 
+4. Autres types de diabètes 
+- Défauts génétiques : MODY, mitochondrial, diabète lipoatrophique… 
+- Pancréatiques : pancréatite chronique, fibrose cystique, hémochromatose… 
+- Endocrinopathies : Acromégalie, Cushing, Glucagonome, Phéochromocytome… 
+- Médicamenteux et/ou toxiques : glucocorticoïdes, hormones thyroïdiennes, thiazides, acide 
+nicotinique, interféron alpha, diazoxide… 
+- Autres : infections virales, dystrophie myotonique, chorée de Huntington… 
+ 
+ Le diabète de type 1 (DT1) est caractérisé par un déficit absolu en insuline. Il représente 5 à 10% de la 
+population affectée par la maladie. Il apparaît, classiquement, sous forme aigüe pendant l’enfance ou la 
+jeunesse, et son traitement consiste à administrer de l’insuline à vie. Ce type de diabète à médiation, 
+essentiellement, immunitaire peut, aussi, se révéler à un âge plus avancé. En effet, certains patients 
+conservent une sécrétion d’insuline suffisante pour prévenir l'acidocétose diabétique pendant de 
+nombreuses années pour enfin devenir carencés en insuline, et risquer l'acidocétose diabétique. 
+ 
+ Le diabète de type 2 (DT2) est caractérisé par un manque relatif d’insuline et une augmentation de la 
+résistance à son action. C’est le type le plus fréquent. Il représente 90 à 95% de la population atteinte par la 
+maladie. Il apparaît, classiquement, de façon insidieuse, et peut passer inaperçu pendant longtemps. Il est 
+fortement lié à l’âge avancé et au surpoids. Souvent le patient présente une forte hérédité diabétique. 
+ 
+ Le diabète gestationnel (DG) est un trouble de la tolérance glucidique conduisant à une hyperglycémie 
+(HG) de sévérité variable, diagnostiquée pour la première fois pendant la grossesse. Il se déclare dans 
+environ 10 à 15% des grossesses. Bien qu’il disparaisse, généralement après l’accouchement, il représente 
+un gros risque pour le fœtus, l’évolution de la grossesse et le développement ultérieur du diabète et d’une 
+maladie cardiovasculaire. 
+ 
+ Les autres types de diabètes, par troubles spécifiques, sont peu fréquents et incluent des formes de la 
+maladie liées à des altérations génétiques, des médicaments, des maladies endocrines et autres. 
+ 
+ 
+ 
+ 
+IV-2. Description clinique (7, 8) 
+ 
+ Le tableau typique du diabète de type 1 est le syndrome cardinal diabétique, qui comporte : 
+livre diabete vf.indd 10
+livre diabete vf.indd 10
+05/09/2023 16:33:18
+05/09/2023 16:33:18
+
+[Page 12]
+Polyuro-polydipsie – Amaigrissement – Hyperphagie 
+ 
+Il est remarquable par son début brutal, chez un sujet jeune, mince, avec une cétonurie associée à la 
+glycosurie (recherchées avec une bandelette urinaire), l’hyperglycémie est souvent supérieure à 3 g/l. Le 
+diabète de type 1 peut être associé à d’autres maladies auto-immunes (vitiligo, maladie de Basedow, 
+thyroïdites, maladie de Biermer). Si le diagnostic n’est pas fait à ce stade, en l’absence de traitement par 
+l’insuline, l’évolution se fait vers l’acidocétose qui confine au décès. 
+ 
+ Le diabète de type 2 se caractérise typiquement par la découverte fortuite d’une hyperglycémie chez 
+un sujet de plus de 35 ans, avec surpoids. Le plus souvent, on retrouve une hérédité familiale de DT2. Il est 
+souvent associé à une hypertension artérielle et/ou à une hypertriglycéridémie et/ou une hypo HDLcholestérolémie. Il n’y a pas habituellement de cétonurie au début (pas de carence insulinique absolue), 
+mais il peut y avoir une glycosurie. Parfois le DT2 sera découvert à l’occasion d’une complication : 
+infarctus du myocarde, plaie chronique du pied, gangrène, protéinurie… 
+ 
+ Le diabète gestationnel est souvent asymptomatique. Il nécessite, donc, un chez les femmes qui 
+présentent au moins un des facteurs de risque suivants : 
+ 
+- 
+Age ≥ 35 ans. 
+- 
+IMC ≥ 25 kg/m² 
+- 
+Antécédents personnels de DG d’enfant macrosome 
+- 
+Antécédents de diabète chez un ou plusieurs apparentés au 1er degré. 
+ 
+IV-3. Évolution de la maladie (7, 9) 
+ Le diabète de type 1 est caractérisé par la possible installation de complications dégénératives au bout 
+de 5 ans et plus. Celles-ci sont étroitement corrélées au déséquilibre du diabète. 
+ 
+ L’histoire naturelle du DT2 est caractérisée par une longue période asymptomatique où le patient 
+démarre le développement des complications dégénératives sans s’en rendre compte, d’où l’intérêt du 
+dépistage de la maladie et des autres facteurs de risque cardio-vasculaires. 
+• 
+La survenue de complications infectieuses peut révéler le diagnostic du diabète. 
+• 
+Sur le plan physiopathologique, l’insulinocarence s’aggrave tout au long de la maladie et d’autant 
+plus rapidement que le diabète est déséquilibré et le bilan lipidique perturbé (glucotoxicité et 
+lipotoxicité). 
+ 
+ Lorsqu’une femme a eu un DG, la glycémie redevient normale après l’accouchement, du moins 
+temporairement. Le risque de récidive du DG lors d’une grossesse ultérieure est situé entre 30 à 84 % selon 
+les études [réf]. Par ailleurs, le risque élevé de DT2 après un DG, justifie l’information (poursuite de 
+l’activité physique, alimentation équilibrée, arrêt du tabagisme, importance de la programmation des 
+grossesses ultérieures) et le dépistage (par glycémie à jeun) lors de la 3ème consultation post-natale, avant 
+une nouvelle grossesse, puis tous les 1 à 3 ans selon les facteurs de risque pendant au moins 25 ans. 
+ 
+ 
+ 
+IV-4. Prévention (7, 10, 11) 
+livre diabete vf.indd 11
+livre diabete vf.indd 11
+05/09/2023 16:33:18
+05/09/2023 16:33:18
+
+[Page 13]
+Les MNT dont le diabète sucré sont en grande partie évitables. En effet, des mesures préventives efficaces, 
+rentables, réalisables et abordables existent. Leur mise en œuvre nécessite des actions intégrées et 
+multisectorielles. Elles ont été abordées dans : 
+ 
+1- Programme National de Prévention et de Contrôle du Diabète 
+2- Programme National de Prévention et de Contrôle de l'Hypertension 
+3- et de Contrôle du Cancer 2020-2029 
+4- Stratégie Nationale Multisectorielle de Prévention et de Contrôle des MNT 2019-2029 
+5- Plan d'action national multisectoriel de Prévention et de Contrôle des MNT 2020-2021 
+ 
+Il est à noter que la promotion de modes de vie sains est considérée, actuellement, comme une stratégie 
+forte et incontournable, dont les interventions peuvent réduire les principaux facteurs de risque communs 
+et leurs déterminants sous-jacents en l’occurrence, le tabagisme, la mauvaise alimentation, la sédentarité et 
+l’usage nocif de l’alcool. 
+ 
+La prévention des MNT dont le diabète fait aussi appel aux services cliniques et préventifs comme les 
+programmes de vaccination, les programmes de dépistage axés sur les populations à risque et l’évaluation 
+du risque cardio-vasculaire dans les services de soins primaires. 
+En résumé trois principales actions doivent être développées pour prévenir le diabète : 
+ 
+1- Renforcer la sensibilisation et la communication en matière de diabète, ses facteurs de risque et ses 
+complications ; 
+2- Consolider les services sanitaires de prévention ; 
+3- Créer des environnements favorables pour la promotion des modes de vie sains. 
+Dans le diabète de type 1, il n’y a pas de prévention spécifique. 
+ 
+Dans le diabète de type 2, plusieurs essais contrôlés randomisés majeurs réalisés en Finlande et aux États 
+Unis soutiennent l’intérêt d’un programme intensif de prévention, dont l’objectif est : 
+ 
+ Atteindre et maintenir 7% de perte du poids corporel initial : 
+ 
+• 
+Baisser l’apport calorique (en fonction du poids de départ) 
+• 
+Réduire l’apport en gras (graisses saturées +++) 
+• 
+Bannir les sodas et boissons sucrées 
+• 
+Apport en fibres de 14g/1000 kcal 
+• 
+Favoriser les graines complètes et l’apport en fruits et légumes 
+ 
+ Augmenter l'activité physique d'intensité modérée (comme la marche rapide) à au moins 150 
+min/semaine, prévoir des activités de renforcement musculaire. Planifier des espaces dédiés à 
+l’activité physique et lutter contre la sédentarité 
+ 
+Le traitement médicamenteux à base de metformine peut être discuté en prévention du DT2 chez les sujets 
+ayant un IMC>35 kg/m², de moins de 60 ans et chez les femmes ayant un antécédent de diabète gestationnel. 
+ 
+Dans le diabète gestationnel, le meilleur moyen de prévention durant la grossesse est de maintenir un 
+poids de forme et d'avoir des habitudes de vie saines. 
+ 
+V- DIAGNOSTIC 
+ 
+livre diabete vf.indd 12
+livre diabete vf.indd 12
+05/09/2023 16:33:18
+05/09/2023 16:33:18
+
+[Page 14]
+V-1. Positif (7, 11, 12, 13, 14, 15, 16, 17, 18) 
+ 
+ Le diagnostic du diabète (en dehors du DG) est affirmé dans l’un des 4 cas suivants : 
+ 
+ 
+Glycémie à jeun (prélèvement de sang veineux) ≥ 1,26 g/l (6.9 mmol/l), retrouvée à 2 reprises réalisée 
+après au moins 8h de jeûne. En cas de symptômes cliniques d’HG, une seule Glycémie à jeun ≥ 1,26 
+g/l est suffisante. Grade A 
+ 
+ 
+Symptômes cliniques d’HG avec glycémie ≥ 2,00 g/l (11 mmol/l) quelle que soit l’heure. 
+ 
+Glycémie ≥ 2,00 g/l (11 mmol/l) 2 heures après ingestion de 75 g de glucose par voie orale (HGPO, 
+non recommandée en pratique clinique). 
+ 
+ 
+HbA1c ≥ 6,5% (réalisée avec la méthode NGPS standardisée par rapport au test DCCT). Grade B 
+ 
+ 
+Nous ne conseillons pas l’utilisation de l’HGPO dans le dépistage du diabète à cause de ses inconvénients 
+pratiques, même si elle a une très bonne valeur diagnostique. 
+ 
+ Les facteurs de prédisposition au DT2 : 
+ 
+o Parent au premier degré atteint de diabète 
+o Race/ethnie à haut risque (afro-américaine, latino, amérindienne, américaine d'origine 
+asiatique, Insulaire Pacifique) 
+o Antécédents de maladies cardio-vasculaires 
+o Hypertension (140 /90 mm Hg ou sous traitement contre l'hypertension) 
+o Taux de cholestérol HDL inférieur à 0,35 g/l (0.90 mmol/l) et/ou un taux de triglycérides 
+supérieur à 2,50 g/l (2,82 mmol/l) 
+o Femmes atteintes du syndrome des ovaires polykystiques 
+o Inactivité physique 
+o Autres conditions cliniques associées à la résistance à l'insuline (par exemple, obésité 
+sévère, acanthosis nigricans). 
+ 
+ Le dépistage du DT2, dès l’âge de 35 ans, par une GAJ ou une HbA1c tous les 1 à 3 ans chez les 
+personnes prédisposées s’avère essentiel et permet de diagnostiquer, précocement, le diabète mais aussi le 
+prédiabète (GAJ entre 1 et 1,26g/l ou HbA1c entre 5,7 et 6,5%). 
+ 
+ Dans le DT1, le diagnostic est habituellement évident. Le dosage de l’insulinémie ou du peptide C sont 
+inutiles et la recherche des auto-anticorps spécifiques du diabète n’est indiquée qu’en cas de doute 
+diagnostique (voir tableau ci-dessous). 
+ 
+ 
+livre diabete vf.indd 13
+livre diabete vf.indd 13
+05/09/2023 16:33:18
+05/09/2023 16:33:18
+
+[Page 15]
+livre diabete vf.indd 14
+livre diabete vf.indd 14
+05/09/2023 16:33:19
+05/09/2023 16:33:19
+
+[Page 16]
+La différentiation des diabètes de type 1 et 2 selon leurs caractéristiques propres est résumée dans le tableau 
+suivant : 
+ 
+ 
+Type 1 
+Type 2 
+Antécédents familiaux du 
+même type 
+Rares 
+Fréquents 
+Age de survenue 
+Plutôt avant 35 ans 
+Plutôt après 35 ans 
+Mode de début 
+Brutal 
+Lent et Asymptomatique 
+Poids 
+Sujet mince 
+Sujet en surpoids ou obèse 
+Cétose 
+Souvent présente 
+Souvent absente 
+Complications dégénératives 
+au moment du diagnostic 
+Absentes 
+Présentes dans un cas sur 2 
+ 
+ Le dépistage du DG se fait (voir schéma ci-dessous) : 
+ 
+ 
+Lors de la première consultation prénatale (au 1er trimestre) chez une patiente à risque par : 
+ 
+La glycémie à jeun (GAJ) : 
+ 
+- 
+Si GAJ ≥ 1,26 g/l (7 mmol/L) : diagnostic de DT2 
+- 
+Si GAJ ≥ 0,92 g/l (5.1 mmol/L) et ≤ 1,25 g/l : DG (19). Grade B 
+ 
+Si le diagnostic est retenu par cette GAJ, il n’y a pas besoin de faire de test au 2ème trimestre. 
+ 
+ 
+Au second trimestre, entre 24 et 28 semaines de gestation, chez toutes les femmes enceintes et celles 
+ayant donné un résultat négatif lors du dépistage du premier trimestre par une HGPO, réaliser une 
+glycémie à jeun, à 1h et à 2h après ingestion de 75 g de glucose (20). Grade A 
+ 
+Glycémie 
+A jeun 
+1 heure 
+2 heures 
+Valeur anormale si 
+≥ 0,92 g/l 
+≥ 1,80 g/l 
+≥ 1, 53 g/l 
+≥5.1 mmol/L 
+≥ 10,0 mmol/l 
+≥ 8,5 mmol/l 
+ 
+Diabète gestationnel retenu : Si au moins une valeur anormale parmi les 3 mesures. 
+Pas de diabète gestationnel : si 3 valeurs normales. Ne pas répéter ultérieurement le dépistage. 
+ 
+Ci-dessous, l’arbre décisionnel du dépistage du DG. 
+ 
+livre diabete vf.indd 15
+livre diabete vf.indd 15
+05/09/2023 16:33:19
+05/09/2023 16:33:19
+
+[Page 17]
+ Les autres types de diabètes sont du ressort de l’endocrinologue. En cas de doute diagnostic 
+uniquement (diabète n’ayant pas les caractères habituels du type 1 ou du type 2) on évoquera une autre 
+étiologie en fonction du contexte clinique [Voir page 34, Tableau des autres types de diabète pour plus de 
+détails concernant ces diabètes]. 
+ 
+V-2. Diagnostic différentiel 
+ 
+Lorsque le diagnostic étiologique n’est pas clair, il est nécessaire de demander l’avis d’un endocrinologue. 
+Le syndrome cardinal est caractéristique du DT1, cependant l’amaigrissement avec appétit conservé peut 
+amener à discuter : 
+ 
+Une hyperthyroïdie ; 
+ 
+Une malabsorption, une parasitose intestinale. 
+ 
+livre diabete vf.indd 16
+livre diabete vf.indd 16
+05/09/2023 16:33:19
+05/09/2023 16:33:19
+
+[Page 18]
+VI- 
+RECOMMANDATIONS THERAPEUTIQUES 
+ 
+L’objectif du traitement du diabète est d’assurer le meilleur état de santé possible et permettre une longévité 
+normale sans altération importante de la qualité de vie. Cette prise en charge va permettre d’éviter les 
+symptômes dus à l′hypo ou à l’hyperglycémie ainsi que l’acidocétose et d’empêcher ou retarder le 
+développement des complications à long terme. 
+ 
+La prise en charge doit être adaptée à chaque patient, en tenant compte du type de diabète, de l’âge 
+physiologique, du niveau de risque cardiovasculaire, d’autres pathologies éventuellement présentes, de la 
+sévérité et de l’ancienneté de son diabète. L’existence de complications rénales, ophtalmologiques, 
+neuropathiques, podologiques, cardiovasculaires etc. nécessite des mesures spécifiques pour réduire 
+l’handicap fonctionnel et améliorer la qualité de vie. Enfin, le patient doit pleinement s’impliquer dans le 
+traitement de son diabète qui suppose une bonne hygiène de vie telle qu’une diététique équilibrée, la 
+pratique d’un exercice physique, la surveillance du poids, l’arrêt du tabac et le respect du traitement 
+médicamenteux, éventuellement, mis en place (21). 
+ 
+VI-1. Traitement du DT1 
+ 
+VI-1-A- Insulinothérapie (22) 
+ 
+Pour le patient diabétique de type 1, l’insulinothérapie est vitale. Toute interruption, délibérée ou non, du 
+traitement provoque en quelques heures : hyperglycémie et cétose, avec leur cortège symptomatique : 
+polyurie, soif, asthénie, nausées, voire douleurs abdominales, vomissements et l’acidose susceptible 
+d’engager le pronostic vital. L’initiation de l′insulinothérapie chez le DT1 nécessite toujours une 
+hospitalisation pour assurer une éducation thérapeutique ciblant en premier lieu : la maitrise des techniques 
+d’injection de l’insuline, l’autocontrôle glycémique et les conduites à tenir devant une hypo et une 
+hyperglycémie. 
+ Les insulines disponibles au Maroc 
+Aujourd’hui, seules les insulines humaines et leurs analogues (insulines humaines modifiées pour impacter 
+leur durée d’action) sont utilisées. Il y a quatre grandes catégories d’insulines : 
+ 
+– 
+L'insuline Ultra Rapide. Elle agit rapidement, 5 à 15 minutes après son injection, et atteint son pic 
+d'action 1h à 1h30 après son injection. Cette insuline doit être injectée au plus près du moment du repas 
+voire juste après le repas. Dans le cas contraire, lorsqu’elle est injectée trop tôt avant le repas, elle risque 
+d'engendrer une hypoglycémie. Sa durée d'action est d'environ 5 h. Ce sont des insulines analogues. 
+– 
+L'insuline rapide. Elle agit environ 30 minutes après son injection et atteint son pic d'action environ 
+2h après son injection. Elle doit être administrée 30 minutes avant les repas. Sa durée d'action est plus 
+longue que l'insuline précédente et avoisine généralement 6h à 8h. Ce sont des insulines humaines non 
+modifiées. 
+– 
+L'insuline intermédiaire. Appelée également NPH, elle a un aspect laiteux contrairement aux deux 
+premières qui sont, parfaitement, limpides. Elle entre en action entre 1 et 3h après son injection. Son pic 
+d'action se situe entre la 6ème et la 12ème h. Elle agit durant 12 à 16 h avec une forte décroissance d'action 
+dans les 4 dernières heures. Elle peut avoir des actions différentes : soit elle agit de façon prolongée et 
+équilibrée pendant toute sa durée d’action, soit elle agit de façon plus importante pendant les 6 premières 
+heures que pendant les heures suivantes. Ce sont des insulines humaines ou analogues. 
+– 
+L'insuline Ultra Lente entre en action, approximativement, 4h après son injection. Elle agit durant 
+une vingtaine d'heures environ, voire plus, avec un pic d'action nettement moins élevé que l'insuline NPH. 
+ 
+livre diabete vf.indd 17
+livre diabete vf.indd 17
+05/09/2023 16:33:19
+05/09/2023 16:33:19
+
+[Page 19]
+Les insulines pré mixées associent soit une insuline rapide et une insuline intermédiaire, soit un analogue 
+rapide et un analogue lent protaminé. D’autres insulines pré mixées (à 25, 30 ou 50) associent un analogue 
+rapide à l'insuline de type NPH. Le chiffre indiqué correspond au pourcentage d’analogue rapide. Il existe 
+également une insuline comportant une co-formulation composée d’une insuline Ultra-lente et d’un 
+analogue rapide. 
+ 
+Insulines disponibles sur le marché marocain 
+ 
+Insuline 
+Délai d’action 
+Pic d’action 
+Durée d’action 
+Insuline rapide humaine 
+15-30min 
+1-3h 
+6-8h 
+Analogues rapides 
+Lispro, Glulisine, Aspart 
+5-15min 
+30min-1h30 
+4-6h 
+Insuline NPH 
+1h 
+3-6h 
+12-16h 
+Insuline lente : 
+Detemir 
+Glargine U100 
+Glargine U300 
+Degludec 
+ 
+2h 
+1-3h 
+6h 
+2h 
+Pas de pic 
+(dose dépendant) 
+16-18h 
+20-24h 
+24-30h 
+Jusqu’à 42h 
+Insulines pré mixées : 
+Humaine rapide/ NPH (30/70) 
+Analogue rapide aspart/NPH 
+(30/70) 
+Analogue rapide lispro/NPH 
+(25/75) 
+lispro/NPH (50/50) 
+ 
+30 minutes 
+ 
+15 minutes 
+ 
+ 
+15 minutes 
+ 
+ 
+2 à 8h 
+ 
+30 à 70 minutes 
+ 
+ 
+30 à 70 minutes 
+ 
+ 
+Jusqu’à 24h 
+ 
+15h 
+ 
+ 
+15h 
+Co formulation insuline 
+degludec (70%) + insuline 
+aspart (30%) 
+15 minutes 
+ 
+Jusqu’à 42h 
+ 
+ 
+ Les modes d’administration (23, 24, 25) 
+ 
+Les voies intramusculaire et intraveineuse sont réservées aux situations d’urgence et sont utilisées 
+exclusivement pour les insulines rapides. Grade A 
+ 
+La voie sous cutanée est utilisée pour l’administration quotidienne des insulines lentes, intermédiaires et/ou 
+rapides. Les injections peuvent être faites par les seringues en recommandant l’usage des seringues à 
+graduations visibles et à aiguilles fines (4 à 8 mm) et indolores. Les stylos injecteurs sont à privilégier et 
+doivent être généralisés pour une meilleure adhésion du patient et une plus grande efficacité du traitement. 
+Grade B 
+ 
+L’insulinothérapie par pompe, présente de nombreux avantages dans le traitement du diabète, elle fournit 
+des doses régulières d'insuline en fonction des besoins (ajustement du débit de base), c’est une alternative 
+au traitement par multi-injections d’insuline réalisées avec les stylos et favorise un meilleur équilibre 
+glycémique en simulant la sécrétion physiologique d´insuline, avec une réduction des hypoglycémies et 
+ainsi une amélioration de la qualité de vie des patients. Elle peut être envisagé dans certaines situations en 
+l’occurrence l’enfant, les hypoglycémies sévères à répétition et non perçues, le diabète instable, certains 
+livre diabete vf.indd 18
+livre diabete vf.indd 18
+05/09/2023 16:33:19
+05/09/2023 16:33:19
+
+[Page 20]
+cas de programmation de grossesse et certaines complications (neuropathie hyperalgique...). Cette modalité 
+thérapeutique nécessite la mise en place d’unités spécialisées dans la prise en charge de ces patients. 
+ 
+ Les schémas thérapeutiques (26, 27, 28) 
+ 
+La stratégie thérapeutique vise à reproduire au mieux l’insulinosécrétion physiologique. Le schéma 
+thérapeutique optimal est un schéma basal-bolus associant : 
+ 
+- 
+2 injections d’insulines intermédiaires ou au mieux une ou deux injections d’un analogue lent, et 
+- 
+Au moins 3 bolus préprandiaux d’insuline rapide ou au mieux d’analogues rapides. 
+ 
+En fait, il n’y a pas de schémas standards. Le schéma préconisé doit être adapté en fonction des objectifs 
+thérapeutiques, de l’âge du patient, de son mode de vie, de son alimentation, de sa motivation, de sa capacité 
+de ressentir et de corriger l’hypoglycémie, de sa situation sociale et économique et de la présence ou non 
+de complications ou de maladies intercurrentes. 
+ 
+Les schémas thérapeutiques et les doses d’insuline seront adaptés à l’état du patient et restent à 
+l’appréciation du médecin traitant. 
+ 
+Le schéma basal bolus est le plus approprié pour le traitement du diabète de type 1. Grade A 
+ 
+ Auto surveillance glycémique (23, 29, 30, 31 32, 33) 
+ 
+L’autocontrôle glycémique est recommandée pour tous les diabétiques de type 1 (Grade A). Il permet une 
+adaptation des doses d’insuline en fonction des résultats de l’auto surveillance des glycémies capillaires. 
+Cette dernière est réalisée au moyen d’un lecteur glycémique et de bandelettes réactives adaptées à chaque 
+lecteur ou d’un capteur de glucose en continu (voir Annexe 6, page 68). 
+ 
+La fréquence et le moment de l’auto surveillance par lecteur sont le plus souvent dictés par les besoins et 
+les objectifs glycémiques du patient, cependant, il est recommandé, actuellement, de faire en moyenne 4 
+glycémies capillaires par jour chez le DT1. L’auto-surveillance de la glycémie doit comprendre des 
+contrôles glycémiques préprandiaux et des contrôles glycémiques 1h30 à 2h après les repas. 
+ 
+ Auto surveillance urinaire (23, 34) 
+ 
+La recherche de corps cétoniques dans les urines est essentielle dans les situations suivantes : 
+ 
+- au cours d’un stress 
+- au cours d’une infection intercurrente 
+- si glycémie > 2,5 g/l 
+- en cas de grossesse 
+- si symptômes évoquant une céto-acidose (nausées, vomissements, douleurs abdominales) 
+ 
+La présence de corps cétoniques (CC) et d’une glycosurie abondante témoigne d’une cétose ou cétoacidose 
+qui nécessite une prise en charge médicale urgente. 
+ 
+ 
+ 
+ 
+livre diabete vf.indd 19
+livre diabete vf.indd 19
+05/09/2023 16:33:19
+05/09/2023 16:33:19
+
+[Page 21]
+ Algorithme pour ajuster la dose d’insuline en fonction des valeurs de la glycémie 
+ 
+Comment modifier les doses ? 
+ 
+Si la glycémie est régulièrement trop élevée : 
+ 
+• Avant le petit déjeuner : augmenter la dose, du soir, d′insuline à action longue 
+• Avant le déjeuner : augmenter la dose matinale d′insuline à action courte 
+• Avant le dîner : augmenter la dose matinale d′insuline à action longue ou dose d′insuline à action 
+courte avant le déjeuner (selon schéma) 
+• Avant le coucher : augmenter la dose, du soir, d′insuline à action courte 
+ 
+Si la glycémie est régulièrement trop basse : 
+ 
+• Avant le petit déjeuner : diminuer la dose, du soir, d′insuline à action longue 
+• Avant le déjeuner : diminuer la dose matinale d′insuline à action courte ou renforcer la collation 
+du matin 
+• Avant le dîner : diminuer la dose matinale d′insuline à action longue ou dose d′insuline à action 
+courte avant le déjeuner ou renforcer la collation de l′après-midi 
+• Avant le coucher : diminuer la dose, du soir, d′insuline à action courte. 
+ 
+ Objectifs glycémiques (26, 35, 36, 37, 38) 
+Pour les enfants, les adolescents et les jeunes adultes ≤ 25 ans, ils sont individualisés, visant à obtenir 
+l'HbA1c la plus basse possible sans exposition excessive à l'hypoglycémie sévère, en assurant un équilibre 
+entre la qualité de vie et le fardeau des soins. 
+- 
+Un objectif d'HbA1c inférieur à 7,0 % est recommandé. Grade A 
+ 
+- 
+Un objectif d'HbA1c plus élevé (<7,5 %) est approprié dans les contextes suivants : 
+ Incapacité à exprimer, clairement, les symptômes de l'hypoglycémie, méconnaissance de 
+l'hypoglycémie ou antécédents d’hypoglycémie grave 
+ Manque d'accès aux insulines analogues, incapacité de vérifier régulièrement la glycémie 
+ 
+- 
+Un objectif plus bas (6,5%) peut être approprié s'il peut être atteint sans hypoglycémie excessive, 
+sans altération de la qualité de vie et sans charge excessive de soins. 
+VI-1-B- Mesures hygiéno-diététiques 
+ Recommandations diététiques 
+ 
+ Objectifs : 
+ 
+La diététique fait partie intégrante du traitement du DT1. Le régime se rapproche le plus possible d’une 
+alimentation normo équilibrée. 4 objectifs principaux : 
+ 
+ 
+ 
+- 
+Assurer une amélioration des soins 
+livre diabete vf.indd 20
+livre diabete vf.indd 20
+05/09/2023 16:33:20
+05/09/2023 16:33:20
+
+[Page 22]
+- 
+Assurer un apport nutritionnel suffisant et équilibré, adapté aux conditions physiologiques et 
+permettant, notamment, chez l’enfant une croissance harmonieuse 
+- 
+Eviter ou réduire les trop grandes fluctuations glycémiques 
+- 
+Contrôler les facteurs de risque vasculaire. 
+ 
+Ces objectifs ne peuvent être atteints qu’à travers une démarche de soin diététique négociée avec le 
+patient et si possible avec son entourage. 
+ 
+ Principes généraux : 
+ 
+Un apport énergétique normal en protides, lipides, glucides (15%, 30%, 55%) est à garantir. Cet apport 
+calorique doit être réparti en trois principaux repas : petit déjeuner, déjeuner et dîner et 1 à 3 collations, 
+adapté au schéma d’insulinothérapie proposé, l’âge et l’activité physique du patient. 
+ 
+ Apport glucidique : 
+ 
+Les glucides représentent 50 à 55% de l’apport énergétique journalier soit (250 à 300 g par jour). Les 
+aliments glucidiques à index glycémique bas (inférieur à 50) ou moyen (compris entre 50 et 75) doivent 
+être préférés aux aliments à index glycémique élevé dont la consommation sera limitée entre 5 % et 10 % 
+de la ration calorique quotidienne (voir tableau des équivalences glucidiques, page 17). 
+ 
+ Apport lipidique : 
+ 
+L’apport lipidique représente 60g par jour. Il est recommandé d’assurer une répartition équilibrée des 
+différents acides gras : 
+ Acides gras saturés : 7 % (viandes rouges, charcuteries et lait et dérivés) 
+ Acides gras mono-insaturés : 15 % (huiles d’olive, d’Argan, d’arachide et de colza) 
+ Acides gras poly-insaturés : 8 % (poissons, huiles végétales de tournesol, de pépin de raisin, de maïs, 
+de soja et de noix). 
+ 
+ Apport protidique : 
+ 
+Un apport protidique quotidien suffisant est nécessaire pour assurer une croissance normale chez l’enfant. 
+Les apports protéiques recommandés sont de 0,8 à 1g /Kg /j au-delà de l’âge de 1 an. La ration protidique 
+doit être répartie en 25 % de protéines d’origine animale (viandes, poissons, produits laitiers) et 75 % 
+d’origine végétale (céréales et légumineuses). 
+ 
+ Apport en fibres alimentaires : 
+Paramètres 
+Contrôle optimal 
+Contrôle acceptable 
+Glycémie à jeun g/l 
+0,80 - 1.20 
+< 1.40 
+Glycémie post-prandiale (2h) g/l 
+1,00 -1.40 
+< 1.60 
+Glycémie au coucher g/l 
+1,00 - 1.40 
+< 1.60 
+HbA1c (%) 
+< 6.5 
+< 7.5 
+livre diabete vf.indd 21
+livre diabete vf.indd 21
+05/09/2023 16:33:20
+05/09/2023 16:33:20
+
+[Page 23]
+L’apport quotidien conseillé en fibres alimentaires est de 0.5g/kg chez l’enfant et de 25 à 30 g chez l’adulte. 
+Les principales sources alimentaires sont les céréales complètes, les légumineuses, les légumes et les fruits 
+frais avec leur peau, autant que possible. 
+ 
+ Autres apports : minéraux et vitamines 
+ 
+Ces différents apports sont largement couverts par une alimentation équilibrée et diversifiée. L’existence 
+d’une hypertension artérielle et/ou d’une insuffisance rénale chronique impose la réduction des apports 
+sodés (< 2400 mg /24 h), potassiques et protidiques. Une bonne connaissance des équivalences glucidiques 
+va permettre au patient de jongler facilement avec sa ration et de diversifier ses menus. 
+ 
+ 
+Tableau des équivalences glycémiques 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les édulcorants acaloriques (la saccharine, l’aspartame et l’acésulfame potassique) ne sont pas autorisés 
+chez l’enfant et la femme enceinte. Chez l’adulte l’abstention est souhaitable. 
+ 
+ Education nutritionnelle 
+ 
+Les prescriptions diététiques doivent être associées à une éducation nutritionnelle afin de motiver les 
+patients pour une meilleure adhésion au traitement. Cette éducation doit permettre l’acquisition d’un savoir 
+(répartition de la ration calorique, sources alimentaires, équivalences alimentaires…) et d’un savoir-faire 
+(composition des repas en se basant sur les connaissances théoriques…). 
+ 
+ 
+ Insulinothérapie fonctionnelle (IF) 
+ 
+L’IF vise à reproduire l’insulinosécrétion physiologique avec son débit « basal » et ses « bolus » prandiaux. 
+Comme les outils et les calculs de l’IF sont loin d’atteindre la perfection fonctionnelle de la cellule, il faut 
+y ajouter des correctifs instantanés plusieurs fois par jour. 
+20 de glucides 
+ 
+- 
+100 g féculents cuits 
+- 
+40 g de pain (1/6 bag) 
+- 
+1/8 de galette 
+- 
+2 pommes de terre moyennes 
+- 
+3 biscottes, 1 petit croissant 
+- 
+100 g riz ou de pates 
+- 
+1 cas de semoule 
+- 
+1 banane (petite) 
+- 
+1 grosse pomme 
+- 
+1 yaourt sucre 
+- 
+40 g de biscuits secs comme 4 petitsbeurre 
+ 
+20 de glucides 
+ 
+- 
+2 figues sèches 
+- 
+3 pruneaux 
+- 
+1 grand bol de chorba 
+- 
+200 g de salade de crudité 
+- 
+½ petit melon 
+- 
+1 brioche 
+- 
+1 beignet 
+- 
+2 petites madeleines 
+- 
+50 g de fraises ou framboises 
+- 
+20 cerises 
+- 
+1 pêche 
+- 
+4 abricots 
+- 
+2 kiwis 
+livre diabete vf.indd 22
+livre diabete vf.indd 22
+05/09/2023 16:33:20
+05/09/2023 16:33:20
+
+[Page 24]
+La technique d’insulinothérapie fonctionnelle (IF) complète parfaitement les schémas « basal-bolus » en 
+contribuant, d’une part, à la baisse du risque d’hypoglycémie sévère et, d’autre part, en participant à 
+l’amélioration de la qualité de vie au travers du transfert du « pouvoir » du soignant vers le patient qui 
+retrouve une autonomie perdue. Il s’agit de proposer au patient des outils pour qu’il puisse adapter le diabète 
+à sa vie, et non l’inverse. En théorie, l’approche « IF » s’adresse à tout patient ayant un DT1 s’il le souhaite 
+et complète parfaitement les patients traités par pompe à insuline ou schéma basal bolus (23). Ainsi, tous 
+les patients ayant un DT1 devraient être, au minimum, informés de cette possibilité. 
+ 
+ Exercice physique (11, 39, 40) 
+ 
+Le rôle du médecin traitant est d'encourager l'exercice physique, de dresser le bilan du diabétique désirant 
+pratiquer un sport et de recommander les adaptations thérapeutiques (médicamenteuses et diététiques) pour 
+que l'activité sportive se déroule en toute sécurité. Grade A 
+ 
+Il doit être effectué au moins 3 à 4 fois par semaine pour avoir un effet optimum et accompagné d’une auto 
+surveillance. 
+ 
+ Avant une activité physique : 
+ 
+Une glycémie <0,90g/l doit entraîner un resucrage immédiat et un report de l’activité si la 
+glycémie <0,90g/l persiste. 
+ 
+Une glycémie entre 0,90 et 1,24g/l doit entraîner un resucrage immédiat de 20 g de glucides. 
+ 
+Entre 1,5 et 2,50 g/l, l'exercice peut être réalisé en toute sécurité. 
+ 
+Au-delà de 2,50 g/l le déséquilibre glycémique contre-indique toute activité physique. 
+ 
+ Pendant et après l’activité physique : 
+ 
+Une collation à index glycémique élevé doit être à la portée du patient. 
+Il faut mettre en garde contre : 
+ 
+- 
+Le risque d’hypoglycémie différée, surtout en cas d’effort prolongé, intense ou inhabituel, et 
+prévenir le patient de la possible nécessité de réduire la dose d’insuline au coucher et le jour suivant 
+- 
+Le fait qu’un effort physique pendant une carence insulinique augmentera la glycémie et la 
+cétonémie 
+- 
+Le fait que l’alcool peut exacerber le risque d’hypoglycémie après l’exercice 
+ 
+ Eviction du tabac (39) 
+ 
+- 
+L’aide à l’arrêt du tabac reposera en première intention, après l’évaluation de la dépendance 
+envers la nicotine sur la prescription de substituts nicotiniques (patch, gomme, pastille, inhaleur) 
+aux patients dépendants. La prescription de substituts nicotiniques est destinée à prévenir les 
+symptômes du sevrage tabagique. 
+ 
+- 
+Le bupropion LP et la varénicline doivent rester des médicaments de deuxième intention pour 
+prévenir les symptômes du sevrage tabagique. Accord professionnel 
+ 
+- 
+Le recours à une prise en charge spécialisée en centre de tabacologie ou dans un centre traitant les 
+addictions doit être proposé aux patients fortement dépendants et/ou souffrant de Co addictions 
+multiples et/ou présentant un terrain anxio-dépressif. Grade B 
+livre diabete vf.indd 23
+livre diabete vf.indd 23
+05/09/2023 16:33:20
+05/09/2023 16:33:20
+
+[Page 25]
+VI-1-C- Éducation thérapeutique 
+ 
+Selon le groupe d’experts de l’OMS (1998) « l’éducation thérapeutique devrait permettre aux patients 
+d’acquérir et de conserver les capacités et compétences qui les aident à vivre de manière optimale avec leur 
+maladie. Il s’agit par conséquent d’un processus permanent, intégré dans les soins et centré sur le patient ». 
+L’éducation occupe une place importante dans la prise en charge et le suivi du DT1. 
+ 
+ 
+Le contrôle métabolique ainsi que la prévention des complications à long terme n’est possible que si le 
+patient a acquis un savoir (risques de la maladie et moyens de leur prévention) et un savoir-faire (39, 41, 
+42, 43). Grade A 
+ 
+ 
+ Les principaux thèmes 
+ 
+Au moment du diagnostic, les connaissances de base portent sur les points suivants : 
+ 
+- 
+Informations sur le diabète : définition, causes, thérapeutique : insuline, seul traitement disponible 
+actuellement, sa nécessité vitale et ses modes d’action. En cas de maladie intercurrente, ne jamais 
+arrêter l’insuline ! 
+- 
+Aspects pratiques (formation à l’autogestion de la maladie et du traitement) : injections d’insuline, 
+examens de sang et/ou d’urine et motifs de la surveillance, pratique de l’auto surveillance glycémique 
+et urinaire, tenue du carnet de surveillance 
+- 
+Recommandations diététiques de base 
+- 
+Compréhension, éviction des hypoglycémies et modalités de resucrage 
+- 
+Hygiène cutanée et buccale 
+- 
+Gestion de la cétose 
+- 
+Diabète à la maison ou à l’école, y compris les effets de l’exercice physique 
+- 
+Arrêt ou prévention du tabac et de toute conduite addictive. 
+ 
+ Modalités de l’éducation 
+ 
+Qui éduquer ? 
+ 
+Tous les diabétiques, quelle que soit l’ancienneté du diabète, l’âge du sujet, son niveau culturel ou social, 
+ses caractéristiques ethniques ou linguistiques. Il faut, également, éduquer la famille et l’entourage avec 
+pour but de réduire l’isolement et l’incompréhension parfois très grands des diabétiques dans leur propre 
+milieu. 
+ 
+Par qui ? 
+ 
+Médecins, infirmiers (e), diététiciens (e), éducateurs certifiés et psychologues doivent travailler en équipe 
+pour assurer cette éducation afin de garantir une approche globale du patient. 
+ 
+Périodicité ? 
+ 
+A la découverte du diabète, l’éducation doit se limiter aux notions d’utilité immédiate. Elle sera complétée 
+au cours des semaines et mois suivants par des informations plus larges et plus approfondies sur la maladie 
+et le suivi. Elle devra être ensuite, régulièrement, entretenue, évaluée et renforcée. 
+livre diabete vf.indd 24
+livre diabete vf.indd 24
+05/09/2023 16:33:20
+05/09/2023 16:33:20
+
+[Page 26]
+VI-1-D- Prise en charge psychologique 
+ 
+Le diabète sucré a inéluctablement un retentissement et un vécu psychologique et peut avoir de lourdes 
+conséquences psychopathologiques et comportementales. Aussi, l’état psychologique du patient diabétique 
+doit être pris en compte et évalué, régulièrement, pour déceler et éventuellement gérer les problèmes 
+psychologiques et psychopathologiques (déni, blessure narcissique, troubles anxieux, dépression...) et 
+confier alors le patient au psychologue ou au psychiatre (39, 43). 
+ 
+VI-1-E- Traitements pharmacologiques associés 
+ 
+Chez le DT1 adulte, la prescription d’un hypolipémiant ne doit pas être systématique mais est conditionnée 
+par son niveau de risque cardio-vasculaire (objectifs cibles de LDL-cholestérol selon les recommandations 
+de prise en charge du patient dyslipidémique) (44, 45, 46). Grade A 
+ 
+Les inhibiteurs de l’enzyme de conversion (captopril, enalapril, périndopril, quinapril, lisinopril, ramipril, 
+Bénazépril, Trandolapril, Cilazapril) et les antagonistes des récepteurs de l’angiotensine (losartan, 
+valsartan, candesartan, telmisartan, irbésartan, Olmesartan) sont indiqués chez les patients micro ou macro 
+albuminuriques, ou ayant un rapport albuminurie/créatinurie élevé même en dehors d’une hypertension 
+artérielle (47). Grade A 
+ 
+La prescription des antiagrégants plaquettaires est justifiée chez les diabétiques à haut risque Cardiovasculaire et en cas de néphropathie diabétique avancée (48, 49). Grade B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+livre diabete vf.indd 25
+livre diabete vf.indd 25
+05/09/2023 16:33:20
+05/09/2023 16:33:20
+
+[Page 27]
+Classe 
+DCI 
+Dosage 
+ 
+ 
+Posologie par 
+jour 
+ 
+ 
+Les inhibiteurs de 
+l’enzyme de 
+conversion (IEC) 
+Captopril 
+ 
+Cp à 25 mg 
+Cp à 50 mg 
+50 mg à 150 mg 
+Enalapril 
+Cp à 5 mg 
+Cp à 20 mg 
+5 à 20 mg 
+Perindopril 
+Cp 2 mg 
+Cp à 4 mg 
+2 à 4 mg 
+Ramipril 
+Cp à 1,25 mg 
+Cp à 2,5 mg 
+Cp à 5 mg 
+1,25 mg à 10 mg 
+Quinapril 
+Cp à 5 mg 
+Cp à 20 mg 
+5 à 20 mg 
+Bénazépril 
+Cp à 5 mg 
+Cp à 10 mg 
+5 à 10 mg 
+Trandolapril 
+Cp à 0,5 mg 
+Cp à 2 mg 
+0,5 à 2 mg 
+Cilazapril 
+Cp à 2,5 mg 
+Cp à 5 mg 
+2,5 à 5 mg 
+lisinopril 
+Cp 10 mg 
+Cp 20 mg 
+10 à 20 mg 
+Les antagonistes des 
+récepteurs de 
+l’angiotensine II 
+(ARAII) 
+Losartan 
+Cp 50 mg 
+Cp 100 mg 
+50 à 100 mg 
+Valsartan 
+Cp 40 mg 
+Cp 80 mg 
+80 à 160 mg 
+Irbesartan 
+Cp 150 mg 
+Cp 300 mg 
+150 à 300 mg 
+Candesartan 
+Cp 4 mg 
+Cp 8 mg 
+8 à 16 mg 
+Olmesartan 
+Cp 10 mg 
+Cp 20 mg 
+10 à 20 mg 
+Telmisartan 
+Cp 40 mg 
+Cp 80 mg 
+40 à 80 mg 
+ 
+ 
+Classe thérapeutique 
+DCI 
+Dosage 
+Posologie par jour 
+Statines 
+Simvastatine 
+10, 20, 40 mg 
+5 à 80 mg 
+Rosuvastatine 
+5, 10, 20 mg 
+10 à 40 mg 
+Pravastatine 
+10, 20, 40 mg 
+10 à 40 mg 
+Atorvastatine 
+10, 20, 40, 80 mg 
+10 à 40 mg 
+Fluvastatine 
+20, 40, LP 80 mg 
+20 à 80 mg 
+Antiagrégants 
+plaquettaire 
+Acide acétylsalicylique 
+ 
+Sachet 75 mg 
+Sachet 160 mg 
+Cp 100 mg 
+75 - 100 - 160 mg 
+ 
+livre diabete vf.indd 26
+livre diabete vf.indd 26
+05/09/2023 16:33:20
+05/09/2023 16:33:20
+
+[Page 28]
+VI-2. Traitement du DT2 
+ 
+VI-2-A. Thérapie médicale nutritionnelle 
+ 
+ Recommandations générales 
+ 
+La thérapie médicale nutritionnelle (TMN) est une composante intégrante de la prévention, de la gestion et 
+de l’autogestion du diabète (38, 50, 51, 54, 55, 56). Grade A 
+ 
+En plus de son rôle dans la prévention et le contrôle du diabète, la nutrition est reconnue comme une 
+composante essentielle d'un mode de vie sain. En raison des effets de l'obésité sur la résistance à l'insuline, 
+la perte de poids est un objectif thérapeutique important pour les personnes en surpoids ou obèses avec 
+diabète ou prédiabète. Chez les individus en surpoids ou obèses insulino-résistants, la perte de poids même 
+modeste permet de réduire l'insulinorésistance. Un régime hypocalorique standard avec corrections des 
+erreurs diététiques est sans risque pour les patients et permet des résultats au long court. 
+ 
+Par ailleurs : 
+ 
+- 
+Les sucres rapides doivent être évités 
+- 
+La consommation d’alcool doit être évitée 
+- 
+L’apport en sodium doit être contrôlé 
+- 
+Une alimentation riche en fibres alimentaires est toujours souhaitable 
+- 
+Les édulcorants doivent être évités au maximum 
+- 
+Les graisses de substitution sont des ingrédients qui miment les propriétés des graisses mais 
+qui sont dépourvus de calories. 
+- 
+Les produits allégés. Leur teneur faible en glucides n’exclut pas une richesse élevée en calories 
+pouvant rendre ces produits tout à fait inadaptés, notamment si surcharge pondérale. La lecture 
+critique des étiquettes est indispensable. Ils sont donc à éviter. 
+ 
+ La consultation de thérapie médicale nutritionnelle (TMN) 
+ 
+La TMN peut entraîner des économies de coûts et une amélioration des résultats aussi bien dans le cas du 
+diabète qu’en cas d’obésité. 
+ 
+VI-2-B. Exercice physique (39, 55) 
+ 
+L’exercice physique régulier représente l’un des piliers du traitement du DT2. Il améliore le contrôle 
+glycémique, réduit les facteurs de risque cardiovasculaire, contribue à la perte de poids et améliore le bien 
+être. En outre, il peut prévenir le DT2 chez les individus à haut risque. 
+ 
+Les diabétiques doivent pratiquer une activité physique de type aérobique, d’intensité modérée (50 à 70% 
+de la fréquence cardiaque maximale) et de durée au moins égale à 150 min par semaine. 
+ 
+Cette activité peut être répartie en plusieurs séances par semaine de durée au moins égale à 10 min et les 
+intervalles entre les séances ne doivent pas dépasser 48h. Les patients doivent être également encouragés à 
+pratiquer en l’absence de contre-indications, des entrainements de résistance 2 à 3 fois par semaine. Le 
+patient doit toujours faire l’objet d’une évaluation avant l’intensification de son activité physique. Une 
+consultation cardiologique est très souhaitable pour les malades à risque cardiovasculaire et des précautions 
+livre diabete vf.indd 27
+livre diabete vf.indd 27
+05/09/2023 16:33:20
+05/09/2023 16:33:20
+
+[Page 29]
+doivent être prises quand l’équilibre diabétique n’est encore pas satisfaisant. 
+ 
+Toutes les mesures portant sur la diététique et l’activité physique sont efficaces et constituent le préalable 
+indispensable à tout traitement médicamenteux chez le diabétique. Elles permettent également de limiter le 
+risque de passage du prédiabète au diabète. Malheureusement, pour beaucoup de personnes, ces 
+modifications du mode de vie ne sont pas faciles à accepter et à observer sur le long terme. Les consultations 
+régulières de suivi sont l’occasion de revoir ces principes dans le cadre de l’éducation thérapeutique et d’un 
+échange entre le patient et son médecin. 
+ 
+VI-2-C. Education thérapeutique 
+ 
+L’éducation thérapeutique doit être obligatoirement intégrée dans la prise en charge thérapeutique de tout 
+DT2 et ce, dès le diagnostic, une fois, par an, si nécessaire et chaque fois que le diabétique est demandeur. 
+Elle est pluridisciplinaire (39, 41, 42, 43, 55, 57). Grade A 
+ 
+Ce que le diabétique doit savoir et savoir-faire : 
+1- L’importance d’un suivi médical régulier 
+2- Les bases diététiques de son alimentation et les principales équivalences. 
+3- L’usage de l’autocontrôle glycémique et de la surveillance urinaire. 
+4- Les objectifs personnels d’équilibre glycémique (valeurs glycémiques souhaitées avant et après 
+repas et HbA1C). 
+5- Le type de traitement oral prescrit, ses modalités de prise, ses éventuels inconvénients et la 
+manière de les prévenir ainsi que l’importance de l’observance au traitement. 
+6- Le type de traitement insulinique, sa durée d’action, les techniques d’administration et 
+l’adaptation des doses en fonction de l’analyse des résultats de l’autosurveillance ainsi que 
+l’importance de l’observance au traitement. 
+7- Le risque hypoglycémique et la façon de le prévenir. 
+8- Les conséquences d’une affection intercurrente sur l’équilibre du diabète et la conduite à adopter. 
+9- La nécessité d’avoir sur soi une carte ou un papier mentionnant le statut de diabétique et le 
+traitement quotidien du diabète. 
+10- La nécessité d’une surveillance non seulement de la glycémie, mais aussi du bilan lipidique et 
+de la pression artérielle ainsi qu’une aide au sevrage tabagique. 
+11- L’importance de l’activité physique comme hygiène de vie et de loisir. L’aptitude à l’activité 
+physique doit faire l’objet d’une évaluation médicale préalable. 
+12- La nécessité d’un examen annuel du fond d’œil et d’un dosage de l’albuminurie. 
+13- L’existence ou non d’un risque podologique et en cas de risque, les mesures pratiques à prendre 
+quotidiennement pour éviter les blessures des pieds. 
+14- La nécessité d’une programmation des grossesses diabétiques et d’une contraception adaptée. 
+ 
+ 
+ 
+ 
+VI-2-D. Traitement médicamenteux 
+livre diabete vf.indd 28
+livre diabete vf.indd 28
+05/09/2023 16:33:20
+05/09/2023 16:33:20
+
+[Page 30]
+La mise récente sur le marché de nouvelles classes médicamenteuses permet de mieux individualiser le 
+traitement mais nécessite de bien les connaître pour organiser au mieux la démarche thérapeutique. 
+ 
+ Classes de médicaments (voir page 27 et annexe 6, page 67, 68 et 69). 
+ 
+1. Metformine 
+La metformine demeure de façon consensuelle le traitement de première intention, d’autant plus que son 
+coût est très faible (58). Grade A 
+ 
+Cette molécule est efficace et peut être associée à toutes les autres classes. Elle offre pour intérêt d’agir sur 
+l’insulinorésistance, de ne pas induire d’hypoglycémies ni de prise de poids. La posologie maximale est 
+aujourd’hui fixée à 2 g/j pour un DFG supérieur à 60 ml/min/1,73 m2, à 1 g/j pour un DFG de 45 à 60 
+ml/min/1,73 m2. En dessous de 30 ml/min/1,73 m2, la metformine doit être interrompue de même qu’en 
+cas d’affection intercurrente ou avant la réalisation d’une imagerie nécessitant une injection de produit iodé. 
+ 
+Différents dosages de chlorhydrate de metformine à libération immédiate et à libération prolongée sont 
+disponibles. L’embonate de metformine dosé à 700 mg, par comprimé, peut être administré également au 
+cours ou à la fin des repas. 
+ 
+Les effets secondaires les plus fréquents sont digestifs (anorexie, nausée, inconfort abdominal et diarrhée 
+principalement). Ces effets sont moins fréquents si le médicament est pris en cours ou en fin de repas et si 
+les posologies sont majorées lentement ou limitées chez certains patients. L’effet indésirable le plus grave 
+de la classe des biguanides est l’acidose lactique. Sa survenue est très rare avec la metformine et ne doit 
+pas entraver la prescription quand l’indication est dûment posée. Le respect des contre-indications ou des 
+précautions d’emploi doit rester de règle (59, 60, 61). 
+ 
+2- Les insulinosécréteurs 
+ 
+Les sulfamides hypoglycémiants (62, 63, 64) 
+ 
+Ils sont capables de normaliser ou de réduire l’hyperglycémie des DT2 sans surpoids et avec surpoids 
+(diminution de l’HbA1c de l'ordre de 1 à 1.5%). En cas d’inefficacité d’un sulfamide hypoglycémiant à 
+dose maximale, il n’y a aucun bénéfice à essayer un autre sulfamide. Il n’existe pas de rationnel à associer 
+plusieurs sulfamides hypoglycémiants ou un sulfamide hypoglycémiant à un glinide. 
+ 
+L’hypoglycémie est l’effet secondaire le plus sérieux associé à leur utilisation. Les sujets âgés et les patients 
+ayant une insuffisance rénale sont les plus exposés. Le risque est majoré par la prise de boissons alcoolisées, 
+la suppression d’un repas, un exercice physique inhabituel, la prise de médicaments potentialisateurs 
+(miconazole, dextropropoxyphène, fluconazole, phénylbutazone, et inhibiteurs de l’enzyme de conversion), 
+le caractère modéré de l’hyperglycémie avant traitement, une majoration rapide des doses, la malnutrition, 
+une hépatopathie. Les épisodes hypoglycémiques surviennent plus fréquemment avec les sulfamides à 
+durée d’action longue et/ou les plus puissants (glibenclamide). 
+livre diabete vf.indd 29
+livre diabete vf.indd 29
+05/09/2023 16:33:21
+05/09/2023 16:33:21
+
+[Page 31]
+Les principales molécules sont : le glimépiride 2, 3 et 4 mg, le glibenclamide 5 mg, le gliclazide 80 mg et 
+sa forme à libération modifiée à 30 ou 60 mg, et la gliquidone 30 mg. Des associations sulfamides et 
+metformine sont commercialisées au Maroc et peuvent être prescrites si le besoin de diminuer les prises 
+quotidiennes de comprimés est pressant (Voire annexe 6, page 68). 
+ 
+Les glinides (65) 
+ 
+Cette classe thérapeutique est représentée par le répaglinide. C’est un insulinosécréteur d’action plus rapide 
+et de plus courte durée avec un pouvoir hypoglycémiant proche de celui des sulfamides hypoglycémiants. 
+La fréquence des hypoglycémies est, significativement, plus faible avec cette classe thérapeutique mais le 
+risque est présent. Le répaglinide n'est pas contre-indiqué en cas d’insuffisance rénale. On l’utilisera, 
+cependant, avec prudence et à doses progressives chez les sujets âgés ou insuffisants rénaux. Il est contreindiqué en cas de grossesse et d’insuffisance hépatique. Les comprimés de répaglinide sont dosés à 0,5 mg, 
+1 mg, ou 2 mg, et ils doivent être pris quinze minutes avant les repas. La posologie peut aller jusqu’à 16 
+mg/j avec un maximum de 4 mg par prise. 
+ 
+La prévention des épisodes d’hypoglycémie iatrogène est un objectif thérapeutique important pour les 
+diabétiques de type 2 traités par sulfamide hypoglycémiant ou par glinide. Elle repose sur l’éducation des 
+patients, l’utilisation de la dose minimale efficace, la majoration prudente et progressive des doses, la prise 
+en compte des interactions médicamenteuses et des modifications alimentaires en s’appuyant sur 
+l’autosurveillance glycémique. Chez tout diabétique recevant un sulfamide hypoglycémiant le risque 
+hypoglycémique se situe principalement à distance des repas (notamment en fin de matinée, l’après-midi, 
+parfois la nuit), quels que soient le nombre et les horaires de prise du sulfamide et quelle que soit la spécialité 
+utilisée. L’utilisation du glucagon est contre-indiquée en cas d’hypoglycémie provoquée par un 
+insulinosécréteur. 
+ 
+3- Les inhibiteurs des alpha-glucosidases intestinales (66) 
+ 
+Ils ralentissent l’absorption intestinale des glucides alimentaires complexes. Ils sont actifs sur la glycémie 
+postprandiale. Ils ne peuvent induire d’hypoglycémie par eux-mêmes. Leurs effets secondaires sont 
+digestifs et fréquents, sans gravité, observés en moyenne chez 30% des patients (météorisme, flatulence, 
+inconfort intestinal, diarrhée); ils peuvent diminuer avec le temps. 
+ 
+L’acarbose (50 mg) est prescrite à la dose maximale de 300 mg/j avec augmentation progressive des 
+posologies. 
+ 
+4- Les incrétinomimétiques (Inhibiteurs de la DPP-4 et agonistes du GLP-1) 
+ 
+Les incrétines sont des hormones digestives naturelles produites lors de l'ingestion de nutriments et qui 
+potentialisent la réponse insulinosécrétoire de manière glucose-dépendante. Parmi celles-ci, la plus 
+intéressante est le glucagon-like peptide-1 (GLP-1) sécrété par les cellules L de l'intestin grêle. Les 
+incrétinomimétiques, visent à reproduire l'action du GLP-1 (Exénatide) ou à le remplacer (Liraglutide), et 
+les incrétinopotentiateurs, ont comme objectif d'accroître les concentrations de GLP-1 endogène 
+(inhibiteurs de l'enzyme dipeptidyl-peptidase-4 ou DPP-4). 
+ 
+livre diabete vf.indd 30
+livre diabete vf.indd 30
+05/09/2023 16:33:21
+05/09/2023 16:33:21
+
+[Page 32]
+ Les inhibiteurs de la DPP-4 ou gliptines 
+ 
+Ils empêchent la dégradation du GLP-1 permettant une diminution de la glycémie à jeun et postprandiale. 
+Leur principale indication est la bithérapie en cas d’inefficacité de la metformine seule. Les gliptines 
+commercialisées au Maroc sont la sitagliptine, la saxagliptine, la vildagliptine et la linagliptine, seules ou 
+en association avec la metformine (67, 68, 69). 
+ 
+  Les agonistes du GLP-1 (exenatide, liraglutide, dulaglutide, lixisenatide, 
+semaglutide) 
+ 
+Les analogues du GLP-1 qui nécessitent une injection quotidienne ont été enrichis par la mise sur le marché 
+de formes hebdomadaires et de nouvelles molécules sont en développement. Ces médicaments ont pour 
+intérêt l’absence d’hypoglycémie et un effet très favorable sur le poids. 
+ 
+Cette classe médicamenteuse ne remplace, naturellement, pas l’insuline d’autant qu’il existe un certain 
+pourcentage de sujets non répondeurs. 
+ 
+Les effets secondaires les plus fréquents sont représentés par les troubles digestifs qui s’amendent 
+habituellement au bout de quelques semaines. En revanche, la réalité des complications thyroïdiennes et 
+pancréatiques a pu être, complètement, écartée. 
+ 
+Le liraglutide et le dulaglutide ont mis en évidence un effet bénéfique significatif sur le plan 
+cardiovasculaire chez des patients diabétiques de type 2 à haut risque ou en prévention secondaire avec une 
+réduction du critère composite principal composé des décès d’origine cardiovasculaire, des infarctus du 
+myocarde et des AVC non fatals. Cette classe médicamenteuse apporte un outil très intéressant chez les 
+patients diabétiques de type 2 en surpoids, mais elle est peu utilisée chez les patients très âgés en raison des 
+risques de troubles digestifs susceptibles d’aggraver la dénutrition. D’ailleurs, l’expérience de l’utilisation 
+de cette classe médicamenteuse est très limitée au-delà de 75 ans et n’est pas recommandée surtout chez les 
+patients fragiles. Enfin, l’association d’un analogue du GLP-1 avec une insulinothérapie offre un intérêt 
+tout particulier chez les patients diabétiques obèses et très insulinorésistants en échec d’une insulinothérapie 
+basale (70, 71, 72, 73). 
+ 
+Lors d’un essai en double aveugle de 104 semaines (SUSTAIN 6), le traitement par sémaglutide a entraîné 
+une réduction de 26 % du risque concernant le critère composite primaire : mortalité cardiovasculaire, 
+infarctus du myocarde non-fatal ou accident vasculaire cérébral non-fatal. La réduction du risque 
+concernant le critère composite primaire était principalement due à une baisse du taux d’accidents 
+vasculaires cérébraux non-fatals (39%) et d’infarctus du myocarde non-fatals (26%). 
+ 
+Contre-indications classiques : grossesse, insuffisance rénale et hépatique sévères. 
+ 
+Les agonistes du GLP-1 associés à une insuline basale en un seul stylo (liraglutide/ insuline 
+degludeg ; lixisenatide/ insuline glargine U100. 
+ 
+ 
+5- Inhibiteurs du cotransporteur glucose-sodium de type 2 (iSGLT2) 
+livre diabete vf.indd 31
+livre diabete vf.indd 31
+05/09/2023 16:33:21
+05/09/2023 16:33:21
+
+[Page 33]
+Cette nouvelle classe médicamenteuse offre un mode d’action original indépendant de l’action de l’insuline 
+en limitant la réabsorption rénale du glucose. Il est donc possible de l’associer à tous les autres 
+médicaments, insuline comprise, avec une efficacité intéressante puisqu’elle semble au moins égale à celle 
+des iDPP-4. Ces médicaments ont également un effet favorable sur le poids, la pression artérielle et 
+n’entraînent pas d’hypoglycémie (35). 
+ 
+Cette classe médicamenteuse a démontré une diminution des hospitalisations pour insuffisance cardiaque, 
+et certains de ses représentants semblent aussi apporter une protection rénale. 
+ 
+Dans les deux études : EMPAREG OUTCOME et DECLARE-TIMI, une protection rénale a également été 
+démontrée avec une diminution du pourcentage des patients ayant présenté un doublement de la créatinine, 
+la mise en dialyse ou un décès de cause rénale (74, 75, 76). 
+ 
+ 
+livre diabete vf.indd 32
+livre diabete vf.indd 32
+05/09/2023 16:33:21
+05/09/2023 16:33:21
+
+[Page 34]
+Classe 
+Molécule 
+Dosage existant 
+Baisse prévue de 
+l’HbA1c * 
+Metformine 
+Chlorydrate de 
+Metformine à 
+libération immédiate 
+500 – 850 -1000 mg 
+ 
+1.5% 
+Chlorydrate de 
+Metformine à 
+libération prolongée 
+500 - 1000 mg 
+Embonate de 
+metformine 
+700 mg 
+ 
+Sulfamides 
+hypoglycémiants 
+Gliclazide 
+30 – 60 - 80 mg 
+1.5% 
+Glimépiride* 
+2 – 3 - 4 mg 
+Glibenclamide* 
+5 mg 
+Gliquidone 
+30 - 90 mg 
+Glinides 
+Repaglinide 
+0.5 – 1 - 2 mg 
+1% 
+Inhibiteurs de alpha 
+glucosidases 
+Acarbose 
+100 mg 
+0.5% 
+Inhibiteurs de la 
+DPP4 
+Sitagliptine* 
+50 - 100 mg 
+0.7% 
+Vildagliptine* 
+50 mg 
+Saxagliptine* 
+5 mg 
+Linagliptine* 
+5 mg 
+Inhibiteurs SGLT2 
+ 
+Empagliflozine 
+10 - 25 mg 
+0.7-1% 
+Dapagliflozine 
+10 mg 
+Ertuglifozine 
+5-15 mg 
+Analogues des 
+récepteurs du GLP1 
+Liraglutide 
+Quotidien, 3 dosages en 1 
+stylo (0.6 - 1.2 - 1.8 ml) 
+1-1.5% 
+Dulaglutide 
+Hebdomadaire 0.75 - 1.5 mg 
+Lixisenatide 
+Quotidien, 10 - 20 mcg 
+Semaglutide 
+Hebdomadaire 
+ 0,25 - 0,5 - 1 mg 
+1,5% 
+ 
+Tableau : Différents antidiabétiques non insuliniques disponibles au Maroc 
+ 
+Les données d'efficacité sur l’HbA1C proviennent des monographies de produit ou des données d’études 
+comparatives (35). En revanche, une majoration des effets indésirables est à souligner. Les plus communs 
+sont représentés par les mycoses génitales notamment chez les femmes. Les symptômes liés à 
+l’hypovolémie, conséquence de la majoration de la diurèse et quelques cas d’acidocétose sont à retenir (77, 
+78). 
+ 
+* : Existe en association avec la metformine (voir Annexe 6, page 68) 
+ 
+livre diabete vf.indd 33
+livre diabete vf.indd 33
+05/09/2023 16:33:21
+05/09/2023 16:33:21
+
+[Page 35]
+6- L’insulinothérapie du diabète de type 2 
+ 
+L’insuline est capable de réduire l’hyperglycémie, voire de normaliser les glycémies des DT2 avec ou sans 
+surpoids. Un traitement mixte non insulinique + insuline est possible (en particulier avec la metformine). 
+L’insulinothérapie peut être prescrite de manière définitive ou transitoire dans certaines situations 
+(intervention chirurgicale, grossesse, contre-indications des antidiabétiques oraux, un accident aigu 
+intercurrent 
+(infection, 
+ischémie 
+myocardique, 
+syndrome 
+hyperglycémique 
+hyperosmolaire, 
+corticothérapie…). 
+ 
+L’hypoglycémie est l’effet secondaire le plus fréquent. La prise de poids est très variable et elle est en 
+général proche de celle observée avec les sulfamides hypoglycémiants. 
+ 
+Les insulines humaines intermédiaires, pré mixées et lentes, de même que les insulines analogues lentes 
+(glargine 100 ou détémir) ou ultralentes (glargine 300 ou degludec) peuvent être utilisées avec une 
+préférence dans un premier temps. 
+ 
+Mise en route de l’insuline chez le diabétique de type 2 : 
+Initiation de l’insulinothérapie. Après échec des ADO 
+• NPH au coucher + ADO (schéma bed time) 
+• analogue lent ou ultralent + ADO (insulinothérapie basale) 
+• ou Premix le soir 
+On commence par une dose de (0,1 - 0,2 u/kg/j), en moyenne 10 à 12 unités d’insuline basale ou 
+d’insuline Prémix, puis on augmente tous les 2 jours de 2 unités jusqu’à l’obtention d’une glycémie à jeun 
+comprise entre 0,80 et 1g/l. 1g/l et 1,30g/l, ce qui correspond à un objectif d’HbA1c de 7 %. 
+A ce stade on garde l’association d’ADO que le malade prenait (metformine associée à un insulinosécréteur 
+ou à une autre classe thérapeutique). Une réduction de sulfamides peut être envisagée. 
+ 
+ Intensification de l’insulinothérapie. 
+Dès qu’on introduit une insuline rapide seule ou associée à une insuline intermédiaire, il est souhaitable 
+d’arrêter les insulino-sécréteurs. La metformine sera gardée quel que soit le schéma d’intensification de 
+l’insulinothérapie. 
+L’intensification se poursuit en fonction du schéma d’initiation : 
+ - soit schéma basal plus : 1 analogue lent ou ultralent le soir ou le matin et 1 analogue rapide ou 
+ultrarapide au moment du repas le plus hyperglycémiant. 
+ - soit schéma utilisant des insulines Premix (schéma 1,2,3) : 1 injection le soir au dîner puis 1 injection 
+au petit déjeuner 
+Si le contrôle est insuffisant on rajoute une 3ème injection au repas de midi (on commence par 4 à 6 unités 
+puis on adapte les doses ultérieurement) en prenant soin de diminuer un peu la dose de la Premix du matin. 
+livre diabete vf.indd 34
+livre diabete vf.indd 34
+05/09/2023 16:33:21
+05/09/2023 16:33:21
+
+[Page 36]
+Le schéma avec des Premix ne peut être proposé qu’aux sujets respectant les horaires des repas. 
+- schéma basal bolus : Ce schéma mime l’insulinosécrétion physiologique, il consiste en une injection 
+d’insuline basale et des injections distinctes d’insuline pré prandiale lors de chaque repas (4 à 5 injections 
+par jour). 
+Les insulines rapides humaines ou analogues rapides seront employées dans les schémas basal/plus et 
+basal/bolus (voir tableau des insulines disponibles au Maroc, page 13). 
+ 
+La mise à l’insuline est un moment très important dans le suivi du patient DT2 qui mérite tout le temps 
+nécessaire pour une éducation appropriée et une information suffisante afin de bénéficier de cette 
+optimisation thérapeutique. 
+ 
+ Adaptation des doses d’insuline : 
+ 
+- Glycémie du matin
+ 
+- ajuster dose NPH ou lente du soir (schéma 2 injections ou basal 
+bolus) 
+ 
+- Glycémie de midi
+ 
+- ajuster dose d’insuline rapide du matin (schéma 2 injections ou 
+basal bolus) 
+ 
+- Glycémie du soir
+ 
+- ajuster dose NPH du matin (schéma 2 injections) 
+- ajuster dose d’insuline du midi (basal bolus) 
+ 
+- Glycémie après dîner 
+ 
+- ajuster dose d’insuline rapide du soir 
+ 
+ Pompes à insuline pour le patient DT2 
+ 
+Ils ne sont pas suffisamment étudiées au niveau balance coût bénéfice. 
+ 
+VI-2-C. Chirurgie bariatrique 
+ 
+La chirurgie bariatrique permet d’obtenir une perte de poids de 15 à 30 %. L’amélioration de l’équilibre 
+glycémique et la rémission du diabète, définie par une HbA1c inférieure à 6 %, une glycémie à jeun 
+inférieure à 1g/l et l’arrêt des antidiabétiques oraux depuis plus d’un an, sont fonction de cette perte de 
+poids. La mise en place d’un anneau ou la sleeve gastrectomie permettent d’obtenir une rémission initiale 
+du diabète dans près de la moitié des cas. Ce sont les techniques de bypass et de dérivation biliopancréatique 
+qui sont les plus efficaces avec une rémission dans plus de 80 % des cas. Les effets indépendants de la perte 
+de poids, comme les modifications des sécrétions hormonales et du microbiote, sont également importants 
+dans l’amélioration du niveau glycémique qui est rapide et précède l’amaigrissement. Ce fait impose une 
+surveillance rapprochée après l’intervention et un allègement voire une interruption du traitement afin 
+d’éviter les accidents hypoglycémiques. Les éléments défavorables à une rémission complète sont 
+représentés par une longue durée d’évolution du diabète, un mauvais contrôle glycémique préopératoire et 
+l’utilisation initiale d’insuline. Tous ces cas de figures témoignent d’un déficit profond de 
+l’insulinosécrétion qui ne peut plus être compensé par la perte de poids. Malheureusement, cette rémission 
+n’est pas synonyme de guérison. 
+livre diabete vf.indd 35
+livre diabete vf.indd 35
+05/09/2023 16:33:21
+05/09/2023 16:33:21
+
+[Page 37]
+La chirurgie métabolique peut être proposée chez les patients diabétiques de type 2 obèses avec un indice 
+de masse corporelle (IMC) supérieur à 35kg/m², en cas de diabète mal équilibré et en l’absence de contreindication à ce type d’intervention (79, 80). Grade B 
+ 
+Une collaboration multidisciplinaire et la définition d’un circuit pour les patients candidats à la chirurgie 
+métabolique permettrait de bien poser les indications opératoires et améliorer les résultats post opératoire 
+et le suivi post-opératoire de ces patients multi compliqués le plus souvent. 
+ 
+ Stratégie thérapeutique 
+ 
+Tenir compte du profil du patient et de l'antidiabétique (comorbidités, considérations financières, surpoids 
+ou obésité, contre-indications, effets secondaires et éléments de preuve) lors du choix d’une classe 
+thérapeutique déterminée. 
+ 
+Chez un patient en prévention primaire, le choix thérapeutique après la metformine se fait de façon 
+individualisée, centrée sur le patient selon le risque d’hypoglycémie, de prise de poids, des effets 
+indésirables mais aussi du statut cardio vasculaire et rénal, du coût, ainsi que de la préférence du patient. 
+Grade C 
+ 
+Pour un patient en insuffisance cardiaque et ou maladies rénale chronique, le traitement à privilégier est 
+une gliflozine (81, 82, 83). Grade A 
+ 
+Pour un patient en prévention secondaire en dehors d’une insuffisance cardiaque, un AR GLP1 qui a 
+démontré un bénéfice cardio vasculaire ou une gliflozine qui a démontré un bénéfice cardio vasculaire est 
+à privilégier (81, 82, 83, 84, 85). Grade A 
+ 
+Ajouter l'insuline ou un analogue du GLP-1 lorsqu'une association d'antidiabétiques oraux à la dose 
+maximale tolérée ne suffit pas pour atteindre la valeur cible individuelle d'HbA1c 
+ 
+Envisager l’utilisation d’un analogue du GLP-1 chez les patients présentant une obésité ou dans les 
+situations où l’hypoglycémie constitue un danger particulier (86). Grade B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+livre diabete vf.indd 36
+livre diabete vf.indd 36
+05/09/2023 16:33:21
+05/09/2023 16:33:21
+
+[Page 38]
+livre diabete vf.indd 37
+livre diabete vf.indd 37
+05/09/2023 16:33:21
+05/09/2023 16:33:21
+
+[Page 39]
+INDICATION DE L’AR GLP1 
+ 
+À privilégier devant l’insuline basale chez les patients en prévention secondaire et chez le patient à très 
+haut risque cardiovasculaire, mais aussi chez les patients à risque d’hypoglycémie. 
+ 
+livre diabete vf.indd 38
+livre diabete vf.indd 38
+05/09/2023 16:33:21
+05/09/2023 16:33:21
+
+[Page 40]
+VI-3- Traitement du diabète gestationnel 
+ 
+Compte tenu du risque de complications materno-fœtales, il est nécessaire de traiter le diabète gestationnel, 
+même dans ses formes modérées. 
+ 
+VI-3-A- Prise en charge endocrinienne pendant la grossesse 
+ 
+ Conseils diététiques : 
+ 
+Consultation spécialisée et éducation nutritionnelle, l’objectif étant de limiter le gain de poids, d’obtenir 
+une euglycémie en limitant les excursions postprandiales, et d’éviter la cétonémie. 
+ 
+ Exercice physique régulier : 
+ 
+En l’absence de contre-indications obstétricales, 30 min chaque jour idéalement, et à défaut 3 à 5 fois par 
+semaine. 
+ 
+ Insulinothérapie 
+ 
+ 
+Indications : 
+ 
+Si le régime ne suffit pas à obtenir les objectifs glycémiques fixés pendant 7 à 10 jours, une insulinothérapie 
+doit être instaurée (Les antidiabétiques oraux n’ont pas l’AMM pendant la grossesse). L'insulinothérapie 
+est de mise, d'emblée, si la glycémie à jeun est supérieure à 1,30 g/l. 
+ 
+ 
+Posologie : 
+ 
+- 
+Insuline rapide ou ultra-rapide : 1 à 3 injections avant les repas. On commence par 4 unités en 
+moyenne avec augmentation progressive selon les glycémies 2 h après le repas. 
+livre diabete vf.indd 39
+livre diabete vf.indd 39
+05/09/2023 16:33:21
+05/09/2023 16:33:21
+
+[Page 41]
+- 
+Insuline intermédiaire : 1 injection au coucher. On commence par 4-6 unités en moyenne avec 
+augmentation progressive selon la glycémie à jeun du matin 
+- 
+Pour les analogues d’action lente : attendre l’AMM. 
+- 
+Insuline ultra-rapide : la glulisine n’a pas l’AMM pour l’utilisation pendant la grossesse 
+- 
+Il n’existe pas de données évaluant la pompe à infusion sous-cutanée d’insuline dans le 
+traitement du DG. 
+ 
+ 
+ 
+ 
+Conformément à la Circulaire de la DP N°13/2020 relative au dépistage et à la prise en charge du 
+diabète gestationnel au niveau des Établissements de Soins du Ministère de la Santé, notamment 
+l’algorithme de prise en charge du diabète gestationnel, élaboré en consensus avec tous les acteurs 
+œuvrant dans le domaine de la santé maternelle et néonatale, en particulier les sociétés savantes. 
+ 
+ Auto surveillance glycémique (ASG) : 
+ 
+L’objectif est d’obtenir une glycémie à jeun inférieure à 0,95 g/l (ou 5.3 mmol/l) et une glycémie 
+post prandiale 2 h après le début du repas inférieure à 1,20 g/l (ou 6.6 mmol/l). L’ASG est 
+recommandée entre 4 et 6 fois par jour (au moins une fois à jeun et deux heures après les repas 
+selon le traitement) - diététique ou insuline - et l’équilibre obtenu. Si les objectifs glycémiques 
+sont atteints on réduit la surveillance selon les valeurs (3 à 4 fois/jour). 
+ Autres examens paracliniques 
+livre diabete vf.indd 40
+livre diabete vf.indd 40
+05/09/2023 16:33:21
+05/09/2023 16:33:21
+
+[Page 42]
+- Cytobactériologie urinaire mensuelle 
+- HbA1c selon les cas 
+- Uricémie 
+ 
+ En cas de menace d’accouchement prématuré 
+ 
+Les inhibiteurs calciques (nicardipine, nifédipine) et les antagonistes de l’ocytocine (atosiban) 
+peuvent être utilisés sans précaution spécifique. Les bêta-mimétiques ne doivent être utilisés qu’en 
+dernier recours et avec une surveillance glycémique rapprochée. 
+ 
+ En cas de corticothérapie anténatale 
+ 
+La maturation pulmonaire fœtale par glucocorticoïdes peut être réalisée : 
+- sous couvert d’une surveillance glycémique 6 fois par jour : en préprandial et 2h après le 
+début de chaque repas. 
+- et d’une insulinothérapie si 3 jours après le début de la corticothérapie les glycémies 
+capillaires à jeun restent supérieures à 1.10 g/L et/ou si les glycémies capillaires postprandiales 
+(2h après le début du repas) restent supérieures à 1.50 g/L (8,5 mmol/l). 
+ 
+Si un dépistage du diabète gestationnel est indiqué, le test de dépistage est à réaliser plusieurs jours 
+(une semaine à 10 jours) après la dernière injection de glucocorticoïdes. 
+ 
+VI-3-B- Prise en charge obstétricale 
+ 
+*Les mesures hygiéno-diététiques s’adressent également à toute femme à risque 
+ 
+Le suivi doit être conjoint entre endocrinologue, gynécologue (et médecin généraliste éventuellement) avec 
+un accouchement médicalisé programmé (87, 88, 89). 
+ 
+VI-4- Les autres types de diabète (7, 90) 
+ 
+Autres types de 
+diabète 
+Physiopathologie 
+Messages clés 
+Traitements et 
+particularités 
+Diabète secondaire 
+à la prise de 
+médicaments 
+Acide nicotinique 
+Glucocorticoïdes 
+Hormones 
+thyroïdiennes 
+α-stimulants 
+ß-stimulants 
+Thiazidiques 
+Pentamidine 
+Interféron α 
+Statines 
+Certains médicaments 
+peuvent augmenter les 
+risques de diabète, de façon 
+temporaire ou permanente 
+Généralement considérés et 
+traités comme vivant avec 
+un diabète de type 2. 
+Défauts génétiques 
+altérant la fonction 
+des cellules ß 
+Chromosome 20, 
+HNF-4 α (MODY 1) 
+Le diabète de type MODY 
+est une forme particulière de 
+diabète, différent du diabète 
+auto-immun de type 1 
+Le traitement du diabète de 
+type MODY dépend de 
+l’importance de 
+livre diabete vf.indd 41
+livre diabete vf.indd 41
+05/09/2023 16:33:22
+05/09/2023 16:33:22
+
+[Page 43]
+Chromosome 7, 
+glucokinase (MODY 
+2) 
+Chromosome 12, 
+HNF-1 α (ex-MODY 
+3) 
+Chromosome 13, IPF1 (MODY 4) 
+Mutation 3243 de 
+l’ADN mitochondrial 
+Il est en rapport avec une 
+anomalie de la régulation de 
+la sécrétion d’insuline. 
+C’est une forme rare de 
+diabète (moins de 2% des 
+diabètes sucrés). 
+Il se manifeste dès l’enfance 
+ou l’adolescence, d’où le 
+nom: Maturity-Onset 
+Diabetes of the Young, ou 
+diabète de type adulte chez le 
+jeune 
+C’est un diabète familial, 
+avec une hérédité « 
+autosomique dominante ». Il 
+concerne la moitié des 
+personnes de chaque 
+génération d’une même 
+famille, dans les deux sexes 
+l’hyperglycémie (en rapport 
+avec la cause génétique). 
+Les indications des 
+médicaments 
+antidiabétiques oraux et de 
+l’insuline ne diffèrent pas 
+de celles du diabète non 
+insulinodépendant de type 2 
+La surveillance, en 
+particulier la recherche de 
+micro-angiopathies, doit 
+être aussi rigoureuse que 
+dans n’importe quelle 
+forme de diabète sucré 
+Beaucoup de personnes 
+ayant une hyperglycémie 
+par mutation du gène de la 
+glucokinase n’ont pas de 
+traitement médicamenteux 
+Défauts génétiques 
+altérant l’action de 
+l’insuline 
+Insulinorésistance de 
+type A 
+Lepréchaunisme 
+(syndrome de 
+Donohue) 
+Syndrome de RabsonMendenhall 
+Diabète lipoatrophique 
+Hyper spécialisé 
+Dysmorphies caractéristiques 
+ 
+Maladies du 
+pancréas 
+Maladies du pancréas 
+exocrine 
+Pancréatopathie fibrocalculeuse 
+Pancréatite 
+Traumatisme/pancréat
+ectomie 
+Carence complète en insuline 
+mais aussi en glucagon 
+Le traitement consiste à 
+prescrire de l’insuline à vie 
+afin de corriger le déficit. 
+Les hormones de contrerégulation, le glucagon en 
+particulier, n’étant plus 
+correctement sécrétées, les 
+malades sont très sensibles 
+à l’hypoglycémie 
+ 
+Endocrinopathies 
+Syndrome de Cushing 
+Acromégalie 
+Phéochromocytome 
+Glucagonome 
+Entité hétérogène 
+Conséquence directe ou 
+indirecte de l’excès de 
+sécrétion hormonale telles 
+que l’hormone de croissance 
+Dans la plupart des 
+cas, le diabète disparaît lors 
+du traitement chirurgical ou 
+médical de 
+l’endocrinopathie souslivre diabete vf.indd 42
+livre diabete vf.indd 42
+05/09/2023 16:33:22
+05/09/2023 16:33:22
+
+[Page 44]
+Hyperthyroïdie 
+Somatostatinome 
+(GH), le cortisol, le glucagon 
+et l’adrénaline sont des 
+antagonistes de l’insuline. 
+L’hyperglycémie résulte 
+principalement d’une 
+insulinorésistance liée à une 
+hyperproduction des 
+hormones de la 
+contrerégulation, associée à 
+une insulinosécrétion 
+insuffisante pour compenser 
+cette insulinorésistance. 
+jacente, si celle-ci était bien 
+la seule responsable de 
+l’hyperglycémie. 
+Infections virales 
+Rubéole congénitale 
+Cytomégalovirus 
+Rares 
+ 
+Autres syndromes 
+génétiques parfois 
+associés au diabète 
+Trisomie 21 
+Maladie de Friedreich 
+Chorée de Huntington 
+Syndrome de 
+Klinefelter 
+Syndrome de Laurence 
+-Moon-Bardet-Biedl 
+Myotonie 
+dystrophique (maladie 
+de Steinert) 
+Porphyrie 
+Syndrome de PraderLabhart-Willi 
+Syndrome de Turner 
+Syndrome de Wolfram 
+Hyper spécialisé 
+Dysmorphies caractéristiques 
+ 
+Formes rares de 
+diabète auto-immun 
+Syndrome de 
+« l‘homme raide » 
+Anticorps antirécepteurs de 
+l’insuline 
+Hyper spécialisé 
+ 
+ 
+Autres formes 
+Cancer 
+Mucoviscidose 
+Hémochromatose 
+Hyper spécialisé 
+ 
+ 
+ 
+livre diabete vf.indd 43
+livre diabete vf.indd 43
+05/09/2023 16:33:22
+05/09/2023 16:33:22
+
+[Page 45]
+VI-3. Traitements associés 
+ 
+Chez le patient diabétique adulte, la prescription d’un hypolipidémiant ne doit pas être systématique mais 
+est conditionnée par son niveau de risque cardio- vasculaire (objectifs cibles de LDL-cholestérol selon les 
+recommandations de prise en charge du patient ayant une hyperlipidémie. Grade A 
+ 
+Chez la majorité des patients diabétiques considérés à « risque cardiovasculaire élevé », il faut idéalement 
+maintenir le taux de cholestérol LDL en dessous de 100 mg/dl. Chez ceux (la majorité) dont le risque 
+cardiovasculaire est « très élevé », on visera un taux de cholestérol LDL en dessous de 70 mg/dl. Chez 
+des patients diabétiques cumulant en plus de leur diabète, une insuffisance rénale ou une histoire 
+personnelle de maladie cardiovasculaire (patient diabétique coronarien), il est peut-être même nécessaire 
+d’aller plus loin en descendant le cholestérol LDL en dessous de 50 mg/dl comme semble l’indique les 
+études IMPROVE IT. 
+ 
+Pour les patients diabétiques et hypertendus, les cibles de pression artérielle doivent être individualisées en 
+tenant compte du risque cardiovasculaire, des effets indésirables potentiels des médicaments 
+antihypertenseurs et des préférences des patients. Grade C 
+ 
+Pour les personnes atteintes de diabète et d'hypertension à risque cardiovasculaire plus élevé (maladie 
+cardiovasculaire artérioscléreuse existante [ASCVD] ou risque ASCVD élevé), une cible de pression 
+artérielle <130/80 mmHg peut être appropriée. Grade C 
+ 
+Pour les personnes atteintes de diabète et d'hypertension à faible risque de maladie cardiovasculaire, traiter 
+jusqu'à un objectif de tension artérielle <140/90 mmHg. Le traitement de l’HTA du patient diabétique figure 
+dans le référentiel « PEC de l’HTA ». 
+ 
+Les inhibiteurs de l’enzyme de conversion (captopril, enalapril, périndopril, quinapril, lisinopril, ramipril) 
+et les antagonistes des récepteurs de l’angiotensine (losartan, valsartan, candesartan, telmisartan, irbésartan) 
+sont indiqués chez les diabétiques microabuminuriques ou macroalbuminuriques, ou ayant un rapport 
+albuminurie/créatininurie élevé même en dehors d’une hypertension artérielle. Grade A 
+ 
+- La prescription des antiagrégants plaquettaires est justifiée chez les diabétiques à haut risque Cardiovasculaire et en cas de néphropathie diabétique avancée. Grade B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VII- 
+SITUATIONS PARTICULIERES 
+livre diabete vf.indd 44
+livre diabete vf.indd 44
+05/09/2023 16:33:22
+05/09/2023 16:33:22
+
+[Page 46]
+VII-1. Diabète et grossesse 
+ 
+Situation métabolique à risque pour l’enfant (embryo-foetopathie) et pour la mère (retentissement maternel 
+de la grossesse). 
+ 
+L’amélioration du pronostic passe par la planification pré conceptionnelle, la surveillance diabétoobstétricale intensifiée et rapprochée et la prise en charge par une équipe pluridisciplinaire expérimentée et 
+coordonnée. 
+ 
+VII-1-A- Prise en charge avant la grossesse : Bilan pré conceptionnel 
+ 
+Il est important de programmer la grossesse pour permettre d’avoir un équilibre glycémique optimal au 
+moment de la conception. 
+- Réaliser un bilan complet du diabète: fond d’œil, créatinémie, micro albuminurie, hémoglobine glyquée 
+avec comme objectif (< 6%) à atteindre, bilan lipidique et TSH. 
+- Dépister et traiter les lésions dégénératives (rétinopathie, une HTA, néphropathie). En cas de néphropathie 
+débutante (micro albuminurie), il faut arrêter les IEC et les ARA II. 
+- Arrêter les antidiabétiques non insuliniques et les remplacer par l’insuline. 
+- Prescrire l’acide folique un mois avant la conception et deux mois après (pour la prévention primaire des 
+anomalies embryonnaires de fermeture du tube neural) chez les femmes sans antécédent particulier. 
+ 
+VII-1-B- Grossesse non programmée : 
+ 
+- Arrêt des antidiabétiques oraux dans le DT2 et mise sous insuline 
+- Si la patiente est déjà sous insuline : Insulinothérapie en multi injections 
+- Éducation thérapeutique 
+- Plan des consultations diabétologiques : il faut une consultation initiale tous les 15 jours, puis à adapter à 
+chaque patiente en fonction de l’équilibre glycémique et des complications présentes 
+ 
+VII-1-C- Effets de la grossesse sur le diabète 
+- 
+Les complications métaboliques : 
+ 
+Les hypoglycémies sont fréquentes au cours du 1er trimestre puis les besoins en insuline augmentent très 
+progressivement pour ensuite diminuer, brutalement, après l’accouchement. 
+ 
+- 
+Les complications chroniques : 
+ 
+La rétinopathie : 
+ 
+- 
+La rétinopathie proliférante est une contre-indication de la grossesse 
+- 
+L’aggravation d’une rétinopathie préexistante à la grossesse est fréquente. Ce risque est 
+maximal au 2ème trimestre, Ceci impose un traitement pré conceptionnel 
+- 
+Un examen ophtalmologique doit être réalisé en début de grossesse puis tous les 3 mois en 
+l’absence de rétinopathie et tous les mois s’il existe une rétinopathie. 
+livre diabete vf.indd 45
+livre diabete vf.indd 45
+05/09/2023 16:33:22
+05/09/2023 16:33:22
+
+[Page 47]
+La néphropathie : 
+ 
+- 
+La grossesse s’accompagne d’une augmentation physiologique de la filtration glomérulaire 
+- 
+L’insuffisance rénale ne s’aggrave que rarement pendant la grossesse. Cependant, chez les 
+patientes présentant une néphropathie débutante (micro-albuminurie), le risque de prééclampsie, d’HTA gravidique, d’accouchement prématuré, de RCIU est augmenté. 
+ 
+La coronaropathie : La grossesse est contre-indiquée en cas d’insuffisance coronarienne. 
+ 
+VII-1-D. Effets du diabète sur la grossesse 
+ 
+ 
+Les complications embryonnaires et fœtales : 
+- 
+Les fausses couches, les malformations fœtales sont plus fréquentes 
+- 
+Le risque de macrosomie est élevé. Elle prédomine sur l’extrémité supérieure du tronc avec 
+une augmentation significative du périmètre scapulaire à l’origine de la dystocie des épaules 
+- 
+La mortalité in utero et périnatale sont plus fréquentes, surtout en cas de diabète mal équilibré 
+ 
+Les complications de la grossesse : 
+- 
+Les infections urinaires, l’hydramnios sont plus fréquentes. 
+- 
+L’HTA gravidique survient dans 25 à 30% des cas avec un risque de pré éclampsie. Ce risque 
+est d’autant plus augmenté qu’il existe une rétinopathie et une néphropathie. 
+ 
+VII-1-E. Surveillance de la grossesse (89) 
+ Surveillance diabétologique : 
+ 
+- 
+L’autosurveillance de la glycémie est essentielle pendant la grossesse. La mesure de la 
+glycémie préprandiale et postprandiale est recommandée pour l’ajustement du traitement et 
+l’atteinte des objectifs glycémiques. En raison de la hausse du risque d’hypoglycémie nocturne 
+pendant la grossesse, les patientes insulinotraitées doivent souvent mesurer leur glycémie la 
+nuit (au coucher et au petit matin). Comme la cétose de jeûne est courante pendant la grossesse 
+et peut avoir des effets nuisibles sur le fœtus, il faut doser les corps cétoniques dans l’urine 
+et/ou dans le sang pour confirmer que l’alimentation est convenable. 
+- 
+Objectifs à atteindre : glycémies < 0.95 g/l en préprandial et <1.20 g/l à 2h en postprandial. 
+- 
+Surveillance tous les mois par le médecin traitant. 
+- 
+Si les objectifs glycémiques ne sont pas atteints, une hospitalisation est justifiée. 
+ 
+ Surveillance obstétricale : 
+- 
+Consultation prénatale mensuelle en l’absence de complications 
+- 
+A chaque consultation : poids, tension artérielle, ECBU, uricémie, recherche de protéinurie 
+- 
+3 échographies (12ème, 22ème et 34ème semaine d’aménorrhée). 
+ 
+ 
+VII-2- Prise en charge péri opératoire 
+livre diabete vf.indd 46
+livre diabete vf.indd 46
+05/09/2023 16:33:22
+05/09/2023 16:33:22
+
+[Page 48]
+Le diabète est l’atteinte endocrinienne la plus fréquente en milieu chirurgical. La prise en charge en péri 
+opératoire du diabétique comporte une évaluation préopératoire du risque lié aux complications 
+dégénératives et à leurs implications anesthésiques, et une gestion du traitement anti hyperglycémiant 
+(antidiabétiques oraux, injectable et insuline). 
+ 
+Au cours de l’intervention chirurgicale, la glycémie doit être maintenue entre 1,2 et 2g/l. En revanche, en 
+cas de neuropathie périphérique, d’AVC ischémique, d’un pontage aorto-coronarien, de neurochirurgie, la 
+glycémie sera maintenue entre 1,1 et 1,2g/l. L’hyperglycémie dans ces cas risque d’aggraver les lésions 
+neurologiques préexistantes ou les lésions d’ischémie aiguë. 
+ 
+VII-3. Aspects psychologiques et psychiatriques 
+ 
+Il est établi que la co-morbidité psychologique est prévalente chez les personnes atteintes de diabète, ce qui 
+a un impact négatif sur le bien-être, l’autonomie et le contrôle glycémique. La plupart des directives pour 
+la gestion du diabète recommandent une évaluation régulière de l'état psychologique des personnes atteintes 
+de diabète à des moments précis, par exemple, au moment du diagnostic et au cours des contrôles annuels 
+(39). 
+ 
+VII-4. Préventions des accidents liés aux produits de contraste iodés 
+ 
+Le diabète ne constitue pas une contre-indication à la réalisation des examens nécessitant l’injection de 
+produits de contraste iodés. Mais les risques d’aggravation d’une insuffisance rénale préexistante ou de 
+survenue d’une néphropathie secondaire imposent la précaution : 
+- 
+Disposer d’un dosage de la créatinine plasmatique (de moins de 3 mois ou plus récent si événement 
+intercurrent) et préciser la clairance de la créatinine 
+ 
+- 
+Si nécessité de répéter les examens, attendre 3 jours au minimum et au mieux 10 jours entre 2 
+injections de produits de contraste iodés. Grade A 
+ 
+- 
+Dosage de la créatinine (+ kaliémie) 48 heures après l’examen. 
+ 
+VII-5. Diabète et corticothérapie 
+ 
+Lorsqu’elle est indispensable, la corticothérapie peut être instaurée chez le patient diabétique. Dans ce cas, 
+il est impératif d’adapter le traitement antidiabétique et de renforcer la surveillance durant toute la période 
+du traitement. L’avis de l’endocrinologue doit être sollicité avant le démarrage de la corticothérapie. 
+L’insulinothérapie s’impose chez le DT2 en cas de contrôle insuffisant de l’équilibre glycémique en dépit 
+d’un traitement oral maximal et si la pathologie nécessitant la corticothérapie grève le pronostic rénal, 
+cardiaque, hépatique ou respiratoire. La décroissance des doses de corticoïdes se fait sous couverture d’une 
+surveillance glycémique renforcée afin d’adapter les traitements antidiabétiques pour éviter la survenue des 
+hypoglycémies. 
+ 
+livre diabete vf.indd 47
+livre diabete vf.indd 47
+05/09/2023 16:33:22
+05/09/2023 16:33:22
+
+[Page 49]
+VII-6. Diabète et Ramadan (91, 92) 
+ 
+Bien que la grande majorité des diabétiques soit dispensée du jeûne et malgré les conseils médicaux, de très 
+nombreux diabétiques insistent pour jeûner. Il faut rappeler que le jeûne du mois de Ramadan peut faire 
+courir des risques majeurs au diabétique : 
+ 
+- Hypoglycémie 
+- Hyperglycémie 
+- Déshydratation 
+- Décompensation d'autres pathologies (cardiaque, rénale, hépatique...) 
+- Acidocétose (surtout DT1) 
+ 
+Recommandations pour les diabétiques : 
+ 
+- Tous les patients diabétiques de type 1 ne doivent pas jeûner. (Accord professionnel) 
+Cependant, si le patient insiste malgré l’avis médical, il faut instaurer une auto surveillance glycémique 
+pluriquotidienne. 
+- Il est déconseillé au DT2 présentant l’un des critères suivants de jeuner (Accord professionnel) : 
+a. Néphropathie avec baisse du débit de filtration glomérulaire (inférieur à 60 ml/mn 
+b. Rétinopathie sévère 
+c. Neuropathie autonome: gastroparésie, hypotension orthostatique 
+d. Méconnaissance ou connaissance insuffisante des risques d’hypoglycémie 
+e. Complications macro vasculaires majeures : coronaires et cérébrovasculaires 
+f. État hyperosmolaire récent ou acidocétose 
+g. Diabète mal contrôlé 
+h. Injections multiples d’insuline par jour 
+i. Grossesse, allaitement 
+j. Conditions médicales urgentes 
+ 
+Prescriptions thérapeutiques en cas de jeûne : 
+ 
+ 
+Pour les patients sous antidiabétiques oraux (ADO) en monoprise : prendre l’ADO à la rupture du 
+jeûne 
+ 
+Pour les patients sous ADO en prises multiples : prendre la dose d’ADO la plus élevée à la rupture 
+du jeûne et la dose la plus faible à l’heure du Shour 
+ 
+Pour les patients sous insuline : privilégier une insuline basale qui doit être administrée à la rupture 
+du jeûne. 
+ 
+ 
+ 
+Surveillance pendant le Ramadan : 
+ 
+ 
+Surveiller des glycémies pendant le jeûne pour détecter une hypo ou hyper glycémie 
+livre diabete vf.indd 48
+livre diabete vf.indd 48
+05/09/2023 16:33:22
+05/09/2023 16:33:22
+
+[Page 50]
+ 
+Si la glycémie est notée basse, le jeûne doit être interrompu 
+ 
+Si la glycémie s’élève à plus de 2,50 g/l, la présence de corps cétoniques dans les urines doit être 
+recherchée et solliciter un avis médical. 
+ 
+VII-7. Diabète et cavité buccodentaire 
+ 
+Le diabète constitue un facteur de risque pour les pathologies parodontales, la xérostomie, la carie dentaire, 
+les infections bactériennes, virales et fongiques. Ces manifestations buccodentaires sont plus fréquentes et 
+plus sévères chez les patients présentant un mauvais contrôle glycémique. En revanche, le sujet diabétique 
+bien équilibré ne se distingue en rien d’un sujet non diabétique au niveau de la cavité buccale. 
+ 
+Recommandations générales (39) 
+ 
+- Nécessité d’assurer toujours un bon équilibre glycémique et notamment à l’occasion de soins dentaires, 
+en ayant recours à l’insuline si nécessaire. 
+- Les soins dentaires doivent impérativement être : 
+1- faits sous couverture antibiotique (amoxicilline, de préférence) 
+2- pratiqués avec utilisation des anesthésiques locaux sans adrénaline. 
+- Une consultation annuelle chez le médecin dentiste est nécessaire, même en l’absence de toute 
+symptomatologie bucco-dentaire. 
+ 
+VII-8. Diabète et vaccinations 
+ 
+- Aucune vaccination n'est contre-indiquée chez le diabétique. Elles sont même recommandées. Néanmoins, 
+il convient de choisir une période d'équilibre du diabète. 
+- Beaucoup de centres de vaccination s’inquiètent de la présence d’une glycosurie, à tort. La néphropathie 
+diabétique et la protéinurie ne constituent pas non plus des contre-indications mais il est préférable de 
+prendre l’avis du diabétologue ou du néphrologue. 
+ 
+Recommandations générales 
+ 
+- 
+Le diabétique doit être à jour de ses vaccinations, dont le vaccin antitétanique 
+- 
+La vaccination antigrippale est recommandée chez tous les diabétiques 
+- 
+La vaccination contre le pneumocoque est indiquée chez les personnes à risque 
+- 
+En cas de voyage, il n’existe aucune contre-indication aux diverses vaccinations préconisées 
+- 
+Le diabète n’empêche pas de recevoir une chimioprophylaxie antipaludéenne. Néanmoins, il faut 
+éviter les médicaments à base de chloroquine (Nivaquine) chez les personnes souffrant de 
+rétinopathie diabétique (problèmes vasculaires, en particulier au niveau de la rétine). 
+- 
+La vaccination contre le COVID 19 est recommandée vu que les diabétiques sont des sujets à très 
+haut risque. 
+VII-9. Diabète et travail 
+ 
+ Le diabète n’a pas d'impact en général, sur la capacité d'un individu à faire un travail particulier, et 
+en fait un employeur peut même, ne pas savoir qu'un employé donné est atteint de diabète. 
+livre diabete vf.indd 49
+livre diabete vf.indd 49
+05/09/2023 16:33:22
+05/09/2023 16:33:22
+
+[Page 51]
+ Toute personne souffrant de diabète, qu’elle soit insulinotraitée ou non devrait être admise à un 
+emploi pour lequel elle est par ailleurs qualifiée. 
+ Les personnes atteintes de diabète doivent être évaluées individuellement pour un emploi sur la 
+base des exigences spécifiques de cet emploi, en tenant compte de leur état de santé de l'individu, 
+de leur traitement prescrit et de leurs antécédents médicaux. 
+ 
+X- MODALITES DE SUIVI 
+ Etapes de prise en charge : 
+ 
+- 
+Le suivi et la surveillance du diabétique doivent être assurés par le médecin traitant pour évaluer la 
+qualité du contrôle métabolique et adapter de façon dynamique le traitement, mais également pour 
+dépister précocement les complications dégénératives du diabète. 
+- 
+Une évaluation médicale complète doit être effectuée lors de la première visite initiale pour : 
+ 
+ 
+Confirmer le diagnostic et classer le diabète. 
+ 
+Évaluer les complications du diabète et les comorbidités potentielles. 
+ 
+Examiner les traitements antérieurs et le contrôle des facteurs de risque. 
+ 
+Commencer à faire participer le patient à un plan de gestion des soins. 
+ 
+Élaborer un plan de soins continus. 
+ 
+- 
+La prise en charge continue doit être guidée par l'évaluation de l'état de santé général, des complications 
+du diabète, du risque cardiovasculaire, du risque d'hypoglycémie et de la prise de décision partagée 
+pour fixer les objectifs thérapeutiques. 
+ 
+ Rythme des consultations : 
+ 
+Le suivi du diabétique est réalisé au cours de consultations régulières dont le rythme est variable selon la 
+qualité du contrôle glycémique, le profil évolutif de la maladie, le niveau d'éducation du diabétique, son 
+aptitude à assurer son auto-surveillance et son auto-contrôle et enfin certaines situations particulières 
+(grossesse, infections, affections intercurrentes ou préparation pour une intervention chirurgicale…). Le 
+rythme recommandé est une consultation tous les 3 mois pour les diabètes de type 1 et de type 2. 
+ 
+ Suivi clinique et paraclinique 
+ 
+1- Suivi clinique (à chaque consultation) 
+ 
+- 
+Réévaluer le niveau d’éducation thérapeutique (autonomie, règles hygiéno-diététiques). 
+- 
+Observance du traitement. 
+- 
+Surveillance pondérale, du tour de taille et de la tension artérielle. 
+- 
+Evaluation de la symptomatologie fonctionnelle (polyurie, polydipsie, nycturie). 
+- 
+Recherche d'accidents hypoglycémiques ou cétosiques. 
+- 
+Evaluer le statut pubertaire chez les enfants et adolescents. 
+- 
+Recherche d’hypotension orthostatique (diabète de type 2 et diabète de type 1 ancien). 
+- 
+Examen de la thyroïde, examen cutané (sites d’injections d’insuline). 
+- 
+Examen des pieds, gradation du risque podologique. 
+- 
+Dépistage d’une dépression, anxiété ou trouble du comportement alimentaire. 
+- 
+Evaluation de la fonction cognitive et de l’autonomie (pour les sujets âgés de plus de 65 ans) 
+- 
+Dépistage et traitement des infections. 
+livre diabete vf.indd 50
+livre diabete vf.indd 50
+05/09/2023 16:33:23
+05/09/2023 16:33:23
+
+[Page 52]
+- 
+Examen ophtalmologique annuel. 
+- 
+Recherche de souffles abdominaux, fémoraux, carotidiens. 
+- 
+Examen de la bouche, de la sphère ORL. 
+ 
+2- Suivi glycémique (23) 
+ 
+- L'autosurveillance glycémique (ASG) et la surveillance continue du glucose peuvent être utilisées 
+dans le cadre de l'autogestion et de l'ajustement des médicaments, Particulièrement chez les patients 
+sous insuline. 
+- L’ASG est recommandée chez les patients diabétiques de type 2 traités par insuline, afin d’adapter 
+les doses d’insuline et de prévenir les hypoglycémies. 
+- La mesure continue du glucose peut être utilisée chez les diabétiques de type 2 traités par 
+insulinothérapie intensifiée (au moins 3 injections d’insuline par jour ou une pompe à insuline), afin 
+d’adapter les doses d’insuline et de prévenir les hypoglycémies. 
+- L’ASG est recommandée pour les patientes enceintes ou envisageant de l’être. 
+- L’ASG peut être utile chez les patients diabétiques de type 2 traités par Sulfamides hypoglycémiants 
+ou glinides afin de prévenir et de détecter d’éventuelles hypoglycémies. 
+L’ASG peut être utile en cas d’infections, corticothérapie, interruption de traitement… etc. 
+ 
+3- Suivi paraclinique : 
+ 
+- 
+HbA1c tous les 3 à 6 mois. 
+- 
+Bilan lipidique : cholestérol total, LDL cholestérol, HDL cholestérol et triglycérides, annuel ou 
+trimestriel en cas d’anomalies du bilan lipidique. 
+- 
+Fonction hépatique, annuelle ou plus rapprochée. 
+- 
+Recherche d’une albuminurie (annuellement) : ratio albuminurie/créatinurie ou dosage de la 
+microalbuminurie de 24h, ou protéinurie de 24h si protéinurie positive à la bandelette urinaire. 
+- 
+Dosage de la créatininémie annuellement et de façon plus rapprochée si insuffisance rénale. 
+- 
+TSH, T4Libre, bilan de maladie coeliaque chez le DT1 (terrain d’auto-immunité). 
+- 
+Dosage de la cortisolémie 
+- 
+Vitamine B12 si prise de metformine + anémie macrocytaire. 
+- 
+Dosage de la kaliémie chez les patients sous IEC, ARAII ou diurétiques et chez les patients ayant une 
+insuffisance rénale. 
+- 
+Doppler des troncs supra-aortiques, en cas d’anomalie clinique auscultatoire. 
+- 
+Réalisation d’un ECG de repos au moment du diagnostic et une fois par an chez le diabétique de type 
+2, et chez le DT1 après 10 ans d’évolution. 
+- 
+Réalisation d’épreuve d’effort, écho de stress ou scintigraphie myocardique : en fonction du risque 
+cardiovasculaire du patient. 
+ 
+ Suivi des facteurs de risque (78, 93) 
+ 
+- Détection des facteurs de risque associés : Âge > 45 ans chez l’homme et > 55 ans chez la femme, 
+Antécédents familiaux d’accident cardio-vasculaire précoce : infarctus du myocarde ou mort subite avant 
+55 ans chez le père ou chez un parent du 1er degré de sexe masculin ; infarctus du myocarde ou mort 
+subite avant 65 ans chez la mère ou chez un parent du 1er degré de sexe féminin. 
+ 
+1. Suivi de la Pression Artérielle : 
+ 
+- Le maintien des valeurs de TA en dessous des valeurs conventionnelles permet de réduire les 
+complications de l’angiopathie diabétique 
+livre diabete vf.indd 51
+livre diabete vf.indd 51
+05/09/2023 16:33:23
+05/09/2023 16:33:23
+
+[Page 53]
+- Il est recommandé de prendre régulièrement la TA chez le diabétique, à chaque consultation et de réaliser 
+une mesure ambulatoire MAPA si suspicion d’HTA. 
+ 
+2. Suivi des anomalies lipidiques : 
+ 
+• Les anomalies lipidiques s’observent chez 50% des DT2 : élévation des triglycérides, une hypo 
+HDL-cholestérolémie, l’objectif de LDL est à adapter en fonction du risque cardio vasculaire du 
+patient. 
+• Il est recommandé de réaliser un dosage du CT, HDL, TG et calcul du LDL une fois par an 
+• Une surveillance plus rapprochée, trimestrielle, est indiquée en cas d’anomalies lipidiques. 
+ 
+3- Suivi des autres facteurs de risque cardiovasculaires 
+ 
+• Tabagisme : proposer un sevrage 
+• Prise en charge d’une obésité, lutte contre la sédentarité. 
+ 
+ 
+livre diabete vf.indd 52
+livre diabete vf.indd 52
+05/09/2023 16:33:23
+05/09/2023 16:33:23
+
+[Page 54]
+ Résumé du suivi clinique et paraclinique du diabète 
+ 
+ 
+M3 
+M6 
+M9 
+M12 
+Interrogatoire 
+ 
+ 
+ 
+ 
+Tabagisme 
+X 
+X 
+X 
+X 
+Activité physique ou sportive 
+X 
+X 
+X 
+X 
+Conseils diététiques 
+X 
+X 
+X 
+X 
+Symptômes 
+X 
+X 
+X 
+X 
+Suivi observance, tolérance des traitements 
+X 
+X 
+X 
+X 
+Suivi ASG (si indiquée) 
+X 
+X 
+X 
+X 
+Évaluation clinique 
+ 
+ 
+ 
+ 
+Mesure PA 
+X 
+X 
+X 
+X 
+Poids et calcul IMC 
+X 
+X 
+X 
+X 
+Auscultation vaisseaux 
+X 
+ 
+ 
+ 
+Pouls jambiers, mesure IPS (si disponible) 
+X 
+ 
+ 
+ 
+Examen neurologique 
+X 
+ 
+ 
+ 
+Examen des pieds 
+X 
+ 
+ 
+ 
+Examens complémentaires 
+ 
+ 
+ 
+ 
+livre diabete vf.indd 53
+livre diabete vf.indd 53
+05/09/2023 16:33:23
+05/09/2023 16:33:23
+
+[Page 55]
+HbA1c : 2 à 4/an 
+X 
+(X) 
+X 
+(X) 
+Bilan lipidique (Cholestérol total, HDL-C, LDL-TG) 
+X 
+(X) 
+ 
+ 
+Créatininémie avec estimation du DFG 
+X 
+ 
+ 
+ 
+Albuminurie (A/C) 
+X 
+ 
+ 
+ 
+ECG de repos (par cardiologue ou endocrinologue ou MG) 
+X 
+ 
+ 
+ 
+Suivi spécialisé systématique 
+ 
+ 
+ 
+ 
+Ophtalmologue 
+X 
+ 
+ 
+ 
+Dentiste 
+X 
+ 
+ 
+ 
+ 
+(X) : en cas de besoin 
+ 
+ 
+ 
+Recours aux spécialistes, selon besoins 
+Cardiologue 
+ 
+Tests fonctionnels : 
+ 
+maladie coronarienne, dernier bilan datant de plus de 2 ans 
+ 
+si symptômes, signes cliniques et/ou anomalies à l’ECG 
+ 
+en l’absence de symptômes si risque cardio-vasculaire élevé 
+livre diabete vf.indd 54
+livre diabete vf.indd 54
+05/09/2023 16:33:23
+05/09/2023 16:33:23
+
+[Page 56]
+ 
+exercice physique d’intensité élevée HTA non contrôlée à 6 mois 
+sous trithérapie, après avoir vérifié la bonne observance et l’HTA 
+en ambulatoire 
+Néphrologue, neurologue, autre 
+spécialiste d’organe 
+ 
+Aide au diagnostic (bilan complémentaire), au traitement et au 
+suivi des complications 
+Psychologue 
+ 
+Approche psychologique 
+ 
+ 
+Qui fait quoi ? 
+Dépistage et diagnostic d’un diabète 
+de type 1 ou 2 classique 
+ 
+Médecin traitant (Généraliste/médecin de famille, endocrinologue 
+ou autres spécialistes) 
+Forme atypique de diabète 
+ 
+Endocrinologue 
+Dépistage des complications 
+ 
+Médecin traitant 
+Traitement par metformine 
+ 
+Médecin traitant 
+ADO de seconde intention 
+ 
+Médecin traitant 
+Gliflozine 
+ 
+Endocrinologue / sinon autre médecin après concertation avec 
+l’Endocrinologue. 
+livre diabete vf.indd 55
+livre diabete vf.indd 55
+05/09/2023 16:33:23
+05/09/2023 16:33:23
+
+[Page 57]
+AR GLP1 
+ 
+Endocrinologue / sinon autre médecin après concertation avec 
+l’Endocrinologue. 
+Initiation à l’insuline 
+ 
+Médecin traitant 
+2 injections d’insuline 
+ 
+Endocrinologue ou Médecin traitant après concertation avec 
+l’Endocrinologue 
+> 2 injections d’insuline 
+ 
+Endocrinologue ou Médecin traitant après concertation avec 
+l’Endocrinologue (et une consultation chez l’endocrinologue 
+annuelle) 
+DT2 à très haut risque 
+ 
+Endocrinologue ou Médecin traitant après concertation avec 
+l’Endocrinologue 
+DT1 
+ 
+Endocrinologue ou Médecin traitant après concertation avec 
+l’Endocrinologue 
+ 
+ 
+ 
+Autres motifs de recours à l’expertise des endocrinologues 
+ 
+ 
+En cas de déséquilibre glycémique : difficulté pour fixer l’objectif glycémique ou pour l’atteindre 
+après 6 à 9 mois. 
+ 
+En cas de découverte d’une complication au cours de la surveillance : avis sur l’adaptation du 
+traitement en cas d’objectif non atteint. 
+ 
+Après une complication aiguë, et particulièrement après un syndrome coronarien aigu : avis sur 
+l’adaptation du traitement et préconisations sur le parcours de santé. 
+ 
+En cas de réadaptation cardiaque lorsque la glycémie n’est pas contrôlée. 
+ 
+En cas d’obésité morbide et pour l’indication de chirurgie bariatrique dans le cadre de la réunion 
+de concertation pluridisciplinaire. 
+ 
+Mise en place de la pompe à insuline et suivi des patients. 
+ 
+maladie intercurrente, corticothérapie, chimiothérapie, alimentation entérale et parentérale. 
+ 
+Si projet de grossesse ou de suivi de grossesse chez la personne diabétique. 
+livre diabete vf.indd 56
+livre diabete vf.indd 56
+05/09/2023 16:33:23
+05/09/2023 16:33:23
+
+[Page 58]
+ 
+En cas de diabète gestationnel : avis à envisager dès le diagnostic et à réaliser lorsque 
+l’insulinothérapie est envisagée. 
+ 
+Pour la coordination de la prise en charge de lésions du pied chez le diabétique. 
+ 
+ 
+livre diabete vf.indd 57
+livre diabete vf.indd 57
+05/09/2023 16:33:23
+05/09/2023 16:33:23
+
+[Page 59]
+IX- Références bibliographiques 
+ 
+1- IDF Diabetes Atlas- 9th edition 2019 
+https://www.diabetesatlas.org 
+ 
+2- Rapport de la surveillance épidémiologique des diabétiques au Maroc - Année 2019 
+Système d’information du Ministère de la Santé. 
+ 
+3- Rapport de l’Enquête Nationale sur les Facteurs de Risque communs des Maladies Non 
+Transmissibles 2017 – 2018 
+https://www.sante.gov.ma/Documents/2019/05/Rapport%20de%20l%20enquête%20Stepwise.pdf 
+4- Le diabète gestationnel au Maroc: effets de la détection et de la prise en charge intégrées au 
+niveau de l’échelon primaire 
+Résultats d’une recherche-implémentation menée à Marrakech et Al Haouz Maroc, Avril 2018 
+(IMT Anvers, Belgique et ENSP Rabat, Maroc). 
+Utz B, Assarag B, Smekens T, Ennassiri H, Lekhal T, El Ansari N, et al. (2018) Detection and initial 
+management of gestational diabetes through primary health care services in Morocco: An effectivenessimplementation trial. PLoS ONE 13 (12): e0209322. https://doi.org/10.1371/journal. pone.0209322 
+ 
+5- Rapport Annuel Global de l’AMO 2018 
+www.anam.ma/wp-content/uploads/2015/06/RAG2018-VF.pdf 
+ 
+6- Appraisal of Guidelines for Research and Evaluation 
+https://www.agreetrust.org/wp-content/uploads/2017/12/AGREE-II-Users-Manual-and-23-itemInstrument-2009-Update-2017.pdf 
+ 
+7- Classification and Diagnosis of Diabetes: 
+Standards of Medical Care in Diabetes - 2021. Diabetes Care 2021;44(Suppl. 1):S15-S33 
+ 
+8- Definition, Classification and Diagnosis of Diabetes, Prediabetes and Metabolic Syndrome. 2018 
+Clinical Practice Guidelines. Can J Diabetes 42 (2018) S10–S15 
+ 
+9- Moyer V, on behalf of the U.S. Preventive Services Task Force. Screening for Gestational 
+Diabetes Mellitus: U.S. Preventive Services Task Force Recommendation Statement. Ann Intern Med 
+2014; 160:414-420 
+ 
+10- Prevention and Management of Type 2 Diabetes: Dietary Components and Nutritional 
+Strategies. Sylvia H. Ley. Lancet. 2014 Jun 7; 383(9933): 1999–2007. 
+ 
+11- The Finnish Diabetes Prevention Study (DPS). Lifestyle intervention and 3-year results on diet 
+and physical activity. Diabetes Care 2003 Dec; 26(12): 3230-3236. 
+ 
+12- The International Expert Committee; International Expert Committee Report on the Role of 
+the A1C Assay in the Diagnosis of Diabetes. Diabetes Care 2009 Jul; 32(7): 1327-1334. 
+ 
+13- Impact of mismatches in HbA 1c vs glucose values on the diagnostic classification of diabetes 
+and prediabetes. A Gonzalez et al. Diabet Med. 2020 Apr;37(4):689-696. 
+ 
+14- Source Ministère de la Santé 
+ 
+livre diabete vf.indd 58
+livre diabete vf.indd 58
+05/09/2023 16:33:23
+05/09/2023 16:33:23
+
+[Page 60]
+15- Moyer JH, Womack CR. Glucose tolerance: comparison of four types of diagnostic tests in 103 
+control subjects and 26 patients with diabetes. Am J Med 1950; 219: 161– 173. 
+ 
+16- The Expert Committee on the Diagnosis and Classification of Diabetes Mellitus. Report of the 
+Expert Committee on the Diagnosis and Classification of Diabetes Mellitus. Diabetes 
+Care 1997; 20: 1183– 1197. 
+ 
+17- Khaw KT, Wareham N, Luben R, Bingham S, Oakes S, Welch A, Day N: Glycated 
+haemoglobin, diabetes, and mortality in men in Norfolk cohort of European Prospective 
+Investigation of Cancer and Nutrition (EPIC-Norfolk). BMJ 322: 15–18, 2001. 
+ 
+18- Sabanayagam, C., Liew, G., Tai, E.S. et al. Relationship between glycated haemoglobin and 
+microvascular complications: Is there a natural cut-off point for the diagnosis of diabetes? 
+Diabetologia 52, 1279 (2009). 
+ 
+19- Kennelly M.A., McAuliffe F.M. Prediction and prevention of gestational diabetes: An update 
+of recent literature. Eur. J. Obstet. Gynecol. Reprod. Biol. 2016;202:92–98. 
+doi: 10.1016/j.ejogrb.2016.03.032. 
+ 
+20- Hyperglycemia and Adverse Pregnancy Outcomes. The HAPO Study Cooperative Research 
+Group*. N Engl J Med 2008; 358:1991-2002. 
+ 
+21- The Effect of Intensive Treatment of Diabetes on the Development and Progression of LongTerm Complications in Insulin-Dependent Diabetes Mellitus. The Diabetes Control and 
+Complications Trial Research Group*. N Engl J Med 1993; 329:977-986. 
+ 
+22- 16- Pharmacologic Approaches to Glycemic Management: Standards of Medical Care in 
+Diabetes - 2021. Diabetes Care 2021;44(Suppl. 1):S111-S124. 
+ 
+23- Diabetes Technology: Standards of Medical Care in Diabetes - 2021. Diabetes Care 
+2021;44(Suppl.1):S85-S99. 
+ 
+24- A Comparison of Insulin Pen Devices and Disposable Plastic Syringes – Simplicity, Safety, 
+Convenience and Cost Differences. European Endocrinology. 2018;14(1):47–51. 
+ 
+25- Optimizing Postprandial Glucose Management in Adults With Insulin-Requiring Diabetes: 
+Report and Recommendations. Leahy JJL et al Journal of the Endocrine Society, Volume 3, Issue 10, 
+October 2019, Pages 1942–1957. 
+ 
+26- Intensive Diabetes Treatment and Cardiovascular Disease in Patients with Type 1 Diabetes. The 
+Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions and 
+Complications (DCCT/EDIC) Study Research Group* N Engl J Med 2005; 353:2643-2653. 
+ 
+27- Janež, A., Guja, C., Mitrakou, A. et al. Insulin Therapy in Adults with Type 1 Diabetes 
+Mellitus: a Narrative Review. Diabetes Ther 11, 387–409 (2020). 
+ 
+28- The effect of intensive glycemic treatment on coronary artery calcification in type 1 diabetic 
+participants of the Diabetes Control and Complications Trial/Epidemiology of Diabetes Interventions 
+and Complications. Patricia A Cleary 1, Trevor J Orchard, Saul Genuth, Nathan D Wong, Robert Detrano, 
+livre diabete vf.indd 59
+livre diabete vf.indd 59
+05/09/2023 16:33:24
+05/09/2023 16:33:24
+
+[Page 61]
+Jye-Yu C Backlund, Bernard Zinman, Alan Jacobson, Wanjie Sun, John M Lachin, David M Nathan, 
+DCCT/EDIC Research Group. Diabetes. 2006 Dec;55(12):3556-65. 
+ 
+29- Impact of self monitoring of blood glucose in the management of patients with noninsulin 
+treated diabetes: open parallel group randomised trial. Farmer A, Wade A, Goyder E, et al. BMJ 
+2007;335:132 . 
+ 
+30- O’Kane MJ, Bunting B, Copeland M,Coates VE; ESMON Study Group. Efficacy of self monitoring 
+of blood glucose in patients with newly diagnosed type 2 diabetes (ESMON study): randomized 
+controlled trial. BMJ 2008;336:1174–1177 . 
+ 
+31- Diabetes Glycaemic Education and Monitoring Trial Group. Cost effectiveness of self 
+monitoring of blood glucose in patients with non-insulin treated type 2 diabetes: economic 
+evaluation of data fromthe DiGEMtrial. Simon J, Gray A, Clarke P, Wade A, Neil A, Farmer A. BMJ 
+2008;336:1177–1180. 
+ 
+32- A Review of Blood Glucose Monitor Accuracy. F King, D Ahn, V Hsiao, T Porco, D C Klonoff. 
+Diabetes Technol Ther 2018 Dec;20(12):843-856. 
+ 
+33- Frequency of SMBG correlates with HbA1c and acute complications in children and 
+adolescents with type 1 diabetes. R Ziegler, B Heidtmann, D Hilgard, S Hofer, J Rosenbauer, R 
+Holl, DPV-Wiss-Initiative. Pediatr Diabetes. 2011 Feb;12(1):11-7. 
+ 
+34- Dhatariya K. Blood Ketones: Measurement, Interpretation, Limitations, and Utility in the 
+Management of Diabetic Ketoacidosis. Rev Diabet Stud. 2016;13(4):217-225. 
+doi:10.1900/RDS.2016.13.217. 
+ 
+35- Glycemic Targets: Standards of Medical Care in Diabetes - 2021. Diabetes Care 2021;44(Suppl. 
+1):S73-S84. 
+ 
+36- The Legacy Effect in Type 2 Diabetes: Impact of Early Glycemic Control on Future 
+Complications (The Diabetes & Aging Study). Diabetes Care 2019 Mar; 42(3): 416-426. 
+ 
+37- Effect of intensive blood-glucose control with metformin on complications in overweight 
+patients with type 2 diabetes (UKPDS 34). UK Prospective Diabetes Study (UKPDS) Group. 
+Lancet. 1998 Sep 12;352(9131):854-65. 
+ 
+38- Diabetes Control and Complications Trial (DCCT)/Epidemiology of Diabetes Interventions 
+and Complications (EDIC) Study Research Group. Diabetes Care. 2016 May;39(5):686-93. 
+ 
+39- Facilitating Behavior Change and Well-being to Improve Health Outcomes: 
+Standards of Medical Care in Diabetes - 2021. Diabetes Care 2021;44(Suppl. 1):S53-S72. 
+ 
+40-Finnish Diabetes Prevention Study Group. The Finnish Diabetes Prevention Study (DPS): 
+Lifestyle intervention and 3-year results on diet and physical activity. Diabetes Care. 2003 
+Dec;26(12):3230-6. doi: 10.2337/diacare.26.12.3230. PMID: 14633807. 
+41- Integration and Utilization of Peer Leaders for Diabetes Self-Management Support: Results 
+from Project SEED (Support, Education, and Evaluation in Diabetes). The Diabetes 
+Educator, Volume: 44 issue: 4, page(s): 373-382. 
+ 
+livre diabete vf.indd 60
+livre diabete vf.indd 60
+05/09/2023 16:33:24
+05/09/2023 16:33:24
+
+[Page 62]
+42- Person-centred type 2 diabetes care: time for a paradigm shift. Guy E H M Rutten 1, Aus Alzaid. 
+Lancet Diabetes Endocrinol. 2018 Apr;6(4):264-266. 
+ 
+43- Collaborative care for patients with depression and diabetes mellitus: a systematic review and 
+meta-analysis. Yafang Huang 1, Xiaoming Wei, Tao Wu, Rui Chen, Aimin Guo. 
+BMC Psychiatry. 2013 Oct 14;13:260. 
+ 
+44- 2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce 
+cardiovascular risk. The Task Force for the management of dyslipidaemias of the European Society 
+of Cardiology (ESC) and European Atherosclerosis Society (EAS). European Heart Journal (2019) 00, 
+178. 
+ 
+45- Vallejo-Vaz AJ, Robertson M, Catapano AL, Watts GF, Kastelein JJ, Packard CJ, Ford I, Ray 
+KK. Low-density lipoprotein cholesterol lowering for the primary prevention of cardiovascular 
+disease among men with primary elevations of low-density lipoprotein cholesterol levels of 190 
+mg/dL or above: analyses from the WOSCOPS (West of Scotland Coronary Prevention Study) 5year randomized trial and 20-year observational follow-up. Circulation 2017;136: 1878-1891. 
+ 
+46-Sever PS, Dahlof B, Poulter NR, Wedel H, Beevers G, Caulfield M, et al. Prevention of coronary 
+and stroke events with atorvastatin in hypertensive patients who have average or lower-thanaverage cholesterol concentrations, in the Anglo-Scandinavian Cardiac Outcomes Trial--Lipid 
+Lowering Arm (ASCOT-LLA): a multicentre randomised controlled trial. Lancet. 2003 Apr 5. 
+361(9364):1149-58. 
+47- The National High Blood Pressure Education Program Working Group. National High Blood 
+Pressure Education Program Working Group report on hypertension in diabetes. Hypertension 
+1994; 23:145-158. 
+ 
+48- Saito Y, Morimoto T, Ogawa H, Nakayama M, Uemura S, Doi N, et al. Low-dose aspirin 
+therapy in patients with type 2 diabetes and reduced glomerular filtration rate: subanalysis from 
+the JPAD trial. Diabetes Care 2011 Feb. 34(2):280-5. 
+ 
+49- Okada S, Morimoto T, Ogawa H, Kanauchi M, Nakayama M, Uemura S, et al. Differential 
+effect of low-dose aspirin for primary prevention of atherosclerotic events in diabetes management: 
+a subanalysis of the JPAD trial. Diabetes Care 2011 Jun. 34(6):1277-83. 
+ 
+50- Esposito K, Maiorino MI, Ciotola M, Di Palo C, Scognamiglio P, Gicchino M, et al. Effects of a 
+Mediterranean-style diet on the need for antihyperglycemic drug therapy in patients with newly 
+diagnosed type 2 diabetes: a randomized trial. Ann Intern Med. 2009 Sep 1. 151(5):306-14. 
+ 
+51- Look AHEAD Research Group. Reduction in weight and cardiovascular disease risk factors in 
+individuals with type 2 diabetes: one-year results of the Look AHEAD trial. Pi-Sunyer X, Blackburn 
+G, Brancati FL, et al. Diabetes Care 2007;30:1374–1383. 
+ 
+52- Association of Diabetes Care and Education Specialists. https://www.diabeteseducator.org/livingwith-diabetes/Tools-and-Resources. 
+ 
+53- Diabetes and obesity prevention: changing the food environment in low income settings. 
+Gittelsohn J, Trude A.. Nut Rev 2017 (Suppl 1): 62-9. 
+ 
+livre diabete vf.indd 61
+livre diabete vf.indd 61
+05/09/2023 16:33:24
+05/09/2023 16:33:24
+
+[Page 63]
+54- A systematic review of real-world diabetes prevention programs : learnings from the last 15 
+years. Aziz Z, Absetz P, Oldroyd J, et al. Implement Sci 2015; 10: 172 doi: 10.1186/s13012-015-03546. 
+ 
+55- Diabetes Self-management Education and Support in Adults With Type 2 Diabetes: A Consensus 
+Report of the American Diabetes Association, the Association of Diabetes Care & Education 
+Specialists, the Academy of Nutrition and Dietetics, the American Academy of Family Physicians, 
+the American Academy of PAs, the American Association of Nurse Practitioners, and the American 
+Pharmacists 
+Association. 
+Margaret 
+A. Powers, Joan 
+K. Bardsley, Marjorie Cypress, 
+Martha, 
+M. Funnell, Dixie Harms, Amy Hess-Fischl, Beulette Hooks, Diana Isaacs, Ellen D. Mandel, 
+Melinda D. Maryniuk, Anna Norton, Joanne Rinker, Linda M. Siminerio, Sacha Uelmen. 
+Diabetes Care Jul 2020, 43 (7) 1636-1649. 
+ 
+56- Nutrition Therapy for Adults With Diabetes or Prediabetes: A Consensus Report. Alison B. Evert, 
+Michelle Dennison, Christopher D. Gardner, W. Timothy Garvey, Ka Hei Karen Lau, Janice MacLeod, 
+Joanna Mitri, Raquel F. Pereira, Kelly Rawlings, Shamera Robinson, Laura Saslow, Sacha Uelmen, Patricia 
+B. Urbanski, William S. Yancy. Diabetes Care 2019 May; 42(5): 731-754. 
+ 
+57- Person-centered diabetes care and patient activation in people with type 2 diabetes. 
+Rutten GEHM, Van 
+Vugt H, de 
+Koning E. 
+BMJ 
+Open 
+Diabetes 
+Research 
+and 
+Care 2020. 
+http://dx.doi.org/10.1136/bmjdrc-2020-001926 
+ 
+58- Effect of intensive blood-glucose control with metformin on complications in overweight 
+patients with type 2 diabetes (UKPDS 34). UK Prospective Diabetes Study (UKPDS) Group. Lancet 
+1998 Nov 7;352(9139):1558. 
+ 
+59- Long-term effects of lifestyle intervention or metformin on diabetes development and 
+microvascular complications over 15-year follow-up: the Diabetes Prevention Program Outcomes 
+Study. Diabetes Prevention Program Research Group†. Lancet diabetes Endocrinol 2015;3:866-875. 
+ 
+60- Cardiovascular Disease and Risk Management: Standards of Medical Care in Diabetes—2021. 
+American Diabetes Association. Diabetes Care Jan 2021, 44 (Supplement 1) S125-S150. 
+ 
+61- Metformin monotherapy for adults with type 2 diabetes mellitus. Cochrane Database Syst 
+Rev. 2020 Jun; 2020(6): CD012906. 
+ 
+62- Intensive blood-glucose control with sulphonylureas or insulin compared with conventional 
+treatment and risk of complications in patients with type 2 diabetes (UKPDS 33). UK Prospective 
+Diabetes Study (UKPDS) Group. Lancet. 1998 Sep 12;352(9131):837-53. 
+ 
+63- Effect of Linagliptin vs Glimepiride on Major Adverse Cardiovascular Outcomes in Patients 
+With Type 2 Diabetes: The CAROLINA Randomized Clinical Trial. Rosenstock J, Kahn SE, 
+Johansen OE, et al. JAMA. 2019;322(12):1155–1166. 
+ 
+64- Intensive Blood Glucose Control and Vascular Outcomes in Patients with Type 2 Diabetes. The 
+ADVANCE Collaborative Group* N Engl J Med 2008; 358:2560-2572. 
+ 
+65- Safety and Efficacy of Repaglinide in Type 2 Diabetic Patients With and Without Impaired 
+Renal Function. Christoph Hasslacher. Diabetes Care Mar 2003, 26 (3) 886-891. 
+ 
+livre diabete vf.indd 62
+livre diabete vf.indd 62
+05/09/2023 16:33:24
+05/09/2023 16:33:24
+
+[Page 64]
+66- Acarbose: safe and effective for lowering postprandial hyperglycaemia and improving 
+cardiovascular outcomes. DiNicolantonio JJ, Bhutani J, O'Keefe JH. Open Heart 2015;2:e000327. 
+ 
+67- Effect of Sitagliptin on Cardiovascular Outcomes in Type 2 Diabetes. J B. Green, et al., for the 
+TECOS Study Group. N Engl J Med 2015; 373:232-242. 
+ 
+68- Effect of Linagliptin vs Placebo on Major Cardiovascular Events in Adults With Type 2 
+Diabetes and High Cardiovascular and Renal Risk: The CARMELINA Randomized Clinical 
+Trial. Rosenstock J, Perkovic V, Johansen OE, et al. JAMA. 2019;321(1):69–79. 
+doi:10.1001/jama.2018.18269. 
+ 
+69- VERIFY study group. Glycaemic durability of an early combination therapy with vildagliptin 
+and metformin versus sequential metformin monotherapy in newly diagnosed type 2 diabetes 
+(VERIFY): a 5-year, multicentre, randomised, double-blind trial. Matthews DR, Paldánius PM, 
+Proot P, Chiang Y, Stumvoll M, Del Prato S; Lancet. 2019 Oct 26;394(10208):1519-1529. doi: 
+10.1016/S0140-6736(19)32131-2. 
+ 
+70- Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes. S P. Marso, et al.,for the LEADER 
+Steering Committee on behalf of the LEADER Trial Investigators*. N Engl J Med 2016; 375:311-322. 
+ 
+71- REWIND Investigators. Dulaglutide and cardiovascular outcomes in type 2 diabetes (REWIND): 
+a double-blind, randomised placebo-controlled trial. Gerstein HC, Colhoun HM, Dagenais GR, Diaz R, 
+Lakshmanan M, Pais P, Probstfield J, Riesmeyer JS, Riddle MC, Rydén L, Xavier D, Atisso CM, Dyal L, 
+Hall S, Rao-Melacini P, Wong G, Avezum A, Basile J, Chung N, Conget I, Cushman WC, Franek E, Hancu 
+N, Hanefeld M, Holt S, Jansky P, Keltai M, Lanas F, Leiter LA, Lopez-Jaramillo P, Cardona Munoz EG, 
+Pirags V, Pogosova N, Raubenheimer PJ, Shaw JE, Sheu WH, Temelkova-Kurktschiev T; Lancet. 2019 Jul 
+13;394(10193):121-130. doi: 10.1016/S0140-6736(19)31149-3. 
+ 
+72- Lixisenatide in Patients with Type 2 Diabetes and Acute Coronary Syndrome. Pfeffer MA, 
+Claggett B, Diaz R, Dickstein K, Gerstein HC, Køber LV, Lawson FC, Ping L, Wei X, Lewis EF, Maggioni 
+AP, McMurray JJ, Probstfield JL, Riddle MC, Solomon SD, Tardif JC; ELIXA Investigators. N Engl J 
+Med. 2015 Dec 3;373(23):2247-57. 
+ 
+73- Lixisenatide in Patients with Type 2 Diabetes and Acute Coronary Syndrome. Pfeffer MA, 
+Claggett B, Diaz R, Dickstein K, Gerstein HC, Køber LV, Lawson FC, Ping L, Wei X, Lewis EF, Maggioni 
+AP, McMurray JJ, Probstfield JL, Riddle MC, Solomon SD, Tardif JC; ELIXA Investigators N Engl J Med. 
+2015 Dec 3;373(23):2247-57. doi: 10.1056/NEJMoa1509225. PMID: 26630143. 
+ 
+74- EMPA-REG OUTCOME Investigators. Empagliflozin, Cardiovascular Outcomes, and Mortality 
+in Type 2 Diabetes. Zinman B, Wanner C, Lachin JM, Fitchett D, Bluhmki E, Hantel S, Mattheus M, 
+Devins T, Johansen OE, Woerle HJ, Broedl UC, Inzucchi SE. N Engl J Med. 2015 Nov 26;373(22):211728. doi: 10.1056/NEJMoa1504720. Epub 2015 Sep 17. PMID: 26378978. 
+ 
+75- Effect of Dapagliflozin on Atrial Fibrillation in Patients With Type 2 Diabetes Mellitus: Insights 
+From the DECLARE-TIMI 58 Trial. Zelniker TA, Bonaca MP, Furtado RHM, Mosenzon O, Kuder JF, 
+Murphy SA, Bhatt DL, Leiter LA, McGuire DK, Wilding JPH, Budaj A, Kiss RG, Padilla F, Gause-Nilsson 
+I, Langkilde AM, Raz I, Sabatine MS, Wiviott SD. Circulation. 2020 Apr 14;141(15):1227-1234. doi: 
+10.1161/CIRCULATIONAHA.119.044183. Epub 2020 Jan 27. PMID: 31983236. 
+ 
+ 
+livre diabete vf.indd 63
+livre diabete vf.indd 63
+05/09/2023 16:33:25
+05/09/2023 16:33:25
+
+[Page 65]
+76- Cardiorenal Outcomes in the CANVAS, DECLARE-TIMI 58, and EMPA-REG OUTCOME 
+Trials: A Systematic Review. Kluger AY, Tecson KM, Barbin CM, Lee AY, Lerma EV, Rosol ZP, 
+Rangaswami J, Lepor NE, Cobble ME, McCullough PA. Rev Cardiovasc Med. 2018 Jun 30;19(2):41-49. 
+doi: 10.31083/j.rcm.2018.02.907. PMID: 31032602. 
+ 
+77-VERTIS CV Investigators. Cardiovascular Outcomes with Ertugliflozin in Type 2 Diabetes. 
+Cannon CP, Pratley R, Dagogo-Jack S, Mancuso J, Huyck S, Masiukiewicz U, Charbonnel B, Frederich R, 
+Gallo S, Cosentino F, Shih WJ, Gantz I, Terra SG, Cherney DZI, McGuire DK. N Engl J Med. 2020 Oct 
+8;383(15):1425-1435. doi: 10.1056/NEJMoa2004967. Epub 2020 Sep 23. PMID: 32966714. 
+ 
+78-Prise de position de la Société Francophone du Diabète (SFD) sur la prise en charge 
+médicamenteuse de l’hyperglycémie du patient diabétique de type 2 – 2019. 
+https://www.sfdiabete.org/sites/www.sfdiabete.org/files/files/ressources/mmm_2019_ndeg8_prise_de_po
+sition_sfd_dt2_tt_v_finale.pdf 
+ 
+79- Obesity Management for the Treatment of Type 2 Diabetes: Standards of Medical Care in 
+Diabetes - 2021. Diabetes Care 2021;44(Suppl. 1):S100-S10. 
+ 
+80- A multisite study of long-term remission and relapse of type 2 diabetes mellitus following gastric 
+bypass. David E Arterburn Obes Surg. 2013 Jan;23(1):93-102. 
+ 
+81- Empagliflozin, Cardiovascular Outcomes, and Mortality in Type 2 Diabetes. Zinman B et al. N 
+Engl J Med 2015;373:2117. 
+ 
+82- Canagliflozin and Cardiovascular and Renal Events in Type 2 Diabetes. Neal B et al. N Engl J 
+Med 2017;377:644. 
+ 
+83- Dapagliflozin and Cardiovascular Outcomes in Type 2 DiabetesWiviott SD et al. N Engl J Med 
+2019;380:347. 
+ 
+84- Liraglutide and Cardiovascular Outcomes in Type 2 Diabetes. N Engl J Med 2016; 375:311-322. 
+ 
+85- Dulaglutide and cardiovascular outcomes in type 2 diabetes (REWIND): a double-blind, 
+randomised placebo-controlled trial. REWIND Investigators (2019). The Lancet, 394 (10193), pp. 
+121-130. 
+ 
+86- Monami M, Dicembrini I, Marchionni N, Rotella CM, Mannucci E. Effects of glucagon‐like 
+peptide‐1 receptor agonists on body weight: a meta‐analysis. Exp Diabetes Res 2012; 2012 672658. 
+ 
+87-ACOG Practice Bulletin No. 190: Gestational Diabetes Mellitus. Obstet Gynecol. 2018 
+Feb;131(2):e49-e64. 
+ 
+88- Risk factors predicting the development of diabetes mellitus and metabolic syndrome following 
+gestational diabetes mellitus. Can B, Çiftçi S, Yenidünya Yalın G, Dinççağ N. Turk J Med Sci. 2021 Apr 
+30;51(2):595-603. doi: 10.3906/sag-2002-65. PMID: 33021758; PMCID: PMC8203179. 
+ 
+89- Management of Diabetes in Pregnancy: Standards of Medical Care in Diabetes - 2021. Diabetes 
+Care 2021;44(Suppl. 1):S200-S210. 
+ 
+90- Pol Arch Med Wewn . Jul-Aug 2008;118(7-8):435-40. Problems in differential diagnosis of diabetes 
+types. Maciej Małecki 1, Jan Skupień) 
+livre diabete vf.indd 64
+livre diabete vf.indd 64
+05/09/2023 16:33:25
+05/09/2023 16:33:25
+
+[Page 66]
+91- IDF-DAR Practical Guidelines 2021. https://idf.org/e-library/guidelines/165-idf-dar-practicalguidelines-2021.html 
+ 
+92- Recommendations for management of diabetes during Ramadan: update 2020, applying the 
+principles of the ADA/EASD consensus. BMJ Open Diabetes Res Care. 2020 May;8(1):e001248. 
+ 
+93- 
+Comprehensive 
+Medical 
+Evaluation 
+and 
+Assessment 
+of 
+Comorbidities: 
+Standards of Medical Care in Diabetes - 2021. Diabetes Care 2021;44(Suppl. 1):S40-S52. 
+ 
+ 
+ 
+livre diabete vf.indd 65
+livre diabete vf.indd 65
+05/09/2023 16:33:25
+05/09/2023 16:33:25
+
+[Page 67]
+livre diabete vf.indd 66
+livre diabete vf.indd 66
+05/09/2023 16:33:25
+05/09/2023 16:33:25
+
+[Page 68]
+I- 
+Annexes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexe 1- Commission d’élaboration du référentiel 
+• Coordinateur : Pr Jamal BELKHADIR (Endocrinologue Diabétologue, Président de la 
+Ligue Marocaine de Lutte contre le Diabète– Rabat) 
+• Rapporteurs : 
+1- Pr Hinde IRAQI (Endocrinologue Diabétologue, CHU Ibn Sina de Rabat) 
+2- Pr Asmaa CHADLI (Endocrinologue Diabétologue,Chef de service au CHU 
+IbnouRochd de Casablanca) 
+• Membres : 
+- Pr Mohamed El Hassan GHARBI (Endocrinologue Diabétologue, Chef du service au CHU 
+Ibn Sina de Rabat) 
+- Pr Moulay SaidAFIF (Président de la Société Marocaine des Sciences Médicales) 
+- Dr Hamdoun LHASSANI (Endocrinologue Diabétologue, Président de la Société 
+Marocaine d’Endocrinologie, Diabétologie et Nutrition– Rabat) 
+- Dr Hinde ZERRAD (Endocrinologue, Hôpital Moulay Youssef, Rabat) 
+- Dr Fatima Zahra MOUZOUNI(Chef du Service des Maladies Métaboliqueset 
+Endocriniennes, DELM, Ministère de la Santé, Rabat) 
+-Dr Anis LEKHAL (Direction des Hôpitaux et des Soins Ambulatoires, Ministère de la 
+Santé, Rabat) 
+- Dr Tayeb HAMDI (Médecin généraliste, chercheur en politiques et systèmes de 
+santé, Larache) 
+- Dr Baha RABI (Médecin généraliste, Délégué du Ministère de la Santé, Casablanca) 
+- Dr Fatima AZIZI (Médecin généraliste, secteur libéral, Rabat) 
+- Dr Fatiha RAJI (Médecin généraliste, secteur libéral, Casablanca) 
+- Dr Ahmed BENBOUJIDA (Médecin généraliste, secteur libéral, Salé) 
+ 
+ 
+• 
+Commission technique de l’ANAM : 
+- Dr Naoufal MALHOUF (Chef de département, conventions et normalisations, ANAM) 
+ 
+ 
+Le pilotage du processus d’élaboration du projet des Référentiels de Bonnes Pratiques Médicales (RBPM) 
+a été réalisé sous l’égide du Ministre de la Santé et de la Protection Sociale, Pr. Khalid AIT TALEB. 
+Le comité de pilotage comprend : 
+• Le Directeur Général de l’Agence Nationale de l’Assurance Maladie (ANAM), Dr. Khalid LAHLOU : 
+Président 
+• Le président du Conseil National de l’Ordre des Médecins (CNOM), Dr. Mohammadin BOUBEKRI: 
+Coprésident 
+• Le président de la Société Marocaine des Sciences Médicales (SMSM), Dr. MySaid AFIF : 
+Coprésident 
+livre diabete vf.indd 67
+livre diabete vf.indd 67
+05/09/2023 16:33:25
+05/09/2023 16:33:25
+
+[Page 69]
+- Dr Laila Ibn MAKHLOUF (Chef de division de divisions des normes médicao-techniques, 
+ANAM) 
+- Dr Abdelaziz MRABTI (Chef de division des normes administratives, ANAM) 
+- Dr Nazih El KOUARTI (Conseiller auprès du Directeur Général de l’ANAM) 
+ 
+Annexe 2- Déclaration des conflits d’intérêt : Les auteurs susmentionnés ayant participé́ 
+à l’élaboration du référentiel déclarent ne pas avoir de conflits d’intérêt. 
+ 
+Annexe 3 : Liste des abréviations 
+ 
+ADO : Antidiabétiques Oraux 
+ 
+AINS : Anti Inflammatoires Non Stéroïdiens 
+ 
+ALAT : Alanine Amino Transférase 
+ 
+AMM : Autorisation de Mise sur le Marché 
+ 
+AOMI : Artérite Oblitérante des Membres Inférieurs 
+ 
+ARAII : Antagoniste du système Rénine Angiotensine II 
+ 
+ASAT : Aspartate Amino Transférase 
+ 
+ASG : Auto Surveillance Glycémique 
+ 
+ASU : Auto Surveillance Urinaire 
+ 
+AVC : Accident Vasculaire Cérébral 
+ 
+AVK : Anti Vitamine K 
+ 
+BMI : Body Mass Index 
+ 
+CGMS : Continuous Glucose Monitoring System 
+ 
+CNOPS : Caisse Nationale des Organismes de Prévoyance Sociale 
+ 
+CNSS : Caisse Nationale de Sécurité Sociale 
+ 
+Cp : Comprimé 
+ 
+CPK : Créatine Phospho Kinase 
+ 
+CRP : Protéine C Réactive 
+ 
+CT : Cholestérol 
+ 
+CV : Cardio Vasculaire 
+ 
+DCA : Décompensation Céto Acidosique 
+ 
+DCCT : Diabetes Control and Complications Trial 
+ 
+DID : Diabète Insulino-Dépendant 
+ 
+DE : Dysfonction Erectile 
+ 
+DFG : Débit de Filtration Glomérulaire 
+ 
+DG : Diabète Gestationnel 
+ 
+DNID : Diabète Non Insulino-Dépendant 
+ 
+DPP-4 : Dipeptidyl Peptidase-4 
+ 
+DT1 : Diabète de type 1 
+ 
+DT2 : Diabète de type 2 
+ 
+ECBU : Examen Cyto Bactériologique Urinaire 
+ 
+ECG : Electrocardiogramme 
+ 
+EER : Epuration Extra Rénale 
+ 
+FO : Fond d’œil 
+ 
+FDR CV : Facteur de Risque Cardio Vasculaire 
+ 
+GBP : By Pass gastrique 
+ 
+Gél : Gélule 
+ 
+GLP-1 : Glucagon Like Peptide-1 
+ 
+GpP : Glycémie préprandiale` 
+ 
+GPP : Glycémie post Prandiale 
+livre diabete vf.indd 68
+livre diabete vf.indd 68
+05/09/2023 16:33:25
+05/09/2023 16:33:25
+
+[Page 70]
+ 
+HbA1c : Hémoglobine Glyqué A1C 
+ 
+HDL-C : High Density Lipoprotein Cholesterol 
+ 
+HGPO : Hyper Glycémie Provoquée par Voie Orale 
+ 
+HTA : Hypertension Artérielle 
+ 
+HC : Hydrates de Carbone 
+ 
+Hg : Mercure 
+ 
+IC : Inhibiteur calcique 
+ 
+IDF : International Diabetes Federation 
+ 
+IDM : Infarctus Du Myocarde 
+ 
+IEC : Inhibiteur de l’Enzyme de Conversion 
+ 
+IMC : Index de Masse Corporelle 
+ 
+IPDE5 : Inhibiteurs de la Phospho Diestérase de type 5 
+ 
+IPS : Index de Pression Systolique 
+ 
+IRC : insuffisance Rénale Chronique 
+ 
+IRCT : Insuffisance Rénale Chronique Terminale 
+ 
+IRM : Image par Résonnance Magnétique 
+ 
+IVD : Intra Veineux Direct 
+ 
+LDL-C : Low Density Lipoprotein Cholesterol 
+ 
+M : Mois 
+ 
+MSV : Modifications du Style de Vie 
+ 
+NFS : Numération Formule Sanguine 
+ 
+ND : Néphropathie Diabétique 
+ 
+OM : Œdème Maculaire 
+ 
+OMS : Organisation Mondiale de la Santé 
+ 
+PA : Pression Artérielle 
+ 
+PAD : Pression Artérielle Diastolique 
+ 
+PAS : Pression Artérielle Systolique 
+ 
+PND : Poly Neuropathie Diabétique 
+ 
+PSE : Pousse Seringue Electrique 
+ 
+RCV : Risque Cardio-Vasculaire 
+ 
+RD : Rétinopathie Diabétique 
+ 
+SA : Semaine d’Aménorrhée 
+ 
+SG : Sérum Glucosé 
+ 
+SOPK : Syndrome des Ovaires Poly Kystiques 
+ 
+TA : Tension artérielle 
+ 
+TcPO2 : Pression d’Oxygène trans Cutanée 
+ 
+TDM : Tomodensitométrie 
+ 
+TG : Triglycérides 
+ 
+TMN : Thérapie Médicale Nutritionnelle 
+ 
+TSH : Thyreo Stimuline Hormon 
+ 
+Annexe 4 : Liste des professionnels concernés 
+ 
+- Liste des professionnels concernés DT2 
+ 
+1- Professionnels 
+ 
+Situations particulières 
+- Médecin généraliste : 
+- Pose le diagnostic et traite le patient 
+ 
+ 
+ 
+ 
+ 
+- Assure l’éducation thérapeutique 
+ 
+ 
+ 
+ 
+ 
+- Assure le suivi en coordination avec l’endocrinologue 
+- Réfère le patient en cas d’échec de traitement ou de complications 
+livre diabete vf.indd 69
+livre diabete vf.indd 69
+05/09/2023 16:33:25
+05/09/2023 16:33:25
+
+[Page 71]
+- Endocrinologue : 
+ 
+- Assure l’hospitalisation en urgence et la mise sous insuline 
+ 
+ 
+ 
+ 
+ 
+- Assure l’éducation thérapeutique 
+- Suivi : bilans, adaptation du traitement, survenue de complication(s) 
+- Pédiatre : 
+ 
+ 
+- Tous les enfants diabétiques de type 2 
+- Infirmier : 
+ 
+ 
+- Tous les patients 
+ 
+ 
+ 
+ 
+ 
+- Assure l’éducation thérapeutique 
+- Gestion des actes de soins et de suivi définis suivant l'état du patient 
+- Diététicien : 
+ 
+ 
+- Education diététique 
+ 
+ 
+ 
+ 
+ 
+- Contrôle du poids 
+ 
+2- Autres intervenants potentiels 
+- Ophtalmologue : 
+ 
+- Tous les patients 
+- Dépistage de la RD et autres complications oculaires liées au 
+diabète 
+- Néphrologue : 
+ 
+- Aide au diagnostic et au traitement des complications rénales 
+- Cardiologue : 
+ 
+- Patients à risque cardio-vasculaire 
+ 
+ 
+ 
+ 
+ 
+- Complications cardiovasculaires 
+- Radiologue échographiste : - Aide au diagnostic de complications 
+- Neurologue : 
+ 
+- Aide au diagnostic de complications neurologiques 
+- Podologue : 
+ 
+ 
+- Patients à risque podologique 
+- Psychologue : 
+ 
+- Prise en charge des troubles du comportement alimentaire, 
+conduites addictives 
+- Psychiatre : 
+ 
+ 
+- Prise en charge des troubles du comportement alimentaire, 
+conduites addictives 
+- Dentiste : 
+ 
+ 
+- Tous les patients 
+ 
+- Liste des professionnels concernés DT1 
+ 
+1- Professionnels 
+ 
+Situations particulières 
+- Endocrinologue : 
+ 
+- Pose le diagnostic et Traite le patient 
+ 
+ 
+ 
+ 
+ 
+- Assure l’hospitalisation en urgence et la mise sous insuline 
+ 
+ 
+ 
+ 
+ 
+- Assure l’éducation thérapeutique 
+- Suivi : bilans, adaptation du traitement, survenue de complication(s) 
+ 
+- Pédiatre : 
+ 
+ 
+- Tous les enfants diabétiques de type 1 
+ 
+ 
+ 
+ 
+ 
+- Pose le diagnostic et traite le patient 
+ 
+ 
+ 
+ 
+ 
+- Assure l’hospitalisation en urgence et la mise sous insuline 
+ 
+ 
+ 
+ 
+ 
+- Assure l’éducation thérapeutique 
+- Suivi : bilans, adaptation du traitement, survenue de complication(s) 
+ 
+- Médecin généraliste : 
+- Pose le diagnostic et adresse à l’endocrinologue en urgence 
+ 
+ 
+ 
+ 
+ 
+- Traite le patient Assure le suivi s’il n’y a pas d’endocrinologue 
+ 
+ 
+ 
+ 
+ 
+- Assure l’éducation thérapeutique 
+ 
+- Infirmier : 
+ 
+ 
+- Tous les patients 
+ 
+ 
+ 
+ 
+ 
+- Assure l’éducation thérapeutique 
+ 
+ 
+ 
+ 
+ 
+- Gestion des actes de soins et de suivi définis suivant l'état du patient 
+ 
+livre diabete vf.indd 70
+livre diabete vf.indd 70
+05/09/2023 16:33:26
+05/09/2023 16:33:26
+
+[Page 72]
+- Diététicien : 
+ 
+ 
+- Éducation diététique 
+ 
+ 
+ 
+ 
+ 
+- Contrôle du poids 
+2- Autres intervenants 
+ 
+- Psychologue : 
+ 
+ 
+- Prise en charge des troubles du comportement alimentaire, conduites 
+addictives 
+- Psychiatre : 
+ 
+ 
+- Prise en charge des troubles du comportement alimentaire, conduites 
+addictives 
+- Ophtalmologue : 
+ 
+- Tous les patients 
+ 
+ 
+ 
+ 
+ 
+- Dépistage de la RD et autres complications oculaires liées au diabète 
+- Néphrologue : 
+ 
+ 
+- Aide au diagnostic et au traitement des complications rénales 
+- Cardiologue : 
+ 
+ 
+- Patients à risque cardio-vasculaire 
+ 
+ 
+ 
+ 
+ 
+- Complications cardiovasculaires 
+- Radiologue échographiste : - Aide au diagnostic de complications 
+- Neurologue : 
+ 
+ 
+- Aide au diagnostic de complications neurologiques 
+- Podologue : 
+ 
+ 
+- Patients à risque podologique 
+- Dentiste : 
+ 
+ 
+- Tous les patients 
+ 
+ 
+Annexe 5: Actes et prestations 
+ 
+1- Éducation thérapeutique 
+ 
+L’éducation thérapeutique fait désormais partie intégrante du traitement du diabète. Elle doit veiller à 
+l’implication du diabétique et de sa famille, en vue de bien comprendre la nécessité du traitement continue, 
+la maîtrise des gestes techniques et l’adaptation du mode de vie. 
+ 
+Elle comporte : 
+- 
+une information, qui porte sur les thérapeutiques disponibles, les effets indésirables possibles du 
+traitement reçu par le patient, la planification des examens de routine ou de dépistage de complications 
+éventuelles et leurs résultats ; 
+- 
+un apprentissage des gestes techniques (auto-injection d’insuline, auto surveillance glycémique) ; 
+- 
+un apprentissage alimentaire et une prévention active contre la sédentarité qui représentent des 
+interventions irremplaçables à toutes les étapes de la prise en charge du diabète. 
+ 
+Ces actions d’éducation thérapeutique requièrent le concours de différents professionnels de santé, qui 
+peuvent intervenir au moyen d’actes individuels auprès des patients ou par une éducation de groupe. 
+ 
+2- Biologie 
+ 
+Examens 
+ 
+ 
+ 
+ 
+ 
+Situations particulières 
+ 
+- Glycémie veineuse : 
+ 
+ 
+- Contrôle de l’auto surveillance glycémique 
+- HbA1c : 
+ 
+ 
+ 
+ 
+- Tous les patients 
+- Exploration d’une anomalie lipidique 
+(cholestérol, HDL-C, LDL-C, TG) : 
+ 
+- Tous les patients 
+- Micro albuminurie ; 
+ 
+ 
+- Tous les patients 
+- Créatininémie et calcul de la clairance de 
+livre diabete vf.indd 71
+livre diabete vf.indd 71
+05/09/2023 16:33:26
+05/09/2023 16:33:26
+
+[Page 73]
+la créatinine (formule de Cockcroft et Gault) : - Tous les patients 
+- TSH : 
+ 
+ 
+ 
+ 
+- Tous les patients 
+- Anticorps spécifiques : 
+ - Recherche de maladie auto-immune en présence de 
+signes cliniques évocateurs (maladie cœliaque, atteinte 
+thyroïdienne…) 
+- Suivi biologique des traitements pharmacologiques, en respect de l’AMM : 
+- NFS 
+- Kaliémie 
+- Créatininémie 
+- Transaminases 
+ 
+ 
+ 
+ 
+ 
+Actes techniques 
+1- Actes 
+ 
+ 
+ 
+ 
+ 
+Situations particulières 
+ 
+- Fond d’œil avec dilatation : 
+ 
+ 
+- Tous les patients 
+- Photographies du fond d’œil - Tous les patients 
+avec ou sans dilatation : 
+ 
+ 
+ 
+- ECG de repos : 
+ 
+ 
+ 
+ 
+- DT1 adulte 
+- Bilan cardiologique (échographie, tests de 
+stimulation non invasifs : Scintigraphie 
+myocardique, test d’effort…) : 
+- Patients à haut risque cardio vasculaire, 
+bilan défini par le cardiologue 
+- 
+Écho-Doppler et mesure de l’IPS : 
+- Patient âgé de plus de 40 ans ou diabète 
+évoluant depuis 20 ans. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+livre diabete vf.indd 72
+livre diabete vf.indd 72
+05/09/2023 16:33:26
+05/09/2023 16:33:26
+
+[Page 74]
+Annexe 6 : Listes des médicaments et dispositifs médicaux 
+Liste des médicaments 
+1- Médicaments 
+Classe 
+DCI 
+Dosage 
+Posologie 
+(Nombre de prise/J) 
+R/NR 
+Associations 
+Glimépiride/Metformine 
+Cp à 2 mg/500 mg 
+1 à 2 
+R 
+Glibenclamide/Metformine 
+Cp à 2,5 mg/500 mg 
+Cp à 5 mg/500 mg 
+Cp à 5 mg/10000 mg 
+1 à 2 
+R 
+Sitagliptine/ Metformine 
+Cp à 50 mg/1000 mg 
+Cp à 50 mg/850 mg 
+R 
+Vildagliptine/Metformine 
+Cp à 50 mg/1000 mg 
+Cp à 50 mg/850 mg 
+R 
+Linagliptine/Metformine 
+Cp à 2,5 mg/1000 mg 
+NR 
+ 
+- 
+Insulines : cartouches, flacons ou stylos jetables (selon tableau ci-dessous) 
+- 
+Glucagon 
+ 
+ 
+ 
+- 
+Sérum glucosé 10 % 
+ 
+ 
+ 
+- Tous les patients 
+- 
+Sérum glucosé 30 % 
+- 
+Acide acétylsalicylique 100 mg 
+- 
+Acide folique 
+ 
+ 
+ 
+ 
+- Chez la femme enceinte diabétique 
+ 
+livre diabete vf.indd 73
+livre diabete vf.indd 73
+05/09/2023 16:33:26
+05/09/2023 16:33:26
+
+[Page 75]
+2- Autres traitements 
+ 
+Vaccination : 
+ 
+ 
+- Vaccination antigrippal (annuel) ; 
+ 
+- Tous les diabétiques 
+ 
+- Vaccination antipneumococcique 
+(tous les 5 ans ) 
+ 
+ 
+: 
+ 
+- DT1 adulte et diabétiques de type 2 
+ 
+Liste des dispositifs médicaux 
+ 
+1- Matériel d’injection insuline : 
+ 
+- Tous les patients de type 1 
+- Diabétiques de type 2 insulino-traités 
+- Seringues à usage unique adaptées 
+- Stylos jetables ou rechargeables 
+- Aiguilles fines 4, 5, 6 ou 8 mm pour stylos 
+ 
+ 
+2- Pompe à insuline 
+3- Matériel d’auto surveillance glycémique : - Tous les patients 
+- Lecteur de glycémie 
+- Bandelettes réactives pour glycémie capillaire 
+- Lancettes 
+- Autolets 
+- Capteurs de mesure de la glycémie en continue 
+ 
+4- Matériel de surveillance urinaire : 
+- Bandelettes urinaires pour la recherche de la cétonurie : - Tous les patients 
+livre diabete vf.indd 74
+livre diabete vf.indd 74
+05/09/2023 16:33:26
+05/09/2023 16:33:26

@@ -1,0 +1,977 @@
+[Page 2]
+Guide d’aide au sevrage tabagique
+SOMMAIRE 
+PREFACE
+1. Introduction
+2. Epidémiologie 
+3. Méfaits du tabac et bienfaits du sevrage
+4. Stades de changement chez le fumeur
+5. Déroulement pratique du sevrage
+6. Surveillance et évaluation du sevrage
+7. Prévention des récidives après arrêt
+8. Conclusion
+
+[Page 3]
+Guide d’aide au sevrage tabagique
+PREFACE
+La tabacologie, pour beaucoup de médecins non spécialistes,
+est une science ésotérique hors de portée des praticiens
+généralistes et des infirmiers polyvalents. Introduire la
+tabacologie et l’aide au sevrage tabagique au niveau des
+centres de santé et dans le paquet de soins médicaux des
+entreprises peut donc sembler un pari difficile à gagner. 
+Et pourtant, par la force des choses, dans certains pays
+occidentaux, des infirmiers et des médecins généralistes ont
+été formés et ont acquis une expérience pour soutenir et accompagner les fumeurs
+et les fumeuses à abandonner leurs habitudes tabagiques. Il ne fait pas de doute que
+nos médecins et infirmiers, exerçant dans le secteur public, peuvent être initiés à la
+tabacologie et aider bon nombre de nos concitoyens volontaires à arrêter la
+consommation de tabac. En mettant en place les outils nécessaires pour une
+formation dans la matière, ils peuvent ainsi jouer un rôle très positif tant dans la
+prévention 
+de
+l’initiation au tabagisme, que dans l’aide au sevrage tabagique, que dans la
+protection des non fumeurs et bien sûr dans la prévention de beaucoup de maladies
+mortelles dont les cancers. 
+Fidèle à sa stratégie globale et intégrée, l’Association LALLA SALMA de lutte
+contre le cancer a lancé, en collaboration avec le Ministère de la Santé, le Ministère
+de l’Education Nationale, de la Formation des Cadres de l’Enseignement Supérieur
+et de la Recherche Scientifique et la Fondation Pfizer, le programme : « Collèges,
+Lycées et Entreprises sans tabac » (CLEs) dont l’objectif est de réduire la mortalité
+et la morbidité liées à la consommation du tabac. Ce programme propose, entre
+autres activités, la formation des médecins et des infirmiers en tabacologie en vue
+d’intégrer la consultation d’aide au sevrage tabagique dans les Soins de Santé
+primaires afin d’aider et d’accompagner les fumeurs désireux d’abandonner leurs
+habitudes tabagiques. Cette expérience a intéressé jusqu’à présent la formation de
+plus de 800 professionnels de santé dont environ 600 médecins. Le programme
+“collèges, lycées sans tabac” intéresse actuellement 804 établissements de
+l’enseignement secondaire et sera généralisé à l’ensemble des colléges et lycées d’ici
+la fin de l’année 2010 . Le présent guide d’aide au sevrage tabagique, édité par
+l’Association LALLA SALMA de lutte contre le cancer, représente un premier outil
+didactique qui décrit succinctement les différents modules de tabacologie enseignés
+lors des sessions de formation et plus particulièrement le déroulement pratique du
+sevrage tabagique, sa surveillance et son suivi ainsi que la prévention des formes de
+récidive. 
+Le guide d’aide au sevrage tabagique, destiné à accompagner les médecins et les
+infirmiers formés en tabacologie, est l’oeuvre du Professeur Moulay Hicham Afif,
+spécialiste en tabacologie et Professeur de pneumologie à la faculté de médecine et
+de pharmacie de Casablanca. Il faut également remercier pour son implication, le
+Professeur Mohamed Bartal, expert international de la lutte contre le tabac et
+président du comité de pilotage du projet « CLEs ». 
+Signé : Yasmina BADDOU
+Ministre de la Santé
+
+[Page 4]
+Guide d’aide au sevrage tabagique
+1. Introduction
+Le tabac provient de la plante Nicotiana Tabacum. Il constitue le
+principal carcinogène dans l’environnement de l’homme. Il est
+responsable d’un nombre élevé de décès correspondant à 5 % des
+décès dans le monde, soit plus que les accidents de la voie publique.
+Il est de ce fait un problème majeur de santé publique. 
+L’arrêt du tabac permet de réduire la surmortalité liée à sa
+consommation. Il est bénéfique pour la santé de s’arrêter même après
+l’apparition de pathologies liées au tabac. Le bénéfice est d'autant
+plus grand que l'arrêt est plus précoce. L’effet le plus spectaculaire est
+obtenu sur le risque cardio-vasculaire.
+Près de deux tiers des fumeurs souhaitent actuellement arrêter de
+fumer, mais 70% d’entre eux projettent de le faire sans l’aide d’un
+médecin 
+et 
+seuls 
+25% 
+envisagent 
+l’utilisation 
+d’une 
+aide
+pharmacologique. Or en l’absence de toute aide médicale à l’arrêt, les
+taux de sevrage tabagique apparaissent faibles, de l’ordre de 3 à 5% à
+6-12 mois.
+La dynamique de l’arrêt du tabac dépend de quatre facteurs en
+interaction :
+• La dépendance pharmacologique 
+• Les dimensions de la personnalité 
+• Les stades du changement 
+• Les processus du changement
+Tous les professionnels de santé doivent intervenir dans le sevrage
+tabagique en adaptant le type d’intervention aux caractéristiques du
+tabagisme de chaque fumeur.
+2. Epidémiologie 
+En dépit de ce qu’on sait aujourd’hui de la consommation du tabac ,
+elle n’en continue pas moins de s’accroitre dans le monde. L’épidémie
+se répand toujours, notamment dans les pays à revenu faible ou
+intérmédiare où l’industrie du tabac dispose d’un immense marché et
+où les mesures antitabac sont souvent moins contraignantes
+L’épidémie du tabagisme s’est récemment propagée au niveau
+mondial parmi les femmes. De récentes enquêtes montrent que la
+consommation de tabac chez les jeunes filles se répand à grande
+vitesse dans le monde entier et que la prévalence est dans bien des cas
+comparable voire supérieure à celle des garçons.
+
+[Page 5]
+Guide d’aide au sevrage tabagique
+Au Maroc, selon l’étude MARTA (MAROC TABAC)*, menée en 2007
+sur une population de 9197 personnes ; 31,5% des hommes fument
+contre 3,3% des femmes.
+La plupart des fumeurs actuels et anciens fumeurs déclarent avoir
+commencé à «vraiment» fumer à l’adolescence : environ un quart d’entre
+eux fumaient déjà quotidiennement à 15 ans, la moitié à 17 ans et neuf
+sur dix à 22 ans. Chez les hommes, quel que soit leur âge actuel, l’âge de
+début du tabagisme quotidien se situe ainsi principalement avant 20 ans.
+Le tabac tue un fumeur sur deux. Un 1/4 des fumeurs meurent entre
+35 et 69 ans, perdant ainsi entre 20-25 années de vie. 
+On estime à 100 millions le nombre de décès liés au tabac au cours du
+20ème siècle et on en prévoit 1 milliard au cours du 21ème siècle. 
+L’arrêt est positif à tout moment. Le fumeur qui arrête le tabac avant
+35 ans peut éviter pratiquement tous les risques. Le fumeur qui arrête
+entre 35 et 69 ans et avant d’avoir contracté une maladie sérieuse peut
+éviter le risque de mourir de son tabagisme.
+En France, sur les plus de 12 millions de fumeurs actuels âgés de 15
+ans ou plus, plus de trois sur cinq ont déjà essayé d’arrêter de fumer
+au moins une fois, sans succès. Parmi eux, un quart environ ont eu
+recours à diverses aides dans leur dernière tentative. Parmi
+l’ensemble des personnes qui ont essayé d’arrêter de fumer au cours
+des trois dernières années, environ sept sur dix ont repris une
+consommation quotidienne. Le taux d’échec reste donc important. 
+3. Méfaits du tabac et bienfaits du sevrage tabagique
+3.1. Les méfaits du tabac 
+La dépendance à la nicotine
+La cigarette est une «seringue à nicotine». Un « shoot » est 2 fois plus
+rapide qu’une intraveineuse car la nicotine met 7 secondes pour
+passer des alvéoles au cerveau. Un fumeur prend une dizaine de
+«shoots» par cigarette. Cet effet crée et entretient la dépendance. 
+Au niveau de la bouche et des dents 
+La cigarette favorise la survenue des infections bucco-dentaires et du
+cancer, notamment celui de la langue, des gencives et de la joue. Elle
+est aussi responsable de la coloration jaune des dents, de la coloration
+bleue des gencives et des lèvres et de la mauvaise haleine. 
+(*) Pr Chakib Nejjari, service d’épidémiologie de la faculté de médecine de Fès
+
+[Page 6]
+Guide d’aide au sevrage tabagique
+Au niveau des yeux, du nez et des oreilles 
+Le tabagisme peut entraîner au niveau des yeux une cataracte, des
+brûlures, ou un larmoiement. Il peut favoriser une dégénérescence
+maculaire responsable d’une cécité. 
+Il pourrait aussi être responsable d’une perte de l’odorat, ou du
+cancer 
+des 
+cavités 
+nasales 
+et/ou 
+sinusiennes 
+mais
+égalementd’infections auriculaires à répétition, ainsi qu’une baisse de
+l’audition.
+Au niveau de l’appareil respiratoire
+La cigarette entraîne des infections nasosinusiennes, laryngées et
+bronchiques. Elle favorise le développement d’un asthme chez
+l’enfant et d’une inflammation chronique chez l’adulte et par
+conséquent la survenue d’une bronchite chronique ou d’un
+emphysème. Elle constitue également un facteur de risque majeur du
+cancer du larynx (70%) et du cancer broncho-pulmonaire (risque
+relatif (RR) de 3 chez les petits fumeurs, de 16 chez les grands
+fumeurs, et de 29 chez les très gros fumeurs).
+Au niveau du coeur et des vaisseaux
+Le tabac est un facteur de risque cardiovasculaire et s’accompagne
+d’athérosclérose (RR de 2). Il peut être responsable d’un accident
+vasculaire cérébral (RR de 1,5), d’un infarctus du myocarde (RR de 3)
+ou d’une artériopathie oblitérante (RR de 2 à 7) et d’une gangrène au
+niveau des membres.
+Les maladies cardio-vasculaires tuent plus de femmes américaines
+que les 16 autres causes de décès combinées, y compris tous les types
+de cancers.
+Au niveau de l’appareil digestif
+Le tabac peut entraîner une oesophagite, une gastrite, un ulcère
+gastroduodénal. Il est aussi responsable d’un cancer de l’oesophage
+(risque fonction de la quantité et de la durée du tabagisme), de
+l’estomac, du pancréas, du foie et du colon.
+Au niveau de l’appareil génito-urinaire
+Le tabac favorise la survenue du cancer rénal, vésical et du cancer de
+l’utérus. Il est responsable aussi de l’impuissance sexuelle et de la
+stérilité.
+Chez la femme
+La ménopause précoce est fréquente. Un certain nombre de
+complications au cours de la grossesse telles un avortement spontané,
+un accouchement dystocique et prématuré ou un faible poids de
+naissance (200 à 400g de moins) sont aussi souvent notées.
+
+[Page 7]
+Guide d’aide au sevrage tabagique
+Autres méfaits
+Le tabac est également responsable de nombreux autres méfaits
+sanitaires comme la mauvaise odeur et la décoloration des cheveux,
+la perte de tonus cutané, la couleur bleutée de la peau, l’acné, les rides
+et le vieillissement prématuré, l’altération de la microcirculation,
+l’ostéoporose, les fractures et anomalies cartilagineuse. Enfin, le
+tabagisme ouvre la porte vers d’autres toxicomanies.
+Méfaits du tabagisme passif 
+Les méfaits sanitaires actuellement reconnus du tabagisme passif sont :
+• Risque élevé de cancer bronchique (20-30%) et de cardiopathie 
+(25%) ;
+• Retard de croissance chez les enfants ; 
+• Autres : infections, asthme, dégression de la fonction respiratoire,
+artériopathie (coronaires). 
+3.2. Les bénéfices du sevrage
+L’apport du sevrage tabagique est énorme, non seulement sur le plan
+sanitaire, mais aussi sur les plans psychologique, économique et
+éducationnel.
+• Bénéfices Sanitaires : par éviction des maladies et réduction de la
+morbidité et de la mortalité liées au tabac.
+• Bénéfices psychologiques: en prouvant la capacité de se libérer 
+de la cigarette et ne plus en être l’esclave.
+• Bénéfices économiques.
+• Individuels: économiser le prix des cigarettes et des dépenses 
+pour la santé. Exemple : fumer 1 paquet/jour pendant 20 ans
+équivaut en dépenses à 30 Dhs x 7300 j soit 219.000 Dhs 
+et 1 paquet/jour pendant 30 ans équivaut en dépenses à 
+328.500 Dhs. 
+• Pour la société: réduction du nombre des jours pour arrêt
+maladie et réduction du nombre de décès prématuré lié au tabac. 
+• Bénéfices éducationnels: en donnant l’exemple pour les autres, 
+chacun dans son domaine (père, frère, enseignant, corps médical et
+paramédical…).
+
+[Page 8]
+Guide d’aide au sevrage tabagique
+4. Stades de changement chez le fumeur
+La dynamique des stades de changement a fait l’objet de réflexions
+nombreuses. Les travaux sur le comportement tabagique ont ainsi
+cherché à proposer des descriptions dynamiques de l’arrêt du tabac.
+Cinq grands stades de changement ont été décrits par Prochaska &
+DiClemente (Figure 1) :
+Figure 1 : stades de changement de Prochaska et Di Clemente
+• Stade de la non-motivation ou précontemplation : il concerne les
+fumeurs « heureux » qui ne se posent pas de question sur leur
+tabagisme et n’envisagent pas d’arrêter dans les 6 mois. Ces fumeurs
+ne recherchent pas de solution car ils n’ont aucune perception du
+problème. Ils sont parfois hostiles, résistent au changement, contreargumentent et justifient leur comportement.
+• Stade de la contemplation : il concerne les fumeurs qui prennent
+conscience des risques encourus et des répercussions pour
+l’entourage. Ils mesurent les difficultés pour arrêter et développent
+une intention de changer mais restent passifs. Ils envisagent
+sérieusement d’arrêter de fumer dans les six prochains mois, mais
+n’ont jamais fait de tentative d’arrêt, tout en attendant le moment
+propice et en recherchant la solution miracle.
+Le passage de la pré-contemplation à la contemplation s’obtient en
+confortant le fumeur pour qu’il prenne conscience et en l’incitant à
+poser des questions. Il faut aussi lui donner l’information et des
+conseils judicieux et susciter une prise de confiance, surtout chez les
+fumeurs résignés. 
+Les stades de préparation à l’arrêt du tabac
+Source : DiClemente CC, et al. J
+Consult Clin Psychol, 1991, 59 : 295-304
+
+[Page 9]
+Guide d’aide au sevrage tabagique
+• Stade de la préparation : il concerne les fumeurs qui envisagent
+sérieusement d’arrêter de fumer dans les trente jours. Ils formulent
+une demande claire pour le sevrage et ont une attitude ouverte et une
+coopération facile avec le médecin. Ces fumeurs ont une planification
+et une organisation du changement.
+Le passage de la contemplation à la préparation s’obtient en posant
+au fumeur les bonnes questions sur les « bons » et mauvais côtés du
+tabac, sur l’avenir si rien ne change et faire avec lui le scénario du
+pire. Le fumeur doit établir une balance décisionnelle pour peser les
+bénéfices et les inconvénients de deux situations : continuer à fumer
+et arrêter de fumer.
+• Stade d’action : il concerne les sujets qui ne fument plus et ont
+arrêté depuis moins de six mois. Ces fumeurs ont mis en place de
+réels changements de mode de vie en évitant les lieux, les situations
+et les événements associés au tabac. 
+Le passage de la préparation à l’action passe par l’évaluation de la
+dépendance et des éventuelles co-morbidités. Il faut envisager avec le
+fumeur les obstacles et les difficultés susceptibles de faire échouer la
+tentative et essayer de trouver les solutions.
+• Stade de maintenance : il concerne les sujets qui ont arrêté de fumer
+depuis plus de six mois. Ils apprécient les avantages de ce nouveau
+comportement par rapport à ceux du tabac. Une attention particulière
+doit être prêtée aux situations exceptionnelles pouvant favoriser les
+reprises du tabagisme.
+Le passage de l’action à la maintenance repose sur le soutien et les
+encouragements du médecin pour faciliter la poursuite de l’action. Il
+faut l’aider à résoudre les difficultés rencontrées et lui montrer les
+progrès accomplis. Il faut aussi relancer les fumeurs qui manquent
+leur rendez-vous.
+Bien que ce schéma présente des limites et ait fait l’objet de
+contestations, il constitue un apport intéressant dans l’aide au sevrage
+tabagique, permettant d’adapter la prise en charge proposée en
+fonction du stade de motivation du patient.
+5. Déroulement pratique du sevrage
+La consultation d’aide au sevrage tabagique s'adresse à des patients
+motivés et volontaires. Il est souhaitable que les intervenants soient
+formés spécifiquement à la tabacologie. Plus qu'une simple
+consultation, il s'agit d'un programme d'aide établi sur plusieurs
+mois. Cette aide peut être associée à un traitement pharmacologique.
+Dans ces conditions les taux de sevrage à un an sont de l'ordre de
+25%.
+
+[Page 10]
+Guide d’aide au sevrage tabagique
+5.1. Descriptif tabagique
+Au cours de la consultation, il est important d’évaluer la situation
+tabagique, en précisant l’histoire du tabagisme, notamment l’âge de
+début, 
+la 
+consommation 
+tabagique 
+actuelle 
+et 
+passée, 
+et
+l’environnement 
+tabagique. 
+Certaines 
+précisions 
+sont 
+très
+importantes à faire : personnalité anxio-dépressive, équilibre
+alimentaire, toxicomanie associée, contexte de vie, qualité du
+sommeil, pratique d’activité physique régulière et traitement en
+cours…. Il faut également classer les fumeurs dans un des stades de
+préparation à l’arrêt, aider les fumeurs hésitants à se motiver pour
+arrêter, et utiliser une stratégie basée sur les aptitudes au
+changement.
+5.2. Examen clinique
+L’examen clinique au cours de cette consultation est nécessaire car il
+permet de crédibiliser la démarche médicale. La mesure du CO par
+les petits appareils disponibles permet de montrer au fumeur de
+manière objective et simple l’importance de l’intoxication tabagique. 
+5.3. Examens complémentaires
+Les examens complémentaires à réaliser dans un premier temps sont :
+la radiographie thoracique, l’exploration fonctionnelle respiratoire et
+l’électrocardiogramme. Ces examens seront au mieux programmés
+durant les consultations ultérieures de suivi. 
+Points importants
+• Analyser les désirs, besoins et craintes du fumeur notamment la
+confiance, le choix de la date et la prise de poids.
+• Ne pas sous évaluer le rôle du thérapeute et le patient doit être 
+convaincu qu’une aide efficace peut lui être apportée
+• Ne pas dissocier la phase d’arrêt proprement dite (phase
+d’action) de la phase qui la précède (phase de préparation) ou de 
+celle qui la suit (phase de maintenance)
+• Le meilleur motif qui vaille est celui avancé par le patient
+• La décision d’arrêt ne peut procéder que du libre choix du
+fumeur
+• Se méfier du caractère illusoire de la simple diminution de 
+consommtion et du caractère trompeur des mentions «light» et
+«faiblement dosé».
+
+[Page 11]
+Guide d’aide au sevrage tabagique
+5.4. Evaluation des dépendances
+Avant de mettre en place une décision thérapeutique, il convient
+d’évaluer respectivement les dépendances comportementales et
+nicotiniques à l’aide du test de Horn (annexe 1) et du test de
+Fagerström (annexe 2). La motivation à l’arrêt du tabagisme est
+évaluée par le test de Lagrue et Légeron (annexe 3). 
+5.5. Traitements pharmacologiques
+5.5.1. But 
+• Faciliter le sevrage et augmenter ses chances de réussite ;
+• Réduire les symptômes qui accompagnent le sevrage.
+5.5.2. Moyens 
+I. Substitution nicotinique
+La substitution nicotinique consiste à remplacer temporairement et
+partiellement la nicotine apportée par le tabac, et ainsi à supprimer,
+au moins en partie, les symptômes liés au sevrage : besoin urgent de
+fumer, irritabilité, déprime, difficultés de concentration, anxiété,
+troubles du sommeil, maux de tête, prise de poids, appétit
+augmenté... 
+a. Présentation : La substitution nicotinique peut être proposée sous
+6 formes différentes : les timbres nicotiniques ou patchs, les gommes
+à mâcher, les comprimés sublinguaux, les comprimés à sucer,
+l'inhaleur et le spray nasal. Toutes les formes ont une efficacité
+similaire à posologie égale. 
+Le choix entre les différentes formes peut être fondé sur la sensibilité
+aux effets indésirables, la préférence du patient et la disponibilité des
+produits dans les pays. 
+L'association de ces différentes substitutions nicotiniques est
+supérieure, en terme de sevrage au long terme à la substitution par un
+seul produit. L’association des substituts nicotiniques avec une prise
+en charge psychologique augmente les taux d’abstinence. 
+* Patch (timbre ou dispositif transdermique) 
+Principe : Le patch est un sparadrap contenant de la nicotine. Utilisé
+une fois par jour, simple et discret, le patch diffuse des quantités
+contrôlées de nicotine à travers la peau. 
+Indication : Il convient aux fumeurs ayant des habitudes régulières. 
+
+[Page 12]
+Guide d’aide au sevrage tabagique
+Présentation: Le patch existe en 3 dosages, selon les marques (15mg10mg-5mg ou 21mg (fort) -14mg (moyen) -7mg (léger)). Il se colle le
+matin au réveil et doit être porté, soit 24 heures ou 16 heures sur 24
+heures. Le maximum de nicotine dans le sang est obtenu 6 à 8 heures
+après que le patch ait été collé. 
+Utilisation : 
+• Coller le patch sur une surface de la peau sèche et sans poils 
+(bras, cuisse, tronc, hanche, omoplate). 
+• Changer chaque jour l'emplacement où le patch est collé. 
+• Respecter d’un intervalle d'une semaine avant de recoller le 
+patch dans la même zone est nécessaire. 
+• Une douche ou un bain peuvent être pris avec le patch, car il est
+imperméable. 
+• Si le patch se décolle, il peut être fixé avec du sparadrap
+par-dessus. 
+Posologie : 
+La dose initiale de la substitution nicotinique est adaptée à la
+dépendance du fumeur, évaluée notamment par le test de
+Fagerström. Le traitement est ensuite modulé en fonction de la
+survenue des signes cliniques traduisant un sous-dosage ou un
+surdosage nicotinique. Le choix de la dose constitue un facteur
+important du succès. Les taux de succès sont améliorés si les
+substituts nicotiniques apportent une quantité de nicotine proche de
+celle apportée par les cigarettes. 
+Pour les timbres, l’efficacité de leur utilisation sur 16 heures ou sur 24
+heures semble similaire. Les doses sont diminuées progressivement
+par paliers sur 8 à 12 semaines. 
+Durée du traitement : 
+8 semaines à 3 mois au maximum. 
+Effets indésirables : 
+Le patch de nicotine ne provoque aucun effet indésirable sérieux. On
+observe des effets indésirables mineurs chez un utilisateur sur 5,
+particulièrement en début de traitement. Il s'agit le plus souvent de
+rougeurs de la peau et de démangeaisons locales et passagères, qui
+disparaissent au bout de 48 heures après le retrait du patch. Les
+autres effets rares sont des vertiges, maux de tête, nausées, malaises,
+insomnies et tachycardie.
+
+[Page 13]
+Guide d’aide au sevrage tabagique
+* Gommes à mâcher (chewing-gum) 
+Principe : 
+Les gommes à mâcher libèrent des quantités contrôlées de nicotine
+dans la bouche. La nicotine qui est avalée n'est pas absorbée, car elle
+est détruite par le foie. Le maximum de nicotine dans le sang est
+obtenu 30 minutes après le début de la mastication, ce qui correspond
+à une quantité beaucoup moins élevée et une diffusion beaucoup plus
+lente que lorsqu'on fume une cigarette. 
+Indication : 
+Fumeurs irréguliers et en complément des patchs s’ils sont insuffisants.
+Présentation :
+Les gommes existent en deux dosages : 4mg pour les grands fumeurs
+(plus de 20 cigarettes par jour) et 2 mg pour les fumeurs moyens et les
+petits fumeurs. Selon les marques, plusieurs arômes sont disponibles
+(menthe, citron, fruit, original). Il faut savoir que seule la moitié de la
+dose est en réalité absorbée. 
+Utilisation : 
+Les gommes peuvent être prises régulièrement sur la journée, ou
+uniquement lorsque l'envie est importante. Pour un résultat optimal,
+suivre les instructions de mastication suivantes: 
+• Mâcher lentement la gomme : le goût apparaît,
+• Après environ 10 mastications, observer une pause en calant la 
+gomme entre la joue et la gencive,
+• Attendre que le goût s'atténue, 
+• Recommencer à mâcher lentement la gomme (une gomme dure 
+30 minutes). 
+Une mastication trop rapide libère une quantité trop importante de
+nicotine générant un goût fort et piquant, une diminution de
+l'efficacité de la gomme, le hoquet ou encore des épigastralgies.
+Il faut éviter de boire du café ou du jus de fruits (acide) avant et
+pendant la prise de la gomme, car ces boissons diminuent son
+efficacité.
+Effets indésirables : les gommes ne provoquent aucun effet
+indésirable sérieux. Ces effets se résument essentiellement aux
+vertiges, maux de tête, nausées, brûlures d'estomac, hoquet, douleurs
+des gencives, et inflammation de la bouche et de la gorge. La plupart
+des effets indésirables peuvent être évités si l'on respecte les instructions
+d’usage.
+
+[Page 14]
+Guide d’aide au sevrage tabagique
+* Microtabs (comprimés) 
+Principe : 
+Placé sous la langue, le comprimé fond doucement en diffusant des
+quantités contrôlées de nicotine dans la bouche. Son utilisation est
+discrète et flexible. 
+Présentation : Comprimé de 2 mg, avec distributeur pratique.
+Utilisation : 
+Le comprimé doit être placé sous la langue et laissé fondre en 20
+minutes. L'effet ressenti est individuel. S'il est trop fort, le comprimé
+peut être recraché avant d'être complètement dissous. 
+Durée du traitement : 8 semaines à 3 mois au maximum. 
+Effets indésirables :
+Les microtabs ne provoquent aucun effet indésirable sérieux, sauf
+parfois des maux de tête, des vertiges, des nausées, une insomnie, des
+symptômes évocateurs de rhume et des aphtes. 
+* Pastilles à sucer 
+Principe : Il s'agit d'une alternative plus discrète que les gommes à
+mâcher. 
+Présentation : Les pastilles à sucer existent en 1mg (arôme menthe).
+Une pastille à 1 mg équivaut à une gomme à mâcher de 2 mg.
+Durée du traitement : 8 semaines à 3 mois au maximum.
+Effets indésirables : les mêmes que les comprimés.
+* Inhaleurs 
+Principe : Un moyen actif qui combat à la fois la dépendance envers
+la nicotine et l'habitude gestuelle. 
+Indication : apaiser l'envie de fumer et reproduire le rituel du geste
+et de l'inhalation. 
+Présentation : Il s'agit d'une sorte de porte-cigarette à partir duquel
+on aspire une vapeur de nicotine. Le matériel d'utilisation de
+l'inhalateur est composé de 3 éléments : 1) une boîte de 42 recharges,
+chaque recharge contient une éponge imprégnée de 10 mg de nicotine
+
+[Page 15]
+Guide d’aide au sevrage tabagique
+(goût menthe), dont seulement 5 mg sont absorbées. 2) un tube en
+plastique blanc ressemblant à un porte-cigarette, dans lequel il faut
+insérer les recharges de nicotine. 3) une boîte sécurisée qui permet
+d'emporter les recharges et le tube dans une poche ou un sac à main. 
+Utilisation : 
+• Aspiration des bouffées de vapeur de nicotine. Prendre des
+bouffées plus fréquentes qu'avec une cigarette, car chaque bouffée
+délivre moins de nicotine qu'une bouffée de cigarette : 10 à 20
+bouffées d'inhalateur procurent la même quantité de nicotine qu'une
+bouffée de cigarette. Le maximum de nicotine dans le sang est obtenu
+environ 20 minutes après le début de l'inhalation, donc plus
+lentement que lorsqu'on fume une cigarette (maximum après
+10 minutes). 
+• Utilisation d’au moins 6 recharges de nicotine par jour, et jusqu'à
+12 recharges. 
+• Le fumeur peut soit aspirer de la vapeur de nicotine dans la
+bouche sans l'avaler, soit l’inhaler profondément dans les poumons.
+La quantité de nicotine absorbée est la même dans les 2 cas.
+La nicotine est surtout absorbée à travers la muqueuse de la bouche. 
+Durée du traitement : 8 semaines à 3 mois au maximum.
+Effets indésirables : Aucun effet indésirable sérieux n'a été rapporté
+pour l'usage de l'inhalateur. Les effets secondaires possibles mais
+rares sont les maux de tête, la nausée, et les brûlures d'estomac. On
+peut ressentir une irritation de la bouche et de la gorge et une légère
+toux. 
+* Spray nasal 
+Principe : agit très rapidement et met un terme aux symptômes de
+sevrage. 
+Indication : fumeurs ayant connu une très forte dépendance au tabac. 
+Présentation : Une prescription médicale est nécessaire. Il se présente
+sous forme d'un flacon de 10ml qui contient 100mg de nicotine.
+Utilisation : Au début l’utilisation du spray nasal se fait une à deux
+fois par heure, 3 fois au maximum. Une dose correspond à 1 mg de
+nicotine. Le spray est appliqué dans chaque narine. 
+Durée du traitement : 8 semaines à 3 mois au maximum. 
+Effets indésirables : Ils apparaissent le plus souvent pendant la
+première semaine du traitement et se manifestent localement:
+irritation de la muqueuse nasale, rhume et éternuement. Plus rares
+
+[Page 16]
+Guide d’aide au sevrage tabagique
+sont le vertige, les nausées et la tachycardie. 
+b. Contre- indications : 
+En octobre 2003, il y a eu suppression des mises en garde et contre
+indications cardio-vasculaires :
+Les contre-indications supprimées sont l’infarctus récent du
+myocarde, l’angor instable, l’angor de prinzmetal, les troubles du
+rythme sévères et les accidents vasculaires cérébraux (AVC) récents.
+Les mises en garde supprimées sont les maladies cardio-vasculaires
+sévères (artériopathie périphérique oblitérante, AVC, angor,
+insuffisance cardiaque et vasospasme), l’hypertension artérielle
+sévère et l’ulcère gastroduodénal évolutif. 
+Par ailleurs, certaines mises en garde ont été maintenues car l’arrêt du
+tabac 
+rendra 
+nécessaire 
+l’adaptation 
+des 
+posologies 
+des
+thérapeutiques éventuelles, notamment les insuffisances hépatiques
+et 
+rénales 
+sévères, 
+l’hyperthyroïdie, 
+le 
+diabète 
+et 
+le
+phéochromocytome.
+Cas particuliers : Les autorisations de mise sur le marché (AMM) des
+substituts nicotiniques ont connus certains changements ; tels que
+l’abstinence temporaire (juin 2001) au cours des longues réunions de
+travail, des voyages en avions et des dîners chez les non fumeurs….
+Ces changements concernent aussi l’association de plusieurs
+substituts nicotiniques (juillet 2004) pour les patients fortement
+dépendants ou sous dosés par un seul substitut et la réduction de la
+consommation de tabac (octobre 2004) dans l’objectif de préparer le
+fumeur à un arrêt complet et rapide du tabac.
+II. Bupropion
+Principe : 
+Le Bupropion est un antidépresseur utilisé depuis de nombreuses
+années, inhibant la recapture de la dopamine et de la noradrénaline,
+dont le mode d'action dans le sevrage tabagique est imparfaitement
+connu. 
+Posologie : 
+Les doses efficaces sont de 300 mg par jour (en deux prises espacées
+de 8 heures) pendant 7 à 9 semaines précédées par une période de 6
+jours à 150 mg afin de tester la bonne tolérance du produit. L'arrêt du
+tabac est à programmer au cours de la deuxième semaine du
+traitement. Dans ces conditions, le Bupropion est efficace pour le
+sevrage tabagique des fumeurs moyennement et fortement
+dépendants avec de bons résultats versus un placebo (44% versus
+
+[Page 17]
+Guide d’aide au sevrage tabagique
+19% en fin de traitement, 27% versus 16% à 6 mois et 23% versus 12%
+à un an). 
+Effets secondaires : 
+Les principaux effets secondaires sont les crises d'épilepsies, les
+sécheresses buccales et les insomnies.
+Contre-indications: 
+Grossesse 
+et 
+allaitement, 
+sujets<18 
+ans,
+hypersensibilité connue, troubles convulsifs ou antécédents de
+convulsions ou hypertension artérielle, tumeur du système nerveux
+central, insuffisance hépatique sévère, existence ou antécédents de
+boulimie ou anorexie mentale ou troubles maniaco-dépressifs,
+association aux IMAO sélectifs ou non sélectifs et enfin sevrage en
+cours d’alcool ou de benzodiazépines.
+III. Varenicline
+Principe : la Varenicline est un médicament non nicotinique qui agit
+dans le sevrage tabagique par la liaison avec affinité et sélectivité
+élevée aux récepteurs nicotiniques neuronaux à l’acétylcholine avec
+action agoniste partielle et antagoniste en présence de nicotine. Elle
+s'est montrée efficace pour aider les fumeurs à s'abstenir de fumer, en
+comparaison avec un placebo et à un autre médicament de référence
+(Bupropion). A 3 mois, l’efficacité est 2,5 fois supérieure au placebo et
+1,5 fois supérieure au Bupropion. A 1 an, elle est 2,2 fois supérieure
+au placebo et 1,6 fois supérieure au Bupropion.
+Posologie : 0,5mg par jour pendant 3 jours, puis 0,5mg deux fois par
+jour pendant 4 jours puis 1 mg deux fois par jour jusqu’à la fin du
+traitement.
+Durée du traitement : 12 semaines en moyenne.
+Effets secondaires : principalement des nausées, vomissements et
+céphalées…
+Contre-indications : hypersensibilité à la substance active ou à l’un
+des excipients.
+Mises en garde spéciales : 
+• Ajustement des posologies de certains médicaments 
+(Théophylline, warfarine et insuline).
+• Grossesse et allaitement : peu d’études et donc à éviter.
+IV. Traitement symptomatique :
+Vitamine C : 
+
+[Page 18]
+Guide d’aide au sevrage tabagique
+• Pour pallier au manque d’acide ascorbique chez les fumeurs
+• Il faut utiliser les comprimés à croquer ou à sucer (un comprimé
+le matin et un comprimé à midi, si besoin un troisième comprimé
+à 16h). Il faut éviter les prises vespérales afin d’éviter les insomnies
+Magnésium et calcium : pour leur effet détendant et aussi pour
+améliorer le transit intestinal en cas de constipation pouvant survenir
+au cours du sevrage. 
+5.6. Prise en charge psychologique et comportementale
+Cette prise en charge consiste à préparer le changement des habitudes
+du fumeur pour faciliter la prise en charge de la dépendance
+psychologique et comportementale et à chercher autour de soi des «
+alliés » qui pourraient apporter leur soutien en cas de besoins
+(conjoint, enfants, amis…). Le fumeur doit commencer à fumer de
+façon « consciente » en se débarrassant des cigarettes « non
+indispensables », et lister toutes les habitudes où la cigarette est très
+présente : café, sorties…, il doit aussi faire ces comptes et réfléchir à
+comment dépenser les économies du tabac. Il faut instaurer un
+nouveau mode de vie, surtout en ce qui concerne les habitudes
+alimentaires qui doivent être modifiées de façon constructive afin
+d’éviter les excès de poids, sans oublier de faire du sport ou d’autres
+activités physiques.
+5.6.1. Evaluation psychologique et comportementale du fumeur
+Avant tout projet de sevrage, il est important au même titre que
+l’évaluation de la dépendance nicotinique (test de Fagerström),
+d’évaluer les facteurs psychologiques tels que la motivation à l’arrêt,
+les croyances et les cognitions liées au tabac, les capacités
+d’autocontrôle, les facteurs déclenchants et les cigarettes les plus et
+les moins importantes.
+Il existe certaines situations dites à haut risque qui sont souvent liées
+à l’environnement du fumeur, notamment des émotions positives
+(repas, alcool, fumeurs, fête…), des émotions négatives (colère,
+tristesse, ennui, stress…) et des situations moins habituelles comme la
+routine de travail.
+5.6.2. Parcours d’un fumeur 
+Le fumeur passe par une phase plus ou moins longue durant laquelle
+il est un fumeur heureux qui trouve un plaisir, une détente dans le fait
+de fumer. Durant cette période, il n’a aucune envie de s’arrêter et est
+réfractaire à toute tentative de sensibilisation aux risques. Puis, il
+
+[Page 19]
+Guide d’aide au sevrage tabagique
+entre dans une phase de maturation durant laquelle, il envisage de
+s’arrêter et il ne faut surtout pas précipiter le sevrage à ce stade. Enfin,
+le fumeur décide de s’arrêter et va essayer de le faire avec ou sans
+aide. Le sevrage va, dans l’idéal, perdurer ou alors une rechute
+survient. 
+Les éléments qui préparent à l’arrêt du tabac sont la dissociation du
+stimulus et de la réponse comportementale, la mise en place d’un
+déconditionnement, l’apprentissage progressif de la gestion de
+l’envie de fumer. Le fumeur doit augmenter sa confiance en sa
+capacité d’autocontrôle. L’entourage joue un rôle prépondérant dans
+l’organisation du soutien lors de la période du sevrage.
+5.6.3. Gestion des envies et des pensées après l’arrêt
+Le contrôle du stimulus en évitant le tabac et en trouvant une
+meilleure substitution permet de passer le cap des envies de fumer
+après l’arrêt. Les principales stratégies comportementales à adopter
+sont le changement du contexte et l’engagement dans une activité
+brève (faire de l’exercice physique, parler à une personne
+soutenante…). Certaines stratégies cognitives d’opposition s’avèrent
+très efficaces aussi : 
+• Se souvenir que les envies ne vont pas durer,
+• Dédramatiser,
+• Occuper le terrain cognitif par des slogans en boucle,
+• Se répéter la liste des motivations, penser à autre chose de
+plaisant, auto-encouragement,
+• Accompagner l’envie de fumer et contrôler toutes les manifestations.
+• Retirer du domicile du fumeur le tabac et tous ces accessoires,
+annoncer qu’on a arrêté de fumer, éviter les lieux à risque (cafés,
+espaces fumeurs…), éviter de se rendre à une soirée où les gens
+fument et enfin planifier son temps libre.
+5.7. Autres interventions
+Des mesures complémentaires doivent être prises, telles que l’arrêt du
+cannabis, la réduction significative des excitants et la prise en charge
+d’un état dépressif.
+5.8. Surveillance et évaluation du sevrage
+La qualité du suivi conditionne largement le résultat global de l’arrêt.
+Pour un suivi de 1 mois, le taux d’arrêt est de 10%. Il passe à 28% pour
+un suivi de 1 à 3 mois et passe à 38% pour un suivi de 3 à 9 mois. 
+
+[Page 20]
+Guide d’aide au sevrage tabagique
+Il existe 3 stades d’arrêt : à 6 mois on parle d’arrêt récent, à 12 mois
+d’un arrêt persistent et à 24 mois d’un arrêt confirmé. Le patient
+confirme son arrêt à la 48ème heure.
+Il est de ce fait nécessaire de maintenir un contact avec le fumeur qui
+est en cours de sevrage et d’assurer un suivi régulier. Les
+consultations pourront être avec le temps de plus en plus espacées :
+Deuxième consultation : J0 + 7 jours 
+Le médecin procède à : 
+• L’évaluation de la réalité et de la qualité de l’arrêt : en vérifiant 
+l’absence de toute prise tabagique, en appréciant les pulsions à 
+fumer et les effets secondaires divers. La conduite de l’entretien ne 
+doit pas se faire sur un mode trop directif, il faut inciter le patient 
+à exprimer librement son vécu afin de mieux appréhender les
+solutions aux difficultés de l’arrêt.
+• La mesure des constantes cliniques ou fonctionnelles : fréquence 
+cardiaque, pression artérielle, DEP, CO expiré…
+• L’adaptation de la posologie de la substitution nicotinique si 
+c’est le traitement choisi.
+Troisième consultation : J0 + 21 ou 28 jours
+Au cours de cette consultation, le médecin veille à : 
+• L’instauration d’un lien confiant sur un fond d’empathie :
+mettre l’accent sur les bénéfices du sevrage (amélioration de la 
+symptomatologie respiratoire et des perceptions olfactives ou
+gustatives, bénéfices esthétiques, bénéfices psychologiques et
+éducationnels…) 
+• La prise en charge psycho-comportementale : pour identifier les 
+difficultés non résolues ou nouvelles (perte de motivation, reprise 
+ou persistance de la dépendance physique, prise de poids, dépres- 
+sion…)
+• Le recensement et la prise en charge des effets secondaires
+• Le maintien du traitement et éventuellement le démarrage de la 
+dégression de la substitution nicotinique si c’est le traitement choisi.
+Quatrième et cinquième consultations : J0 + 60 et 90 jours
+Cette consultation permet au médecin de :
+• Vérifier la poursuite du traitement jusqu’à l’arrêt : avec
+diminution progressive en tenant compte des besoins inhérents à 
+
+[Page 21]
+Guide d’aide au sevrage tabagique
+chaque patient.
+• Evaluer l’équilibre général du patient : en précisant sa nouvelle 
+«organisation de vie» tout autant que son niveau de confiance en lui.
+Consultations ultérieures
+• La chronologie et le nombre de ces consultations seront adaptés
+au patient (rythme de consultations proposé par le médecin et 
+validé par le patient).
+• Le suivi est un élément pronostic déterminant. Plus il est long, 
+meilleures seront les chances de la réussite du sevrage.
+6. Prévention des reprises après l’arrêt
+Les reprises sont fréquentes et 75-80% d’entre elles surviennent dans
+les 6 mois qui suivent le sevrage. Elles touchent 40-60 % des exfumeurs à 1 an. Les reprises doivent être présentées comme des
+étapes dans la démarche d’arrêt (succès différés). 
+Les consultations régulières sont très importantes pour prévenir les
+rechutes. Ces consultations peuvent être suivies au long court ou
+faites à la demande si besoin. Il est préférable que le médecin soit
+disponible au téléphone notamment la première semaine.
+Les fumeurs rechutent particulièrement dans des situations à risque
+telles :
+• Prendre "juste une cigarette" pour voir ; 
+• Etat d'émotion négative, par exemple colère, frustration, épression, 
+ennui ; 
+• Conflit entre personnes (avec la famille ou au travail) ; 
+• Pression sociale, directe par une personne, ou indirecte dans une 
+situation où il y a d'autres fumeurs (comme lors d'une soirée) ; 
+• Prise d'alcool et bons repas ; 
+• Relaxation à la maison le soir, devant la TV ; 
+• Augmentation du poids.
+En cas de reprise, le médecin doit impérativement :
+• Ecouter et accompagner le fumeur ;
+• Déculpabiliser (expliquer la dépendance) ;
+• Valoriser tout arrêt, aussi court soit-il ; 
+
+[Page 22]
+Guide d’aide au servage tabagique
+• Valoriser la reprise comme une acquisition d’expérience ; 
+• Avoir en tête la longueur du suivi et les risques de reprise 
+(prise en charge équivalente à celle d’une maladie chronique).
+7. Conclusion
+Le sevrage tabagique est une entreprise délicate nécessitant une Le
+sevrage tabagique est une entreprise délicate nécessitant une
+approche globale. La prise en charge de la dépendance nicotinique
+double le taux d’arrêt à 12 mois. Le sevrage tabagique requiert de la
+part du médecin disponibilité, responsabilité, compétence et
+expérience.
+
+[Page 23]
+Guide d’aide au sevrage tabagique
+Annexe 1 : Test de Horn
+*Tj
+*S
+*M
+*P
+*J
+A Je fume pour me donner un coup de fouet
+4
+2
+B Je prends plaisir à fumer et tenir ma cigarette
+4
+2
+C Tirer sur une cigarette est relaxant
+4
+2
+D J'allume une cigarette quand je suis soucieux
+4
+2
+E Quand je n'ai plus de cigarettes je cours en acheter
+4
+2
+F Je fume avec automatisme
+4
+2
+G Je fume pour me donner du courage
+4
+2
+H Le plaisir c'est d'abord manipuler ma cigarette
+4
+2
+I
+Il n'y a quantité de plaisirs dans l'acte de fumer
+4
+2
+J Je fume quand je suis mal à l'aise
+4
+2
+K Je ne suis pas dans le coup quand je ne fume pas
+4
+2
+L J'allume une cigarette alors qu'une autre brûle dans lecendrier
+4
+2
+M Je fume pour en imposer aux autres
+4
+2
+N J'ai du plaisir à regarder les volutes de fumée
+4
+2
+O Je fume même si je suis détendu
+4
+2
+P Je fume pour oublier quand j'ai le cafard
+4
+2
+Q
+J'ai toujours besoin de manipuler quelque chose
+4
+2
+R J'oublie la cigarette qui est dans ma bouche
+4
+2
+- Stimulation (A) + (G) + (M)
+- Anxiété soutien (D) + (J) + (P)
+- Plaisir du geste (B) + (H) + (N)
+- Besoin absolu (E) + (K) + (Q)
+- Relaxation (C) + (I) + (O)
+- Habitude acquise (F) + (L) + (R)
+Score 
+Dépendance
+0 à 5
+Faible
+6 à 10
+Moyenne
+10 à 12 
+Certaine à forte
+13 à 15 
+Très forte
+*Tj : Toujours - *S : Souvent - *M : Moyennement - *P : Parfois *J : Jamais
+
+[Page 24]
+Guide d’aide au sevrage tabagique
+1. Combien de temps s’écoule entre votre réveil et votre première cigarette ?
+* Plus de 60 minutes 
+* Entre 31 et 60 minutes
+* Entre 6 et 30 minutes 
+* Moins de 5 minutes 
+2. Trouvez-vous difficile de vous abstenir de fumer là où c’est interdit ?
+* Non
+* Oui 
+3. Quelle cigarette auriez-vous le plus de mal à ne pas fumer ?
+* La première de la journée 
+* N’importe quelle autre 
+4. Combien de cigarettes fumez-vous par jour ?
+* 10 ou moins 
+* Entre 11 et 20
+*Entre 21 et 30 
+* Plus de 31 
+5. Fumez-vous davantage durant les premières heures suivant le réveil qu’au
+cours du reste de la journée ?
+* Non 
+* Oui 
+6. Fumez-vous même quand vous êtes malade au lit presque toute la journée ?
+* Non 
+* Oui 
+0 à 2 : Très faible dépendance 
+3 ou 4 
+: Faible dépendance 
+5 : Dépendance moyenne 
+6 à 7 : Forte dépendance
+8 à 10 : Très forte dépendance
+Annexe 2 : Test Fagerstrom
+
+[Page 25]
+Guide d’aide au sevrage tabagique
+* Pensez-vous que dans six mois :
+- Vous fumerez toujours autant
+(0)
+- Vous aurez diminué un peu votre consommation de cigarettes 
+(2)
+- Vous aurez diminué beaucoup votre consommation de cigarettes 
+(4)
+- Vous aurez arrêté de fumer 
+(8)
+* Avez-vous actuellement envie d'arrêter de fumer ?
+- Pas du tout 
+(0)
+- Un peu
+(1)
+- Beaucoup 
+(2) 
+- Enormément 
+(3)
+* Pensez-vous que dans quatre semaines :
+- Vous fumerez toujours autant
+(0)
+- Vous aurez diminué un peu votre consommation de cigarettes
+(2)
+- Vous aurez diminué beaucoup votre consommation de cigarettes 
+(4)
+- Vous aurez arrêté de fumer 
+(6)
+* Vous arrive-t-il de ne pas être content(e) de fumer ?
+- Jamais 
+(0)
+- Quelquefois 
+(1) 
+- Souvent 
+(2)
+- Toujours
+(3)
+- < 6 : peu pas motivé
+- 6 à 12 : motivé mais à renforcer
+- > 12 : motivé
+- autour de 20 : motivation élevée
+Annexe 3 : Test de Lagrue et Légeron

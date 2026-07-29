@@ -1,0 +1,4355 @@
+[Page 2]
+GUIDE NATIONAL
+DE PRISE EN CHARGE
+DE L’INFECTION A VIH
+CHEZ L'ENFANT
+À L'USAGE DES PROFESSIONNELS
+DE LA SANTÉ
+
+[Page 3]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+
+[Page 4]
+PREFACE
+L
+’épidémie du VIH/Sida constitue un problème mondial de santé 
+publique. Au Maroc, on estime que moins de 1 000 enfants vivent 
+avec le VIH, dont plus de 850 sont actuellement sous traitement 
+antirétroviral et suivis au niveau des centres référents de prise en 
+charge du VIH du Ministère de la Santé. 
+Dans le cadre de la mise en œuvre du Plan Stratégique National (PSN) pour la lutte 
+contre le Sida, l’extension de la prise en charge du VIH/Sida chez l’enfant revêt une 
+importance capitale et contribuera à la réduction de la mortalité liée au VIH de 50% 
+d’ici 2023. Il s’agit de décentraliser les services de prise en charge des enfants vivant 
+avec le VIH (EVVIH), d’améliorer l’accès à des services de prise en charge de qualité et 
+de renforcer les compétences des ressources humaines. Aussi, le Ministère de la Santé 
+vise à ce que 95% des EVVIH reçoivent un traitement antirétroviral et bénéficient d’un 
+suivi approprié d’ici 2023. 
+La mobilisation des pédiatres est la pierre angulaire qui contribuera à atteindre cet 
+objectif selon les directives du Programme National de Lutte contre le Sida et avec 
+l’encadrement et le coaching des référents universitaires. La lutte contre le VIH n’a de 
+sens que si elle est appropriée par tous, ce qui suppose qu’aucun EVVIH ne doit être 
+laissée pour compte. 
+Avec l’appui de la Société Marocaine d’Infectiologie Pédiatrique et de Vaccination et 
+avec la contribution de tous les partenaires, la prise en charge des EVVIH connaitra un 
+nouveau souffle. Elle sera étendue, d’ici 2023, dans une démarche de proximité et de 
+qualité de services délivrés par un personnel qualifié, en créant le premier réseau de 
+pédiatres relais avec les centres référents.
+Le présent guide, standardisant les procédures de diagnostic, de prise en charge et de 
+suivi de l’EVVIH, est destiné à tous les professionnels de santé impliqués dans la lutte 
+contre le VIH/Sida chez l’enfant. Il vise à standardiser et optimiser la qualité des soins 
+des EVVIH dans notre pays. Espérant que ce guide répondra à leurs attentes et qu’il 
+leur sera d’une grande utilité, nous remercions tous les acteurs mobilisés pour la lutte 
+contre le VIH chez l’enfant et sollicitons leur appui pour sa diffusion et son utilisation la 
+plus large. 
+
+[Page 5]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+
+[Page 6]
+COMITE DE REDACTION ET DE LECTURE
+Société Marocaine d’infectiologie Pediatrique et de vaccination 
+• Pr Mohammed BOUSKRAOUI
+• Pr Noureddine RADA 
+• Pr Soumia BENCHEKROUN 
+• Pr Fouzia HMAMI 
+• Pr Rim AMRANI 
+• Pr Rachid ABILKACEM 
+• Pr Abdallah OULMAATI
+• Pr Khalila NAINIA 
+• Pr Fatima ADNANE 
+• Pr Ahmed Aziz BOUSFIHA 
+• Pr Karima FAKIRI 
+• Pr Ghizlane DRAISS
+• Pr Noufissa BENAJIBA 
+Direction de l’Epidémiologie et de Lutte contre les Maladies 
+• Dr Mohammed YOUBI
+• Dr Abdelkrim MEZIANE BELLEFQUIH
+• Dr Ibtissam KHOUDRI
+• Dr Rachid LAMCHALHI 
+• Dr Khadija BELBACHIR
+• Dr Noureddine SAKHRI 
+• Melle Hasnae SALEM
+• Dr Elkhansa MAHDAOUI
+• Mme Boutaina Selma EL OMARI
+Institut National d’Hygiène 
+• Pr Hicham OUMZIL
+• Dr Elmir ELHARTI 
+ONUSIDA 
+• Dr Kamal ALAMI
+
+[Page 7]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+REMERCIEMENTS
+L
+’élaboration de ce guide national de la prise en charge de l’infection à VIH 
+chez l’enfant est le résultat d’un travail d’équipe qui a impliqué les experts de 
+la Société Marocaine de l’Infectiologie Pédiatrique et de Vaccination (SOMIPEV) 
+sous la supervision du Directeur de l’Epidémiologie et de Lutte contre les Maladies 
+et la coordination du Programme National de lutte contre le Sida. 
+Nous remercions vivement les membres du comité de rédaction et de lecture pour 
+l’élaboration de ce guide ainsi que l’unité de gestion du Fonds mondial pour son 
+appui à la production de ce document normatif.
+Nous remercions également le comité national de prise en charge du VIH pour 
+la validation de ce travail. 
+
+[Page 8]
+ABRÉVIATIONS
+AA 
+: Allaitement Artificiel
+AES 
+: Accident d’exposition au sang
+Ac 
+: Anticorps
+AM 
+: Allaitement Maternel
+ARV 
+: Antirétroviraux
+BCG 
+: Bacille de Calmette et Guérin
+CMV 
+: Cytomégalovirus
+CR 
+: Centres référents de prise en charge VIH
+CTX 
+: Triméthoprime sulfaméthoxazole
+CV 
+: Charge Virale
+DELM : Direction de l’Epidemiologie et de Lutte contre les Maladies
+ETP 
+: Éducation Thérapeutique
+EVVIH : Enfant Vivant avec VIH 
+FEVIH : Femme Enceinte Vivant avec le VIH
+HVB 
+: Hépatite Virale B
+HVC 
+: Hépatite Virale C 
+IDR 
+: Intradermoréaction à la tuberculine
+IGRA : Test de Relargage de l’Interféron Gamma
+INNTI : Inhibiteurs Non Nuclésoidiques de la Transcriptase Inverse
+INTI 
+: Inhibiteurs Nuclésoidiques de la Transcriptase Inverse
+IO 
+: Infection Opportuniste
+IP 
+: Inhibiteur de la Protéase
+IRIS 
+: Syndrome Inflammatoire De Reconstitution Immunitaire
+IST 
+: Infection Sexuellement Transmissible
+
+[Page 9]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+LCR 
+: Liquide céphalo-rachidien 
+LIP 
+: Pneumopathie Interstitielle Lymphoide
+OMS 
+: Organisation Mondiale de la Santé
+PCR 
+: Polymérase Chain Reaction 
+PL 
+: Ponction Lombaire 
+PNLS 
+: Programme National de Lutte contre le Sida
+PTAI 
+: Purpura Thrombopénique Auto-Immun
+PTME 
+: Prévention de la Transmission du VIH de la Mère à l’Enfant
+PVVIH 
+: Personnes Vivant avec le VIH
+SOMIPEV : Societe Marocaine d´Infectiologie Pédiatrique et de Vaccinologie
+Sida 
+: Syndrome d’Immunodéficience Acquise
+PPE 
+: Prophylaxie Post-Exposition 
+TARV 
+: Traitement Antirétroviral
+TB 
+: Tuberculose
+TDM 
+: Tomodensitométrie
+TROD 
+: Test Rapide d’Orientation Diagnostique
+TME 
+: Transmission Mère-Enfant 
+VIH 
+: Virus de l’Immunodéficience Humaine
+VZV  
+: Virus du Zona Varicelle 
+WB 
+: Western Blott
+
+[Page 10]
+ANTIRETROVIRAUX
+3TC
+: Lamivudine
+ ABC
+: Abacavir
+ATV/r
+: Atazanavir/ritonavir 
+AZT ou ZDV : Zidovudine
+BIC
+: Bictégravir
+DTG
+: Dolutégravir
+DRV
+: Darunavir
+EFV
+: Efavirenz
+FTC
+: Emtricitabine
+INI
+: Inhibiteur d’intégrase
+INNTI
+: Inhibiteur non nucléosidique de la transcriptase inverse
+INTI
+: Inhibiteur nucléosidique (ou nucléotidique) de la transcriptase inverse
+IP
+: Inhibiteur de la protéase
+LPV/r
+: Lopinavir /ritonavir 
+NVP
+: Névirapine
+RAL
+: Raltégravir
+TAF
+: Ténofovir alafenamide fumarate
+TDF
+: Ténofovir disoproxyl fumarate
+TLD
+: Ténofovir/Lamivudine/Dolutégravir
+TLE
+: Ténofovir/Lamivudine/Efavirenz
+
+[Page 11]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+LISTE DES FIGURES 
+Figure 1 : Cascade « tester-traiter-retenir » du Maroc, année 2020........................18
+Figure 2 : Évolution des PVVIH (adultes et enfants) sous ARV...................................18 
+Figure 3 : Répartition des EVVIH sous ARV par centres référents.............................19
+Figure 4 : Centres référents de prise en charge de L’EVVIH.....................................21
+Figure 5 : Suivi immuno-virologique du VIH au Maroc..............................................22
+Figure 6 : Algorithme de diagnostic du VIH chez l’enfant de moins de 18 mois....30 
+Figure 7 : Approche diagnostique chez l’enfant de plus de 18 mois.......................32
+Figure 8 : Critères de l’échec thérapeutique (OMS 2016).......................................54
+Figure 9 : Conduite à tenir devant un échec thérapeutique (OMS 2017)...............54
+Figure 10 : Démarche de prophylaxie ARV en salle d’accouchement.....................63
+Figure 11 : Stratégie de diagnostic de l’infection VIH chez nouveau-né exposé 
+ (moins de 18 mois)......................................................................................64
+LISTE DES TABLEAUX 
+Tableau I : Performance de la Prise en charge du VIH au Maroc : 
+ Situation à fin 2020....................................................................................19
+Tableau II : Classification clinique de l’OMS (2007).................................................26
+Tableau III : Critères de diagnostic présomptif d’infection à VIH chez l’enfant
+ de moins de 18 mois (OMS 2010).........................................................31
+Tableau IV: Facteurs de confusion VIH et TB...............................................................34
+Tableau V : Dose curative de Cotrimoxazole en fonction du poids et de l’âge......38
+Tableau VI : Délai entre le début du traitement d’une infection opportuniste 
+ et le début du TARV..................................................................................44
+Tableau VII : Recommandations Nationales 2015.....................................................46 
+
+[Page 12]
+Tableau VIII : Recommandations de l’OMS pour les différents schémas de TARV
+ de 1ère intention et leurs alternatives en fonction de l’âge chez l’enfant.47
+Tableau IX : Schéma du TARV de 1ère Ligne en cas de coïnfection TB/VIH (2015)...... 48
+Tableau X : Suivi de l’EVVIH sous TARV.......................................................................50
+Tableau XI : Spécificités pédiatriques des CD4..........................................................50
+Tableau XII : Principaux effets indésirables des ARV et conduite à tenir..................52
+Tableau XIII : Choix des schémas de 2ème ligne chez l’EVVIH..................................55
+Tableau XIV : Recommandation de l’OMS concernant le dosage simplifié 
+ d’AZT chez le nouveau-né....................................................................61
+Tableau XV : Séquence d’ARV chez le nouveau-né après de la naissance.............61
+Tableau XVI : Dosage des ARV chez l’enfant de moins de 4 semaines selon l’OMS... 62
+Tableau XVII : Indication des vaccins chez les enfants vivant avec le VIH..............67
+Tableau XVIII : Caractéristiques de la douleur chez l’enfant malade......................72
+Tableaux XIX : Indicateurs de suivi de la prise en charge du VIH...........................74
+LISTE DES ANNEXES
+Annexe 1 : Organisation du Programme National de Lutte contre le Sida..............78 
+Annexe 2 : Centres référents de Prise en charge du VIH au Maroc et contacts
+ des médecins responsables........................................................................79
+Annexe 3 : Posologies des molécules ARV seules et combinées...............................84
+Annexe 4 : Traitement antirétroviral préventif chez le nouveau-né en fonction 
+ du risque de TME........................................................................................86
+Annexe 5 : Prise en charge des accidents d’exposition au sang..............................87
+Annexe 6 : Supports d’information du PNLS pour la prise en charge des EVVIH...88
+
+[Page 13]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+SOMMAIRE 
+Introduction ..........................................................................................................14
+1. Épidémiologie du VIH chez l’enfant ................................................................... 16
+1.1. Situation épidémiologique ...................................................................... 16
+1.2. Riposte Nationale au VIH/Sida............................................................... 17
+2. Organisation de la riposte nationale au VIH/Sida chez l’enfant ..................... 20
+2.1. Cadre de l’action...................................................................................... 20
+2.2. Offre de soin VIH .................................................................................... 20
+3. Circonstances de découverte de l’infection à VIH chez l’enfant ...................... 24
+3.1. Devant une symptomatologie clinique faisant évoquer un déficit 
+ immunitaire  .............................................................................................. 24
+3.2. Devant des anomalies biologiques à l’hémogramme ........................... 24 
+3.3. Devant des anomalies radiologiques ..................................................... 24
+3.4. Devant des situations particulières.......................................................... 25
+4. Diagnostic et suivi immuno-virologique du VIH chez l’enfant............................ 28
+4.1. Moyens de diagnostic de l’infection VIH  .............................................. 28
+4.2. Indications et approches diagnostiques................................................. 29
+5. Prise en charge des infections opportunistes et non opportunistes .................. 33
+5.1. La tuberculose .......................................................................................... 33
+5.2. La pneumocystose ................................................................................... 37
+5.3. L’infection à cytomégalovirus.................................................................. 38 
+5.4. La toxoplasmose ..................................................................................... 39
+5.5. La cryptococcose neuro-méningée ......................................................... 40
+5.6 .La candidose orale et œsophagienne ................................................... 41
+5.7. Autres infections ...................................................................................... 42
+6. Traitement antirétroviral ..................................................................................... 43
+6.1. Quand commencer le TARV..................................................................... 43
+6.2. Bilan pré-thérapeutique .......................................................................... 44
+
+[Page 14]
+6.3. Molécules et schémas thérapeutiques ................................................... 45
+6.4. Prise en charge de la coinfection TB/VIH  ............................................. 47
+7. Suivi de l’enfant sous traitement ......................................................................... 49
+7.1. Organisation et rythme du suivi de l’EVVIH............................................ 49
+7.2. Gestion des effets indésirables................................................................ 51 
+7.3. Gestion de l’echec thérapeutique............................................................ 53 
+8. Éducation thérapeutique..................................................................................... 56
+9. Annonce de la maladie....................................................................................... 58 
+10. Prévention de la transmission mère enfant....................................................... 60
+11. Vaccination de l’enfant vivant avec le VIH ....................................................... 66
+12. Passage à la prise en charge dans les services referents pour adultes à 
+ l’adolescence..................................................................................................... 68
+13. Prise en charge des accidents d’exposition au sang........................................ 69 
+14. La douleur chez l’enfant infecté par le VIH...................................................... 71
+15. Suivi évaluation des activités de prise en charge de l’EVVIH ......................... 73
+Conclusion.............................................................................................................75 
+Bibliographie........................................................................................................77
+Annexes................................................................................................................78
+
+[Page 15]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+INTRODUCTION 
+L’infection à VIH chez l’enfant est la contamination de l’enfant par le virus de 
+l’immunodéficience acquise. Elle est souvent le résultat d’une transmission verticale 
+appelée aussi transmission mère-enfant (TME) quand une prévention de cette transmission 
+n’a pas été effectuée ou n’a pas abouti. Toutefois, ce mode de transmission n’est pas 
+exclusif car des transmissions par voie sexuelle (mariage précoce, adolescence, abus 
+sexuel) ou par accident d’exposition aux liquides biologiques restent possibles. 
+Au Maroc, en 2020, un total de 850 enfants sont sous trithérapie antirétrovirale (TARV) ce 
+qui représente 5% des personnes vivant avec le VIH (PVVIH) sous traitement. Ce chiffre ne 
+reflète pas la situation réelle de l’infection à VIH chez l’enfant en raison des perdus de vue 
+et des sous déclarations aussi bien des cas que des décès dans la fratrie des enfants vivant 
+avec VIH (EVVIH) chez qui le diagnostic d’infection VIH n’a pas été posé. Le Programme 
+National de lutte contre le Sida (PNLS) du Ministère de la Santé en coordination avec 
+l’ONUSIDA estiment le nombre des EVVIH à moins de 1 000 enfants en 2020, ce qui 
+représente un taux de couverture assez conséquent par le TARV. 
+L’infection à VIH chez l’enfant reste encore révélatrice de l’infection chez les parents et 
+son diagnostic se fait souvent à un stade tardif de l’affection rendant parfois 
+le pronostic péjoratif. 
+A la différence de l’adulte, l’infection à VIH chez l’enfant suit une évolution plus rapide 
+et 60% des enfants de moins de 2 ans risquent de décéder si la prise en charge n’est 
+pas effectuée. 
+Le diagnostic de l’infection à VIH doit être soulevé devant des signes cliniques souvent trés 
+particuliers à l’enfance. Le diagnostic biologique doit être basé sur l’identification du virus 
+par la PCR chez l’enfant de moins de 18 mois ou la sérologie au-delà de cet âge. 
+Le TARV chez l’enfant soulève plusieurs difficultés : l’adhérence (car l’enfant reste 
+tributaire de l’adulte), le capital thérapeutique réduit à gérer, les effets à long terme 
+(l’enfant à une durée de prise des ARV plus longue que chez l’adulte), le risque de 
+résistance, la gestion des stocks des formes pédiatriques (posologie selon le poids et 
+l’âge), les formules galéniques non adaptées pour l’enfant… 
+Malgré ces aspects, si le TARV est bien conduit, le taux de survie chez l’enfant augmente 
+nettement transformant cette affection fatale à une affection chronique. 
+
+[Page 16]
+Le VIH/Sida chez l’enfant reste sujet aux prérogatives de toute maladie chronique en 
+particulier l’annonce de la maladie, la stigmatisation et la discrimination ainsi que le 
+passage de la prise en charge pédiatrique à la prise en charge dans les structures pour 
+adultes. Ceci suppose et requiert un accompagnement des malades, la formation des 
+professionnels de santé et le soutien psychosocial de l’EVVIH et sa famille. 
+Le Maroc dispose d’une feuille de route nationale pour l’élimination de la transmission 
+mère enfant (eTME) du VIH et de la syphilis d’ici 2023. En attendant d’atteindre et 
+certifier cet objectif, ce travail relate les modalités de prise en charge de l’infection à 
+VIH chez l’enfant. 
+Le présent guide représente le cadre normatif pour la prise en charge des EVVIH au Maroc 
+dont le but est de rendre le diagnostic précoce, d’uniformiser les schémas du TARV et 
+normaliser le suivi des EVVIH en vue d’obtenir de meilleurs résultats sur la santé de l’enfant. 
+
+[Page 17]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+1. Épidémiologie du VIH chez l’enfant 
+La plupart des infections pédiatriques à VIH chez l’enfant surviennent à la suite d’une 
+TME pendant la grossesse, l’accouchement ou l’allaitement. La prévention de la TME 
+(pTME) a montré clairement son efficacité puisqu’elle a réduit le taux de TME de 45% 
+à moins de 5%. 
+L’épidémie pédiatrique à VIH a considérablement diminué dans le monde depuis 
+2000. Depuis 2015, le nombre d’infections évitées grâce à la pTME est enfin devenu 
+supérieur au nombre de nouvelles infections pédiatriques. Mais en dépit de ces progrès, 
+l’ampleur de l’épidémie pédiatrique continue de s’accroître, essentiellement pour des 
+raisons opérationnelles d’insuffisance d’accès aux services. En effet, la couverture 
+insuffisante des programmes nationaux de pTME et l’utilisation de prophylaxies suboptimales continuent d’entraver les efforts dans de nombreux pays d’Afrique. Selon les 
+données du dernier rapport de l’ONUSIDA 2020, la couverture mondiale par les ARV 
+est de 68% pour les adultes et seulement 53% pour les enfants.
+Grâce à l’accès aux TARV, la mortalité en cas d’infection périnatale par le VIH a 
+considérablement diminué, et les enfants infectés en périnatal atteignent l’adolescence 
+et l’âge adulte. Depuis les années 2000, une nouvelle population d’adolescents 
+vivant avec le VIH est apparue également. Les populations d’adolescents infectés par 
+le VIH pendant la période périnatale ont émergé d’abord dans les pays du Nord, 
+puis progressivement en Asie, en Amérique du Sud et, plus récemment, en Afrique 
+subsaharienne. À cela s’ajoute la population des adolescents infectés hors de la période 
+périnatale et soulève de nombreuses questions spécifiques (annonce, observance, 
+rétention dans les soins, succès virologique, comportements sexuels, santé reproductive, 
+grossesses non désirées, transition vers les files actives adultes...). 
+Le Maroc dispose d’une stratégie nationale pour la lutte contre le Sida élaborée par 
+le Ministère de la santé avec l’appui de ses partenaires. Ce Plan Stratégique National 
+(PSN) vise d’ici 2023 la réduction des nouvelles infections par le VIH de 50% et la 
+réduction de la mortalité liée au VIH de 50%. 
+1.1. Situation épidémiologique : 
+Dans le monde, en 2019
+• 38.0 millions de PVVIH ;
+• 36.2 millions d’adultes et 1.8 millions d’enfants (0-14 ans) ;
+• 25.4 millions de personnes avaient accès au TARV ; 
+
+[Page 18]
+• 68% des adultes de 15 ans et plus vivant avec le VIH ont eu accès au traitement, 
+et 53% des enfants EVVIH (0 - 14 ans) ;
+• 85% des femmes enceintes vivant avec le VIH (FEVVIH) avaient accès aux ARV 
+pour la pTME ;
+• 57.7 millions nouvelles infections par le VIH/Sida dont 1.7 millions ;
+• 32.7 millions de décès liés au Sida depuis le début de l’épidémie dont 690 000 
+en 2019. L’enfant représente 13,7% de ces décès ;
+• Un enfant infecté sur deux est à risque de décéder du Sida en l’absence de 
+traitement adapté avant l’âge de deux ans. 
+ Au Maroc les éstimations de l’épidémie en 2020 :
+• 22 000 PVVIH (adultes, Enfants) ;
+• 730 Nouvelles infections ;
+• 420 Décès dus au Sida ; 
+• Moins de 1 000 EVVIH ;
+• Prévalence du VIH (adulte) : 0.08 % [0,07%-0,9%] ;
+• Couverture par les ARV : 75% ;
+• Taux de rétention : >96%.
+1.2. Riposte Nationale au VIH/Sida
+1.2.1. Objectifs 90-90-90 :
+Le Plan Strategique National (PSN) pour la lutte contre le Sida vise, d’ici 2023, à ce 
+qu’au moins 90% des personnes vivant avec le VIH connaissent leur statut sérologique, 
+90% parmi elles soient mises sous ARV et 90% parmi elles négativent leur charge virale, 
+suivant les cibles 90-90-90 de l’ONUSIDA. 
+Dés 2019, le Maroc a atteint le 2ème et le 3ème 90. En 2020, la cascade « tester traiter 
+retenir pour le Maroc est illustrée sur la Figure 1. 
+
+[Page 19]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+22000
+16527
+Nombre de PVVIH
+estimé
+Nombre de personnes
+sous ARV
+Nombre de PVVIH sous
+ARV avec une charge
+virale négative
+Nombre de personnes
+qui connaissent
+leurs status
+100%
+81%
+75%
+68%
+81%
+92%
+92%
+ 
+ Figure 1 : Cascade « tester-traiter-retenir » du Maroc, année 2020
+1.2.2. File active des EVVIH, en 2020 :
+Le nombre des EVVIH suivis sous ARV est passé de 265 en 2012 à 850 en 2020 
+(Figure 2, tableau I). 
+Le nombre des femmes ayant bénéficié de la pTME était de 228 pour la même année 
+2020. 
+6464
+9049
+11635
+15049
+265
+370
+530
+666
+850
+2013
+2015
+2017
+2019
+Total sous ARV
+EVVIH sous ARV
+ 
+ Figure 2 : Évolution des PVVIH (adultes et enfants) sous ARV
+
+[Page 20]
+Tableau I : Performance de la Prise en charge du VIH au Maroc :
+Situation à fin 2020  
+Indicateurs
+Nombre
+Nombre cumulé des EVVIH (< 15 ans) sous ARV
+Nombre cumulé des PVVIH (Adultes) sous ARV
+15 677
+Total des PVVIH (Adultes & Enfants) sous ARV
+16 527
+Nombre des femmes sous pTME en 2020
+Les centres référents de prise en charge des EVVIH d’Agadir, Casablanca et Rabat 
+prennent en charge plus de 60% des EVVIH (Figure 3)
+283
+Agadir
+Casablanca CHU Ibn Rochd
+HER Rabat-Enfant
+Hôp Mére Enfant CHU Marrakech
+CHR Ibn Zohr-Marrakech
+Fès
+Tanger
+Militaire-Rabat
+Oujda
+Saﬁ
+50
+150
+250
+350
+50
+21
+9
+Figure 3 : Répartition des EVVIH sous ARV par centres référents
+
+[Page 21]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+2. Organisation de la riposte nationale au VIH/Sida chez 
+l’enfant 
+Le PSN de lutte contre le VIH représente le cadre national de référence pour la riposte 
+nationale au VIH/Sida élaboré par le Ministère de la Santé. Les stratégies de lutte 
+contre le Sida sont régulièrement mises à jour depuis 2000 pour s’adapter aux contexte 
+et besoins du pays. La prise en charge des EVVIH est une priorité du PSN 2023. 
+2.1. Cadre de l’action 
+La lutte contre le VIH/Sida est organisée au Ministère de la Santé par le Programme 
+National de Lutte contre le Sida (PNLS) au sein de la Direction de l’Epidémiologie et de 
+Lutte contre les Maladies (DELM) (Annexe 1). Le PNLS assure :
+• La gouvernance de la riposte selon une approche participative ;
+• Le pilotage et le suivi de la mise en œuvre ;
+• La normalisation des directives et des interventions de lutte contre le Sida. 
+Le PNLS est soutenu dans ses actions par les partenaires des institutions gouvernementales, 
+les ONG, le Fonds mondial, l’ONUSIDA et les autres agences des Nations Unies. 
+Le PSN 2023 est le cadre de référence qui organise les actions et harmonise les 
+interventions de l’ensemble des acteurs gouvernementaux et non gouvernementaux, 
+associatifs et des partenaires impliqués dans la lutte contre le VIH/Sida.
+Les objectifs du PSN 2023 pour la lutte contre le VIH/Sida sont :
+• Réduire de 50 % les nouvelles infections par le VIH ;
+• Réduire de 50 % la mortalité liée au VIH ;
+• Réduire la stigmatisation et la discrimination liées au VIH et renforcer l’appui 
+psychosocial des PVVIH ;
+• Renforcer la gouvernance aux niveaux national, régional et local pour assurer 
+l’accélération et la durabilité de la riposte.
+2.2. Offre de soin VIH 
+2.2.1. Dépistage du VIH
+Le dépistage volontaire chez l’adulte et la prévention du VIH sont assurés dans les 
+établissements de Soins de Santé (ESSP) et dans les structures des Organisations Non 
+Gouvernenantales (ONG) de lutte contre le Sida et les locaux de la Délégation Générale 
+
+[Page 22]
+à l’Administration Pénitentiaire et à la Réinsertion (DGAPR). Le dépistage du VIH chez les 
+mineurs n’est pas autorisé au Maroc en dehors d’un consentement parental ou des tuteurs. 
+2.2.2. Prise en charge du VIH
+Un total de 11 centres référents CR prend en charge les EVVIH (Figure 4) et 21 CR 
+prennent en charge le VIH chez l’adulte. La liste des médecins et responsables des CR 
+est représentée en annexe 2. 
+11 centres référents EVVIH
+ET
+21 CR adultes
+Laayoune
+ 
+Figure 4 : Centres référents de prise en charge de L’EVVIH
+La prise en charge des EVVIH est assurée par les CR Universitaires et les CR des hôpitaux 
+régionaux du Ministère de la Santé ainsi que les centres hospitaliers militaires.
+Un projet d’extension des CR est en cours de mise en œuvre par le Minstère de la Santé 
+et en collaboration avec la SOMIPEV afin de renforcer la prise en charge des EVVIH. 
+La dotation en médicaments antirétroviraux et des infections opportunistes est assurée 
+gracieusement par le Ministère de la Santé.
+
+[Page 23]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+3.2.3. Diagnostic et suivi virologique du VIH
+Le diagnostic et le suivi des enfants dépistés sont assurés par les laboratoires régionaux et 
+provinciaux et le laboratoire national de référence à l’Institut National d’hygiène (INH).
+Un total de 23 laboratoires offrent le dépistage du VIH dont 16 offrent la confirmation 
+par le Western Blott et 14 laboratoires offrent le typage des Lymphocytes CD4 et CV 
+(Figure 5). 
+Capacités laboratoires en matières
+de suivi immuno-virologique du VIH au Maroc
+Laboratoires hospitaliers oﬀrant la
+charge virale et la numération des CD4
+5 laboratoires régionaux
+7 laboratoires Provinciaux
+2 laboratoires de CHU
+01 laboratoire de Référence INH
+ 
+Figure 5 : Suivi immuno-virologique du VIH au Maroc
+Les tests de suivi biologique du VIH sont disponibles dans tous les sites où un CR VIH et 
+disponible. 
+A noter que dans le cadre du renforcement de la décentralisation de l’activité de suivi 
+immuno-virologique du VIH au Maroc, l’activité a été implantée au niveau des laboratoires 
+des hôpitaux, pour couvrir tous les CR adultes et enfants qui existent actuellement. Ceci 
+
+[Page 24]
+était possible grâce à l’introduction des technologies alternatives depuis 2018, utilisant le 
+FACSpresto pour les CD4 et le GeneXpert pour la charge virale. 
+Points forts et acquis 
+• Disponibilité d’un cadre national pour l’action faisant intervenir tous les acteurs 
+impliqués dans la lutte contre le Sida
+• Approvisionnement permanent des ARV gratuit assuré par le Ministère de la Santé 
+pour tous les PVVIH
+• Disponibilité des compétences humaines et encadrement par les référents 
+universitaires
+• Réseau des pédiatres, infectiologues et experts dans la lutte contre le VIH 
+• Partenariat stratégique avec la SOMIPEV pour la lutte contre le VIH
+• Appui technique et financier du Fonds mondial et des agences des Nations Unies
+Principaux défis et obstacles 
+• Centralisation de la prise en charge VIH des EVVIH au niveau de Rabat, Marrakech, 
+Agadir et Casablanca et quelques autres centres et absence ou discontinuité de la 
+prise en charge des EVVIH dans certaines villes (contraintes géographique pour 
+les malades)
+• Sous déclaration des cas 
+• Absence d’un réseau opérationnel des pédiatres à vocation régionale prenant en 
+charge le VIH au niveau local
+• Accompagnement psychosocial et éducation thérapeutique des EVVIH 
+• Contexte de stigmatisation et discrimination lié au VIH
+Perspectives de la lutte contre le VIH au Maroc 
+• 95% des EVVIH sous traitement par les ARV doivent bénéficier d’un suivi approprié 
+d’ici 2023
+• Opérationnalisation du réseau des pédiatres formés impliqués dans la prise en 
+charge des EVVIH dans les nouveaux centres relais
+• Encadrement, formation et coaching des pédiatres par la SOMIPEV
+• Mise à jour des protocoles nationaux de prise en charge des EVVIH par le 
+Ministère de la Santé conformément aux orientations et recommandations du 
+comité technique de prise en charge du VIH
+
+[Page 25]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+3. Circonstances de découverte de l’infection à VIH chez 
+l’enfant
+3.1. Devant une symptomatologie clinique faisant évoquer un déficit immunitaire le 
+ dépistage du VIH est la 1ère étape de toute exploration : 
+• Syndrome fébrile persistant, récurrent d’origine non identifiée ;
+• Muguet persistant ou récidivant (après l’âge de 2 mois) parfois associé à une 
+dysphagie (candidose profonde) ;
+• Pneumopathie sévère ou récidivante ou dilatation des bronches ;
+• Diarrhée persistante ou récidivante/chronique ;
+• Mauvaise croissance staturo-pondérale (cachexie, stagnation, cassure de la 
+courbe de poids et/ou de la taille) ;
+• Poly-adénopathies et/ou hépato-splénomégalie ;
+• Parotidite chronique ou récidivante ; 
+• Signes neurologiques : Retard psychomoteur ou régression psychomotrice, 
+neuropathie périphérique, microcranie ;
+• Signes cutanés : Ecthyma gangrenusum, prurigo, molluscum contagiosum diffus 
+ou agressif, zona, gale récurrente, xérose… ;
+• Signe muqueux : leucoplasie chevelue de la langue.
+3.2. Devant des anomalies biologiques à l’hémogramme : 
+• Lymphopénie ;
+• Thrombopénie ou anémie d’étiologie inconnue ;
+• Syndrome d’activation macrophagique.
+3.3. Devant des anomalies radiologiques : 
+• Aspect de syndrome interstitiel (pouvant être en rapport avec une infection à 
+Pneumocystis jiroveci, tuberculose TB, cytomégalovirus CMV, pneumopathie 
+interstitielle lymphoïde) ;
+• Foyers pulmonaires récurrents, trainant non résolutifs ;
+• Pneumonie bilatérale ;
+
+[Page 26]
+3.4. Devant des situations particulières : 
+• Enfants de parents ou de fratrie séropositifs ;
+• Nourrissons suivis dans le cadre de la pTME ;
+• Décès chez la fratrie ou les parents dans un contexte inexpliqué ;
+• Adolescent avec comportement à risque ou Infection sexuellement transmissible 
+(IST) associée : hépatite virale B (HVB), hépatite virale C (HVC), Syphilis ;
+• Abus sexuel ;
+• Enfants en situation de vulnérabilité : enfants abandonnés, enfants adoptés, 
+enfants des rues, enfants de famille monoparentale (mère célibataire, parents 
+séparés ou divorcés), enfants vivant en institution ;
+• Devant un diagnostic de tuberculose TB confirmée ou retenu sur des arguments 
+présomptifs. La TB reste une situation fréquente de découverte de l’infection à 
+VIH ;
+• Cancers, notamment lymphome de Burkitt ou sarcome de Kaposi ;
+• Syndrome auto-immun notamment le purpura thrombopénique auto-immuns 
+(PTAI) ;
+• A noter que l’ensemble de ces manifestations permet, une fois le VIH confirmé, 
+une stadification selon l’OMS en 4 stades représentés par le tableau II. 
+
+[Page 27]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Tableau II: Classification clinique de l’OMS (2007)
+Stade I : 
+• Asymptomatique 
+• Lymphadénopathie généralisée persistante 
+Stade II : 
+• Hépato splénomégalie persistante inexpliquée 
+• Infections récurrentes ou chroniques des voies 
+respiratoires supérieures (otite moyenne, 
+otorrhée, sinusite, amygdalite) 
+• Zona 
+• Erythème gingival linéaire 
+• Ulcérations buccales récurrentes 
+• Eruption papulaire prurigineuse 
+• Infections fongiques de l’ongle 
+• Infection verruqueuse extensive d’origine 
+virale 
+• Molluscum contagiosum extensif 
+• Augmentation du volume des parotides persistante et inexpliquée 
+Stade III :
+• Malnutrition modérée inexpliquée (1) ne 
+répondant pas de façon satisfaisante au 
+traitement standard 
+• Diarrhée persistante inexpliquée (14 jours 
+ou plus) 
+• Fièvre persistante inexpliquée (>37,5°C, intermittente ou constante, depuis plus d’un mois) 
+• Candidose buccale persistante (après les six 
+premières semaines de vie) 
+• Leucoplasie chevelue de la cavité buccale 
+• Tuberculose ganglionnaire 
+• Tuberculose pulmonaire 
+• Pneumonies bactériennes sévères récurrentes 
+• Gingivite ou parodontite aiguë nécrosante 
+ulcérative 
+• Anémie (< 8 g / dl), neutropénie (< 0,5 x 109 
+/ l) ou thrombocytopénie chronique (< 50 x 
+109 / l) inexpliquées 
+• Pneumonie interstitielle lymphocytaire symptomatique
+Pathologie pulmonaire chronique associée au 
+VIH, notamment la bronchectasie 
+Stade IV : 
+• Emaciation (2) sévère inexpliquée, retard de 
+croissance sévère inexpliqué (3) ou malnutrition sévère (1) inexpliquée ne répondant pas 
+de façon satisfaisante au traitement standard 
+• Pneumonie à Pneumocystis jiroveci
+• Infections bactériennes sévères récurrentes 
+(empyème, pyomyosite, infection osseuse ou 
+articulaire, méningite, par exemple), sauf la 
+pneumonie 
+• Infection chronique à herpes simplex (bucco-labiale ou cutanée d’une durée supérieure à un mois, ou viscérale quelle que soit 
+la localisation) 
+• Candidose œsophagienne (ou candidose 
+trachéale, bronchique ou pulmonaire) 
+• Tuberculose extra-pulmonaire ou disséminée 
+• Sarcome de Kaposi 
+• Infection à CMV (rétinite ou infection 
+d’autres organes, débutant après l’âge d’un 
+mois) 
+• Toxoplasmose du système nerveux central 
+(après la période néonatale) 
+• Encéphalopathie à VIH 
+• Cryptococcose extra-pulmonaire, y compris 
+la méningite 
+• Infection mycobactérienne non-tuberculeuse 
+disséminée 
+• Leuco encéphalopathie multifocale progressive 
+• Cryptosporidiose chronique (avec diarrhée) 
+• Isosporose chronique 
+• Mycose endémique disséminée (histoplasmose extra-pulmonaire, coccidioïdomycose, 
+pénicillinose) 
+• Lymphome (cérébral ou non-hodgkinien à 
+cellules B) 
+• Néphropathie ou myocardiopathie associée 
+au VIH
+(1) Malnutrition modérée = rapport poids / taille compris entre - 3 et - 2 DS ou périmètre brachial compris entre 115 et 125mm; 
+et malnutrition sévère = rapport poids / taille <- 3 DS ou périmètre brachial < 115mm ou la présence d’œdèmes déclives 
+bilatéraux. (2) Emaciation sévère = indice poids / âge < - 3 DS. (3) Retard de croissance sévère = indice taille/ âge<3 DS. 
+
+[Page 28]
+Encadré 1 : Profil évoLutif de l’infection VIH de L’enfant 
+L’infection à VIH de l’enfant regroupe deux entités :
+1. La première, la plus fréquente, est l’infection à VIH acquise par voie materno-fœtale ;
+2. la seconde, acquise par voie comportementale (sexuelle essentiellement) concerne 
+l’adolescent.
+Il est classique de décrire une évolution bimodale de l’infection à VIH acquise par voie 
+materno-fœtale : 
+1. Forme rapidement évolutive 
+* Mauvais pronostic (delai d’apparition du Sida : 3-15mois, mortalité précoce avant deux 
+ans : près de 80 %, survie à 5 ans : 10%)
+* Contamination in utero en cours de la grossesse
+* Déficit immunitaire majeur, conséquence d’une contamination anténatale précoce, avant la 
+mise en place des structures clés du système immunitaire et responsable d’une sidération de 
+celui-ci. 
+* Sur le plan biologique :
+- CD4 <25% 
+- Charge virale (CV) à la naissance extrêmement élevée et le reste malgré un TARV bien conduit 
+- anomalies hématologiques fréquentes (anemie, neutropenie, thrombopénie) 
+* Symptomatologie clinique, sévère et majeure : 
+- évènements classant Sida, infections oportunistes (IO) précoces, infections bacteriennes 
+précoces et sévères 
+- encéphalopathie spastique à VIH comme forme clinique particulièrement redoutable de 
+pronostic péjoratif et d’évolution rapidement fatale : 
+ - microcephalie acquise 
+- trouble du tonus : hypertonie peripherique, hypotonie axiale 
+- dyspraxie bucco-linguale : incoordination succion –deglutition 
+- pas de crises convulsives, pas de neuropathie peripherique 
+2. Forme lentement évolutive 
+* Correspond à une contamination plus tardive, en période périnatale ou après la naissance 
+durant l’allaitement
+* Évolution comparable à la forme de l’adulte 
+* Sans traitement, l’état immunitaire va progressivement se dégrader et toutes les manifestations 
+cliniques pourront s’observer avec cette aggravation. Avec un délai d’apparition du Sida 
+de 2-10ans 
+* IO tardives, infections bacteriennes benignes et répetées 
+* survie à 5ans : 95% voire plus sous TARV
+*cependant, la fréquence des formes pauci symptomatiques caractérisées par une parotidite 
+chronique, une pneumopathie interstitielle lymphoide (LIP) ou un retard statural est élevée.
+*Parmi ces cas, certains enfants sont des progresseurs lents chez lesquels, en l’absence de 
+TARV, la réplication virale reste basse ou contrôlée, associée à une faible activation des 
+lymphocytes CD4. 
+*Intérêt de dépister les enfants nés de mères VIH positives même à l’adolescence, car ceux-ci, 
+quasi asymptomatiques, peuvent transmettre l’infection et laisser suspecter une contamination 
+par voie comportementale.
+
+[Page 29]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+4. Diagnostic et suivi immuno-virologique du VIH chez 
+ l’enfant : 
+La confirmation du diagnostic de l’infection à VIH chez l’enfant doit se faire dans les 
+plus brefs délais, de préférence dans les deux premiers mois après la naissance, vu les 
+modalités évolutives de l’infection VIH chez l’enfant surtout le nourrisson. 
+La technique à utiliser pour confirmer l’infection à VIH de l’enfant varie selon l’âge. 
+4.1. Moyens de diagnostic de l’infection VIH :
+Moyens basés sur l’identification des Ac anti-VIH : 
+• Les tests rapides d’orientation diagnostic (TROD), dont ceux de la 4ème génération, 
+peuvent identifier l’Ag P24. Ils ont l’avantage de ne pas necessiter de laboratoire, 
+ils sont pratiqués par le personnel et le résultat est obtenu dans 15 min, ce qui 
+attenue le risque des perdus de vue et les pertes de résultat ; 
+• La sérologie ELISA est effectuée au laboratoire sur un prélèvement sanguin. Cette 
+méthode est de grande sensibilité et de spécificité faible dans un pays de faible 
+endémicité du VIH tel le Maroc ;
+• Le Western Blot (WB) est effectué au laboratoire sur un prélèvement sanguin. Il 
+est de grande spécificité.
+Moyens basés sur l’identification des particules virales :
+• PCR (polymerase chain reaction) à ARN, communément appelée « charge 
+virale » CV, dont le résultat est qualitatif et quantitatif ; 
+• PCR à ADN peu utilisée.
+Encadré 2 : Quelques définitions
+PCR-ADN : Il s’agit d’une réaction de polymérisation en chaîne de l’ADN. C’est une technique 
+d’amplification enzymatique par polymérase qui permet, à partir d’un fragment d’ADN, d’en 
+obtenir un grand nombre (plusieurs millions) de copies identiques. Cette technique est utilisée 
+pour détecter l’ADN du VIH, et est généralement utilisée pour le diagnostic précoce chez le 
+nourrisson (Early Infant Diagnosis). Le test s’effectue sur le sang total anticoagulé à l’EDTA.
+PCR-ARN : permet de quantifier le nombre de copies d’ARN du VIH circulant dans le sang 
+d’une personne infectée. C’est ce qui est communément appelée «charge virale». Ce test se 
+pratique sur le plasma.
+
+[Page 30]
+4.2. Indications et approches diagnostiques
+Les tests utilisés chez l’enfant pour le diagnostic de l’infection à VIH varient en fonction 
+de l’âge de l’enfant :
+Nourrissons < 18 mois : 
+Les anticorps (Ac) anti-VIH maternels traversent la barrière placentaire et s’éliminent 
+progressivement, ces Ac peuvent persister parfois jusqu’à l’âge de 18 mois. De ce fait, 
+les tests sérologiques (TROD, ELISA, Western Blot) faits avant cet âge voudraient dire 
+que le nourrisson a été exposé à l’infection à VIH. 
+Pour confirmer l’infection à VIH des tests moléculaires sont alors nécessaires :
+• Si la PCR est positive  considérer l’enfant infecté par le VIH, refaire la PCR sur un 
+2ème prélèvement pour confirmer le résultat ;
+• Si la PCR est négative :
+• Si le nourrisson est sous allaitement artificiel : l’enfant est non infecté ;
+• Si le nourrisson est allaité au sein : recommander le sevrage et refaire la PCR 6 
+semaines après.
+• En cas d’indisponibilité de la PCR, le diagnostic de l’infection à VIH peut être 
+retenu sur des éléments présomptifs en attendant de réaliser la PCR dans les plus 
+brefs délais (tableau III).
+• Si la sérologie VIH ou le TROD est négatif :
+• Et si l’enfant est sevré du sein depuis plus de 6 semaines ou sous allaitement 
+artificiel  L’enfant est non infecté et n’a pas été exposé au VIH ;
+• Si l’allaitement maternel est toujours en cours  Faire un TROD chez la mère, si 
+le TROD est positif, recommander le sevrage et refaire le test 6 semaines après. Si 
+le TROD est négatif : l’enfant est non infecté et n’a pas été exposé au VIH.
+L’algorithme de la figure 6 résume l’approche diagnostique chez l’enfant de moins de 
+18 mois.
+
+[Page 31]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Nourrisson exposé au VIH
+(TROD ou Elisa positifs chez la mère)
+ PCR* VIH ARN ou ADN
+Positive
+Nourrisson infecté
+Négative
+• Envisager TARV sans attendre
+• Faire 2ème Prélèvement pour 
+PCR VIH 
+• Si positif démarrer prophylaxie 
+/Cotrimoxazole (Age >1 mois) 
+• Arrêt AM
+• Refaire PCR VIH 6 semaines 
+après arrêt AM
+PCR négative 
+Nourrisson non infecté
+Enfant sous AM
+Enfant sous AA
+ 
+Figure 6 : Algorithme de diagnostic du VIH chez l’enfant de moins de 18 mois
+AA : allaitement artificiel, AM : allaitement maternel, TROD : tests rapides d’orientation diagnostique. 
+*la PCR doit être faite de préférence dans les deux premiers mois suivant la naissance. 
+
+[Page 32]
+Tableau III : Critères de diagnostic présomptif d’infection à VIH chez l’enfant
+de moins de 18 mois (OMS 2010)
+1. Il est confirmé que la recherche 
+d’anticorps anti-VIH est positive chez 
+l’enfant
+ET
+2a. Le nourrisson est symptomatique avec au moins 
+deux des signes suivants :
+ - Candidose buccale
+ - Pneumonie sévère
+ - Infection sévère
+Ou
+2b. Une affection définissant un stade Sida est diagnostiquée, par ex : pneumonie à Pneumocystis, 
+méningite à cryptocoque, émaciation sévère, sarcome de Kaposi, ou
+tuberculose extra-pulmonaire.
+Chez un nourrisson séropositif au VIH, les autres infections en faveur d’un diagnostic d’infection à 
+VIH sévère sont : Décès récent de la mère lié au VIH, ou infection à VIH à un stade avancé chez 
+la mère % CD4 <20% chez l’enfant 
+Le diagnostic de l’infection à VIH doit être confirmé le plus tôt possible.
+Diagnostic de l’infection à VIH chez l’enfant de moins de 18 mois :
+• Une confirmation de l’infection est basée sur 2 déterminations PCR ;
+• Une absence de l’infection est basée sur 2 déterminations négatives espacée d’un mois ;
+• En cas de test sérologique ou TROD positif, le diagnostic est établi sur le résultat du 
+test PCR ;
+• Le diagnostic du VIH chez les nouveau-nés de mères séropositives au VIH doit se 
+faire de façon précoce (dans les deux mois après la naissance) compte tenu des 
+avantages d’un TARV précoce.
+Enfant > 18 mois : 
+Pour les enfants de plus de 18 mois, la confirmation de l’infection à VIH rejoint celle de 
+l’adulte :
+• Une sérologie ou un TROD positif confirmé par un western Blot positif permettent 
+de retenir le diagnostic. En pratique, vu l’évolutivité de la maladie chez l’enfant, la 
+confirmation peut être faite par la PCR/ARN qui donnera en plus la CV. 
+• Si le TROD ou la sérologie est négative :
+• Et si l’enfant est sevré du sein depuis plus de 6 semaines ou sous allaitement 
+artificiel  L’enfant est non infecté et n’a pas été exposé au VIH.
+• Si l’allaitement maternel est toujours en cours  Faire un TROD chez la mère, si 
+le TROD est positif, recommander le sevrage et refaire le test 6 semaines après. Si 
+le TROD est négatif : l’enfant est non infecté et n’a pas été exposé au VIH.
+
+[Page 33]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+L’algorithme de la figure 7 résume l’approche diagnostique du VIH chez l’enfant de 
+plus de 18 mois. 
+Test de dépistage :
+Elisa ou test rapide
+Test de dépistage négatif
+Allaitement maternel
+en cours
+Test de dépistage positif
+ou douteux
+Test de conﬁrmation
+WESTERN BLOT
+Enfant sevré du
+sein > 6 S
+Non infecté
+Sevrage
+Refaire test 6 S
+après
+Négatif
+Résultat
+négatif
+Enfant
+infecté
+A suivre dans
+3Sem,3 mois
+(si même résultat)
+Indéterminé
+Positif
+Figure 7. Approche diagnostique chez l’enfant de plus de 18 mois 
+Si le test du western blot est indéterminé, on peut faire une PCR ARN ou ADN pour asseoir 
+rapidement le diagnostic.
+S : Semaine
+Encadré 3 : Approches diagnostiques 
+• Du fait de la progression rapide de l’infection à VIH chez l’enfant, en particulier chez 
+le nourrisson et le jeune enfant de moins de 2 ans, le temps est limité pour instaurer une 
+intervention efficace. La confirmation du diagnostic implique des soins spécifiques et une 
+prise en charge thérapeutique. Dans ce contexte, au Maroc tous les centres référents (CR) 
+de prise en charge du VIH disposent des tests diagnostiques y compris la PCR. Le WB et les 
+CD4 sont également disponibles dans les laboratoires, des hôpitaux qui hebergent les CR.
+• Les nourrissons exposés au VIH doivent bénéficier d’un test PCR à la sixième semaine de vie 
+où à la première occasion au delà. 
+• Les tests sérologiques ou TROD pour la détection des Ac anti-VIH chez l’adulte ne peuvent 
+pas être utilisés de façon fiable pour la confirmation du VIH chez le nourrisson. En effet, 
+l’interprétation d’un résultat positif à ces tests est difficile du fait que les Ac anti-VIH maternels 
+peuvent persister pendant 18 mois (bien que ceux-ci disparaissent généralement à l’âge de 
+9 à 12 mois). 
+• Le résultat négatif d’un test sérologique ou TROD VIH indique que le nourrisson n’a pas été 
+exposé et/ou n’est pas infecté par le VIH. Cependant en cas d’allaitement, le risque de 
+contamination par le VIH persiste pendant toute la durée de l’allaitement.
+
+[Page 34]
+5. Prise en charge des infections opportunistes et non 
+ opportunistes :
+Encadré 4 : Infections opportunistes et non opportunistes chez les EVVIH 
+ naifs et sous ARV
+• Le développement des ARV pédiatriques ont modifié significativement les symptômes 
+cliniques observés chez les EVVIH. Ils ont permis une réduction drastique de l’incidence de 
+la majorité des IO. Ainsi, de nombreuses complications infectieuses actuellement observées 
+chez les enfants traités par ARV ne sont pas nécessairement liées à l’existence d’un déficit 
+immunitaire cellulaire. 
+• Dans les pays à faibles ressources, les infections les plus souvent observées chez les enfants 
+naïfs d’ARV étaient les pneumopathies bactériennes (25%), les tuberculoses pulmonaires 
+(10 %), extra-pulmonaires (7 %) ou combinées (12 %), et les candidoses orales et 
+œsophagiennes (8 %). Chez les enfants traités par ARV, les infections les plus fréquentes 
+étaient les pneumopathies bactériennes (22%), les TB pulmonaires et extra-pulmonaires 
+(9%) et les infections à Varicella Zoster virus (VZV) (8%). Dans ces pays, le VIH est encore 
+un facteur de risque majeur de pneumopathie chez l’enfant, avec un risque de survenue de 
+pneumopathie (toutes causes confondues) multiplié par 6,5 et un risque de décès lié à une 
+pneumopathie multiplié par 5,9 en comparaison aux enfants séronégatifs pour le VIH.
+La grande urgence face à un enfant VIH est de dépister et traiter précocement une 
+infection opportuniste (IO) ou non opportuniste qui engage directement le pronostic 
+vital de l’enfant.
+5.1. La tuberculose 
+La coïnfection VIH/TB est la plus fréquente des coïnfections. La TB doit être recherchée 
+systématiquement chez tout les EVVIH, et l’infection VIH doit être recherchée chez tout 
+enfant présentant une TB.
+Les formes asymptomatiques sont fréquentes imposant un bilan radiologique et 
+biologique systématique.
+Les signes cliniques de la TB sont souvent communs à ceux du VIH, ce qui complique 
+le diagnostic (tableau IV). La notion du contage tuberculeux est particulièrement 
+importante dans ce contexte.
+
+[Page 35]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Tableau IV: Facteurs de confusion VIH et TB
+ Critères diagnostiques classiques
+de la TB pulmonaire
+Facteurs de confusion chez l’enfant infecté 
+par le VIH immunodéprimé
+Toux>15 jours ne répondant pas aux traitements ATB usuels 
+Diagnostic différentiel avec : 
+- pneumonie interstitielle lymphoïde, 
+- DDB (+/- pneumocystose)
+Altération de l’état général, cassure de la 
+courbe de croissance, perte de l’appétit
+Peuvent être liées à l’infection par le VIH ellemême
+Fièvre prolongée
+Nombreuses causes opportunistes (virales, 
+parasitaires, fungiques) potentiellement responsables
+Intradermoréaction (IDR) à la tuberculine 
+positive 
+IDR souvent négative
+Recherche de BK positive dans les crachats 
+ou par tubage gastrique
+Encore plus fréquemment négative que chez 
+l’enfant non infecté par le VIH
+5.1.1. Tableau clinique  
+Les signes cliniques dépendent de la localisation. Deux localisations sont fréquentes : 
+- Adénite tuberculeuse : souvent cervicale, de taille > 2 cm, indolore, persistante 
+plus d’un mois et résistante à un traitement antibiotique.
+- Pleurésie : sero-fibrineuse exsudative.
+Deux formes disséminées s’observent surtout chez l’enfant de moins de 5 ans : 
+- Méningite tuberculeuse : 
+Céphalées, comportement anormal, vomissements, somnolence, convulsions, 
+raideur de nuque (ou bombement de la fontanelle chez le nourrisson), paralysie 
+oculo-motrice (diplopie, strabisme), méningite à liquide clair lymphocytaire avec 
+hypo glycorachie ;
+- Miliaire pulmonaire : fièvre élevée et altération de l’état général.
+Chez l’enfant plus de 5 ans, peuvent se voir une TB abdominale avec ascite, arthrite ou 
+ostéomyélite ou péricardite.
+5.1.2. Examens complémentaires  
+• Une IDR est considérée significative au-delà de 5 mm ;
+• Test de relargage de l’Interféron gamma (IGRA) a plus une valeur prédictive positive, 
+sa négativité n’écarte pas le diagnostic ;
+• Recherche de BK à l’examen direct et culture ;
+• Test Xpert : recommandé en première intention ; 
+
+[Page 36]
+• À chaque fois que possible, essayer de ponctionner (un ganglion ou un épanchement): 
+Au moins pour un examen bactériologique direct, une PCR et une culture ;
+• La radio thorax reste l’examen clé, les signes en faveur sont :
+• Adénopathies sous-carénaires, hilaires (droit ou gauche) et para-trachéal droit ;
+• Opacités segmentaire ou lobaire, aspect non systématisé ;
+• Zones hypodenses, cavités et calcifications (chez l’adolescent) ;
+• Nodules centro-lobulaires (ou micronodules diﬀus chez le petit nourrisson) ;
+• Aspect réticulo-micronodulaire diﬀus en cas de miliaire.
+• Le recours à la tomodensitométrie (TDM) doit être plus large à la recherche de 
+lésions infra-radiologiques.
+5.1.3. Traitement  
+Le terrain prédisposant que présente le VIH impose un traitement même en absence de 
+confirmation si le patient présente des arguments en faveur d’une TB probable : 
+• Signes cliniques évocateurs de TB ;
+• Contage tuberculeux connu ;
+• Absence d’amélioration sous antibiotiques non tuberculeux ;
+• Signes radiologiques ;
+• Signes biologiques : IDR ou IGRA +. 
+Le traitement anti-bacillaire comporte systématiquement l’éthambutol selon les 
+schémas 2 RHZE/ 10 RH en cas de miliaire, de forme neuroméningée ou osteoarticulaire et 2RHZE/4RH pour les autres formes.
+Le traitement antirétroviral doit être décalé de 4 à 6 semaines après mise sous 
+antibacillaires et adapté au régime antibacillaire comme expliqué dans le chapitre 
+traitement antirétroviral. Les enfants ayant fait une tuberculose alors qu’ils sont déjà sous 
+traitement antirétroviral ne doivent pas interrompre leurs trithérapies mais plutôt l’adapter. 
+Le décalage entre le traitement anti bacillaire et antirétroviral vise à éviter le syndrome 
+de restauration immunitaire (IRIS).
+5.1.4. Le syndrome inﬂammatoire de reconstitution immunitaire 
+L’IRIS est une détérioration clinique après une amélioration initiale, observée chez 
+les patients sous traitement antituberculeux qui ont commencé un TARV. Il regroupe 
+l’ensemble des manifestations pathologiques attribuées à une reconstitution excessive 
+et/ou insuffisamment régulée vis-à-vis d’antigènes infectieux ou non infectieux après 
+
+[Page 37]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+l’initiation du traitement antirétroviral. Les mycobactéries et les mycoses sont les 
+étiologies les plus fréquentes. Les principales manifestations cliniques sont l’apparition 
+ou l’augmentation de taille d’adénopathies (67%), la réapparition d’une fièvre (42%), 
+l’apparition ou l’aggravation d’infiltrats pulmonaires, d’une miliaire ou d’épanchement 
+pleuraux (23%). Des complications graves (tuberculome intracrânien expansif, détresse 
+respiratoire, adénopathie compressive…) sont rapportées. 
+Chez le nourrisson est souvent constaté un IRIS au Bacille de Calmette et Guérin (BCG) 
+après instauration du TARV (adenopathie axillaire qui fistulise du même ecôté du BCG). 
+La résolution est généralement simple et spontanée.
+La prise en charge se base sur le traitement de la TB ou toute autre infection opportuniste 
+ayant induit ce syndrome et l’adjonction de prédnisone 1,5 mg/kg/jour pendant 15 
+jours avec une dégression sur 15 jours. Le traitement antirétroviral est à continuer sauf 
+dans des situations exceptionnelles engageant le pronostic vital.
+Encadré 5 : Critères d’IRIS 
+Les critères reconnus d’IRIS sont : 
+Contexte de TB avec bonne réponse initiale au traitement anti-tuberculeux + manifestations 
+nouvelles apparaissant sous ARV (dans les 3 premiers mois) : 
+• Critères majeurs (au moins 1) : 
+• Atteinte tissulaire focalisée (adénopathie, arthrite), 
+• Signes radiologiques évocateurs de tuberculose, 
+• Atteinte du système nerveux central (méningite, tuberculome, déficit focal), 
+• Épanchement d’une séreuse. 
+• Ou critère mineurs (ou au moins 2) : 
+• Signes généraux (fièvre, amaigrissement, sueurs nocturnes), 
+• Signes respiratoires (toux, dyspnée, stridor), 
+• Douleurs abdominales avec ascite, adénopathies abdominales, hépato-splénomégalie.
+5.1.5. Traitement préventif  
+Le traitement préventif à base de INH (isoniazide) pendant 6 mois (max 300 mg/jour) 
+est recommandé pour les enfants VIH dont la TB patente a été éliminée même si les tests 
+IGRA et tuberculiniques sont négatifs.
+Pour un enfant et l’adolescent vivant avec le VIH qui a été traité pour une TB maladie 
+pharmaco-sensible et qui est parvenu avec succès au terme de son traitement 
+antituberculeux, il doit être proposé une thérapie préventive par isoniazide pendant 
+six ou neuf mois supplémentaires.
+
+[Page 38]
+La posologie recommandée de l’isoniazide est de 10 mg/kg par jour (pour une 
+dose maximale de 300 mg/jour) chez l’enfant (poids<25 kg) et 5 mg/kg par jour 
+chez l’enfant (poids ≥ 25 kg) et l’adolescent.
+La dimension familiale et sociale de la TB justifie une coordination et une transmission 
+des informations entre les différentes équipes médicales impliquées pour garantir une 
+prise en charge précoce.
+5.2. La pneumocystose 
+Elle peut être observée à tout âge et dès 2 à 3 mois de vie. L’infection à Pneumocystis 
+jirovecii est l’une des principales causes de pneumonie sévère (15 à 30 %) et de décès 
+(30 à 50 %) chez les nourrissons infectés par le VIH et présentant un déficit immunitaire 
+sévère. Elle se manifeste par une pneumopathie fébrile d’évolution plus ou moins 
+rapide avec image radiologique interstitielle ou plus souvent alvéolo-interstitielle. 
+Elle peut être le premier symptôme de la maladie ou n’apparaître qu’après plusieurs 
+années d’évolution. Le diagnostic doit être évoqué chez tout nourrisson exposé au VIH 
+ou infecté par le VIH n’ayant pas reçu de prophylaxie par cotrimoxazole et présentant 
+une dyspnée. 
+5.2.1. Principaux signes cliniques sont  
+• La fièvre modérée parfois absente ;
+• Une détresse respiratoire, d’installation progressive (tirage, cyanose, avec difficulté 
+à boire) ;
+• Des râles crépitant fins et diﬀus ;
+• Une mauvaise réponse aux traitements antibiotiques standards ;
+• Une hypoxie sévère persistante (SaO2 < 90 %) ;
+• Éventuellement, d’autres symptômes évocateurs d’infection par le VIH sont associés: 
+muguet buccal, lymphadénopathie généralisée et/ou une perte de poids.
+5.2.2. Examens paracliniques 
+• CD4 pour confirmer l’immunodépression sévère.
+• Radiographie pulmonaire : 
+• Signes souvent discrets par rapport à la sévérité de la dyspnée ;
+• Opacités diﬀuses, bilatérales et homogènes, interstitielles (ou alvéolaires parfois).
+• Examens de confirmation : 
+Recherche du Pneumocystis jirovecii dans les crachats induits par du serum hypertonique 
+(3 jours de suite) pour étude parasitologique ou rarement recours au lavage broncho 
+alvéolaire plus laborieux.
+
+[Page 39]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+5.2.3. Traitement : 
+Toute suspicion de pneumocystose doit faire démarrer un traitement curatif.
+Tout enfant confirmé infecté par le VIH doit recevoir un traitement prophylactique 
+au cotrimoxazole qui vise la Pneumocystose et la Toxoplasmose.
+• En pratique : Cotrimoxazol (CTX) 1 Cp de 400 mg/80 mg pour 10 kg de poids ou 
+50 mg par kg de sulfaméthoxazole, deux fois par jour (toutes les 12 heures) pendant 
+3 semaines ;
+• Si détresse respiratoire sévère, ajouter : Prednisolone 2 mg/kg, une fois par 
+jour, pendant 7 à 14 jours (après 1 semaine : diminuer à 1mg/kg/j puis arrêter 
+progressivement) ;
+• Antibiothérapie à large spectre, pour couvrir une éventuelle pneumonie bactérienne: 
+Ceftriaxone (80 mg/kg, une fois par jour) pendant 15 jours ;
+• Oxygénothérapie ;
+• Hydratation, alimentation fractionnée et paracétamol contre la douleur.
+La prévention secondaire se base sur CTX 20 mg/kg, une fois par jour (sans dépasser 
+800mg/jour) par voie orale à continuer à vie (tableau V).
+Tableau V : Dose curative de Cotrimoxazole en fonction du poids et de l’âge.
+Tranche de poids 
+(kg) ou âge
+Cotrimoxazole (quantité/12 en 2 prises)
+ Suspension
+ (5ml=200mg Ou
+SMX + 40 mg
+TMP)
+Comprimé simple 
+(400 mg SMX + 80 
+mg TMP)
+Comprimé fort 
+(800 mg SMX + 
+160 mg TMP)
+<5 kg ou <6 mois
+ml 2,5
+[5-14[ kg ou [6 mois 
+- 5 ans]
+ml 5
+cp ½
+[15-29[ kg ou [6 ans 
+- 14 ans]
+ml 10
+cp 1
+cp ½
+≥30 kg ou ≥15 ans
+cp 2
+cp
+5.3. L’infection à cytomégalovirus :
+5.3.1. Clinique :
+• Les manifestations cliniques décrites sont neurologiques (encephalites, retinites), 
+hépato-digestives (diarhée chronique, hépatite), respiratoires (pneumopathie 
+interstitielle) ou hématologiques (cytopénies) ; 
+
+[Page 40]
+• La choriorétinite est moins fréquente chez les nourrissons et décrite surtout à partir de 
+l’âge de 4-5 ans ; 
+• Avant cet âge, l’infection à CMV est souvent responsable d’hépatite associée à des 
+cytopénies (thrombopénie, neutropénie) ; 
+• L’atteinte respiratoire est le plus souvent discrète, associée à un infiltrat interstitiel ; 
+• La rétinite à CMV doit être dépistée systématiquement par un fond d’œil chez les 
+malades ayant un taux de CD4 moins de 100 /mm3. 
+5.3.2. Examens paracliniques 
+• Le diagnostic de la maladie ou de l’infection à CMV est confirmé par la positivité de 
+PCR dans le sang ;
+• La sérologie Ig G positive est en faveur du portage de CMV mais pas synonyme de 
+réactivation. 
+5.3.3. Traitement  
+• Le CMV doit être dépisté et traité chez tous les EVVIH surtour ceux avec CD4 moins 
+de 100/mm3 ;
+• Ganciclovir : 5mg/kg /12h pendant 3 semaines suivi par une dose d’entretien de 5 
+mg/kg/24h pendant 2 semaines ;
+• Des controles d’hémogramme sont necessaires (risque de neutropénie).
+5.4. La toxoplasmose  
+La toxoplasmose cérébrale est une infection opportuniste causée par un parasite : le 
+Toxoplasma gondii. Elle est plus fréquente chez le grand enfant et l’adolescent. 
+5.4.1. Signes cliniques évocateurs 
+• Céphalées, hémiplégie, aphasie, amputation du champ visuel, diplopie, paralysie 
+oculomotrice ;
+• Convulsions, mouvements anormaux (choréiques) ;
+• Syndrome d’hypertension intracrânienne ;
+• Fièvre inconstante.
+5.4.2. Examens paracliniques  
+• CD4 pour confirmer l’immunodépression sévère ;
+• Scanner cérébral : Images d’abcès en cocarde.
+• Une séroconversion des Ig G est en faveur de la réactivation.
+
+[Page 41]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+5.4.3. Traitement  
+• Association de plusieurs traitements pendant une durée de 6 à 8 semaines.
+• Le traitement classique associe : 
+• Pyriméthamine : 2 mg/kg, une fois par jour (max : 50 mg/j) pendant 2 jours puis 
+1 mg/kg, une fois par jour (max : 25 mg/j) ; 
+• Sulfadiazine : 50 mg/kg, toutes les 12 heures ; 
+• Acide folinique : 5 mg, 3 fois par semaine.
+• En l’absence de ces traitements : Cotrimoxazole à forte dose avec 50 mg/kg toutes 
+les 12 heures ;
+• Le traitement curatif doit être suivi pendant 6 semaines ;
+• Le traitement prophylactique est à base de cotrimoxazole. 
+5.5. La cryptococcose neuro-méningée 
+La cryptococcose neuroméningée ou la méningite à cryptocoque est rarement observée 
+chez les jeunes enfants infectés par le VIH, mais a été rapportée chez des enfants plus 
+âgés et des adolescents. Elle est causée par un champignon : Cryptococcus neoformans. 
+Le diagnostic précoce de la méningite à cryptocoque permet de réduire la mortalité 
+liée à cette maladie. L’initiation précoce d’un traitement ARV permet d’en diminuer sa 
+fréquence. Cette infection s’observe chez des patients très immunodéprimés (en général 
+CD4 < 100 cellules/mm3 ou <15 %).
+5.5.1. Principaux signes d’appel
+• Peuvent être discrets, d’installation souvent progressive ;
+• Syndrome méningé modéré : raideur de nuque, céphalées persistantes ;
+• Fièvre plus ou moins élevée ;
+• Crise convulsive ;
+• Modifications du comportement de l’enfant.
+L’apparition de troubles de la conscience est un signe de gravité. Ils correspondent 
+aux formes évoluées et s’accompagnent d’un syndrome méningé franc. D’autres signes 
+extra-méningés peuvent être observés (pulmonaires, hématologiques, cutanés) car la 
+cryptococcose est disséminée chez plus de 50 % des patients avec forme méningée.
+5.5.2. Examens complémentaires : 
+• CD4 pour confirmer l’immunodépression sévère ; 
+• La ponction lombaire (PL) devra être réalisée dès suspicion du diagnostic. Le liquide 
+céphalorachidien (LCR) est souvent hypertendu :
+
+[Page 42]
+• Cytologie : réaction lymphocytaire modérée (< 20 cellules/ml), parfois absente ;
+• Biochimie : hypoglycorachie inconstante et hyperprotéinorachie (< 1 g/l) 
+modérées ;
+• L’observation au microscope de levures encapsulées dans le LCR coloré à l’encre 
+de Chine signe le diagnostic. La sensibilité est de 80 %; la culture sur milieu de 
+Sabouraud, si accessible, augmente la sensibilité. 
+La recherche de l’antigène cryptococcique dans le sang ou le LCR est très sensible et 
+spécifique (> 95 %). D’autres examens pourront être pratiqués en fonction des signes 
+cliniques si cryptococcose disséminée (radio pulmonaire, examen d’urines…).
+5.5.3. Prise en charge :
+Traitement d’attaque : 
+• Amphotericine B IV 0.7 à 1 mg / kg /j + flucytosine 100 mg /kg/j en 4 prises 
+pendant 15 jours ;
+• Relais avec du Fluconazole 12 mg/kg / jour (max 1200 mg/j) pendant 8 semaines.
+• Ponctions lombaires itératives ;
+• Décalage du traitement antirétroviral de plus de 4 semaines ;
+• Prophylaxie à vie. 
+5.6 .La candidose orale et œsophagienne 
+Elle est causée par un champignon : Candida albicans. La candidose buccale ou 
+muguet tapisse la langue, les joues, le palais, +/- lésions labiales (perlèche). 
+5.6.1. Clinique 
+Au niveau de l’œsophage, les signes cliniques sont : 
+• Chez le grand enfant : dysphagie, douleur rétro-sternale, odynophagie (douleur 
+à la déglutition) ; 
+• Chez le nourrisson : refus de téter, rejet en arrière et pleurs après les premières 
+déglutitions.
+5.6.2. Traitement 
+Candidose orale isolée : 
+• Nystatine : 4 fois par jour, en dehors des repas, en bain de bouche chez le grand enfant, 
+appliqué avec une compresse chez le nourrisson, jusqu’à disparition des lésions ;
+• Nettoyage de la bouche avec une compresse imbibée de bicarbonate 14 ‰.
+Candidose œsophagienne ou oropharyngée ﬂoride : Fluconazole : 6 mg/kg, une fois 
+par jour (suspension buvable si possible) au moins 2 à 3 semaines.
+
+[Page 43]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+5.7. Autres infections :
+En plus des infections opportunistes spécifiques révélant fréquemment le VIH, l’enfant est 
+également menacé par les virus et bactéries communes aux immunocompétents.
+Les infections virales : herpétiques, varicelle, et zona dont le traitement symptomatique 
+est suffisant chez les immunocompétents nécessitent dans le cadre de VIH la mise sous 
+traitement antiviral en urgence pour éviter les complications et du fait des présentations 
+graves plus fréquentes.
+Les infections bactériennes : 
+• Les germes les plus souvent en cause sont : Streptococcus pneumoniae, Haemophilus 
+influenzae type b, Staphylococcus aureus, Escherichia coli, Pseudomonas aeruginosa, 
+Salmonella ;
+• Le tableau clinique est similaire à celui de l’enfant immunocompétent avec un plus 
+grand risque de résistance et de sepsis. La réalisation de prélèvements bactériologiques 
+est indispensable ;
+• Le traitement empirique à base de Ceftriaxone à 80 mg/kg/j doit être entamé en 
+attente des résultats des hémocultures ;
+• Si Ecthyma (suspicion de Pseudomonas) il faut démarrer la céftazidime à 100 mg/
+kg/j, en 3 prises, associées à l’amikacine à 15 mg/kg/j.
+Encadré 6 : Système immunitaire et infection 
+• L’enfant naît avec un système immunitaire immature qui n’a jamais été exposé à des antigènes, 
+ce qui le prédispose à présenter avec une fréquence accrue des infections bactériennes. Les 
+effets immunodépresseurs du VIH venant amoindrir encore ce système immunitaire immature, 
+les nourrissons infectés par le VIH sont donc exposés à un risque particulièrement élevé 
+d’infections bactériennes invasives. 
+• Les infections et les pathologies infantiles courantes sont plus fréquentes chez les enfants 
+infectés par le VIH que chez les enfants non infectés, et leur taux de létalité est plus élevé. 
+Parmi ces affections, on retrouve notamment la diarrhée, les infections aiguës des voies 
+respiratoires basses, l’otite moyenne aiguë suppurée, la sinusite et le retard de croissance. 
+• La vaccination et la prophylaxie au cotrimoxazole permettent de réduire significativement la 
+fréquence des infections bactériennes invasives chez l’enfant infecté par le VIH. 
+• La prise en charge des IO d’origine virale est très problématique car les tests diagnostiques 
+et les traitements sont rarement disponibles. 
+• Le TARV permet une reconstitution immunitaire et constitue le traitement le plus efficace pour 
+la prévention des IO. 
+
+[Page 44]
+6. Traitement antirétroviral  
+À l’ère des multithérapies ARV, la morbidité et la mortalité des enfants infectés par le VIH 
+ont considérablement diminué. Le diagnostic précoce de l’infection et l’utilisation de plus 
+en plus large des trithérapies chez l’enfant ont largement contribué à cette diminution. 
+L’accès des enfants aux TARV reste toutefois encore trop limité dans certaines régions du 
+monde. Malgré les bons résultats cliniques des multithérapies, les échecs virologiques 
+sont plus fréquents que chez l’adulte. Ces échecs chez l’enfant sont liés à des difficultés 
+d’observance, comme dans toute maladie chronique, aggravées par des formulations 
+galéniques inadaptées. L’utilisation, depuis de nombreuses années, des molécules ARV 
+à faible barrière génétique et les ruptures d’approvisionnement répétées, en particulier 
+dans les pays aux ressources limitées, y contribuent aussi largement. 
+Il est à préciser que le Maroc de part son passé de plus de 30 decennies de lutte contre 
+le Sida, aucune rupture d’approvisionnement en ARV n’a été déplorée. Cependant, la 
+meilleure connaissance des ARV en pédiatrie et l’utilisation de nouvelles molécules plus 
+puissantes et mieux adaptées à l’enfant permettent d’améliorer l’efficacité du traitement. 
+6.1. Quand commencer le TARV
+*Depuis 2015, Le Maroc a adopté l’approche « tester et traiter » recommandée par 
+l’OMS. Tout enfant ou adolescent infecté par le VIH doit être mis sous ARV, avec 
+une priorité pour : 
+• Les nourrissons de moins de 2 ans ;
+• Les enfants de moins de 5 ans de stade 3 ou 4 de l’OMS ou avec des CD4 ≤ 750/mm3 
+ou < 25 % ; 
+• Les enfants de 5 ans ou plus et les adolescents de stade 3 ou 4 de l’OMS ou avec des 
+CD4 ≤ 350/mm3.
+*Le choix des molécules dépend principalement de l’âge de l’enfant, de l’existence 
+d’une éventuelle coïnfection notamment la tuberculose. 
+* Une fois les infections opportunistes (IO) et non opportunistes sont dépistées 
+et traitées, les ARV peuvent être démarrés. 
+*En présence d’une IO, les délais de démarrage du TARV sont réprésentés sur le tableau 
+VI, en respectant un décalage de 2 semaines si le taux de CD4 est moins de 50 e/
+mm3, et 2-4 semaines dans les autres situations quand il s’agit de TB essentiellement. 
+En absence d’une TB ou d’une cryptococcose le TARV est à démarrer sans attendre.
+
+[Page 45]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Encadré 7 : Préalables pour le TARV 
+• Il n’y a pas d’extrême urgence à commencer un TARV. 
+• Il s’agit d’une trithérapie à vie. 
+• Le premier schéma thérapeutique est decisif.
+• Le capital thérapeutique en ARV chez l’enfant est réduit et à préserver.
+• Avant de commencer un TARV, s’assurer :
+• de la disponibilité continue des ARV (stock, formulations adaptées à l’âge de l’enfant …).
+• des conditions de dispensation des ARV par l’entourage de l’enfant (Education 
+thérapeutique).
+• Commencer par la prophylaxie / cotrimoxazole.
+Tableau VI : Délai entre le début du traitement d’une infection opportuniste
+et le début du TARV
+ Infection opportuniste
+ Délai entre le début du traitement de l’IO et
+le TARV
+ Tuberculose
+- Si CD4 < 50 e/mm3 : 15 jours sauf si localisation 
+méningée pour laquelle attendre 4 semaines
+ - Dans les autres cas : 2 à 4 semaines
+Méningite à cryptocoque
+Si Amphotéricine B + flucytosine : 2 à 4 semaines
+Si fluconazole seul : 4 à 6 semaines
+ Pneumocystose pulmonaire
+Dans les 2 semaines
+Rétinite ou encéphalite à CMV
+2 semaines (sous réserve d’une bonne évolution)
+Toxoplasmose cérébrale
+2 à 3 semaines
+IO : infection opportuniste, TARV : traitement antirétroviral. 
+6.2. Bilan pré-thérapeutique  
+Ce bilan comporte un bilan des infections opportunistes, la charge virale initiale avec le 
+pourcentage ou le taux de CD4, l’hémogramme, les transaminases, le bilan lipidique, 
+la créatininémie et protéinurie. Sans oublier le bilan des co-infections.
+
+[Page 46]
+Encadré 8 : Évaluation pré thérapeutique
+• Examen clinique complet avec une évaluation du développement psychomoteur, 
+mensurations (Poids, Taille, Périmétre Cranien, IMC), état nutritionnel …
+• Bilan Biologique : 
+• Hémogramme, Ionogramme avec transaminases, urée, creatinine et autres selon 
+certaines molécules ARV
+• Recherche des co-infections : 
+• HVB (Ag Hbs , Ac HBc), HVC
+• Autres IST : Syphilis (TPHA, VDRL)
+• Recherche des infections opportunistes 
+• TB (clinique, Contage, Rx poumon, BK /tubage gastrique ou crachats induits ; 
+GenXpert si arguments en faveur TB)
+• Toxoplasmose (IgM)
+• P. Jiroveci (/ crachats induits par sérum hypertonique) 
+• CMV (PCR) 
+• Bilan immuno-virologique (CD4, CV) 
+• Examens radiologiques : Radiographie pulmonaire, autres selon le contexte.
+6.3. Molécules et schémas thérapeutiques 
+Le choix des molécules ARV dépend principalement de l’âge de l’enfant, de l’existence 
+d’une éventuelle coïnfection notamment la TB. 
+Les principales classes thérapeutiques sont :
+• Les Inhibiteurs Nucléotidiques de la Transcriptase Inverse (INTI) : 
+Zidovudine (AZT ou ZDV), Lamivudine (3TC), Ténofovir (TDF), Abacavir (ABC), 
+Emtricitabine (FTC).
+• Les Inhibiteurs Non-Nucléotidiques de la Transcriptase Inverse (INNTI) : 
+Névirapine (NVP), Efavirenz (EFV).
+• Les Inhibiteurs de la protéase (IP) boostée : Lopinavir/ritonavir (LPV/r).
+• Les Inhibiteurs de l’intégrase : Raltégravir (RAL), Dolutégravir (DTG).
+Le traitement ARV est prescrit en tritherapie contenant 2 INT associee à une INNT ou IP 
+ou inhibiteur de l’intégrase en fonction de l’âge et de la coinfection avec la tuberculose.
+ 
+
+[Page 47]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+La posologie des ARV est resumée dans l’Annexe 3. 
+Le tableau VII décrit les schémas thérapeutiques adoptés au niveau national, 
+actuellement appliqués et recommandés par le Programme National de Lutte contre le 
+Sida (PNLS) du Ministère de la Santé.
+Tableau VII : Recommandations Nationales 2015 (Actuellement Appliquées)
+Adolescents
+(10-19 ans) (> 30 kg) 
+TDF+ (FTC ou 3TC) +EFV 
+Alternatives :
+- ZDV+3TC+EFV ; 
+- ZDV+3TC+NVP 
+- TDF + (FTC ou 3TC) + NVP
+Enfants 
+(3 à <10 ans), (10-30 kg) 
+ZDV +3TC+EFV 
+Alternatives :
+- ABC + 3TC + EFV 
+- ZDV + 3TC + NVP
+- ABC+ 3TC + NVP 
+- TDF + FTC + (EFV ou NVP) 
+Enfants
+(<3 ans, <10 kg) 
+- Si LPV /r disponible : ZDV + 3TC + LPV/r
+- Alternatives : ABC + 3TC + LPV/r
+- Si LPV /r non disponible : ZDV + 3TC + NVP 
+- Alternatives : ABC + 3TC + NVP 
+Nouveau-né< 1mois 
+ZDV + 3TC + NVP 
+Zidovudine (AZT ou ZDV), Lamivudine (3TC), Ténofovir (TDF), Abacavir (ABC), Emtricitabine (FTC), 
+Névirapine (NVP), Efavirenz (EFV), Lopinavir/ritonavir (LPV/r).
+La prescription d’AZT exige le suivi de l’hémogramme pour chercher une anémie qui 
+indique le changement vers l’ABC. La prescription du TDF impose un suivi rénal par 
+protéinurie et créatininémie. La prescription d’ABC impose la recherche de HLA B 
+57/01 qui doit être négatif. 
+
+[Page 48]
+Les recommandations de l’Organisation Mondiale de la Santé (OMS) en 2018 
+sont présentées dans le tableau VIII.
+Tableau VIII : Recommandations de l’OMS pour les différents schémas de TARV 
+de 1ére intention et leurs alternatives en fonction de l’âge chez l’enfant
+Age
+<2S
+2S3M
+3M-3A
+3-6A
+6-12A
+>12 A
+TAR
+préférentiel
+2 INTI
+AZTouABC 
+ + 3TC
+ABC1 + XTC
+(ABCouTDF) + XTC 
+3ème 
+agent
+RAL
+LPV/r
+SB
+LPV/r
+SB ou
+poudre
+LPV/r
+SB ou
+poudre
+sDTG
+(>15kg)
+DTG
+(>15kg)
+Alternatives
+2INTI
+AZT+ XTC
+ABC+AZT (intérêt si l’observance est incertaine)
+ 3ème
+agent
+NVP2ou
+LPV/r3
+RAL 
+ou 
+NVP 
+RAL
+ou
+EFV4ou
+NVP
+LPV/r
+ou
+RAL
+ou
+EFV
+ou
+NVP
+LPV/r
+ou
+RAL
+ou
+EFV
+ou
+NVP
+AZT = zidovudine ; ABC = abacavir ; XTC : (3TC = lamivudine; FTC = emtricitabine) ; LPV/r = lopinavir/
+ritonavir ; TDF = ténofovir ; NVP = névirapine ; RAL = raltégravir ; EFV = efavirenz ; DTG = dolutégravir 
+1 : En l’absence d’HLA B57*01 (si test disponible), 2 : Eviter l’association NVP avec ABC, 3 : Circonstances 
+spéciales, contre indiqué chez le prématuré et chez le nouveau-né de moins de 2 semaines, la forme 
+granulée est utilisable à partir de l’âge de 3 mois, 4 : A partir de 3 ans et de 10 kg.
+Ces nouveaux schémas seront appliqués progressivement au Maroc selon un plan 
+de transition conditionné par l’approvisionnement en différentes molécules ARV et 
+suivant les recommandations du comité technique du PNLS.
+Le Ministère de la Santé veille à ce que les changements de protocoles soient actualisés 
+et approuvé par le comité technique de prise en charge du VIH du PNLS et diffusés aux 
+professionnels de santé (circulaire ministérielle, dépliants…etc).
+6.4. Prise en charge de la coinfection TB/VIH 
+En cas de coïnfection TB/VIH, le traitement est à adapter en se référant aux 
+recommandations figurant sur le tableau IX. Pour les enfants sous DTG, la dose du DTG 
+doit être doublée vues les interactions avec la rifampicine.
+
+[Page 49]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Tableau IX : Schéma du TARV de 1ère Ligne en cas de coïnfection TB/VIH (2015)
+Age
+3A<
+3A>
+ Sous TARV et
+découverte TB
+TARV : 2INTI+INNTI
+2INNT+NVP (200mg/
+m2)
+Alternative
+AZT+3TC +ABC
+2INNT+EFV 
+Alternative
+AZT+3TC +ABC
+TARV : 2INTI+IP 
+AZT+3TC +ABC
+ou 
+2INNT+NVP (200mg/
+m2)
+ou 
+2INNT+ Lop/r (1/1)
+2INNT+EFV 
+Ou 
+AZT+3TC +ABC
+Ou 
+2INNT+ Lop/r (1/1)
+ Sous traitement
+ anti BK et mise
+sous TARV
+2INNT+NVP (200mg/
+m2)
+ou 
+AZT+3TC +ABC
+2INNT+EFV
+Ou 
+AZT+3TC +ABC
+AZT : Zidovudine, 3TC : Lamivudine, ABC : Abacavir, EFV : Efavirenz, INNTI : Inhibiteur non nucléosidique 
+de la transcriptase inverse, INTI : Inhibiteur nucléosidique (ou nucléotidique) de la transcriptase inverse, IP: 
+Inhibiteur de la protéase, Lop/r : Lopinavir/ritonavir, NVP : Névirapine, TARV : Traitement Antirétroviral.
+
+[Page 50]
+7. Suivi de l’enfant sous traitement 
+Le suivi clinique et biologique est essentiel pour assurer la qualité et la continuité des 
+soins aux EVVIH. Ce suivi dépend du stade clinique de l’infection au moment de la mise 
+en route du TARV et des conditions socio-environnementales de l’enfant. Il doit permettre 
+de détecter précocement les problèmes d’observance ou d’administration incorrecte du 
+TARV, ses effets secondaires et d’interactions médicamenteuses, sa toxicité et ses effets 
+indésirables.
+Le suivi des EVVIH possède certaines spécificités : 
+• La dépendance de l’enfant par rapport à la personne qui lui administre le traitement 
+(parent ou tuteur), susceptible de changer au cours du suivi ;
+• L’augmentation progressive de la responsabilité (autonomie) de l’enfant au cours du 
+suivi ;
+• La nécessité de prendre en compte sa maturité physique et émotionnelle, son contexte 
+socio-culturel et son évolution psychologique, facteurs conditionnant la qualité de 
+l’observance, donc l’efficacité du TARV ;
+• Le risque de survenue d’effets indésirables liés aux ARV, différents de ceux observés 
+chez les adultes ;
+• L’acquisition de résistances aux ARV, plus élevée chez l’enfant que chez l’adulte 
+en raison de risque plus important de mauvaise observance, histoire thérapeutique 
+longue et marquée par des schémas thérapeutiques souvent complexes, des formes 
+galéniques/dosages inadaptés pour l’âge et une fréquente indisponibilité des 
+galéniques pédiatriques d’ARV. 
+7.1. Organisation et rythme du suivi de l’EVVIH
+Le suivi de l’enfant doit être systématique, planifié, régulier, même si l’enfant ne présente 
+aucun symptôme clinique. La consultation du VIH pédiatrique intègre à la fois le suivi 
+classique de pédiatrie générale et les spécificités liées au VIH. 
+Le suivi de l’EVVIH est clinique (croissance, régression des signes liés au VIH et aux 
+infections associées), et biologique régulier comme précise le tableau X.
+
+[Page 51]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Tableau X : Suivi de l’EVVIH sous TARV 
+ Bilan
+pré-ARV
+J15
+M2
+M3
+M6
+M12
+ M18 puis
+ tous les
+6M
+Clinique
+x
+x
+x
+x
+x
+ Tous les 3M
+CD4
+x
+x
+x
+x
+x
+)3(
+CV
+x
+x
+x
+x
+x
+x
+NFS
+x
+x
+x
+x
+x
+x
+Transaminases
+x
+x
+x
+x
+x
+Protéinurie
+x
+)1(
+)1(
+)1(
+)1(
+ Créatinine
+x
+)1(
+)1(
+)1(
+Bilan lipidique
+x
+)2(
+)2(
+ Bilan des coinfections (TB,
+ CMV, Toxo, HVB, HVC,
+)Syphilis, Pneumocystis
+x
+(1) Si TDF ou pathologie rénale sous-jacente ; (2) si IP ou EFV ; (3) les CD4 ne sont plus à demander chez 
+ les EVVIH si CV est indétectable sur 2 prélèvements à 6 mois d’intervalle, et enfant stable.
+Le suivi de l’EVVIH doit contenir systématiquement :
+• une évaluation de l’observance au traitement ;
+• un dépistage des effets indésirables possibles. 
+L’intérprétation du taux des CD4 chez l’EVVIH revet certaines spécificités (tableau XI).
+Tableau XI : Spécificités pédiatriques des CD4 (OMS 2006)
+Deficit immunitaire
+Pourcentage de CD4 par mm3
+Taux de CD4 
+par mm3
+< 11 mois
+12 – 35 mois
+36 – 59 mois
+>5 ans
+Abscent
+> 35%
+> 30%
+> 25%
+>500
+Moyen
+30 – 35%
+25 - 30%
+20 - 25%
+350 - 499
+Important 
+25 - 30%
+20 - 25%
+15 – 20% (350750)
+200- 349
+Sévère 
+< 25% (< 1500)
+< 20% (750)
+< 15% (350)
+< 200 ou 15%
+
+[Page 52]
+Encadré 9 : Interprétation des CD4 et spécificités pédiatriques 
+•Les taux de CD4 doivent être interprétés en fonction de l’âge. Les valeurs des lymphocytes 
+totaux et donc aussi des lymphocytes CD4 sont beaucoup plus élevées chez le jeune 
+enfant que chez l’adulte et celles-ci diminuent « normalement » régulièrement au cours des 
+premières années de vie pour atteindre les valeurs dites “adultes” vers l’âge de 5 ans. C’est 
+pourquoi il est préférable de se fier au “%” de CD4 par rapport aux lymphocytes totaux, qui 
+reste stable avec l’âge et qui est plus informatif chez le jeune enfant. On se fondera sur la 
+“valeur absolue” après 5 ans comme chez l’adulte ; 
+•La charge virale est le marqueur le plus fiable et précoce pour renseigner sur l’echec 
+thérapeutique et eventuellement l’emergence de résistance ;
+• En revanche, une baisse régulière de la valeur absolue des CD4 avant l’âge de 5 ans tout 
+en conservant un “%” stable, correspond à une évolution normale (baisse physiologique) ; 
+• La cytométrie en flux reste la technique de réfrence pour la numuréation des CD4, néanmoins 
+des technologies alternatives ont été mises au point depuis 2015 et permettent de déterminer 
+le pourcentage et la valeur absolue du taux des CD4 avec une très bonne fiablité. Ces 
+technologies exsitent aujourd’hui au niveau des laboratoires des hôpitaux hébergeant les 
+CR du VIH ;
+• Dans ses recommandations 2013, l’OMS a proposé la mise systématique sous TARV de 
+tous les enfants de moins de 5 ans, quel que soit le stade clinique ou le “%” de CD4. 
+Le résultat des CD4 n’est donc plus nécessaire pour débuter un TARV. Néanmoins, un 
+comptage des CD4 initial reste souhaitable pour observer l’évolution de la restauration 
+immunitaire sous TARV ainsi que pour la prophylaxie des infections opportunitses chez les 
+enfants immunodémprimés ; 
+• Pratiquement les CD4 sont détereminés dans le bilan initial et une fois la charge virale est 
+indétectable et les CD4 sont restaurés, le suivi est basé uniquement sur la quantification de 
+la charge virale ;
+7.2. Gestion des effets indésirables 
+Les TARV sont globalement bien tolérés chez l’enfant, mais peuvent être responsables 
+d’effets secondaires qu’il faudra surveiller. Le tableau XII regroupe les principaux effets 
+indésirables des ARV ainsi que la conduite à tenir correspondante à chaque molécule.
+Cette étape doit faire participer les médiateurs thérapeutiques dont le rôle est primordial 
+dans l’éducation et l’appui psycho-social.
+
+[Page 53]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Tableau XII : Principaux effets indésirables des ARV et conduite à tenir 
+ARV
+Principaux effets secondaires
+Conduite à tenir
+AZT
+Anémie, neutropénie
+Si AZT utilisé en 1ère ligne 
+→ Changer par TDF ou ABC 
+Si AZT utilisé en 2ème ligne 
+→ Changer par ABC ou TDF mais reprendre l’AZT 
+dès que l’anémie est corrigée, sous surveillance 
+rapprochée de l’hémoglobine
+ABC
+Allergie*
+Si ABC utilisé en 1ère ligne 
+→ Changer par TDF ou AZT 
+Si ABC utilisé en 2ème ligne (après échec de l’AZT) 
+→ Changer pour TDF
+TDF
+Tubulopathie
+Si le TDF est utilisé en 1ère ligne 
+→ Changer par AZT ou ABC 
+Si le TDF est utilisé en 2ème ligne (après échec de 
+l’AZT) 
+→ Changer pour ABC 
+Déminéralisation osseuse
+NVP
+Hépatotoxicité : uniquement en 
+début de traitement
+→ Changer par EFV. Si le patient ne tolère aucun 
+INNTI (ou est âgé de moins de 3 ans), changer 
+pour une IP boostée
+Éruption cutanée sévère, 
+syndrome de Stevens-Johnson 
+uniquement en début de 
+traitement
+EFV
+Toxicité sur le système nerveux 
+central (cauchemars, dépression, 
+trouble du sommeil, trouble de 
+l’apprentissage, vertiges) 
+→ Changer par NVP. 
+Si le patient ne tolère aucun INNTI, changer pour 
+une IP boostée
+Dyslipidémie 
+Gynécomastie
+LPV/r
+Dyslipidémie 
+Lipodystrophie
+Troubles digestifs (nausée, diarrhée)
+Si LPV/r est utilisé en 1ère ligne 
+→ Envisager un changement par un INNTI adapté 
+à l’âge (NVP avant 3 ans, EFV après). ATV/r peut 
+être choisi après l’âge de 6 ans 
+Si LPV/r est utilisé en 2ème ligne 
+→ Changer par ATV/r (après l’âge de 6 ans) ou 
+le DRV/r (après l’âge de 3 ans). 
+Si les IP boostées sont contre-indiquées 
+→ Envisager les inhibiteurs de l’intégrase
+* contre-indication définitive (à noter dans le dossier et à bien expliquer aux parents sans oublier les formes 
+ combinées qui peuvent contenir de l’abacavir. Les doses pédiatriques de certaines molécules (ATV, DRV) ne sont 
+ pas disponibles au niveau National.
+
+[Page 54]
+AZT : Zidovudine ; ABC : Abacavir ; ATV/r : Atazanavir /ritonavir ; DRV/r : Darunavir/ritonavir, EFV : Efavirenz ;
+INNTI : Inhibiteur non nucléosidique de la transcriptase inverse ; INTI : Inhibiteur nucléosidique (ou nucléotidique) de 
+la transcriptase inverse ; IP : Inhibiteur de la protéase ; LPV/r : Lopinavir/ritonavir; NVP : Névirapine, TDF : Ténofovir 
+disoproxyl fumarate.
+7.3. Gestion de l’echec thérapeutique 
+La réponse thérapeutique au TARV suppose les faits suivants : 
+• Avoir une CV indétectable ;
+• Restauration de la fonction immunitaire ;
+• Absence d’IO ;
+• Amélioration de la qualité de vie.
+L’absence des éléments sus-mentionnés doit être considérée comme un échec.
+Il faut toujours vérifier avant tout que le TARV n’a pas été pris ou qu’il a été mal pris. 
+L’échec thérapeutique est définit d’abord virologiquement, puis immunologiquement et 
+enfin cliniquement (Figure 8).
+Face à un échec thérapeutique et en absence d’amélioration après renforcement de 
+l’observance et de l’éducation thérapeutique, la décision doit être prise pour changer 
+le traitement selon le Tableau XII et la Figure 8. 
+
+[Page 55]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Échec virologique :
+Charge virale > 1 000 copies/ml
+Échec immunologique :
+• Enfant < 5 ans : CD4 < 200 cellules/mm3 ou < 10%
+• Enfant > 5 ans : CD4 < 100 cellules/mm3
+Échec clinique :
+Évènement clinique nouveau ou récurrent indiquant
+une immunodépression avancée ou sévère (stade 3 ou 4)
+Figure 8 : Critères de l’échec thérapeutique (OMS 2016)
+Suivi ciblé de la charge virale
+(Suspicion d’échec clinique ou
+immunologique)
+Mesure de la charge virale
+Charge virale > 1 000 copies/ml
+Évaluer les éventuelles diﬃcultés pour
+observer le traitement
+Répéter la mesure de la charge virale
+après 3 à 6 mois
+Charge virale < 1 000
+copies/ml
+Continuer le traitement de
+première intention
+Changer par un traitement
+de deuxième intention
+Charge virale > 1 000
+copies/ml
+Suivi systématique de la charge virale
+(détection précoce d’un échec
+virologique)
+Figure 9 : Conduite à tenir devant un échec thérapeutique (OMS 2017)
+
+[Page 56]
+Tableau XIII : Choix des schémas de 2ème ligne chez l’EVVIH 
+Schémas de 1ère ligne
+Schémas de 2ème ligne
+Schémas de 3ème ligne
+2 INTI + DTG
+2 INTI + (ATV/r1ou LPV/r)
+DRV/r2 + DTG3 + 1à2 
+INTI
+(si possible génotype de
+résistance)
+2 INTI + LPV/r
+2 INTI4 + DTG5
+2 INTI + INNTI
+2 INTI + DTG6
+1. ATV/r peut être utilisé chez l’enfant de plus de 3 mois mais la disponibilité limitée de formes liquides et 
+la nécessite d’ajouter le ritonavir à part doit être prise en compte pour le choix de cette molécule selon 
+la disponibilité nationale. 
+2. Le DRV/r ne doit pas être utilise chez les moins de 3 ans ; la dose recommandée est 600mg/100mg 
+en 2 prises / jour.
+3. DTG en 3ème ligne doit être utilise en double dose.
+4. Apres échec de schéma de 1ère ligne contenant ABC (ou TDF) + XTC, la 2ème ligne comprendra 
+AZT+XTC (forte recommandation, qualité de preuve faible). 
+5. Pour les EVVIH de moins de 15 kg ou de 6 ans, ATV/r ou LPV/r peuvent être utilisés. 
+6. Pour les EVVIH de moins 3 ans, RAL peuvent être utilisé en tenant compte de la faible barrière génétique 
+de ce produit.
+
+[Page 57]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+8. Éducation thérapeutique 
+L’éducation thérapeutique (ETP) est indispensable pour favoriser l’acceptation et 
+l’adhésion au traitement ARV en parfaite connaissance du diagnostic par le parent ou 
+le tuteur et l’enfant (selon son âge). Elle doit être assurée par tout prestataire : clinicien 
+en collaboration avec l’agent de soutien psycho-social ou éducateur, accompagnateur 
+impliqué dans le circuit de soin du patient. 
+• L’éducation pré-thérapeutique doit s’articuler autour des éléments suivants :
+• Expliquer clairement le but du traitement, pourquoi il doit débuter au plus tôt et devra 
+être poursuivi à vie ; 
+• Expliquer les modalités du traitement (médicaments à prendre, posologie, fréquence 
+des prises, comment mesurer les quantités à administrer, voie d’administration, effets 
+secondaires possibles, etc.) ; 
+• Expliquer comment se déroulera le suivi (suivi clinique, mesure de la charge virale, 
+etc.) ; 
+• Expliquer quelles sont les exigences pour l’atteinte des objectifs du traitement ; 
+• Expliquer les conséquences de la mauvaise observance du traitement ; 
+• Discuter avec l’enfant et sa famille des différentes barrières qui pourraient entraver 
+la bonne mise en œuvre du traitement, et comment on peut arriver à vaincre ces 
+obstacles ; 
+• Solliciter l’engagement formel de l’enfant et de sa famille à bien suivre le traitement à 
+vie ; suite à l’engagement de l’enfant et de sa famille, le personnel doit aussi exprimer 
+et montrer sa propre disponibilité à apporter tout le soutien nécessaire au bon suivi 
+du traitement ARV ; 
+• Expliquer les modalités du suivi du TARV, y compris la nécessité de mesurer la CV tous 
+les 6 mois. 
+Le suivi de l’enfant infecté par le VIH doit tenir compte du contexte familial. L’implication 
+du père de l’enfant, est importante en vue d’une prise en charge intégrée de la cellule 
+familiale. Il est nécessaire d’expliquer aux parents/tuteurs le bénéfice de cette implication 
+pour eux, pour l’enfant, pour le reste de la cellule familiale (traitement à vie, facilitation 
+du choix du mode d’alimentation, dépistage et prise en charge du reste de la famille). 
+L’objectif de l’ETP est de rendre l’enfant plus autonome et capable en fonction de son 
+degré de maturité de :
+• Participer à la prise en charge de sa maladie (pharmacovigilance), de ses soins, de 
+la prévention de la transmission ;
+
+[Page 58]
+• Adhérer à son traitement et son suivi par une meilleure compréhension de sa maladie ;
+• Prendre des décisions adaptées pour le maintien de sa santé et l’amélioration de sa 
+qualité de vie.
+Dans toutes les maladies chroniques, l’observance au long cours est un défi auquel 
+les équipes doivent faire face. Des facteurs favorables et défavorables à l’observance 
+peuvent être liés au traitement en lui-même, d’autres à la représentation que le patient/
+ses parents ont de ce traitement ; l’histoire de la maladie et son évolution influent plus 
+ou moins favorablement sur l’observance, de même que la qualité des relations entre 
+la famille et l’équipe de soins. Enfin, la solidité du cadre familial et l’implication des 
+parents, autour de l’enfant, sont d’une importance majeure, en particulier chez les plus 
+jeunes. 
+Encadré 10. Conseils à délivrer aux parents lors de l’initiation du 
+ traitement 
+• Les TARV sont très efficaces chez les enfants et doivent être donnés tous les jours.
+• Ces traitements sont bien tolérés, mais des eﬀets secondaires sont possibles. 
+•En cas de difficultés dans l’administration du traitement : ne pas arrêter le traitement, et 
+prévenir l’équipe soignante.
+• Si votre enfant vous pose des questions sur son traitement ou sa maladie, ne lui mentez pas 
+et parlez-en à l’équipe soignante pour débuter le processus d’annonce.
+•Il est important que l’enfant soit vu en consultation une fois par mois après l’initiation du 
+traitement ARV pendant 3 à 6 mois.
+
+[Page 59]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+9. Annonce de la maladie 
+L’annonce de l’infection VIH à l’enfant est un processus progressif sur 2 à 3 ans à partir 
+de 5ans. Elle se fait sur plusieurs séances en commençant par parler de l’immunité et en 
+se terminant par l’annonce du mot Sida.
+L’annonce fait référence au processus par lequel les enfants apprennent leur statut 
+sérologique (séropositivité au VIH/Sida). Il s’agit d’un processus transversal qui peut 
+intervenir à tout moment dans la cascade de soins, dès que le test de dépistage révèle 
+la séropositivité de l’enfant et jusque pendant la période de traitement. L’âge, le stade 
+de développement et les questions de l’enfant, ainsi que les souhaits émis par le parent 
+déterminent à quel moment il convient d’effectuer une annonce partielle ou complète 
+selon les capacités cognitives de l’enfant. 
+L’OMS recommande d’annoncer aux enfants d’âge scolaire leur séropositivité au VIH 
+en raison des bénéfices pour leur santé. 
+Une approche axée sur le processus d’annonce et adaptée aux aptitudes de l’enfant et 
+au contexte culturel doit être adoptée. 
+
+[Page 60]
+Encadré 11. Conseils à délivrer aux parents lors de l’initiation du 
+ traitement 
+Quand faire l’annonce de la maladie ?
+• L’annonce est singulière, elle doit être adaptée à chaque situation familiale et à chaque 
+enfant en fonction de son niveau de développement et de sa maturité.
+• L’annonce du VIH/Sida s’inscrit dans un dialogue permanent avec l’enfant, qui commence 
+dès le plus jeune âge et se poursuit jusqu’à la fin de l’adolescence. Les informations sur son 
+traitement et sa maladie sont transmises à l’enfant avec des mots simples selon son niveau 
+de compréhension, dès ses premières questions, en consultation médicale ou en séance 
+d’ETP.
+• L’OMS recommande que l’annonce totale, avec le mot « Sida », soit faite avant 12 ans et 
+l’entrée dans la puberté.
+Comment conduire au mieux une consultation d’annonce ? 
+• Choisir un moment calme par rapport à l’histoire de la maladie et par rapport à l’enfant 
+(au cours de vacances scolaires, par exemple).
+• Identifier un endroit adéquat (pas un lieu de passage) et avec suffisamment de temps 
+pour répondre à toutes les questions de l’enfant. 
+• Préparer la consultation avec les parents-tuteurs pour leur permettre de répondre aux 
+questions ou réactions de l’enfant.
+• Utiliser un langage propre à la compréhension de l’enfant en fonction de son âge et du 
+niveau de maturité psychique :
+• Dès ses premières questions (5-6 ans) et jusqu’à l’âge de 10-11 ans, il faut insister, 
+en des termes imagés, sur les défenses immunitaires qu’il faut renforcer pour ne pas 
+tomber malade.
+• A partir de 11-12 ans (entrée dans la puberté), mais parfois plus tôt, l’enfant ressent le 
+besoin de connaître le nom de sa maladie. À ce moment, il est important de répondre 
+à ses questions avec des mots simples concernant la séropositivité, le VIH et le Sida en 
+mettant en avant le bénéfice du TARV pour ne pas tomber malade,
+• A partir de 13 ans environ, il est recommandé de sensibiliser clairement sur les questions 
+de sexualité.
+• Enfin, il faut noter le rôle primordial que jouent les médiateurs thérapeutiques dans 
+ces différentes étapes, ainsi leur intégration dans l’équipe soignante est d’un apport 
+considérable. 
+
+[Page 61]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+10. Prévention de la transmission mère enfant 
+La pTME est l’une des premières priorités de la lutte contre l’épidémie du VIH/Sida. À l’ère 
+des ARV efficaces, la première cause de TME demeure l’ignorance chez la femme, de son 
+infection VIH. En l’absence de prévention, le taux de TME du VIH-1 est de 15-20 %, et 
+jusqu’à 25-45 % en cas d’allaitement alors qu’une stratégie bien menée de prévention 
+réduit à moins de 1 % le risque de transmission. 
+Le Ministère de la Santé a mis en place une feuille de route nationale pour l’eTME du 
+VIH et de la syphilis congénitale dont l’objectif global est de certifier cette élimination 
+en 2023 selon les critères de l’OMS. La feuille de route nationale s’articule autour de 
+5 axes d’intervention :
+1. Prévenir l’infection à VIH chez les femmes en âge de procréer et dépister le VIH 
+et la Syphilis chez les femmes enceintes ;
+2. Prévenir les grossesses non désirées chez les femmes vivant avec le VIH ;
+3. Prévenir la transmission du VIH de la femme enceinte vivant avec le VIH à son 
+enfant ;
+4. Fournir les soins, le traitement et l’accompagnement aux femmes vivant avec le 
+VIH, leurs enfants et leurs familles ;
+5. Assurer le pilotage du plan d’élimination de la transmission mère-enfant du VIH 
+et de la Syphilis congénitale.
+L’efficacité du TARV permet d’espérer l’eTME du VIH, mais il existe encore de fortes 
+disparités dans l’accès et dans l’efficacité des programmes de pTME notamment 
+le dépistage. Le dépistage du VIH chez la femme enceinte doit être proposé 
+systématiquement. Ainsi, le suivi de la femme séropositive enceinte sera coordonné entre 
+le gynécologue, l’infectiologie adulte et le pédiatre dont l’intervention peut démarrer 
+pendant la grossesse. 
+Il faut toujours prescrire à la mère une trithérapie et mettre le nouveau-né sous 
+prophylaxie VIH pendant 4 semaines la prophylaxie doit être démarrée chez 
+le nouveau né dans les 8h suivant l’accouchement. 
+*Au cours de l’accouchement :
+Il faut éviter les examens du col de l’utérus, le travail prolongé et la rupture artificielle 
+des membranes. Les versions, l’épisiotomie, la pose d’électrodes sur scalp, le forceps, 
+les ventouses et la scarification sont contre indiquées. 
+
+[Page 62]
+La césarienne ne sera pas envisagée si la CV à la 36ème semaine d’aménorrhée est 
+indétectable sous TARV. Elle est indiquée s’il existe une cause obstétricale ou si la CV 
+reste détectable sous TARV ou ne peut être réalisée.
+*Après l’accouchement :
+Pour l’enfant : Une prophylaxie ARV sera démarrée selon deux options : 
+• Soit la prophylaxie simple : zidovudine (AZT ou ZDV) seul, le plus tôt possible (dans 
+les 8 heures suivant la naissance) et pour une durée de 4 semaines selon le protocole 
+ci-dessous (tableau XIV).
+• Soit la prophylaxie renforcée à base d’une trithérapie pour 4 semaines, devant un 
+risque élevé de transmission mère enfant dans certaines conditions telles que :
+• La non prise d’ARV lors de la grossesse et/ ou lors de l’accouchement ;
+• La CV > 10 000 copies/ml lors de l’accouchement malgré la thérapie antirétrovirale.
+Cette prévention renforcée sera discutée devant un risque intermédiaire lorsque : 
+Au contrôle du 8ème mois la CV restait détectable et que la césarienne n’a pas été 
+pratiquée ou une CV entre 1000 et 10 000 copies/ ml sous thérapie antirétrovirale. 
+L’annexe 4 résume les différentes situations à risque et la prophylaxie à administrer.
+Tableau XIV : Recommandation de l’OMS concernant le dosage 
+simplifié d’AZT chez le nouveau-né
+Dosage AZT
+ Poids
+10 mg 2x/jour soit 1 ml de sirop 2x/j
+2000 g - 2499 g
+15 mg 2x/jour soit 1,5 ml de sirop 2x/j
+≥ 2500 g
+La séquence des ARV chez le nouveau-né démarrant les ARV après la naissance sont 
+résumés sur le tableau XV et XVI.
+Tableau XV. : Séquence d’ARV chez le nouveau-né après de la naissance
+ Age
+0 - 2 sem →
+2 sem - 3 M →
+3 - 36 M
+Régime préféré
+AZT + 3TC + NVP 
+ABC1 ou AZT + 
+3TC + lop/r2
+ABC ou AZT + 3TC + 
+lop/r
+ Alternative
+AZT + 3TC + NVP
+ABCou AZT + 3TC + 
+lop/r
+1. pendant une durée limitée jusqu’à ce qu’une formulation solide de LPV/r puisse être utilisée. 
+2. Le Lop/r peut être introduit à partir de 3Kg
+
+[Page 63]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Tableau XVI : Dosage des ARV chez l’enfant de moins 
+de 4 semaines selon l’OMS
+ARV
+Sirop (mg/ml)
+2 - 3 kg
+3 - 4 kg
+4 - 5 kg
+AZT
+10 mg/ ml
+1 ml
+1,5 ml
+2 ml
+NVP
+10 mg/ ml
+1,5 ml
+1,5 ml
+2 ml
+3 ml
+3TC
+10 mg/ ml
+0,5 ml
+0,5 ml
+1 ml
+LPV/ra
+80/20 mg/ml
+0,6 ml
+0,8 ml
+1 ml
+LPV/r est contre-indiqué pour le moins de 2 semaines et la forme granule n’est pas à utiliser avant l’âge de 4 mois. 
+Le LPV/r en forme de paillette peut être administré à partir de 3 kg.
+ARV : Antirétroviraux, AZT : Zidovudine ; NVP : Névirapine ; 3 TC : Lamivudine ; LPV/r : Lopinavir/ritonavir 
+*Suivi du nouveau-né exposé au VIH 
+La surveillance clinique et biologique du nouveau-né comportera la CV à J 15, M2, 
+M3, M6, ainsi qu’un hémogramme à J15 et J30, 
+La sérologie VIH ou le TROD peut être pratiqué dès le 9ème mois. Si le TROD est positif 
+au 9ème mois, il faut compléter par une CV à M9.
+Deux CV indétectables éliminent le diagnostic du VIH, et la sérologie VIH négative à 18 
+mois exclut le diagnostic du VIH. 
+L’allaitement au sein est contre-indiqué au Maroc. Il faut prescrire à la mère l’allaitement 
+artificiel exclusif.
+Le Cotrimoxazole sera démarré entre la 4ème et la 6ème semaine à dose prophylactique à 
+raison d’une demi c à m/j jusqu’à la confirmation de la non contamination.
+
+[Page 64]
+Encadré 12. PTME et suivi chez le nouveau-né exposé au VIH
+• La pTME doit être démarrée dans les 8h suivant l’accouchement 
+• La pTME peut être simple ou renforcée selon l’indication
+• La durée de la pTME est de 4 semaines
+• Après 72h de vie, il n’y a plus de place à la prophylaxie.
+• Un suivi par la CV doit être instauré à J15, M2, M3 et M6
+• L’allaitement maternel est contre-indiqué
+• La cotrimoxazole à dose prophylactique doit être démarrée entre la 4ème et la6ème 
+semaine. 
+• Le BCG ne sera pas administré au nouveau-né jusqu’à preuve de non contamination par le 
+VIH. 
+• Il est souhaitable de pratiquer la vaccination contre l’hépatite virale B dans les 72heures 
+après la naissance pour réduire le risque d’une éventuelle transmission verticale du virus de 
+l’hépatite B. 
+La Figure 10 et 11 résument respectivement la démarche de la prophylaxie et du 
+diagnostic de nouveau-né de mère VIH positive.
+Femme admise pour accouchement
+Femme connue VIH+ sous TARV
+Prophylaxie pour le NN
+Counseling et test de dépistage VIH
+Test VIH Positif
+Test VIH Négatif
+Counseling
+post test
+Femme dont le statut VIH est inconnu
+Counseling post test
+Prophylaxie ARV 
+renforcée pour le NN et 
+TARV pour la mère
+ Prise en charge obstétricale conventionnelles 
+des suites des couches de la mère et du NN 
+ Préparation à la sortie
+et référence
+ 
+Figure 10 : Demarche de prophylaxie ARV en salle d’accouchement
+
+[Page 65]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+NN exposé à l’infection VIH
+ (Les 4 premieres semaine de vie) 
+ 
+NN exposé à l’infection VIH
+ (4 semaines - 18 mois) 
+PCR VIH
+PCR (4 - 6 semaines)
+Négative 
+Positive
+Négative
+PCR disponible
+PCR non disponible 
+Enfant infecté 
+ Commencer immédiatement TARV 
+Refaire PCR pour conﬁrmer l’infection 
+ Surveillance clinique régulière
+ 
+1. PCR faite avant 1 mois de vie est à recontroler si elle est negative.
+Figure 11 : Stratégie de diagnostic de l’infection VIH chez nouveau-né exposé
+ (moins de 18 mois) 
+
+[Page 66]
+L’essentiel à retenir 
+1. Toute femme enceinte doit se voir proposer un dépistage de l’infection à VIH dès la 
+1ère consultation prénatale ;
+2. Pour faciliter l’acceptation du dépistage du VIH par la femme enceinte, il est 
+fondamental d’insister sur l’intérêt du test pour la santé de l’enfant (intérêt du 
+counseling pré-test) ;
+3. Lors du dépistage par TROD, le résultat du test doit être donné le jour même de sa 
+réalisation. (intérêt du counseling post-test) ;
+4. Le dépistage doit être rattrapé et réalisé en salle d’accouchement si l’on ne dispose 
+pas d’un test récent fiable ou si une femme dépistée négative en début de grossesse 
+présente des facteurs de risque d’infection ; 
+5. Toutes les femmes enceintes infectées par le VIH doivent recevoir un TARV, le plutot 
+possible dès que le TROD est revenu positif et sans attendre la confirmation du 
+diagnostic, le but est de rendre sa CV indétectable. La CV est un élément décisif 
+conditionnant la TME. Ce TARV chez la mère sera maintenu à vie ;
+6. Le TARV de choix pour la pTME pendant la grossesse est une trithérapie, choisie en 
+fonction des recommandations nationales ; 
+7. Une césarienne doit être programmée à 38 semaines d’aménorrhée si la CV de 
+la femme est supérieure à 400 copies/ml en fin de grossesse ou inconnue ou si 
+la femme enceinte n’a reçu aucun traitement ARV préventif durant la grossesse ou 
+indication obstétricale ; 
+8. Le diagnostic précoce de l’infection à VIH chez l’enfant né de mère séropositive (par 
+PCR) est essentiel pour pouvoir mettre en place rapidement un TARV ; 
+9. Tous les enfants nés de mère séropositive doivent bénéficier d’une prophylaxie des 
+IO par cotrimoxazole et avoir un suivi regulier comprenant une PCR VIH.
+
+[Page 67]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+11. Vaccination de l’enfant vivant avec le VIH 
+Règle générale  
+• Chez les nourrissons infectés par le VIH, il convient en principe de procéder aux 
+vaccinations dès que l’âge recommandé est atteint ; 
+• La plupart d’entre eux ont une bonne réponse immunitaire pendant la première 
+année de vie. 
+Règles particulières  
+• A l’exception des stades avancés du VIH, tous les enfants infectés par le VIH doivent 
+être vaccinés contre la rougeole dès l’âge de 6 mois, puis recevoir un rappel à l’âge 
+de 9 mois ; 
+• Les vaccins vivants autres que celui contre la rougeole (dont celui contre la fièvre 
+jaune) sont contre-indiqués en cas de déficit immunitaire très sévère (CD4 < 10%). 
+En revanche, ils peuvent et doivent être pratiqués après amélioration de l’état 
+immunitaire sous TARV ; 
+• Les vaccinations contre les infections à pneumocoque et à Haemophilus influenzae 
+sont fortement recommandées. 
+En cas d’infection à VIH confirmée ou fortement suspectée, il est déconseillé 
+d’administrer le BCG.
+Le calendrier vaccinal des EVVIH diffère légèrement de celui des enfants non infectés 
+(Tableau XVII). Dans les pays à ressources limitées, les adaptations suivantes sont 
+préconisées :
+• Vaccination contre la rougeole à 6 et 9 mois ; 
+• Contre-indication des vaccins vivants (fièvre jaune, rougeole, BCG...) en cas d’immu- 
+nodéficience majeure (CD4 < 10 %). 
+Le calendrier vaccinal doit être respecté et le contrôle de la CV ainsi que le taux de CD4 
+permettent une meilleure sécurité vaccinale et réponse immunologique. 
+
+[Page 68]
+Tableau XVII : Indication des vaccins chez les enfants vivant avec le VIH.
+Vaccins 
+contre-indiqués
+Vaccins 
+spécifiquement 
+recommandés
+Vaccins
+recommandés 
+en population 
+générale
+Commentaires
+Patients 
+infectés 
+par le 
+VIH
+- BCG 
+- Fièvre jaune1, 2
+- ROR1
+- Varicelle 1
+- Grippe saisonnière 
+- Hépatite A2 
+- Hépatite B3
+- Pneumocoque (4 
+injections)
+- Diphtérie, 
+ Tétanos, Polio et - 
+Coqueluche
+- Haemophilus 
+ influenzae type b 
+- Papillomavirus
+Pour les patients 
+ayant démarré le 
+TARV, attendre le 
+contrôle de la CV 
+rendue si possible 
+indétectable, pour 
+vacciner (meilleure 
+immunogénicité)
+1- Envisageable si lymphocytes CD4 > 25 % (nourrissons < 12 mois), CD4 > 20 % (nourrissons entre 12 et 35 
+mois), > 15 % (enfant entre 36 et 59 mois) ou CD4 > 200/mm3 (enfants âgés de plus de 5 ans et adultes) 
+ET si infection non symptomatique. 
+2- Pour les patients non immuns. 
+3- Recommandé pour tous les patients (enfants et adultes) n’ayant aucun marqueur sérologique du VHB avec 
+contrôle des Ac anti-HBs au moins 1 à 2 mois après la dernière injection puis chaque année. Injection de 
+rappel si les Ac anti-HBs sont inférieurs à 10mUI/ml.
+
+[Page 69]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+12. Passage à la prise en charge dans les services referents 
+pour adultes à l’adolescence
+La prise en charge des adolescents doit tenir compte de leurs besoins, en s’adaptant 
+autant que possible aux horaires et impératifs des calendriers scolaires, en proposant 
+un accès aux soins de santé sexuelle dans une approche bienveillante et avec l’accès à 
+une dispensation facilitée des ARV.
+La transition de la prise en charge pédiatrique à la prise en charge adulte du VIH, 
+est un processus que tout adolescent porteur de maladie chronique ainsi que sa 
+famille doit traverser, et auquel les services de pédiatrie et de médecine adulte doivent 
+s’adapter pour limiter, à cet âge de forte vulnérabilité psychique, les risques de rupture 
+de traitement et de suivi avec risques d’aggravation de la maladie engendrés par la 
+discontinuité.
+Cette modifcation profonde de la prise en charge doit être anticipée, préparée et 
+accompagnée, tant sur un plan organisationnel, par la mise en place d’un dispositif de 
+transition avec une ou plusieurs consultation(s) de transition précédant le transfert, que 
+sur un plan individuel.
+La préparation consiste d’abord en l’appui au développement de l’autonomie (globale, 
+sociale et en santé) : connaître sa maladie, son traitement et les moyens de se le procurer, 
+savoir solliciter les services adéquats en cas d’urgence ou encore savoir prendre des 
+rendez-vous et les respecter.
+C’est ensuite un dialogue sur le sens, la nécessité et le choix du moment propice pour 
+cette transition de prise en charge.
+Les modalités d’organisation peuvent être multiples :
+• Consultation de médecin d’adulte en pédiatrie, seul ou en binôme avec le pédiatre ;
+• Consultation dédiée aux adolescents un jour donné au sein d’un service de médecine 
+adulte.
+La prise en charge ultérieure en service adulte doit s’appuyer sur des référents stables, 
+disponibles, formés aux spécifcités de l’adolescent et disposant d’une transmission 
+des informations utiles par écrit ou au moyen de staffs communs. Elle ne doit pas négliger 
+la nécessité d’accompagnement psychologique au long cours.
+
+[Page 70]
+13. Prise en charge des accidents d’exposition au sang
+Les objectifs de la stratégie nationale de prise en charge de l’accident d’exposition 
+sexuelle et sanguine sont les suivants : 
+• Faciliter l’évaluation des risques infectieux et l’indication de la prophylaxie postexposition ; 
+• Augmenter la rapidité de prise de décision ;
+• Uniformiser et faciliter la prise en charge par les intervenants de première ligne ; 
+• Répondre aux inquiétudes des parents ;
+• Assurer un suivi efficace en externe. 
+La prise en charge de l’enfant exposé au sang ou victime de violence sexuelle est basée 
+sur:
+* Les premiers soins 
+En cas d’exposition à des liquides biologiques, il faut donner les premiers soins 
+recommandés le plus rapidement possible à la personne exposée afin de restreindre 
+son temps de contact avec les liquides biologiques, ce qui permettra peut-être de réduire 
+le risque de transmission d’une infection : 
+• Ne pas faire saigner la plaie ; 
+• Nettoyer la plaie avec de l’eau et du savon ; 
+• Éviter de brosser et d’utiliser une solution corrosive ou irritante (contenant de l’eau 
+de Javel ou de l’alcool). 
+* L’arrivée aux urgences 
+Lors de l’arrivée aux urgences (ou l’unité de lutte contre la violoene si violence sexuelle), 
+l’enfant exposé accidentellement à des liquides biologiques doit être confronté à une 
+évaluation médicale de façon prioritaire. Les aspects à évaluer par le médecin sont : 
+• La pertinence d’administrer une prophylaxie ARV contre le VIH (idéalement, dans les 
+deux heures suivant l’événement). Il n’y a pas d’indication de prescrire la thérapie 
+ARV plus de 72 heures après l’exposition ; 
+• La pertinence d’administrer un vaccin et des immunoglobulines hyperimmunes 
+contre l’hépatite B (HBIg) ; la prophylaxie contre l’hépatite B devrait quant à elle 
+commencer le plus rapidement possible après le contact, de préférence dans les 48 
+heures mais le délai peut aller jusqu’à 7 jours en cas d’exposition percutanée ; 
+
+[Page 71]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+• La pertinence de prescrire une antibioprophylaxie dans les cas de signes de 
+surinfections cutanées de plaie suite à une morsure humaine. 
+*La Prophylaxie Post-Exposition (PPE) 
+Les recommandations de la PPE anti-VIH et anti-VHB sont résumées en annexe 5.
+La prophylaxie ARV recommandée est une trithérapie. L’indication de la PPE anti-VIH en 
+fonction des types d’expositions et le choix des molécules (dépend de la capacité de 
+l’enfant à avaler ou non des comprimés). 
+Le médecin devrait discuter de plusieurs aspects de la PPE anti-VIH avec la personne 
+exposée et la famille : 
+• L’efficacité d’une telle PPE ;
+• Les effets secondaires ;
+• L’adhérence pendant les 28 jours de traitement. 
+
+[Page 72]
+14. La douleur chez l’enfant infecté par le VIH 
+La douleur est ressentie par l’enfant dès le deuxième trimestre de la vie intra-utérine. 
+Le nouveau-né ressent donc les stimuli douloureux, avec une intensité probablement 
+plus forte que l’enfant ou l’adulte, car le système inhibiteur, qui est l’équivalent de 
+rétrocontrôle autonome de la douleur, n’est pas encore mature. 
+Des études ont montré que des stimuli douloureux ressentis précocement entraînaient 
+une sensibilisation à la douleur. Ainsi, les enfants qui ont ressenti des douleurs dans les 
+premières semaines ou mois de vie seront plus sensibles à la douleur ultérieurement à 
+l’âge adulte. 
+Il est donc important de prendre en compte la douleur chez l’enfant atteint de maladie 
+chronique, qu’elle soit induite par la maladie ou par les soins. Il faut l’évaluer, la traiter, 
+vérifier que le traitement est efficace et bien toléré et, si possible, la prévenir. 
+Les douleurs sont fréquentes et d’étiologies multiples chez les enfants infectés par le 
+VIH : infections bactériennes (méningites, pleuro-pneumopathies, infections cutanées, 
+buccales...), encéphalites, douleurs viscérales (pancréatite, œsophagites), douleurs 
+diffuses dans les formes avancées de Sida avec dénutrition. 
+À ces douleurs liées aux complications, il faut ajouter les douleurs liées aux effets 
+secondaires des médicaments (céphalées, neuropathies, douleurs abdominales) et les 
+douleurs liées aux soins (ponctions, pansements...). 
+En pratique clinique, la douleur est rarement recherchée, mal évaluée et finalement, 
+insuffisamment prise en compte. Pourtant, avec quelques principes et des antalgiques 
+souvent simples, il est possible de diminuer les douleurs, en particulier celles qui sont 
+liées aux soins. 
+
+[Page 73]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Le tableau XVIII résume les recommandations de l’OMS pour la prise en charge des 
+douleurs de l’enfant malade. 
+Tableau XVIII : Caractéristiques de la douleur chez l’enfant malade
+Type de 
+douleur
+Origine du 
+stimulus
+Localisation
+Caractéristique
+Irradiation/ 
+dysfonctionnement 
+sensoriel
+Exemples
+Douleur 
+nociceptive 
+somatique 
+superficielle
+Déclenchée 
+par les 
+nocicepteurs 
+de la 
+peau, des 
+muqueuses 
+(bouche, 
+nez, anus, 
+urétre...)
+Bien localisée
+Généralement 
+forte, peut 
+avoir une 
+composante de 
+brûlure ou de 
+piqûre
+Aucune
+abcés, cicatrice 
+post-opératoire, 
+traumatisme ou 
+brûlure superficielle
+Douleur 
+nociceptive 
+somatique 
+profonde
+Déclenchée 
+par les 
+nocicepteurs 
+des os, des 
+articulations, 
+des muscles 
+et du tissu 
+conjonctif
+En général 
+bien 
+localisée, 
+avec une 
+sensibilité
+à la palpation
+Généralement 
+forte, 
+habituellement 
+sourde ou 
+lancinante
+Parfois. irradiation 
+douloureuse vers la 
+peau en regard de 
+la lésion, mais pas 
+de trouble sensoriel
+Fracture, crampe, 
+crise osseuse 
+drépanocylaire
+Douleur 
+nociceptive 
+viscérale
+Déclenchée 
+par les 
+nocicepteurs 
+des organes 
+internes 
+(foie, 
+pancréas, 
+plévre, 
+péritoine...)
+Localisation 
+vague, 
+douleur 
+diffuse, La 
+palpation 
+de la zone 
+douloureuse 
+peut majorer 
+la douleur
+Souvent vague, 
+sourde à type 
+de crampe, 
+spasmes, 
+colique, douleur 
+profonde, 
+Souvent 
+associée à des 
+nausées, des 
+vomissements 
+et des sueurs 
+profuses
+Parfois, irradiation 
+cutanée dans la 
+zone innervée 
+par les mêmes 
+racines sensitives. 
+Irradiation viscérale 
+possible (sans 
+support nerveux 
+anatomique).
+pas de trouble 
+sensoriel
+œsophagite, 
+pleuropneumopathie 
+bactérienne ou 
+tuberculeuse, 
+métastase
+Douleur 
+neuropathique
+Siège 
+variable.
+La douleur 
+peut être 
+spntanée ou 
+déclenchée 
+par un 
+stimulus
+Douleur 
+diffuse, de 
+localisation 
+difficile, mais 
+selon une 
+topographie 
+nerveuse 
+(territoire 
+sensitif ou 
+moteur)
+Difficile à 
+décrire, les mots 
+variant selon les 
+patient: brûlure, 
+picotement, 
+piqûre, continue 
+ou sous forme 
+de décharge
+Perçue sur 
+le territoire 
+d’innervation du 
+nerf endommagé. 
+Il peut y’avoir 
+un rayonnement 
+anormal.
+La douleur est 
+associée à un 
+dysfonctionnement 
+sensoriel (dysesthésies hypoesthésie, 
+hyperesthésie et 
+l’allodyniel
+Lésion de la 
+moelle due à un 
+traumatisme ou une 
+tumeur. Neuropathie 
+périphérique liée au 
+VIH ou aux ARV
+
+[Page 74]
+15. Suivi et évaluation des activités de prise en charge de 
+ l’EVVIH
+Au Ministère de la Santé, le PNLS gère la prise en charge de l’infection VIH chez 
+l’enfant au niveau central.
+En collaboration avec la SOMIPEV et d’autres d’experts nationaux membres du comité 
+technique, le PNLS veille à l’élaboration des directives nationales pour la prise en 
+charge des EVVIH, le suivi et à l’évaluation des questions liées au VIH de l’enfant, 
+ainsi qu’au développement de plans nationaux spécifiques de formation continue en 
+collaboration avec toutes les parties prenantes.
+16.1. Système de notifications 
+La notification des cas d’EVVIH et le suivi des activités de prise en charge est d’une 
+importance capitale pour :
+• L’amélioration de la surveillance épidémiologique et de la veille sanitaire ;
+• La mesure de l’impact des interventions ;
+• La planification et l’organisation de l’offre de soin de pédiatrie ;
+• L’identification des besoins en médicaments et en moyens de dépistage et de 
+diagnostic.
+• La détermination des ressources humaines et financières nécessaires.
+En conséquence, tous les cas des infections VIH diagnostiqués chez un enfant ou un 
+adolescent (qu’il ait ou non commencé son traitement) doit être notifiée au PNLS. Les 
+registres de suivi des EVVIH au niveau des CR doivent mentionner les activités du suivi 
+virologique sous traitement notamment dans le cadre de la pTME. Les donées de suivi 
+de la prise en charge des EVVIH doivent en outre être intégrés dans les analyses de 
+cohortes et les rapports périodiques. 
+Il est important de tenir à jour les dossiers médicaux des EVVIH en veillant à y consigner 
+les informations utiles d’ordre clinique, paraclinique et thérapeutique. Le dossier médical 
+informatisé Nadis, mis en place dans tous les CR de prise en charge du VIH par le PNLS 
+aidera à améliorer les notifications et le suivi des PVVIH.
+16.2. Suivi et évaluation de la prise en charge des EVVIH
+Les enfants présentant une infection VIH sont pris en charge dans le cadre d’un réseau 
+coordonné de soins qui intègre plusieurs niveaux d’intervention notamment :
+• Les nouveaux centres relais de prise en charge des PVVIH (en cours de création);
+
+[Page 75]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+• Les CR régionaux et provinciaux à travers les services de pédiatrie et d’infectiologie ;
+• Les ESSP qui offrent les prestations de soins maternels et infantiles et les activités de 
+prévention et de dépistage du VIH à un niveau de proximité ;
+• Un réseau spécifique de laboratoires hospitaliers, coordonné par l’INH, qui assurent 
+les activités de diagnostic de l’infection à VIH chez l’enfant et l’adolescent.
+Les données de la prise en charge remontent selon un circuit codifiéà partir des CR via 
+le service du réseau des établissements de soin (à la délégation provinciale), puis vers 
+le service de santé publique affilié à la direction régionale de la santé et enfin vers le 
+PNLS (DELM). 
+Les supports d’information du PNLS sont représentés sur l’annexe 6. Ils comportent :
+• La fiche de notification d’un cas d’infection à VIH chez l’enfant ;
+• La fiche de liaison pour les CR de prise en charge ;
+• Le registre du suivi des EVVIH ;
+• Les rapports des CR pédiatriques ;
+• Les supports d’information pour la pTME : registre de la parturiante. 
+16.3. Indicateurs de performance
+Les principaux indicateurs de la prise en charge du VIH notamment pour les enfants sont 
+représentés sur le tableau XIX.
+Ces indicateurs sont collectés au prés des CR et des ESSP et sont renseignés 
+semestriellement.
+Tableaux XIX : Indicateurs de suivi de la prise en charge du VIH
+ Indicateurs
+ Valeur
+de base
+Cibles par année
+2021
+2023
+Nombre de PVVIH Enfants
+821
+910
+ Pourcentage des PVVIH adultes et
+enfants recevant un traitement ARV
+70%
+75%
+80%
+82%
+85%
+ Nombre d’établissement en mesure de
+fournir des soins et la prescription des ARV
+25
+35
+ Couverture des femmes enceintes par
+le dépistage du VIH
+<30%
+≥60%
+≥80%
+≥95%
+≥95%
+Couverture des femmes enceintes les ARV 73%
+85%
+>90%
+>90%
+>90%
+ Nombre des femmes enceintes à
+mettre sous ARV
+290
+310
+[Page 76]
+Conclsuion 
+La prise en charge de l’enfant infecté a connu de nombreux points forts dans les 
+précédentes décénnies avec l’extension de l’offre de prise en charge et les capacité 
+des laboratoires à assurer le suivi virologique de l’infection, cependant certains défis 
+restent à relever :
+• le premier est celui du dépistage. La réalisation de la première PCR ADN à six 
+semaines risque d’être une «opportunités manquées», largement décrite. 
+• La galénique des traitements ARV pédiatriques : Les formes combinées largement 
+développées pour l’adulte ne le sont que rarement pour l’enfant, et jamais en 
+formulation buvable. Le nombre d’enfants infectés a drastiquement baissé dans les 
+pays industrialisés ; la progression des connaissances doit se faire désormais dans 
+les pays à forte endémie, ce qui n’est pas sans poser de problème éthique lorsque la 
+molécule testée n’est pas disponible après la période d’essai dans le pays. 
+• Un autre défi est de maintenir le traitement sur le long terme chez les enfants qui, grâce 
+à lui, restent heureusement asymptomatiques. La facilité de prise du médicament avec 
+une galénique adaptée à l’âge n’est pas le seul paramètre à considérer, 
+• L’allègement des modalités de délivrance et de suivi, mais aussi les facteurs familiosociaux et psychologiques impliqués dans l’observance, doivent continuer à être 
+étudiés dans un contexte très différent de celui qui prévalait dans les années 1990. 
+Comme chez l’adulte, des stratégies d’allégement thérapeutique sont à l’étude. Outre 
+les questions de coût, on en espère une plus grande facilité de prise et une meilleure 
+tolérance. 
+L’adolescent infecté par le VIH en période périnatale, représente sans doute le groupe 
+le plus vulnérable. Le défi est ici immense, tant les turbulences de l’adolescence, le 
+questionnement sur la personnalité de l’enfant, son avenir, son lien avec ses parents et 
+sur sa sexualité se mêlent particulièrement mal à cette pathologie chronique qui impose 
+une grande discipline thérapeutique. 
+Le dernier défi pour le pédiatre est celui de l’organisation d’une transition réussie en 
+médecine adulte. Chaque fois que l’institution le permet, tenir compte de la maturité 
+du jeune, le confier à un interlocuteur unique, motivé et expérimenté, lui proposer 
+un accueil différencié de celui des adultes, apparaissent comme les conditions d’un 
+transfert apaisé. 
+Le devenir à très long terme des jeunes porteurs du VIH depuis la naissance doit enfin 
+être évalué en collaboration avec la médecine adulte.
+
+[Page 77]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Au Maroc, la prise en charge des EVVIH a connu de grands progrés. Fort est de 
+constater qu’avec l’accroissement de la file actives des EVVIH, le besoin de renforcer 
+cette prise en charge et l’étendre à d’autres structures de prise en charge demeure 
+primordial pour accélérer l’atteinte de l’objectif d’élimination du VIH/Sida dans notre 
+pays d’ici 2030.
+Encadré 13 : Dix défis en pédiatrie 
+• Atteindre un dépistage exhaustif des femmes enceintes 
+• Assurer la pharmacovigilance pour les traitements administrés durant la grossesse
+• Optimiser la procédure de diagnostic précoce du nouveau-né infecté
+• Obtenir des galéniques pédiatriques d’associations d’ARV et accélérer leur AMM
+• Accélérer la mise à disposition des formes injectables permettant une Direct Observed 
+Therapy (DOT) pour l’enfant et l’adolescent
+• Évaluer les stratégies d’allégement thérapeutique
+• Détecter, comprendre, accompagner les troubles du comportement des grands enfants et 
+adolescents
+• Faciliter la transition en secteur adulte
+• Évaluer le devenir à très long terme après une infection en période périnatale ; détecter, 
+comprendre et prévenir, comme chez l’adulte, un éventuel processus de «vieillissement 
+précoce». 
+• Aider au partage d’expérience.
+
+[Page 78]
+Bibliographie 
+1. Tables de posologies des antirétroviraux pédiatriques 3ème édition, 2016
+2. www.grandir.Sidaction.org
+3. Vaccinations des personnes immunodéprimées ou aspléniques, recommandations. 
+Haut Conseil de la santé publique, 2012.
+4. Révision des directives nationales en matière de prévention et traitement par les 
+antirétroviraux. Février 2019.
+5. VIH-Hépatites virales-Santé sexuelle. Sous la direction de Christine Katlama, Jade 
+Ghosn, Gilles Wandeler. EDP Sciences, 2020.
+6. Guide Grandir http://www.grandir.Sidaction.org/wp-content/uploads/2014/07/
+Guide-Grandir-PEC-Infection VIH-enfants-et-adolescents Edition-2_2013.pd.
+7. Guide national de prise en charge de la tuberculose chez l’enfant et l’adolescent au 
+Maroc. Edition 2020.
+8. Updated recommendations on first-line and second-line antiretroviral regimens and 
+post-exposure prophylaxis and recommendations on early infant diagnosis of HIV. 
+WHO 2018.
+9. Documents et brochures et E-formation produits par la SOMIPEV.
+ Site : www.somipev.ma
+10. Guidelines OMS 2020 pour la prise en charge de l’EVVIH. Site : www.who.int
+11. Plan Stratégique National de Lutte contre le VIH-Sida 2023.
+12. Feuille de route nationale pour l’eTME.
+
+[Page 79]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Annexe 1 : Organisation du Programme National de Lutte contre 
+ le Sida 
+Ministère de la Santé
+Institut National 
+d’Hygiène Laboratoires 
+National de Référence
+Directions Régionales 
+et de Délégations de 
+Santé
+• Service de Santé 
+Publique 
+• SRES
+• Laboratoires 
+Régionaux et 
+provinciaux 
+• Centres Référents de 
+prise en charge du VIH
+Centres Hospitaliers
+Universitaires
+Centres Référents 
+Universitaires de prise 
+en charge du VIH
+Et Laboratoires
+Autres Institutions
+ONG
+Autres secteurs
+Partenaires
+internationaux
+ Direction de l’Epidémiologie et de
+Lutte
+contre les Maladies
+ Division des maladies
+ transmissibles
+Service IST/sida
+Programme National de Lutte
+contre le sida
+Comité de Coordination
+du Maroc (CCM)
+ 
+
+[Page 80]
+Annexe 2 : Centres référents de Prise en charge du VIH et contacts 
+ des médecins responsables
+Centre
+référent
+Ville
+ Adulte /
+Enfant
+Nom & Prénom
+E-mail
+ Tél du Médecin
+référent
+CHU RABAT- SALÉ / HÔPITAL MILITAIRE MOHAMMED V
+CHU Ibn 
+Sina Rabat
+Service 
+Médecine A
+Rabat
+Adulte
+Pr. MAAMAR
+MOUNA
+maamarmouna@
+yahoo.fr
+06 61 19 01 13
+Rabat
+Adulte
+Pr. KHIBRI HAJAR 
+hajar.khibri@gmail.
+com
+06 62 11 33 51
+Rabat
+Adulte
+Pr. BENKHLIFA 
+MINA
+mina.ben.inf.91@
+gmail.com
+06 13 16 39 99
+Rabat
+Adulte
+Pr. BENSER 
+FATIMA EZZAHRA
+benserfatimaezzahra@gmail.com
+06 61 51 71 52
+Rabat
+Adulte
+Pr. HICHAM 
+HARMOUCHE
+hharmouche@
+yahoo.fr 
+06 61 44 41 15
+Rabat
+Adulte
+Pr. ALLAMI LATIFA
+latifaallami2@
+gmail.com
+06 61 55 40 86
+Hôpital 
+d’Enfants 
+CHU Ibn 
+Sina Rabat
+Rabat
+Pédiatrie
+Pr. BENCHEKROUNSOUMIA
+benchekroun.soumia@gmail.com
+06 61 24 41 97
+Hôpital 
+Militaire 
+Med V - 
+RABAT
+Rabat
+Adulte
+Pr. ENNIBI Khalid
+kennibi@yahoo.fr 
+06 61 39 06 61
+Rabat
+Adulte
+Pr. HJIRA Naoufal
+nhjira89@gmail.
+com 
+06 65 38 34 14
+Rabat
+Pédiatrie
+Pr. ABILKASSEM 
+RACHID
+abilkassemrachid@
+yahoo.fr 
+06 71 26 99 86
+Rabat
+Adulte
+Pr. REGGAD
+Ahmed
+ahmed.reggad@
+hotmail.fr
+067 19 41 4 61
+
+[Page 81]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+CHU IBN ROCHD- CASABLANCA
+CHR MY YOUSSEF
+CHU 
+Ibn Rochd
+Sce des 
+Maladies 
+Infectieuses
+Casablanca
+Adulte
+Pr. KAMAL 
+MARHOUM
+mefkamal@hotmail.com
+06.64.00.31.75
+Casablanca
+Adulte
+Pr. Chakib
+Abdelfatah
+afchakib@gmail.
+com
+---
+Casablanca
+Adulte
+Pr. MARIH 
+LATIFA 
+marihlatifa@hotmail.com
+06.61.43.80.45
+Casablanca
+Adulte
+Pr. SODQI
+MUSTAPHA 
+sodqim@gmail.
+com
+06.62.62.60.75
+Casablanca
+Adulte
+Dr BENSGHIR 
+RAJAE
+rajaabensghir@
+yahoo.fr
+06.61.08.56.46
+Hôpital 
+d’Enfants 
+Abderrahim 
+HarouchI
+Casablanca
+Pédiatrie
+Pr. ADNANE 
+FATIMA
+fatima_ped@
+yahoo.fr
+06.61.25.73.52
+CHR MY 
+Youssef
+Sce des 
+Maladies 
+Infectieuses
+Casa- Anfa
+Adulte
+Dr HANANE 
+BOUDAD 
+hananboudad@
+gmail.com
+hananboudad@
+yahoo.fr
+06.76.05.80.28
+06.60.12.14.76
+
+[Page 82]
+CHU MOHAMMED VI/ HÔPITAL IBN ZOHR - MARRAKECH
+Hôpital Ibn 
+Zohr Sce des 
+Maladies 
+Infectieuses
+Marrakech
+ Adulte /
+Enfant
+Dr AAJLY 
+LAHCEN
+aajlylahcen@
+yahoo.fr
+06 72 60 98 89 
+Marrakech
+Adulte
+Dr EL FAJALI 
+NOURA
+nouraelfajali@
+yahoo.fr 
+06 61 97 25 80
+ CHU
+ Mohammed
+VI
+ Hôpital
+Ar- Razi
+Marrakech
+Adulte
+Pr. IHBIBANE 
+FATIMA
+fatimaihbibane@
+hotmail.fr
+06 68 16 43 44
+Marrakech
+Adulte
+Pr. TASSI 
+NOURA
+n.tassi@yahoo.fr
+06 61 46 98 14
+Hôpital 
+Militaire 
+Avicenne
+Marrkech
+Marrakech
+Adulte
+Dr RAITEB
+MOHAMMED
+mhmdrtb2@gmail.
+com
+06 63 25 20 75
+ Hôpital
+Mère-Enfant
+Marrakech
+Pédiatrie
+Pr Mohamed 
+BOUSKRAOUI
+bouskraoui@yahoo.
+fr
+06 70 09 91 14
+Marrakech
+Pédiatrie
+Pr. RADA 
+NOUREDDINE 
+rada_nour@hotmail.com
+06 66 40 66 18
+CHU/CHR - AGADIR 
+CHR Hassan 
+II- Agadir
+ Agadir
+Adulte
+Dr MALMOUSSI 
+MOURAD
+malmoussi.mourad@gmail.com
+06 63 42 91 66
+ Agadir
+Adulte
+Dr OUAGARI ZINEB
+zannoubasmi@
+gmail.com 
+06 60 08 15 47
+ Agadir
+Pédiatrie
+Dr FADAL AWATEF
+fadal.awatif@hotmail.com
+06 66 94 56 55
+CHU Agadir
+ Agadir
+Adulte
+Pr. EL FANE Mouna
+--
+--
+Agadir
+Pédiatrie
+Pr. Khalila Nainia
+khalila.nainia@
+gmail.com
+--
+CHU HASSAN II- FÈS
+CHU- Fès
+Fès
+Pédiatrie
+Pr. HMAMI FOUZIA
+fouzia.hmami@
+usmba.ac.ma
+06 68 35 17 30
+ Service de
+ Médecine
+Interne
+CHU
+HASSAN II
+Fès
+Adulte
+Pr. SAMIRA RABHI
+rabhisamira@gmail.
+com
+06 61 46 60 01
+
+[Page 83]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+HÔPITAL MOHAMMED V- MEKNÈS
+Hôpital Mohammed V- 
+Meknès
+Meknès
+Pédiatrie
+Dr LAAROUSSI
+ Najib
+n.laroussi358@
+gmail.com
+Meknès
+Adulte
+Dr ZARIF ASSIA
+zarifassia@
+yahoo.fr
+06 61 49 73 29
+CHU/CHR - TANGER
+Hôpital 
+Duc de Tovar
+Tanger
+Tanger
+Adulte
+Dr BADAOUI 
+LATIFA
+medecinbadaoui@gmail.
+com 
+06 68 40 42 17 
+Tanger
+Adulte
+Dr BELAHCHICHE 
+Aîcha
+belahchich@hotmail.fr
+06 61 06 85 36
+ CHU
+Tanger
+Tanger
+Adulte
+Pr. MYRIEM 
+BOURKIA
+myrabou@hotmail.com
+06 62 25 81 81
+Tanger
+Pédiatrie
+Pr. YOUSRA
+BOUSSADANI
+yousra.
+elboussaadni@
+gmail.com
+06 72 28 11 86
+Tanger
+Pédiatrie
+Pr. OULMATI 
+Mohammed
+myrabou@hotmail.com
+06 62 25 81 81
+CENTRE HOSPITALIER PROVINCIAL- TÉTOUAN
+CHP- Tétouan
+Tétouan
+Adulte
+Dr IKRAM 
+BENYAICH
+--
+06 61 66 67 20
+CENTRE HOSPITALIER RÉGIONAL D’OUJDA ET PROVINCIAL DE NADOR
+CHR- Oujda
+Oujda
+Adulte
+Dr. MOUHIB 
+NOURELHODA
+nourelhouda.
+mouhib@gmail.
+com
+06 61 19 13 39
+CHU- Oujda
+Oujda
+Pédiatrie Pr. AMRANI
+RIM
+amranirim@
+yahoo.fr
+06 61 68 08 31
+CHP- Nador
+Nador
+Adulte
+Dr. AFKER 
+HAFIDA
+hafidaafker@
+hotmail.com
+06 67 02 17 40
+
+[Page 84]
+CENTRE HOSPITALIER RÉGIONAL- BÉNI MELLAL
+ CHR BéniMellal
+Beni- 
+Mellal
+Adulte
+ Dr FATIHI
+TOURIA
+fatihitouria25@
+gmail.com
+06 76 06 08 82
+CENTRE HOSPITALIER PROVINCIAL- LAÂYOUNE
+ CHPLaâyoune
+Laâyoune
+Adulte
+Dr IDALENE 
+MALIKA
+dr.malikaidalene@hotmail.fr
+06 99 00 75 84
+Laâyoune
+Pédiatrie
+Dr El HIMI Said
+elhimi.said@
+gmail.com
+06 99 00 75 84
+CENTRE HOSPITALIER PROVINCIAL- SAFI
+CHP- Safi
+Safi
+Adulte
+Dr JAGHNOUNE 
+NOUREDDINE
+jaghnoune@
+gmail.com
+06 68 12 68 89
+CENTRE HOSPITALIER PROVINCIAL- TAROUDANTE
+CHP- 
+Taroudante
+Taroudant
+Adulte
+Dr HANINE 
+ZAHRA
+zahrahanine@
+hotmail.fr
+06 70 94 25 03
+
+[Page 85]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Annexe 3 : Posologies des molécules ARV 
+Molecules seules : 
+
+[Page 86]
+Combinaisons de molecules
+
+[Page 87]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Dolutégravir
+Dolutégravir
+cp 10 mg, 25 mg (non 
+commercialisés en 2017) 
+cp 50 mg
+6 ans et poids ≥ 
+30 kg
+Enfant sans résistance aux inhibiteurs 
+d’intégrase
+15 à <20 kg : 20 mg x 1/j (2cp de 10 mg)
+20 à <30 kg : 25 mg x 1/j
+30 à <40 kg : 35 mg x 1/j (1 cp 10 mg + 
+cp 25 mg)
+≥ 40 kg : 50 mg x 1/j
+Données 2019 : > 20 kg = 1cp de 50 mg
+Dolutégravir + abacavir + lamivudine
+cp 50 mg/ 600 mg/ 
+300 mg
+12 ans et poids ≥ 
+40 kg
+1 cp/j
+Annexe 4 : Traitement antirétroviral préventif chez le nouveau-né 
+ en fonction du risque de TME
+Nouveau né
+Situations
+Prophylaxie de 
+1ére intention
+Prophylaxie 
+alternative
+Faible risque 
+de TME 
+Mère recevant un TARV pendant la 
+grossesse ayant une CV indétectable 
+proche du terme sans problèmes 
+d’adhérence et ayant un déroulement 
+normal de l’accouchement. 
+AZT (4sem)
+NVP (6sem)
+Risque Accru 
+de TME 
+- Mère n’ayant pas reçu de TAR 
+pendant grossesse
+- Mère ayant reçu le TARV uniquement pendant l’accouchement.
+- Mère ayant reçu moins de 4sem 
+de TARV au moment de l’accouchement
+- CV chez la mère > 1000 copies / 
+ml dans les 4sem avant l’accouchement
+- Mère ayant été infectée par le VIH 
+pendant la grossesse ou l’allaitement (primo-infection)
+- Mère dépistée pour la première fois 
+pendant la période du post-partum, 
+avec ou sans test VIH négatif avant 
+la naissance.
+- Conditions d’accouchement 
+comportant des facteurs de risque 
+(rupture prolongée de la poche des 
+eaux, chorioamniotite, hémorragie,
+- blessure du nouveau-né durant 
+l’extraction)
+AZT(4sem) 
++3TC(4sem) 
++NVP (2sem)
+- Prophylaxie ARV :
+AZT (6sem) +NVP 
+(3 doses : <H12, J2, 
+J6 dosage prophylactique)
+ Nouveau-né
+ présumé exposé
+au VIH
+Mères dont le statut VIH est inconnu 
+et :
+- dont le test est positif à l’accouchement ou en post-partum, 
+-ou dont le nouveau-né a un test 
+rapide positif. 
+ Même attitude qu’en cas de risque accru
+)de TME (TARp ou TARV empirique
+Le TARV chez le nouveau-né doit être interrompu immédiatement si des tests complémentaires confirment que la mère n’est pas
+infectée par le VIH
+
+[Page 88]
+* Le test VIH se fait après consentement 
+** En cas de doute sur l’indication, démarrer la prophylaxie du VIH et référer vers le médecin 
+ référent pour réévaluation du risque de transmission 
+*** Consulter le médecin référent si femme enceinte ou si l’on craint la transmission 
+ de virus résistant 
+ALGORITHME DE LA PROPHYLAXIE DE L’INFECTION A VIH 
+ACCIDENT D’EXPOSITION AU SANG OU ACCIDENT D’EXPOSITION SEXUELLE 
+Accident d’Exposition au Sang (AES) 
+ou Accident d’Exposition Sexuelle 
+Personne exposée est VIH + 
+Prophylaxie du VIH 
+non recommandée : 
+Orienter vers un centre 
+référent pour prise en 
+charge de l’infection à VIH 
+Prophylaxie du VIH 
+non recommandée** : 
+Assurer le suivi clinique et 
+biologique, à 1 et 3 mois : 
+ Par le médecin de travail 
+ si AES 
+ Par le médecin hospitalier 
+ désigné référent « AES », 
+ si exposition sexuelle 
+ 
+ 
+ 
+ 
+(2) Evaluation du risque de transmission du VIH 
+Risque 
+AES 
+Accident d’Exposition Sexuelle 
+Important 
+• Piqûre profonde, aiguille creuse 
+• Dispositif intravasculaire 
+ (artériel ou veineux) 
+• avec pénétration vaginale ou anale 
+• sans préservatif ou avec accident de 
+ rupture de préservatif 
+Intermédiaire 
+• Coupure avec bistouri 
+• Piqûre avec aiguille pleine 
+• Exposition cutanéomuqueuse 
+ prolongée (> à 15 minutes) 
+• Fellation réceptive 
+Minime 
+• Piqûre avec seringue abandonnée 
+• Crachat, morsure ou griffure, 
+• Tout ce qui ne figure pas plus haut 
+• Attouchements sexuels, sans 
+ pénétration ni éjaculation 
+(3) Tableau des posologies ARV pour l’enfant < 35 Kg, en fonction du poids 
+ Poids en Kg 
+Molécules 
+3 à 5,9 
+6 à 9,9 
+10 à 13,9 
+14 à 19,9 
+20 à 24,9 
+25 à 34.9 
+AZT 60 mg/3TC 30 mg 
+(cp sécables dispersibles) 
+1cp x2/j 
+1,5 cp x2/j 
+2cp x2/j 
+2,5 cp x2/j 
+3 cp x2/j 
+AZT 300 mg/3TC 150 mg (cp) 
+1 cp x 2/ j 
+LPV/r 80/20 mg/ml (sol. Buv.) 
+1 ml x2/j 1,5 ml x2/j 
+2 ml x2/j 
+2,5 ml x2/j 
+3 ml x2/j 
+LPV/r 200/50 mg (cp) 
+2 cp matin 
+1cp le soir 
+(1) Les premiers soins : 
+Si AES : Traitement local à entreprendre immédiatement : 
+ - Ne pas presser ni faire saigner 
+ - Nettoyer à l’eau courante et au savon et rincer abondamment 
+ - Désinfecter longuement (3 à 5 min), par trempage prolongé de la zone lésée ou 
+ application d’un pansement imbibé de produit antiseptique, par ordre de préférence : 
+ Chlorhexidine, Polyvidone iodée, Dakin, Alcool à 70°, Eau de Javel à 12° dilué à 1/10. 
+Si agression sexuelle : donner les soins en veillant à ne pas détruire les preuves 
+Démarrer d’urgence une Chimioprophylaxie du VIH 
+ et la poursuivre pendant 4 semaines*** 
+ Adulte et Enfant de 35 kg et plus : 
+ TDF/FTC (Tenofovir 300 mg + Emtricitabine 200 mg) : 1 cp / jour 
+ + 
+ LPV/r (Lopinavir 200mg+Ritonavir 50mg) : 2 cp 2 fois / jour 
+ ou ATV/r (Atazanavir 300 mg +Ritonavir 100 mg) : 1 cp / jour 
+ ou EFV (Efavirenz 600 mg) : 1 cp / jour 
+ ou RAL (Raltegravir 400 mg) : 1 cp 2 fois / jour 
+ 
+ Enfant de moins de 35 kg : 
+ AZT/3TC (Zidovudine + Lamivudine) + LPV/r (Lopinavir + Ritonavir ) 
+ La forme et le dosage sont à adapter selon le poids : voir tableau (3) 
+Référer vers le médecin de travail (AES) ou le référent VIH pour 
+le suivi clinique et biologique (à 1 mois et 3 mois) 
+Exposition depuis plus de 72 H 
+ Version1/2016 
+ oui 
+non 
+non 
+ oui 
+ oui 
+ non 
+Risque VIH important ou 
+intermédiaire (2) 
+ Rassurer, entreprendre les premiers soins (1) 
+ Evaluer le risque de transmission du VIH (2) 
+ Faire un test VIH initial à la personne exposée* 
+ Rechercher le statut VIH de la personne source* 
+oui 
+Patient source VIH+ 
+ou a pris un risque depuis <6mois 
+ou de sérologie inconnue 
+ non 
+oui 
+Informer et sensibiliser sur : 
+- Évaluer et prendre en 
+ charge les autres risques 
+- Déclarer l’Accident de 
+ Travail (dans les 48 H) 
+ Les ARV et leurs effets 
+ indésirables 
+ Les mesures standards 
+ de précaution 
+ 
+ 
+ 
+ Préservatif, contraception 
+ Pas d’allaitement, don de 
+ sang, sperme ou d’organe 
+Pendant toute la période 
+de suivi, conseiller : 
+Annexe 5 : Prise en charge des accidents d’exposition au sang
+
+[Page 89]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Annexe 6 : Supports d’information du PNLS pour la prise en 
+charge des EVVIH
+Direction de l’Epidémiologie et de Lutte contre les Maladies/ Programme National de Lutte contre le Sida – Version 1 - Mars 2020 
+ 
+ 
+ 
+ 
+ 
+Nom de la circonscription sanitaire :………………………………………………………………………. 
+Nom de l’Etablissement:………………………………………………………………………………………………. 
+Catégorie de l’établissement : CSU 2 CSR 2 Maison d’accouchement Maternité Hospitalière 
+Code structure (code de la carte sanitaire) :………………………………….. 
+ 
+*Le Traitement ARV prophylactique renforcé du nouveau-né est indiqué si la mère vient d’être dépistée au moment de l’accouchement ou tardivement lors de la grossesse : Zidovudine (AZT) + Lamivudine (3TC) + NVP (Névirapine) 
+ Le Traitement ARV prophylactique simple du nouveau-né est indiqué si la mère est déjà suivie dans le centre référent : Sirop de Zidovudine (AZT) généralement remis à la mère par le centre référent VIH. 
+N° 
+d'ordre 
+Identifiant 
+(CIN ou Code 
+Etablissement 
+/N d'ordre / 
+Année) 
+Date de 
+l'accouchement 
+Heure de 
+l'accouchement 
+Année de 
+naissance de 
+la 
+parturiente 
+ou son âge 
+en années 
+Femme enceinte 
+dépistée positive 
+ Traitement 
+antirétroviral (ARV) 
+chez la mère* 
+Mode 
+d'accouchement 
+Nouveauné 
+Prématurité 
+ARV 
+Prophylacti
+que 
+nouveau -
+né 
+Oui/Non 
+Délai en heure entre la 
+naissance et le 
+démarrage des ARV chez 
+le nouveau-né 
+Nom du 
+centre 
+référent 
+VIH où l’on 
+va adresser 
+la femme 
+séro- 
+positive 
+Nom du 
+centre 
+référent 
+VIH où l’on 
+va 
+adresser le 
+Nouveauné 
+Observation 
+En 
+dehors 
+de 
+l'établissement 
+de 
+l'accouchement 
+Au 
+niveau de 
+l'établissement 
+de 
+l'accouchement 
+En dehors 
+de 
+l'établiss
+ement de 
+l'accouchement 
+Initié au 
+niveau de 
+l'établissement 
+de 
+l'accouch
+ement 
+Voie basse 
+Césarienne 
+Naissance vivante 
+Mort-né 
+Délai en heure 
+< 8 heures 
+>= 8 heures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Registre de la parturiente séropositive et son nouveau-né 
+Région :……………………………… 
+Province :…………………………… 
+…………………………………..: اﻟﺟﮭﺔ 
+………………………………..: اﻻﻗﻠﯾم
+ 
+
+[Page 90]
+Ministère de la Santé, DELM, PNLS
+Région :…………………………….
+Province :…………………………
+NOM DE LA MERE : 
+PRENOM DE LA MERE :
+CODE PATIENT CIN (OU CODE 
+STRUCTURE/N ORDRE/ ANNEE) :
+Patient (nouveau-né)
+Référence pour le suivi du nouveau-né exposé au VIH
+Fiche de liaison
+ -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
+Etablissement d’origine (structure de 
+l’accouchement)
+Etablissement de destination 
+(structure de pédiatrie)
+Dénomination Etablissement :………………….
+…………………………………………………………
+Cachet du responsable de l’établissement :
+Dénomination Etablissement :…………………..
+…………………………………………………………
+Consultation de destination :………………….
+………………………………………………………….
+Liste des pièces devant accompagner le 
+patient 
+Rendez-vous
+1. Traitement prophylactique du nouveau-né 
+(TARP)
+2. Carte ou reçu RAMED de la mère (si 
+existe)
+3. La Fiche de liaison
+Date et heure de rendez-vous : 
+…………………………………………………………….
+Nom du pédiatre à consulter : ………………….
+………………………………………………..........
+ Renseignements sur le nouveau-né
+Protocole TARP pour le nouveau né
+Mode d’accouchement : VB   VH  Date de l’accouchement : ….…/………/……… 
+heure………
+Sexe du nouveau-né : F   M  Poids de naissance : 
+……………………………………………………..
+Démarrage du TARP : OUI   NON  Date de démarrage : …/…/……… 
+heure………
+Protocole TARP :……………………………………
+…………………………...
+ Signature et Cachet du pédiatre
+Date : …/…/………. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 91]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+ Contre référence 
+Date :………………………………………………………………………………………………
+Centre referent pediatrique : ………………………………………………….
+Code mère (CIN) :            Cher référent VIH 
+Le nouveau-né de votre patiente a bien été pris en charge par le pédiatre référent, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Signature & Cachet :
+
+[Page 92]
+Direction de l’Epidémiologie et de Lutte contre les Maladies/ Programme National de Lutte contre le Sida – Version 1 - Mars 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nom de l’Etablissement:………………………………………………………………………………………………. 
+ 
+Date d’ouverture du registre : _ _ / _ _ /_ _ _ _ 
+Date de clôture du registre : _ _ / _ _ /_ _ _ _ 
+ 
+ 
+ 
+Registre du centre référent pédiatrique 
+Elimination de la transmission mère enfant du VIH/syphilis congénitale 
+Région :……………………………… 
+Province :…………………………… 
+…………………………………..: اﻟﺟﮭﺔ 
+………………………………..: اﻻﻗﻠﯾم
+ 
+
+[Page 93]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Direction de l’Epidémiologie et de Lutte contre les Maladies/ Programme National de Lutte contre le Sida – Version 1 - Mars 2020 
+ 
+ 
+ *Le Traitement ARV prophylactique renforcé du nouveau-né est indiqué si la mère vient d’être dépistée au moment de l’accouchement ou tardivement lors de la grossesse : Zidovudine (AZT) + 
+Lamivudine (3TC) + NVP (Névirapine) 
+ Le Traitement ARV prophylactique simple du nouveau-né est indiqué si la mère est déjà suivie dans le centre référent : Sirop de Zidovudine (AZT) généralement remis à la mère par le centre 
+référent VIH. 
+** D : Détectable, IND : Indétectable 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Résultats du suivi virologique 
+Identifiant de la 
+mère (CIN ou 
+Code 
+Etablissement 
+/N d'ordre / 
+Année) 
+MA/MH de 
+référence 
+Date de 
+naissance du 
+nouveau-né 
+Traitement 
+ARV 
+démarré 
+chez le 
+nouveau-né 
+Oui / Non 
+Protocole ARV 
+*administré 
+AZT+3TC+NVP 
+ 
+Ou 
+ 
+AZT 
+Délais d'initiation des 
+ARV en heure (par 
+rapport à 
+l'accouchement) 
+PCR des 
+deux 
+premières 
+semaines 
+D / IND** 
+PCR au 
+1er 
+mois 
+D /IND** 
+PCR au 
+3ème 
+mois 
+D/IND** 
+PCR au 
+6ème 
+mois 
+D/IND** 
+Sérologie 
+au test 
+rapide à 
+18 mois 
+D/IND** 
+< 8 Heures >= 8 heures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[Page 94]
+Rapport Mensuel du centre référent pédiatrique
+ Elimination de la transmission mère enfant du VIH/syphilis
+congénitale
+Provenance
+Urbaine
+Rurale
+Ensemble
+Nouveau-nés exposés référés
+ 
+ 
+ 
+Nouveau-nés sous Traitement ARV
+prophylactique
+ 
+ 
+ 
+ Délai de démarrage
+des ARV
+< 8heures
+ 
+ 
+ 
+>= 8 heures
+ 
+ 
+ 
+ Nombre de nourrissons qui ont fait une PCR dans
+ les deux mois qui suivent la naissance
+ 
+ 
+ 
+ Nouveau-nés dont le statut VIH est positif à 18
+mois
+ 
+ 
+ 
+Nouveau-né avec syphilis congénitale
+ 
+ 
+ 
+
+[Page 95]
+71, Ibn Sina Avenue - Agdal - Rabat
+Tél. : (+212) 5 37 67 12 71 - Fax : (+212) 5 37 67 12 98
+Ministère de la Santé 
+Direction de l’Epidémiologie et de Lutte contre les Maladies CIN de la mère : ------- Rang de la fratrie :- - 
+Service des MST-SIDA 
+Tél et Fax : 05 37 67 13 17, Email : programmesida@gmail.com Date d’enregistrement : ----/----/-------- 
+ 
+ 
+ 
+Déclaration des cas de VIH/Sida chez l’enfant de moins de 15 ans (V3) 
+ 
+1. Médecin déclarant : Cachet (obligatoire) et signature 
+ 
+ 
+ 
+ 
+ 
+ 2. Identité du patient : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Dépistage et confirmation: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4. Facteurs de risque: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. Données cliniques : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Données immuno-virologiques : 
+ 
+ 
+ 
+ 
+ 
+7. Décès : 
+Code province 
+Code centre référent 
+Numéro de dossier 
+ 
+ 
+----/---- 
+Transmission Verticale Transmission sanguine : 
+1. Mère séropositive 
+ 1. Usage de drogue par injection 
+ 
+Accouchement : Voie basse
+ 
+Césarienne : 
+ 2. Transfusion sanguine : 
+ 
+Allaitement : Maternel : 
+ Artificiel
+ Mixte
+ 3. Dialyse
+ 
+2. Père séropositif au VIH : 
+ 4. Autres : 
+ 
+Transmission sexuelle : 
+ 1. Abus sexuel 
+ 
+ 2 .Autres :………………… 
+Enfant (Classification OMS) : 
+Stade I : 
+ 
+Stade II : 
+ 
+Stade III : 
+ 
+Stade IV : 
+ 
+ 
+ 
+Co-morbidité : Tuberculose : 
+ 
+oui : 
+ 
+non : 
+ 
+en cours : 
+ 
+ 
+non fait : 
+ 
+Hépatite B : 
+ 
+oui : 
+ 
+non : 
+ 
+en cours : 
+ 
+ 
+non fait : 
+ 
+Hépatite C : 
+ 
+oui : 
+ 
+non : 
+ 
+en cours : 
+ 
+ 
+non fait : 
+ 
+ 
+Nom et prénom :…………………………………………………….. Tél /Email :……………. ……………………………………… 
+Hôpital :................................................................................................Province :……………………………………......................... 
+Secteur : Public
+ Privé
+ Militaire
+ Semi public
+ 
+Initiales du Nom (2 lettres) :………Prénom : ………...…., Sexe :M
+ F 
+ Age : ……….(année) Age(nourrisson) :……...( mois), 
+Niveau d’instruction : Aucun
+ Primaire
+ Secondaire
+ 
+ 
+Nationalité :…………………. Si étranger, situation régulière : oui : 
+ 
+non : 
+ 
+Résidence permanente : Pays…………………………...Province:………………………………ville :……………………………….. 
+Milieu : Urbain
+ Rural 
+ 
+Taux des CD4 : Valeur :……… Pourcentage :………………....% (Obligatoire pour les enfants < 5 ans) 
+ 
+Infection rétrovirale de type : 
+ 
+VIH1 : 
+ VIH 2 : 
+ 
+Enfant décédé : 
+ Date de décès : ----/----/-------- 
+Date de dépistage : ----/----/-------- 
+ 
+ 
+Ville de dépistage : ………………… 
+Lieu de dépistage : 
+ESSB 
+ CDTMR 
+ Service hospitalier
+ Maternité 
+ 
+Centre de transfusion 
+ Privé 
+ 
+ONG : AHSUD 
+ ALCS 
+ ALIS 
+ AMPF
+ ASCS
+ LMLMST 
+ OPALS 
+ Autres:…. 
+Autres (Préciser) :………………………….. 
+ 
+Date de confirmation : ----/----/-------- 
+ 
+Ville de confirmation : ………………… 
+Test de confirmation utilisé : 
+WB/IB : 
+ 
+ 
+3 Tests rapides : 
+ 
+ 
+PCR : 
+ 
+
+[Page 96]
+Conception et réalisation AZ Editions - Rabat
