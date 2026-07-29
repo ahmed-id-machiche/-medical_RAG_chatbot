@@ -1,0 +1,16 @@
+{
+  "id": "2a4fddbd-a01c-4e59-bced-6d0e01d6104b",
+  "title": "kifach n9ed n3ref rasi f...",
+  "messages": [
+    {
+      "role": "user",
+      "content": "kifach n9ed n3ref rasi fiya skar ?"
+    }
+  ],
+  "poids": 70.0,
+  "taille": 170.0,
+  "age": 45,
+  "sexe": "Femme",
+  "pas": 120,
+  "tabac": "Non"
+}

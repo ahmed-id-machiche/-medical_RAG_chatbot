@@ -1,0 +1,16 @@
+{
+  "id": "3b207f5b-93c2-41a0-8190-02c5b270e6c7",
+  "title": "kifach n3erf wach fiya s...",
+  "messages": [
+    {
+      "role": "user",
+      "content": "kifach n3erf wach fiya skar ?"
+    }
+  ],
+  "poids": 70.0,
+  "taille": 170.0,
+  "age": 45,
+  "sexe": "Femme",
+  "pas": 120,
+  "tabac": "Non"
+}
