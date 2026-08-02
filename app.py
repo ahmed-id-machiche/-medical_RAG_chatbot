@@ -243,7 +243,7 @@ def generate_patient_pdf(imc, imc_status, risk_status, messages):
 
     story = []
     
-    # Official Bilingual Header (French Left, Logo Center, Arabic Right)
+    # Official Header (French Left, Logo Center, Sub-Header Right)
     left_header = Paragraph(
         "<b>ROYAUME DU MAROC</b><br/>"
         "<font size=8 color='#549FC4'><b>Ministère de la Santé<br/>"
@@ -252,9 +252,9 @@ def generate_patient_pdf(imc, imc_status, risk_status, messages):
     )
     
     right_header = Paragraph(
-        "<b>المملكة المغربية</b><br/>"
-        "<font size=8 color='#549FC4'><b>وزارة الصحة<br/>"
-        "والحماية الاجتماعية</b></font>",
+        "<b>ROYAUME DU MAROC</b><br/>"
+        "<font size=8 color='#549FC4'><b>Réseau des Établissements<br/>"
+        "de Santé Publique</b></font>",
         ParagraphStyle(name='HeaderRight', fontName='Helvetica', fontSize=9, leading=12, alignment=2)
     )
 
@@ -291,14 +291,29 @@ def generate_patient_pdf(imc, imc_status, risk_status, messages):
     t.setStyle(TableStyle([('GRID', (0,0), (-1,-1), 0.5, colors.HexColor("#E2E8F0")), ('BACKGROUND', (0,0), (-1,0), colors.HexColor("#F8FAFC")), ('VALIGN', (0,0), (-1,-1), 'MIDDLE'), ('BOTTOMPADDING', (0,0), (-1,-1), 6), ('TOPPADDING', (0,0), (-1,-1), 6)]))
     story.extend([t, Spacer(1, 15), Paragraph("2. Historique de la Discussion Médicale", header_style)])
     
+    def sanitize_for_pdf(text: str) -> str:
+        if not text: return ""
+        clean = text.replace("<br/>", " ").replace("<b>", "").replace("</b>", "").replace("<div class=\"arabic-text\">", "").replace("</div>", "").replace("**", "")
+        allowed = "éèêëàâäùûüçîïôöÉÈÊËÀÂÄÙÛÜÇÎÏÔÖ"
+        res = [c if (ord(c) < 128 or c in allowed) else " " for c in clean]
+        return " ".join("".join(res).split())
+
     if not messages:
         story.append(Paragraph("Aucune discussion enregistrée dans cette session.", body_style))
     else:
         for msg in messages:
             role = "Patient" if msg["role"] == "user" else "Tbibk"
             story.append(Paragraph(f"<b>{role} :</b>", bold_style))
-            clean_content = msg["content"].replace("<br/>", "\n").replace("<b>", "").replace("</b>", "").replace("<div class=\"arabic-text\">", "").replace("</div>", "")
-            story.append(Paragraph(clean_content, body_style))
+            
+            raw_text = msg["content"]
+            if msg["role"] == "user" and msg.get("query_fr"):
+                raw_text = f"Question : {msg['query_fr']}"
+            elif msg["role"] == "assistant" and msg.get("query_fr"):
+                raw_text = f"(Sujet : {msg['query_fr']})\n" + raw_text
+
+            clean_text = sanitize_for_pdf(raw_text)
+            if clean_text:
+                story.append(Paragraph(clean_text, body_style))
             story.append(Spacer(1, 4))
             
     story.extend([Spacer(1, 20), Paragraph("<i>Avertissement : Ce document est une fiche d'information automatique et ne remplace pas une consultation médicale.</i>", body_style)])
