@@ -527,10 +527,13 @@ elif page == "Fiche Patient":
     </div>
     """, unsafe_allow_html=True)
 
-    st.download_button(
-        label="📥 Télécharger ma Fiche Patient (PDF)",
-        data=pdf_bytes,
-        file_name="Fiche_Patient_Tbibk.pdf",
-        mime="application/pdf",
-        use_container_width=True
-    )
+    pdf_b64 = base64.b64encode(pdf_bytes).decode('utf-8')
+    st.markdown(f'''
+    <div style="margin-top: 10px;">
+        <a href="data:application/pdf;base64,{pdf_b64}" target="_blank" style="text-decoration: none;">
+            <div style="background-color: #FFFFFF; color: #549FC4; border-radius: 12px; font-weight: 700; padding: 15px 20px; text-align: center; font-size: 16.5px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); font-family: 'Outfit', sans-serif; cursor: pointer;">
+                📄 Afficher ma Fiche Patient (PDF)
+            </div>
+        </a>
+    </div>
+    ''', unsafe_allow_html=True)
