@@ -74,10 +74,87 @@ if "indexing_started" not in st.session_state:
 # 3. HELPER FUNCTIONS (CALCULATORS & SESSION CONVERSATIONS)
 # -----------------------------------------------------------------------------
 def get_base64_image(file_path):
-    if os.path.exists(file_path):
-        with open(file_path, "rb") as f:
+    target_path = os.path.join("assets", file_path) if os.path.exists(os.path.join("assets", file_path)) else file_path
+    if os.path.exists(target_path):
+        with open(target_path, "rb") as f:
             return base64.b64encode(f.read()).decode("utf-8")
     return ""
+
+def get_logo_path():
+    asset_logo = os.path.join("assets", "tbibk_logo.png")
+    return asset_logo if os.path.exists(asset_logo) else "tbibk_logo.png"
+
+# -----------------------------------------------------------------------------
+# 4. CONSOLIDATED UNIFIED CSS STYLING
+# -----------------------------------------------------------------------------
+chat_icon_b64 = get_base64_image("3d_chat_icon.png")
+imc_icon_b64 = get_base64_image("3d_imc_icon.png")
+heart_icon_b64 = get_base64_image("3d_heart_icon.png")
+report_icon_b64 = get_base64_image("3d_report_icon.png")
+
+st.markdown(f"""
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap');
+    
+    html, body, .stApp, .main, [data-testid="stMain"], [data-testid="stMainViewContainer"], [data-testid="stAppViewContainer"], [data-testid="stHeader"], [data-testid="stSidebar"] {{
+        background-color: #549FC4 !important;
+        background-image: none !important;
+        color: #FFFFFF !important;
+        font-family: 'Inter', sans-serif !important;
+    }}
+
+    /* Force stBottom and all its wrappers to be blue like the rest of the page */
+    [data-testid="stBottom"],
+    [data-testid="stBottom"] > div,
+    [data-testid="stBottomBlockContainer"],
+    div[class*="stBottom"],
+    div[data-testid="stForm"],
+    footer {{
+        background-color: #549FC4 !important;
+        background: #549FC4 !important;
+        background-image: none !important;
+        border: none !important;
+        box-shadow: none !important;
+    }}
+    
+    .block-container {{ max-width: 800px !important; padding-top: 2rem !important; margin: 0 auto !important; }}
+    [data-testid="stSidebar"] {{ border-right: 1px solid #488EAF !important; }}
+    [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p, [data-testid="stSidebar"] div {{ color: #FFFFFF !important; }}
+    
+    /* Hide Radio Nav circle dots aggressively */
+    div[role="radiogroup"] label input[type="radio"],
+    div[role="radiogroup"] label svg,
+    div[role="radiogroup"] label [role="presentation"],
+    div[role="radiogroup"] label > div:first-child:not(:last-child) {{
+        display: none !important;
+        width: 0 !important;
+        height: 0 !important;
+        opacity: 0 !important;
+        visibility: hidden !important;
+    }}
+    div[role="radiogroup"] label {{ background-color: transparent !important; border-radius: 8px !important; padding: 10px 14px !important; margin-bottom: 6px !important; cursor: pointer !important; display: flex !important; align-items: center !important; }}
+    div[role="radiogroup"] label p {{ font-family: 'Outfit', sans-serif !important; font-size: 17px !important; font-weight: 600 !important; color: #FFFFFF !important; margin: 0 !important; }}
+    div[role="radiogroup"] label:nth-of-type(1)::before {{ content: "" !important; display: inline-block !important; width: 28px !important; height: 28px !important; margin-right: 12px !important; background-image: url("data:image/png;base64,{chat_icon_b64}") !important; background-size: contain !important; background-repeat: no-repeat !important; }}
+    div[role="radiogroup"] label:nth-of-type(2)::before {{ content: "" !important; display: inline-block !important; width: 28px !important; height: 28px !important; margin-right: 12px !important; background-image: url("data:image/png;base64,{imc_icon_b64}") !important; background-size: contain !important; background-repeat: no-repeat !important; }}
+    div[role="radiogroup"] label:nth-of-type(3)::before {{ content: "" !important; display: inline-block !important; width: 28px !important; height: 28px !important; margin-right: 12px !important; background-image: url("data:image/png;base64,{heart_icon_b64}") !important; background-size: contain !important; background-repeat: no-repeat !important; }}
+    div[role="radiogroup"] label:nth-of-type(4)::before {{ content: "" !important; display: inline-block !important; width: 28px !important; height: 28px !important; margin-right: 12px !important; background-image: url("data:image/png;base64,{report_icon_b64}") !important; background-size: contain !important; background-repeat: no-repeat !important; }}
+    div[role="radiogroup"] label:has(input:checked) {{ background-color: #FFFFFF !important; }}
+    div[role="radiogroup"] label:has(input:checked) p {{ color: #549FC4 !important; font-weight: 700 !important; }}
+    
+    [data-testid="stSidebar"] button {{ background-color: rgba(255, 255, 255, 0.1) !important; border: 1px dashed rgba(255, 255, 255, 0.6) !important; font-weight: 600 !important; color: #FFFFFF !important; border-radius: 8px !important; }}
+    .clean-title {{ font-size: 38px !important; font-weight: 700 !important; color: #FFFFFF !important; text-align: center !important; font-family: 'Outfit', sans-serif !important; margin-bottom: 10px !important; }}
+    .clean-subtitle {{ font-size: 14.5px !important; color: rgba(255, 255, 255, 0.85) !important; text-align: center !important; margin-bottom: 25px !important; }}
+    .stChatMessage {{ background-color: #FFFFFF !important; border-radius: 12px !important; padding: 16px 20px !important; margin-bottom: 12px !important; border: 1px solid #E2ECF2 !important; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05) !important; }}
+    .stChatMessage p, .stChatMessage span, .stChatMessage div {{ color: #1F2937 !important; }}
+    .lang-badge {{ font-size: 10px; padding: 2px 6px; border-radius: 4px; color: #4B5563; background-color: #F3F4F6; border: 1px solid #E5E7EB; font-weight: 600; display: inline-block; margin-bottom: 6px; }}
+    .reformulation-note {{ font-size: 11px; color: #6B7280; margin-bottom: 6px; font-style: italic; }}
+    .arabic-text {{ direction: rtl; text-align: right; font-family: 'Segoe UI', sans-serif; line-height: 1.7; font-size: 15.5px; color: #111827 !important; }}
+    .premium-card {{ background: #FFFFFF !important; border-radius: 16px !important; padding: 25px !important; box-shadow: 0 4px 16px rgba(0,0,0,0.06) !important; }}
+    .premium-card p, .premium-card td, .premium-card th {{ color: #1F2937 !important; }}
+    div[data-testid="stChatInput"] {{ border: 1px solid #E5E7EB !important; border-radius: 26px !important; background-color: #FFFFFF !important; }}
+    div[data-testid="stChatInput"] textarea {{ color: #111827 !important; }}
+</style>
+""", unsafe_allow_html=True)
 
 def save_current_conversation():
     if "conv_id" not in st.session_state or not st.session_state.conv_id:
@@ -222,8 +299,10 @@ st.markdown(f"""
 # -----------------------------------------------------------------------------
 # 5. SIDEBAR NAVIGATION & DISCUSSIONS
 # -----------------------------------------------------------------------------
-if os.path.exists("tbibk_logo.png"):
-    st.sidebar.image("tbibk_logo.png", use_container_width=True)
+logo_path = get_logo_path()
+
+if os.path.exists(logo_path):
+    st.sidebar.image(logo_path, use_container_width=True)
 else:
     st.sidebar.markdown("<div style='padding-top: 15px; margin-bottom: 10px;'><span style='font-size: 20px; font-weight: 700;'>🏥 Tbibk Workspace</span></div>", unsafe_allow_html=True)
 
@@ -258,8 +337,8 @@ else:
 if page == "Chatbot Tbibk":
     logo_col1, logo_col2, logo_col3 = st.columns([1.5, 1, 1.5])
     with logo_col2:
-        if os.path.exists("tbibk_logo.png"):
-            st.image("tbibk_logo.png", use_container_width=True)
+        if os.path.exists(logo_path):
+            st.image(logo_path, use_container_width=True)
 
     st.markdown("<div style='text-align: center; margin-top: -5px; margin-bottom: 20px;'><span style='font-size: 34px; font-weight: 800; color: #FFFFFF; font-family: \"Outfit\", sans-serif;'>TBIBK</span></div>", unsafe_allow_html=True)
 
@@ -272,7 +351,7 @@ if page == "Chatbot Tbibk":
         st.info("⚡ **Indexation en cours :** La base de données locale se charge en arrière-plan...")
 
     for msg in st.session_state.messages:
-        avatar_icon = "👤" if msg["role"] == "user" else "tbibk_logo.png"
+        avatar_icon = "👤" if msg["role"] == "user" else logo_path
         with st.chat_message(msg["role"], avatar=avatar_icon):
             if msg["role"] == "assistant":
                 is_darija = msg.get("is_darija", False)
@@ -294,7 +373,7 @@ if page == "Chatbot Tbibk":
 
     if st.session_state.messages and st.session_state.messages[-1]["role"] == "user":
         user_query = st.session_state.messages[-1]["content"]
-        with st.chat_message("assistant", avatar="tbibk_logo.png"):
+        with st.chat_message("assistant", avatar=logo_path):
             with st.spinner("Recherche dans les sources officielles..."):
                 try:
                     res = pipeline.answer_query(user_query, top_k=3)
