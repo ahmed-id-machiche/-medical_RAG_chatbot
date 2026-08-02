@@ -491,34 +491,44 @@ elif page == "Risque Cardiovasculaire":
 
 elif page == "Fiche Patient":
     st.markdown('<div class="clean-title">📄 Votre Rapport de Consultation</div>', unsafe_allow_html=True)
-    st.markdown('<div class="clean-subtitle">Ouvrez votre fiche clinique dans un nouvel onglet ou enregistrez-la.</div>', unsafe_allow_html=True)
+    st.markdown('<div class="clean-subtitle">Téléchargez la synthèse clinique officielle de votre consultation ci-dessous.</div>', unsafe_allow_html=True)
 
     imc, imc_status, imc_color, _ = calculate_imc(st.session_state.poids, st.session_state.taille)
     risk_status, risk_color, _ = calculate_cardio_risk(st.session_state.age, st.session_state.pas, st.session_state.tabac)
     pdf_bytes = generate_patient_pdf(st.session_state.poids, st.session_state.taille, imc, imc_status, risk_status)
 
     st.markdown(f"""
-    <div class="premium-card" style="margin-bottom: 25px;">
-        <span style="font-size: 13px; color: #475569; font-weight: 700; text-transform: uppercase; text-align: center; display: block; margin-bottom: 15px;">Résumé Médical du Patient</span>
-        <table style="width: 100%; border-collapse: collapse;">
-            <tr style="border-bottom: 1px solid #E2ECF2;"><td style="padding: 10px 0;">Poids / Taille :</td><td style="text-align: right; font-weight: 700;">{st.session_state.poids} kg / {st.session_state.taille} cm</td></tr>
-            <tr style="border-bottom: 1px solid #E2ECF2;"><td style="padding: 10px 0;">IMC :</td><td style="text-align: right; font-weight: 700; color: {imc_color};">{imc:.1f} ({imc_status})</td></tr>
-            <tr><td style="padding: 10px 0;">Risque Cardiovasculaire / HTA :</td><td style="text-align: right; font-weight: 700; color: {risk_color};">{risk_status}</td></tr>
+    <div class="premium-card" style="margin-bottom: 25px; padding: 25px;">
+        <span style="font-size: 16px; color: #1E3A8A; font-weight: 800; text-align: center; display: block; margin-bottom: 20px; font-family: 'Outfit', sans-serif;">
+            FICHE CLINIQUE DE CONSULTATION | بطاقة الاستشارة الطبية
+        </span>
+        <table style="width: 100%; border-collapse: collapse; font-family: 'Inter', sans-serif;">
+            <thead>
+                <tr style="border-bottom: 2px solid #CBD5E1; background-color: #F8FAFC;">
+                    <th style="padding: 12px 10px; text-align: left; font-weight: 700; color: #1E293B; width: 55%;">Indicateur Évalué (المؤشر السريري)</th>
+                    <th style="padding: 12px 10px; text-align: right; font-weight: 700; color: #1E293B; width: 45%;">Résultat & Statut (النتيجة والتقييم)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr style="border-bottom: 1px solid #E2ECF2;">
+                    <td style="padding: 12px 10px; font-weight: 600; color: #334155;">Poids / Taille (الوزن والطول)</td>
+                    <td style="padding: 12px 10px; text-align: right; font-weight: 700; color: #111827;">{st.session_state.poids:.1f} kg / {st.session_state.taille:.1f} cm</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #E2ECF2;">
+                    <td style="padding: 12px 10px; font-weight: 600; color: #334155;">Indice de Masse Corporelle (IMC / مؤشر كتلة الجسم)</td>
+                    <td style="padding: 12px 10px; text-align: right; font-weight: 700; color: {imc_color};">{imc:.1f} ({imc_status})</td>
+                </tr>
+                <tr>
+                    <td style="padding: 12px 10px; font-weight: 600; color: #334155;">Risque Cardiovasculaire (HTA / خطر القلب والضغط)</td>
+                    <td style="padding: 12px 10px; text-align: right; font-weight: 700; color: {risk_color};">{risk_status}</td>
+                </tr>
+            </tbody>
         </table>
     </div>
     """, unsafe_allow_html=True)
 
-    pdf_b64 = base64.b64encode(pdf_bytes).decode('utf-8')
-    st.markdown(f'''
-    <a href="data:application/pdf;base64,{pdf_b64}" target="_blank" style="text-decoration: none;">
-        <div style="background-color: #3B82A6; color: #FFFFFF; border-radius: 10px; font-weight: 600; padding: 14px 20px; text-align: center; font-size: 16px; margin-bottom: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); font-family: 'Inter', sans-serif;">
-            👁️ Ouvrir ma Fiche Patient (PDF) dans un nouvel onglet
-        </div>
-    </a>
-    ''', unsafe_allow_html=True)
-
     st.download_button(
-        label="📥 Enregistrer ma Fiche Patient (PDF)",
+        label="📥 Télécharger ma Fiche Patient (PDF)",
         data=pdf_bytes,
         file_name="Fiche_Patient_Tbibk.pdf",
         mime="application/pdf",
