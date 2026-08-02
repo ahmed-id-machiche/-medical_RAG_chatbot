@@ -103,18 +103,33 @@ st.markdown(f"""
         font-family: 'Inter', sans-serif !important;
     }}
 
-    /* Force stBottom and all its wrappers to be blue like the rest of the page */
+    /* Force stBottom and all its wrappers/children to be blue like the rest of the page */
     [data-testid="stBottom"],
-    [data-testid="stBottom"] > div,
+    [data-testid="stBottom"] *,
     [data-testid="stBottomBlockContainer"],
+    [data-testid="stBottomBlockContainer"] *,
     div[class*="stBottom"],
+    div[class*="stBottom"] *,
     div[data-testid="stForm"],
-    footer {{
+    footer,
+    footer * {{
         background-color: #549FC4 !important;
         background: #549FC4 !important;
         background-image: none !important;
         border: none !important;
         box-shadow: none !important;
+    }}
+    
+    /* Preserve chat input container as crisp white */
+    div[data-testid="stChatInput"],
+    div[data-testid="stChatInput"] * {{
+        background-color: #FFFFFF !important;
+        background: #FFFFFF !important;
+    }}
+    div[data-testid="stChatInput"] textarea {{
+        background-color: transparent !important;
+        background: transparent !important;
+        color: #111827 !important;
     }}
     
     .block-container {{ max-width: 800px !important; padding-top: 2rem !important; margin: 0 auto !important; }}
