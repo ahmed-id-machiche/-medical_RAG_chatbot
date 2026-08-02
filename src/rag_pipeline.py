@@ -39,25 +39,25 @@ class RAGPipeline:
             return ollama.Client(host=host)
         return ollama
 
-    def _chat_complete(self, messages: list, temperature: float = 0.0, max_tokens: int = 400) -> str:
-        """
-        Unified LLM chat completion with multi-tier fallback:
-        1. Checks if GROQ_API_KEY is available (in st.secrets or os.environ) -> Uses Groq API via requests.
-        2. Falls back to local/remote Ollama client.
-        """
-        groq_api_key = os.environ.get("GROQ_API_KEY")
-        try:
-            import streamlit as st
-            if not groq_api_key and "GROQ_API_KEY" in st.secrets:
-                groq_api_key = st.secrets["GROQ_API_KEY"]
-        except Exception:
-            pass
+    def _chat_complete(self, messages: list, temperature: float = 0.2, max_tokens: int = 500) -> str:
+        """Executes a chat completion call via Groq API (with automatic retry and clean fallback)."""
+        groq_api_key = os.getenv("GROQ_API_KEY") or os.getenv("groq_api_key")
+        if not groq_api_key:
+            try:
+                import streamlit as st
+                if hasattr(st, "secrets"):
+                    if "GROQ_API_KEY" in st.secrets:
+                        groq_api_key = st.secrets["GROQ_API_KEY"]
+                    elif "groq_api_key" in st.secrets:
+                        groq_api_key = st.secrets["groq_api_key"]
+            except Exception:
+                pass
 
         if groq_api_key:
             try:
                 import requests
                 headers = {
-                    "Authorization": f"Bearer {groq_api_key}",
+                    "Authorization": f"Bearer {str(groq_api_key).strip()}",
                     "Content-Type": "application/json"
                 }
                 payload = {
@@ -66,23 +66,33 @@ class RAGPipeline:
                     "temperature": temperature,
                     "max_tokens": max_tokens
                 }
-                resp = requests.post("https://api.groq.com/openai/v1/chat/completions", json=payload, headers=headers, timeout=15)
+                resp = requests.post("https://api.groq.com/openai/v1/chat/completions", json=payload, headers=headers, timeout=20)
                 if resp.status_code == 200:
                     data = resp.json()
                     return data["choices"][0]["message"]["content"].strip()
                 else:
-                    print(f"Groq API error {resp.status_code}: {resp.text}")
+                    print(f"Groq API HTTP error {resp.status_code}: {resp.text}")
+                    if resp.status_code in [429, 500, 502, 503, 504]:
+                        import time
+                        time.sleep(1)
+                        resp_retry = requests.post("https://api.groq.com/openai/v1/chat/completions", json=payload, headers=headers, timeout=20)
+                        if resp_retry.status_code == 200:
+                            return resp_retry.json()["choices"][0]["message"]["content"].strip()
             except Exception as e:
                 print(f"Groq API exception: {str(e)}")
 
-        client = self._get_client()
-        res = client.chat(
-            model=self.model_name,
-            messages=messages,
-            options={"temperature": temperature, "num_predict": max_tokens},
-            keep_alive=OLLAMA_KEEP_ALIVE
-        )
-        return res['message']['content'].strip()
+        try:
+            client = self._get_client()
+            res = client.chat(
+                model=self.model_name,
+                messages=messages,
+                options={"temperature": temperature, "num_predict": max_tokens},
+                keep_alive=OLLAMA_KEEP_ALIVE
+            )
+            return res['message']['content'].strip()
+        except Exception as e:
+            print(f"Ollama local fallback unavailable: {str(e)}")
+            raise RuntimeError("Le service IA est actuellement surchargé. Veuillez poser votre question à nouveau dans quelques secondes.")
 
     def set_model_name(self, model_name: str):
         """Updates the active generative model."""
