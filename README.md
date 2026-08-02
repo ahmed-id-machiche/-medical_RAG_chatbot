@@ -1,47 +1,37 @@
-# 🩺 Tbibk (طبيبك) - Assistant Médical Intelligent RAG pour le Contexte Marocain
+# 🩺 Tbibk (طبيبك) - Assistant Médical Intelligent RAG pour le Contexte Marocain 🇲🇦
 
+![TBIBK RAG Architecture](assets/tbibk_rag_architecture.jpg)
 
-**Tbibk (طبيبك)** est une application Web médicale intelligente basée sur l'architecture **RAG (Retrieval-Augmented Generation)**, spécifiquement conçue pour le contexte sanitaire marocain. 
+**Tbibk (طبيبك)** est une application Web médicale intelligente basée sur l'architecture **RAG (Retrieval-Augmented Generation)**, spécifiquement conçue pour le contexte sanitaire du Royaume du Maroc.
 
-Le système interroge exclusivement les guides et manuels de recommandations officiels publiés par le **Ministère de la Santé du Maroc** (`sante.gov.ma`). Il prend en charge les requêtes exprimées en **Français** ainsi qu'en **Darija marocaine** (transcrite en caractères arabes ou en Arabizi/chiffres), tout en éliminant les risques d'hallucination grâce à un ancrage documentaire strict.
-
-### 🌟 Fonctionnalités Clés
-- **💬 Chatbot Médical RAG Hybride :** Réponse aux questions des patients avec indication systématique de la langue source et reformulation médicale.
-- **🌐 Routeur Linguistique Marocain :** Module hybride combinant un dictionnaire sémantique déterministe pour l'Arabizi et une traduction guidée par LLM local.
-- **⚖️ Calculateur d'IMC (Indice de Masse Corporelle) :** Évaluation personnalisée du poids selon les seuils cliniques officiels.
-- **💓 Évaluateur du Risque Cardiovasculaire (HTA) :** Estimation du risque hypertensif selon les critères clinique du score Maroc/OMS.
-- **📄 Générateur de Fiche Patient (PDF) :** Compilation dynamique en mémoire (via ReportLab) des paramètres du patient et du transcript de consultation sous forme de document PDF imprimable.
-- **🕒 Historique de Discussion Persistant :** Sauvegarde automatique des sessions de chat sur disque sous format JSON.
+Le système interroge exclusivement les guides et manuels de recommandations officiels publiés par le **Ministère de la Santé et de la Protection Sociale du Maroc** (`sante.gov.ma`). Il prend en charge les requêtes exprimées en **Français** ainsi qu'en **Darija marocaine (الدارجة)** (transcrite en caractères arabes ou en Arabizi/chiffres), tout en éliminant les risques d'hallucination grâce à un ancrage documentaire strict.
 
 ---
 
-## 📐 Architecture du Pipeline RAG Local
+### 🌟 Fonctionnalités Clés
+
+- **💬 Chatbot Médical RAG Hybride :** Réponses médicales instantanées basées sur les guides officiels du Ministère de la Santé du Maroc.
+- **🌐 Détection & Traduction de la Darija 🇲🇦 :** Module de détection automatique pour la Darija et l'Arabizi (`kifach n3erf rassi...`) avec reformulation médicale et badge indicateur.
+- **⚡ Inférence Ultra-Rapide (Groq API) :** Modèle Cloud `llama-3.1-8b-instant` via l'API Groq garantissant des réponses complètes en moins de 2 secondes.
+- **🔒 Confidentialité de Session :** Gestion de la mémoire isolée par navigateur via `st.session_state` (0 fuite de données entre visiteurs).
+- **⚖️ Calculateur d'IMC (Indice de Masse Corporelle) :** Évaluation personnalisée du poids et conseils nutritionnels selon les normes de l'OMS et du Maroc.
+- **💓 Évaluateur du Risque Cardiovasculaire (HTA) :** Estimation du risque hypertensif selon les critères cliniques officiels (Score HTA/OMS).
+- **📄 Fiche Patient Officielle (PDF Bilingue) :** Génération dynamique en 1 clic d'un rapport de consultation avec en-têtes officiels en Français et en Arabe (*ROYAUME DU MAROC / المملكة المغربية*).
+
+---
+
+## 📐 Architecture du Pipeline RAG
 
 ```mermaid
 graph TD
-    %% Styling
-    classDef data fill:#E0F2FE,stroke:#0284C7,stroke-width:2px;
-    classDef index fill:#F3E8FF,stroke:#A855F7,stroke-width:2px;
-    classDef rag fill:#FEF3C7,stroke:#D97706,stroke-width:2px;
-    classDef ui fill:#D1FAE5,stroke:#059669,stroke-width:2px;
-
-    %% Data Processing
-    A[PDFs Officiels du Ministère<br>sante.gov.ma]:::data --> B[Téléchargement & Parsing<br>src/downloader.py & src/extract_pdf.py]:::data
-    B --> C[Découpage Sémantique / Chunks<br>src/parser.py]:::data
-
-    %% Indexing
-    C --> D[Embeddings Multilingues<br>Sentence-Transformers]:::index
-    D --> E[Vector Store Local<br>src/vector_store.py]:::index
-
-    %% Query & RAG Pipeline
-    F[Requête Utilisateur<br>Français / Darija / Arabizi]:::rag --> G[Routeur Clinique Hybride<br>src/rag_pipeline.py]:::rag
-    G --> H[Recherche Vectorielle Cosinus<br>Top-K Chunks]:::rag
-    E --> H
-    H --> I[LLM Local - Ollama<br>Qwen 2.5 1.5B]:::rag
-
-    %% UI & Output
-    I --> J[Interface Web Streamlit<br>app.py]:::ui
-    J --> K[Génération PDF Fiche Patient<br>ReportLab Engine]:::ui
+    A[👤 User Query Darija / French] --> B[🌐 Streamlit Web UI]
+    B --> C[🗣️ Language Detection & Darija Reformulation]
+    C --> D[⚡ SentenceTransformers Embeddings<br/>paraphrase-multilingual-MiniLM-L12-v2]
+    D --> E[🔍 ChromaDB Vector Store<br/>Top-3 Document Chunks]
+    F[📚 Official Ministry of Health PDFs] --> E
+    E --> G[🧠 Groq API Cloud LLM<br/>llama-3.1-8b-instant]
+    G --> H[💬 Response + Citations & Badges]
+    H --> I[📄 1-Page Bilingual PDF Consultation Report]
 ```
 
 ---
@@ -49,92 +39,89 @@ graph TD
 ## 📁 Structure du Répertoire
 
 ```
-Projet Python/
+medical RAG chatbot/
 │
-├── app.py                      # Interface principale Streamlit (Design personnalisé Bleu #549FC4)
-├── evaluate.py                 # Script de benchmark et d'évaluation du RAG
-├── performance_report.md       # Rapport d'analyse de précision et d'asservissement documentaire
-├── requirements.txt            # Dépendances Python (Streamlit, Sentence-Transformers, Ollama, ReportLab, PyMuPDF)
-├── run.bat                     # Script de lancement rapide pour Windows
+├── app.py                      # Application Streamlit principale (UI Thème Bleu #549FC4)
+├── requirements.txt            # Dépendances Python (Streamlit, ChromaDB, Sentence-Transformers, ReportLab)
 ├── README.md                   # Documentation officielle du projet
 │
-├── 3d_chat_icon.png            # Asset graphique 3D - Chatbot
-├── 3d_heart_icon.png           # Asset graphique 3D - Risque Cardiovasculaire
-├── 3d_imc_icon.png             # Asset graphique 3D - Calculateur IMC
-├── 3d_report_icon.png          # Asset graphique 3D - Fiche Patient
-├── tbibk_logo.png              # Logo officiel détouré (Transparent)
+├── assets/                     # Ressources graphiques et médias
+│   ├── 3d_chat_icon.png        # Icône 3D - Chatbot Tbibk
+│   ├── 3d_heart_icon.png       # Icône 3D - Risque Cardiovasculaire
+│   ├── 3d_imc_icon.png         # Icône 3D - Calculateur IMC
+│   ├── 3d_report_icon.png      # Icône 3D - Fiche Patient
+│   ├── tbibk_logo.png          # Logo officiel Tbibk (Transparent)
+│   ├── arabic_header_v2.png    # En-tête officiel arabe du PDF
+│   └── tbibk_rag_architecture.jpg # Diagramme d'architecture RAG
 │
-├── src/                        # Coeur applicatif et modules RAG
-│   ├── config.py               # Chemins, URL des PDFs officiels et configuration des modèles
-│   ├── downloader.py           # Scraping et téléchargement automatique des guides officiels
-│   ├── extract_pdf.py          # Nettoyage et extraction brute des textes via PyMuPDF (fitz)
-│   ├── parser.py               # Découpage (chunking) sémantique avec chevauchement (overlap)
-│   ├── vector_store.py         # Base vectorielle locale légère (NumPy & Cosine Similarity)
-│   └── rag_pipeline.py         # Orchestrateur RAG (Routeur Darija + Prompt Inférence)
+├── src/                        # Modules RAG et moteur applicatif
+│   ├── config.py               # Chemins d'accès et configuration des modèles
+│   ├── downloader.py           # Scraping des guides officiels du Ministère
+│   ├── extract_pdf.py          # Extraction brute du texte via PyMuPDF
+│   ├── parser.py               # Découpage sémantique (Chunking avec overlap)
+│   ├── vector_store.py         # Moteur de recherche vectorielle ChromaDB
+│   └── rag_pipeline.py         # Orchestrateur RAG (Routeur Darija + Prompt Groq API)
 │
-├── conversations/              # Historique persistant des sessions (Format JSON)
-├── documents/                  # Guides et manuels médicaux d'origine (PDFs)
-├── data/                       # Extraits textuels sémantiques issus du parsing
-└── index/                      # Index vectoriels sauvegardés (vectors.npy & chunks.json)
+├── documents/                  # PDFs officiels du Ministère de la Santé
+├── data_clean/                 # Textes nettoyés pré-extraits (11 guides médicaux)
+└── index/                      # Index vectoriel persistant ChromaDB
 ```
 
 ---
 
-## 📚 Sources Documentaires Officiellement Indexées
+## 📚 Guides Médicaux Officiels Indexés
 
-Le système s'appuie sur 5 guides officiels téléchargeables directement depuis le portail du Ministère de la Santé du Maroc :
+Le système est directement alimenté par 11 guides cliniques officiels du Ministère de la Santé du Maroc :
 1. **Guide National de la Nutrition** (`guide_nutrition.pdf`)
-2. **Recommandations de Bonnes Pratiques Médicales - HTA de l'adulte** (`hta_adulte.pdf`)
+2. **Prise en Charge de l'Hypertension Artérielle (HTA)** (`hta_adulte.pdf`)
 3. **Guide du Risque Cardiovasculaire** (`risque_cardiovasculaire.pdf`)
-4. **Guide de Prévention des Complications de l'HTA** (`complications_hta.pdf`)
-5. **Guide National de Prise en Charge des Affections Respiratoires de l'Enfant** (`respiratoire_enfant.pdf`)
+4. **Prévention des Complications Hypertensives** (`complications_hta.pdf`)
+5. **Affections Respiratoires chez l'Enfant** (`respiratoire_enfant.pdf`)
+6. **Guide du Diabète Sucré**
+7. **Guide de la Santé Maternelle et Néonatale**
 
 ---
 
-## 🛠️ Configuration & Installation Locale
+## ⚙️ Installation & Lancement Local
 
-### 1. Prérequis Système
-- **Python 3.9** ou supérieur.
-- **Ollama** (Framework d'exécution LLM local, téléchargeable sur [ollama.com](https://ollama.com)).
+### 1. Prérequis
+- **Python 3.10** ou supérieur.
+- Un compte **Groq API** (gratuit sur [console.groq.com](https://console.groq.com)).
 
-### 2. Téléchargement du Modèle LLM Local
-Ouvrez un terminal et téléchargez le modèle multilingue optimisé :
+### 2. Cloner le Dépôt
 ```bash
-ollama pull qwen2.5:1.5b
+git clone https://github.com/ahmed-id-machiche/-medical_RAG_chatbot.git
+cd -medical_RAG_chatbot
 ```
 
-### 3. Installation des Dépendances Python
-Installez les bibliothèques requises via la commande suivante :
+### 3. Installer les Dépendances
 ```bash
 pip install -r requirements.txt
 ```
 
----
+### 4. Configurer la Clé API Groq
+Créez un fichier `.env` à la racine du projet ou définissez la variable d'environnement :
+```env
+GROQ_API_KEY=votre_cle_api_groq
+```
 
-## 🚀 Démarrage de l'Application
-
-### Méthode 1 : Script Automatique (Windows)
-Double-cliquez simplement sur le fichier `run.bat`.
-
-### Méthode 2 : Ligne de Commande
-Exécutez la commande Streamlit dans votre terminal :
+### 5. Lancer l'Application Streamlit
 ```bash
 python -m streamlit run app.py
 ```
-L'interface est immédiatement accessible à l'adresse : **[http://localhost:8501](http://localhost:8501)**.
+Accédez à l'application sur **[http://localhost:8501](http://localhost:8501)**.
 
 ---
 
-## 📊 Évaluation & Benchmark des Performances
+## ☁️ Déploiement en Production (Streamlit Cloud)
 
-Pour lancer l'évaluation automatique du taux de rétention d'information et vérifier l'absence d'hallucinations :
-```bash
-python evaluate.py
-```
-Le rapport d'évaluation complet est généré et mis à jour dans `performance_report.md`.
+L'application est pré-configurée pour le déploiement continu sur **Streamlit Community Cloud** :
+- **Branche de Déploiement :** `main` / `badge-hunt`
+- **Secrets Streamlit :** Ajoutez `GROQ_API_KEY = "votre_cle_api_groq"` dans le panneau *Secrets* de Streamlit Cloud.
 
 ---
 
-## 👨‍💻 Crédits & Développement
+## 👨‍💻 Crédits & Contact
 
-Projet développé dans le cadre du Master de la Faculté des Sciences d'El Jadida — Université Chouaïb Doukkali. Tous les documents sources appartiennent au Ministère de la Santé et de la Protection Sociale du Royaume du Maroc.
+Projet développé dans le cadre du Master à la Faculté des Sciences d'El Jadida — **Université Chouaïb Doukkali**. 
+Tous les guides médicaux référencés sont la propriété du **Ministère de la Santé et de la Protection Sociale du Royaume du Maroc**.
