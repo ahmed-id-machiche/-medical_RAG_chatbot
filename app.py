@@ -230,6 +230,8 @@ def calculate_cardio_risk(age, pas, tabac):
     else:
         return "Élevé", "#EF4444", "Risque cardiovasculaire élevé. Forte probabilité de complications hypertensives (HTA, AVC). Prenez rendez-vous dans le centre de santé le plus proche."
 
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, Image as RLImage
+
 def generate_patient_pdf(imc, imc_status, risk_status, messages):
     buffer = BytesIO()
     doc = SimpleDocTemplate(buffer, pagesize=letter, leftMargin=54, rightMargin=54, topMargin=54, bottomMargin=54)
@@ -239,7 +241,24 @@ def generate_patient_pdf(imc, imc_status, risk_status, messages):
     body_style = ParagraphStyle(name='PatientBody', fontName='Helvetica', fontSize=10, leading=14, textColor=colors.HexColor("#334155"), spaceAfter=6)
     bold_style = ParagraphStyle(name='PatientBold', fontName='Helvetica-Bold', fontSize=10, leading=14, textColor=colors.HexColor("#0F172A"), spaceAfter=6)
 
-    story = [Paragraph("Tbibk - Fiche Clinique de Consultation", title_style), Spacer(1, 10), Paragraph("1. Synthèse des Paramètres Cliniques", header_style)]
+    story = []
+    
+    # Header logo if available
+    logo_path = get_logo_path()
+    if os.path.exists(logo_path):
+        try:
+            img = RLImage(logo_path, width=65, height=65)
+            img.hAlign = 'CENTER'
+            story.append(img)
+            story.append(Spacer(1, 10))
+        except Exception:
+            pass
+
+    story.extend([
+        Paragraph("Tbibk - Fiche Clinique de Consultation", title_style),
+        Spacer(1, 10),
+        Paragraph("1. Synthèse des Paramètres Cliniques", header_style)
+    ])
     param_data = [
         [Paragraph("<b>Indicateur évalué</b>", bold_style), Paragraph("<b>Statut clinique</b>", bold_style)],
         [Paragraph("Indice de Masse Corporelle (IMC)", body_style), Paragraph(f"{imc:.1f} ({imc_status})", body_style)],
