@@ -274,32 +274,38 @@ Translation:"""
         NO_INFO_TOKEN = "NO_INFO"
 
         if is_darija:
-            system_prompt_fr = f"""Vous êtes Tbibk (طبيبك), l'assistant médical officiel d'information du Ministère de la Santé du Maroc.
-Votre rôle est de répondre de manière professionnelle, bienveillante et médicalement exacte à la question médicale de l'utilisateur.
+            system_prompt_ar = f"""Vous êtes Tbibk (طبيبك), l'assistant médical officiel d'information du Ministère de la Santé du Maroc.
+Votre rôle est de répondre directement en langue Arabe (اللغة العربية) de manière professionnelle, bienveillante et médicalement exacte à la question médicale de l'utilisateur.
 
 DIRECTIVES :
-1. Utilisez en priorité les informations officielles du contexte fourni ci-dessous.
-2. Synthétisez une réponse claire, directe et structurée expliquant les symptômes, conseils ou démarches médicales appropriées.
-3. Pour toute question médicale (ex: AVC, crise cardiaque, diabète, hypertension, nutrition), donnez les symptômes clés et conseils pratiques d'urgence ou de prévention.
+1. Répondez en Arabe clair et lisible.
+2. Commencez impérativement votre réponse par: "الجواب الرسمي من وزارة الصحة المغربية هو: "
+3. Expliquez les symptômes clés et conseils pratiques d'urgence ou de prévention basés sur le contexte ci-dessous.
 
 --- CONTEXTE OFFICIEL DE SANTÉ ---
 {context_str}
 """
             try:
-                res_fr = self._chat_complete(
+                res_ar = self._chat_complete(
                     messages=[
-                        {"role": "system", "content": system_prompt_fr},
-                        {"role": "user", "content": query_fr}
+                        {"role": "system", "content": system_prompt_ar},
+                        {"role": "user", "content": f"Question médicale : {query_fr}"}
                     ],
                     temperature=0.2,
-                    max_tokens=500
+                    max_tokens=650
                 )
 
-                if not res_fr or res_fr.strip() == NO_INFO_TOKEN:
+                if not res_ar or res_ar.strip() == NO_INFO_TOKEN:
                     return self._no_info_message(script_type)
 
-                # Step 2: Translate the French answer into clean Arabic script for all Darija queries
-                return self._translate_to_arabic_and_prefix(res_fr)
+                if self._contains_cjk(res_ar):
+                    res_ar = self._strip_cjk(res_ar)
+
+                prefix = "الجواب الرسمي من وزارة الصحة المغربية هو: "
+                if not res_ar.startswith("الجواب الرسمي"):
+                    res_ar = f"{prefix}\n{res_ar}"
+
+                return res_ar
 
             except Exception as e:
                 print(f"Error in Darija response generation: {str(e)}")
