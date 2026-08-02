@@ -236,29 +236,52 @@ def generate_patient_pdf(imc, imc_status, risk_status, messages):
     buffer = BytesIO()
     doc = SimpleDocTemplate(buffer, pagesize=letter, leftMargin=54, rightMargin=54, topMargin=54, bottomMargin=54)
     styles = getSampleStyleSheet()
-    title_style = ParagraphStyle(name='PatientTitle', fontName='Helvetica-Bold', fontSize=22, leading=26, textColor=colors.HexColor("#549FC4"), alignment=1, spaceAfter=20)
+    title_style = ParagraphStyle(name='PatientTitle', fontName='Helvetica-Bold', fontSize=20, leading=24, textColor=colors.HexColor("#549FC4"), alignment=1, spaceAfter=15)
     header_style = ParagraphStyle(name='PatientHeader', fontName='Helvetica-Bold', fontSize=12, leading=16, textColor=colors.HexColor("#0F172A"), spaceBefore=14, spaceAfter=8, keepWithNext=True)
     body_style = ParagraphStyle(name='PatientBody', fontName='Helvetica', fontSize=10, leading=14, textColor=colors.HexColor("#334155"), spaceAfter=6)
     bold_style = ParagraphStyle(name='PatientBold', fontName='Helvetica-Bold', fontSize=10, leading=14, textColor=colors.HexColor("#0F172A"), spaceAfter=6)
 
     story = []
     
-    # Header logo if available
+    # Official Bilingual Header (French Left, Logo Center, Arabic Right)
+    left_header = Paragraph(
+        "<b>ROYAUME DU MAROC</b><br/>"
+        "<font size=8 color='#549FC4'><b>Ministère de la Santé<br/>"
+        "et de la Protection Sociale</b></font>",
+        ParagraphStyle(name='HeaderLeft', fontName='Helvetica', fontSize=9, leading=12, alignment=0)
+    )
+    
+    right_header = Paragraph(
+        "<b>المملكة المغربية</b><br/>"
+        "<font size=8 color='#549FC4'><b>وزارة الصحة<br/>"
+        "والحماية الاجتماعية</b></font>",
+        ParagraphStyle(name='HeaderRight', fontName='Helvetica', fontSize=9, leading=12, alignment=2)
+    )
+
     logo_path = get_logo_path()
+    img_element = Paragraph("<b>TBIBK</b>", title_style)
     if os.path.exists(logo_path):
         try:
-            img = RLImage(logo_path, width=65, height=65)
+            img = RLImage(logo_path, width=55, height=55)
             img.hAlign = 'CENTER'
-            story.append(img)
-            story.append(Spacer(1, 10))
+            img_element = img
         except Exception:
             pass
 
-    story.extend([
-        Paragraph("Tbibk - Fiche Clinique de Consultation", title_style),
-        Spacer(1, 10),
-        Paragraph("1. Synthèse des Paramètres Cliniques", header_style)
-    ])
+    header_table = Table([[left_header, img_element, right_header]], colWidths=[180, 140, 180])
+    header_table.setStyle(TableStyle([
+        ('VALIGN', (0,0), (-1,-1), 'MIDDLE'),
+        ('ALIGN', (0,0), (0,0), 'LEFT'),
+        ('ALIGN', (1,0), (1,0), 'CENTER'),
+        ('ALIGN', (2,0), (2,0), 'RIGHT'),
+        ('BOTTOMPADDING', (0,0), (-1,-1), 10),
+    ]))
+    
+    story.append(header_table)
+    story.append(Spacer(1, 10))
+    story.append(Paragraph("Tbibk - Fiche Clinique de Consultation", title_style))
+    story.append(Spacer(1, 10))
+    story.append(Paragraph("1. Synthèse des Paramètres Cliniques", header_style))
     param_data = [
         [Paragraph("<b>Indicateur évalué</b>", bold_style), Paragraph("<b>Statut clinique</b>", bold_style)],
         [Paragraph("Indice de Masse Corporelle (IMC)", body_style), Paragraph(f"{imc:.1f} ({imc_status})", body_style)],
