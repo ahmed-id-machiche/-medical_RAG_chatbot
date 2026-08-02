@@ -8,6 +8,7 @@ import dotenv
 dotenv.load_dotenv()
 
 import streamlit as st
+import streamlit.components.v1 as components
 from src.rag_pipeline import RAGPipeline
 from src.parser import load_and_chunk_all_documents
 from src.downloader import create_fallback_documents
@@ -528,12 +529,24 @@ elif page == "Fiche Patient":
     """, unsafe_allow_html=True)
 
     pdf_b64 = base64.b64encode(pdf_bytes).decode('utf-8')
-    st.markdown(f'''
-    <div style="margin-top: 10px;">
-        <a href="data:application/pdf;base64,{pdf_b64}" target="_blank" style="text-decoration: none;">
-            <div style="background-color: #FFFFFF; color: #549FC4; border-radius: 12px; font-weight: 700; padding: 15px 20px; text-align: center; font-size: 16.5px; box-shadow: 0 4px 14px rgba(0,0,0,0.08); font-family: 'Outfit', sans-serif; cursor: pointer;">
-                📄 Afficher ma Fiche Patient (PDF)
-            </div>
-        </a>
+    components.html(f'''
+    <script>
+    function openPdfBlob() {{
+        const b64 = "{pdf_b64}";
+        const byteCharacters = atob(b64);
+        const byteNumbers = new Array(byteCharacters.length);
+        for (let i = 0; i < byteCharacters.length; i++) {{
+            byteNumbers[i] = byteCharacters.charCodeAt(i);
+        }}
+        const byteArray = new Uint8Array(byteNumbers);
+        const blob = new Blob([byteArray], {{ type: "application/pdf" }});
+        const blobUrl = URL.createObjectURL(blob);
+        window.open(blobUrl, "_blank");
+    }}
+    </script>
+    <div style="font-family: sans-serif; text-align: center;">
+        <button onclick="openPdfBlob()" style="width: 100%; background-color: #FFFFFF; color: #549FC4; border: 2px solid #FFFFFF; border-radius: 12px; font-weight: 700; padding: 14px 20px; font-size: 16.5px; cursor: pointer; box-shadow: 0 4px 14px rgba(0,0,0,0.08);">
+            📄 Afficher ma Fiche Patient (PDF)
+        </button>
     </div>
-    ''', unsafe_allow_html=True)
+    ''', height=70)
