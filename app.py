@@ -243,7 +243,7 @@ def generate_patient_pdf(imc, imc_status, risk_status, messages=None):
 
     story = []
     
-    # Official Header (French Left, Logo Center, Sub-Header Right)
+    # Official Bilingual Header (French Left, Logo Center, Arabic Right)
     left_header = Paragraph(
         "<b>ROYAUME DU MAROC</b><br/>"
         "<font size=8 color='#549FC4'><b>Ministère de la Santé<br/>"
@@ -251,12 +251,15 @@ def generate_patient_pdf(imc, imc_status, risk_status, messages=None):
         ParagraphStyle(name='HeaderLeft', fontName='Helvetica', fontSize=9, leading=12, alignment=0)
     )
     
-    right_header = Paragraph(
-        "<b>ROYAUME DU MAROC</b><br/>"
-        "<font size=8 color='#549FC4'><b>Réseau des Établissements<br/>"
-        "de Santé Publique</b></font>",
-        ParagraphStyle(name='HeaderRight', fontName='Helvetica', fontSize=9, leading=12, alignment=2)
-    )
+    arabic_header_path = os.path.join("assets", "arabic_header.png")
+    right_header = Paragraph("<b>ROYAUME DU MAROC</b>", ParagraphStyle(name='HeaderRight', fontName='Helvetica', fontSize=9, alignment=2))
+    if os.path.exists(arabic_header_path):
+        try:
+            ar_img = RLImage(arabic_header_path, width=165, height=45)
+            ar_img.hAlign = 'RIGHT'
+            right_header = ar_img
+        except Exception:
+            pass
 
     logo_path = get_logo_path()
     img_element = Paragraph("<b>TBIBK</b>", title_style)
