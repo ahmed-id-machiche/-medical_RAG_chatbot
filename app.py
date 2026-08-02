@@ -232,46 +232,43 @@ def calculate_cardio_risk(age, pas, tabac):
 
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, Image as RLImage
 
-def generate_patient_pdf(imc, imc_status, risk_status, messages=None):
+def generate_patient_pdf(poids, taille, imc, imc_status, risk_status):
     buffer = BytesIO()
-    doc = SimpleDocTemplate(buffer, pagesize=letter, leftMargin=54, rightMargin=54, topMargin=54, bottomMargin=54)
+    doc = SimpleDocTemplate(buffer, pagesize=letter, leftMargin=40, rightMargin=40, topMargin=40, bottomMargin=40)
     styles = getSampleStyleSheet()
-    title_style = ParagraphStyle(name='PatientTitle', fontName='Helvetica-Bold', fontSize=20, leading=24, textColor=colors.HexColor("#549FC4"), alignment=1, spaceAfter=15)
-    header_style = ParagraphStyle(name='PatientHeader', fontName='Helvetica-Bold', fontSize=12, leading=16, textColor=colors.HexColor("#0F172A"), spaceBefore=14, spaceAfter=8, keepWithNext=True)
-    body_style = ParagraphStyle(name='PatientBody', fontName='Helvetica', fontSize=10, leading=14, textColor=colors.HexColor("#334155"), spaceAfter=6)
-    bold_style = ParagraphStyle(name='PatientBold', fontName='Helvetica-Bold', fontSize=10, leading=14, textColor=colors.HexColor("#0F172A"), spaceAfter=6)
+    body_style = ParagraphStyle(name='PatientBody', fontName='Helvetica-Bold', fontSize=10, leading=14, textColor=colors.HexColor("#1E293B"))
 
     story = []
     
-    # Official Bilingual Header (French Left, Logo Center, Arabic Right)
+    # 1. Header (Left: French, Center: 3D Logo, Right: Arabic v2)
     left_header = Paragraph(
-        "<b>ROYAUME DU MAROC</b><br/>"
-        "<font size=8 color='#549FC4'><b>Ministère de la Santé<br/>"
-        "et de la Protection Sociale</b></font>",
-        ParagraphStyle(name='HeaderLeft', fontName='Helvetica', fontSize=9, leading=12, alignment=0)
+        "<b><font size=10 color='#000000'>ROYAUME DU MAROC</font></b><br/>"
+        "<font size=8.5 color='#549FC4'><b>Ministère de la Santé</b></font><br/>"
+        "<font size=8.5 color='#1E3A8A'><b>TBIBK — Assistant RAG</b></font>",
+        ParagraphStyle(name='HeaderLeft', fontName='Helvetica', leading=13, alignment=0)
     )
     
-    arabic_header_path = os.path.join("assets", "arabic_header.png")
+    arabic_header_path = os.path.join("assets", "arabic_header_v2.png")
     right_header = Paragraph("<b>ROYAUME DU MAROC</b>", ParagraphStyle(name='HeaderRight', fontName='Helvetica', fontSize=9, alignment=2))
     if os.path.exists(arabic_header_path):
         try:
-            ar_img = RLImage(arabic_header_path, width=165, height=45)
+            ar_img = RLImage(arabic_header_path, width=175, height=46)
             ar_img.hAlign = 'RIGHT'
             right_header = ar_img
         except Exception:
             pass
 
     logo_path = get_logo_path()
-    img_element = Paragraph("<b>TBIBK</b>", title_style)
+    img_element = Paragraph("<b>TBIBK</b>", ParagraphStyle(name='T', fontName='Helvetica-Bold', fontSize=16, alignment=1))
     if os.path.exists(logo_path):
         try:
-            img = RLImage(logo_path, width=55, height=55)
+            img = RLImage(logo_path, width=65, height=65)
             img.hAlign = 'CENTER'
             img_element = img
         except Exception:
             pass
 
-    header_table = Table([[left_header, img_element, right_header]], colWidths=[180, 140, 180])
+    header_table = Table([[left_header, img_element, right_header]], colWidths=[185, 140, 185])
     header_table.setStyle(TableStyle([
         ('VALIGN', (0,0), (-1,-1), 'MIDDLE'),
         ('ALIGN', (0,0), (0,0), 'LEFT'),
@@ -281,70 +278,73 @@ def generate_patient_pdf(imc, imc_status, risk_status, messages=None):
     ]))
     
     story.append(header_table)
-    story.append(Spacer(1, 10))
-    story.append(Paragraph("Tbibk - Fiche Clinique de Consultation", title_style))
-    story.append(Spacer(1, 10))
-    story.append(Paragraph("1. Synthèse des Paramètres Cliniques", header_style))
-    param_data = [
-        [Paragraph("<b>Indicateur évalué</b>", bold_style), Paragraph("<b>Statut clinique</b>", bold_style)],
-        [Paragraph("Indice de Masse Corporelle (IMC)", body_style), Paragraph(f"{imc:.1f} ({imc_status})", body_style)],
-        [Paragraph("Risque Cardio-Vasculaire (Score HTA)", body_style), Paragraph(risk_status, body_style)]
-    ]
-    t = Table(param_data, colWidths=[250, 250])
-    t.setStyle(TableStyle([('GRID', (0,0), (-1,-1), 0.5, colors.HexColor("#E2E8F0")), ('BACKGROUND', (0,0), (-1,0), colors.HexColor("#F8FAFC")), ('VALIGN', (0,0), (-1,-1), 'MIDDLE'), ('BOTTOMPADDING', (0,0), (-1,-1), 6), ('TOPPADDING', (0,0), (-1,-1), 6)]))
-    story.extend([t, Spacer(1, 20)])
-            
-    story.extend([Spacer(1, 20), Paragraph("<i>Avertissement : Ce document est une fiche d'information automatique et ne remplace pas une consultation médicale.</i>", body_style)])
+    
+    # Blue horizontal divider line under header table
+    divider = Table([[""]], colWidths=[510])
+    divider.setStyle(TableStyle([
+        ('LINEABOVE', (0,0), (-1,-1), 1.5, colors.HexColor("#1E3A8A")),
+        ('TOPPADDING', (0,0), (-1,-1), 0),
+        ('BOTTOMPADDING', (0,0), (-1,-1), 0),
+    ]))
+    story.append(divider)
+    story.append(Spacer(1, 15))
+    
+    # 2. Main Title Image
+    title_path = os.path.join("assets", "pdf_title.png")
+    if os.path.exists(title_path):
+        t_img = RLImage(title_path, width=500, height=30)
+        t_img.hAlign = 'CENTER'
+        story.append(t_img)
+    else:
+        story.append(Paragraph("<b>FICHE CLINIQUE DE CONSULTATION | بطاقة الاستشارة الطبية</b>", body_style))
+    story.append(Spacer(1, 20))
+    
+    # 3. Table Column Headers & Rows
+    col1_path = os.path.join("assets", "col1_header.png")
+    col2_path = os.path.join("assets", "col2_header.png")
+    r1_path = os.path.join("assets", "row1_label.png")
+    r2_path = os.path.join("assets", "row2_label.png")
+    r3_path = os.path.join("assets", "row3_label.png")
+
+    col1_img = RLImage(col1_path, width=240, height=24) if os.path.exists(col1_path) else Paragraph("Indicateur Évalué", body_style)
+    col2_img = RLImage(col2_path, width=240, height=24) if os.path.exists(col2_path) else Paragraph("Résultat & Statut", body_style)
+
+    r1_lbl = RLImage(r1_path, width=240, height=20) if os.path.exists(r1_path) else Paragraph("Poids / Taille", body_style)
+    r2_lbl = RLImage(r2_path, width=240, height=20) if os.path.exists(r2_path) else Paragraph("IMC", body_style)
+    r3_lbl = RLImage(r3_path, width=240, height=20) if os.path.exists(r3_path) else Paragraph("Risque Cardiovasculaire", body_style)
+
+    val1 = Paragraph(f"<b>{poids:.1f} kg / {taille:.1f} cm</b>", body_style)
+    val2 = Paragraph(f"<b>{imc:.1f} ({imc_status})</b>", body_style)
+    val3 = Paragraph(f"<b>{risk_status}</b>", body_style)
+
+    param_table = Table([
+        [col1_img, col2_img],
+        [r1_lbl, val1],
+        [r2_lbl, val2],
+        [r3_lbl, val3]
+    ], colWidths=[250, 250])
+    
+    param_table.setStyle(TableStyle([
+        ('GRID', (0,0), (-1,-1), 0.5, colors.HexColor("#CBD5E1")),
+        ('BACKGROUND', (0,0), (-1,0), colors.HexColor("#F1F5F9")),
+        ('VALIGN', (0,0), (-1,-1), 'MIDDLE'),
+        ('BOTTOMPADDING', (0,0), (-1,-1), 8),
+        ('TOPPADDING', (0,0), (-1,-1), 8),
+        ('LEFTPADDING', (0,0), (-1,-1), 10),
+        ('RIGHTPADDING', (0,0), (-1,-1), 10),
+    ]))
+    story.append(param_table)
+    story.append(Spacer(1, 30))
+    
+    # 4. Footer Disclaimer
+    footer_path = os.path.join("assets", "pdf_footer.png")
+    if os.path.exists(footer_path):
+        f_img = RLImage(footer_path, width=500, height=35)
+        f_img.hAlign = 'CENTER'
+        story.append(f_img)
+        
     doc.build(story)
     return buffer.getvalue()
-
-# -----------------------------------------------------------------------------
-# 4. CONSOLIDATED UNIFIED CSS STYLING
-# -----------------------------------------------------------------------------
-chat_icon_b64 = get_base64_image("3d_chat_icon.png")
-imc_icon_b64 = get_base64_image("3d_imc_icon.png")
-heart_icon_b64 = get_base64_image("3d_heart_icon.png")
-report_icon_b64 = get_base64_image("3d_report_icon.png")
-
-st.markdown(f"""
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap');
-    
-    html, body, .stApp, .main, [data-testid="stMain"], [data-testid="stMainViewContainer"], [data-testid="stAppViewContainer"], [data-testid="stHeader"], [data-testid="stBottom"], [data-testid="stSidebar"] {{
-        background-color: #549FC4 !important;
-        background-image: none !important;
-        color: #FFFFFF !important;
-        font-family: 'Inter', sans-serif !important;
-    }}
-    .block-container {{ max-width: 800px !important; padding-top: 2rem !important; margin: 0 auto !important; }}
-    [data-testid="stSidebar"] {{ border-right: 1px solid #488EAF !important; }}
-    [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] p, [data-testid="stSidebar"] div {{ color: #FFFFFF !important; }}
-    
-    /* Radio Nav without circles */
-    div[role="radiogroup"] label input[type="radio"], div[role="radiogroup"] label svg {{ display: none !important; }}
-    div[role="radiogroup"] label {{ background-color: transparent !important; border-radius: 8px !important; padding: 10px 14px !important; margin-bottom: 6px !important; cursor: pointer !important; display: flex !important; align-items: center !important; }}
-    div[role="radiogroup"] label p {{ font-family: 'Outfit', sans-serif !important; font-size: 17px !important; font-weight: 600 !important; color: #FFFFFF !important; margin: 0 !important; }}
-    div[role="radiogroup"] label:nth-of-type(1)::before {{ content: "" !important; display: inline-block !important; width: 28px !important; height: 28px !important; margin-right: 12px !important; background-image: url("data:image/png;base64,{chat_icon_b64}") !important; background-size: contain !important; background-repeat: no-repeat !important; }}
-    div[role="radiogroup"] label:nth-of-type(2)::before {{ content: "" !important; display: inline-block !important; width: 28px !important; height: 28px !important; margin-right: 12px !important; background-image: url("data:image/png;base64,{imc_icon_b64}") !important; background-size: contain !important; background-repeat: no-repeat !important; }}
-    div[role="radiogroup"] label:nth-of-type(3)::before {{ content: "" !important; display: inline-block !important; width: 28px !important; height: 28px !important; margin-right: 12px !important; background-image: url("data:image/png;base64,{heart_icon_b64}") !important; background-size: contain !important; background-repeat: no-repeat !important; }}
-    div[role="radiogroup"] label:nth-of-type(4)::before {{ content: "" !important; display: inline-block !important; width: 28px !important; height: 28px !important; margin-right: 12px !important; background-image: url("data:image/png;base64,{report_icon_b64}") !important; background-size: contain !important; background-repeat: no-repeat !important; }}
-    div[role="radiogroup"] label:has(input:checked) {{ background-color: #FFFFFF !important; }}
-    div[role="radiogroup"] label:has(input:checked) p {{ color: #549FC4 !important; font-weight: 700 !important; }}
-    
-    [data-testid="stSidebar"] button {{ background-color: rgba(255, 255, 255, 0.1) !important; border: 1px dashed rgba(255, 255, 255, 0.6) !important; font-weight: 600 !important; color: #FFFFFF !important; border-radius: 8px !important; }}
-    .clean-title {{ font-size: 38px !important; font-weight: 700 !important; color: #FFFFFF !important; text-align: center !important; font-family: 'Outfit', sans-serif !important; margin-bottom: 10px !important; }}
-    .clean-subtitle {{ font-size: 14.5px !important; color: rgba(255, 255, 255, 0.85) !important; text-align: center !important; margin-bottom: 25px !important; }}
-    .stChatMessage {{ background-color: #FFFFFF !important; border-radius: 12px !important; padding: 16px 20px !important; margin-bottom: 12px !important; border: 1px solid #E2ECF2 !important; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05) !important; }}
-    .stChatMessage p, .stChatMessage span, .stChatMessage div {{ color: #1F2937 !important; }}
-    .lang-badge {{ font-size: 10px; padding: 2px 6px; border-radius: 4px; color: #4B5563; background-color: #F3F4F6; border: 1px solid #E5E7EB; font-weight: 600; display: inline-block; margin-bottom: 6px; }}
-    .reformulation-note {{ font-size: 11px; color: #6B7280; margin-bottom: 6px; font-style: italic; }}
-    .arabic-text {{ direction: rtl; text-align: right; font-family: 'Segoe UI', sans-serif; line-height: 1.7; font-size: 15.5px; color: #111827 !important; }}
-    .premium-card {{ background: #FFFFFF !important; border-radius: 16px !important; padding: 25px !important; box-shadow: 0 4px 16px rgba(0,0,0,0.06) !important; }}
-    .premium-card p, .premium-card td, .premium-card th {{ color: #1F2937 !important; }}
-    div[data-testid="stChatInput"] {{ border: 1px solid #E5E7EB !important; border-radius: 26px !important; background-color: #FFFFFF !important; }}
-    div[data-testid="stChatInput"] textarea {{ color: #111827 !important; }}
-</style>
-""", unsafe_allow_html=True)
 
 # -----------------------------------------------------------------------------
 # 5. SIDEBAR NAVIGATION & DISCUSSIONS
@@ -491,11 +491,11 @@ elif page == "Risque Cardiovasculaire":
 
 elif page == "Fiche Patient":
     st.markdown('<div class="clean-title">📄 Votre Rapport de Consultation</div>', unsafe_allow_html=True)
-    st.markdown('<div class="clean-subtitle">Téléchargez la synthèse clinique officielle de votre consultation ci-dessous.</div>', unsafe_allow_html=True)
+    st.markdown('<div class="clean-subtitle">Ouvrez votre fiche clinique dans un nouvel onglet ou enregistrez-la.</div>', unsafe_allow_html=True)
 
     imc, imc_status, imc_color, _ = calculate_imc(st.session_state.poids, st.session_state.taille)
     risk_status, risk_color, _ = calculate_cardio_risk(st.session_state.age, st.session_state.pas, st.session_state.tabac)
-    pdf_bytes = generate_patient_pdf(imc, imc_status, risk_status)
+    pdf_bytes = generate_patient_pdf(st.session_state.poids, st.session_state.taille, imc, imc_status, risk_status)
 
     st.markdown(f"""
     <div class="premium-card" style="margin-bottom: 25px;">
@@ -508,8 +508,17 @@ elif page == "Fiche Patient":
     </div>
     """, unsafe_allow_html=True)
 
+    pdf_b64 = base64.b64encode(pdf_bytes).decode('utf-8')
+    st.markdown(f'''
+    <a href="data:application/pdf;base64,{pdf_b64}" target="_blank" style="text-decoration: none;">
+        <div style="background-color: #3B82A6; color: #FFFFFF; border-radius: 10px; font-weight: 600; padding: 14px 20px; text-align: center; font-size: 16px; margin-bottom: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); font-family: 'Inter', sans-serif;">
+            👁️ Ouvrir ma Fiche Patient (PDF) dans un nouvel onglet
+        </div>
+    </a>
+    ''', unsafe_allow_html=True)
+
     st.download_button(
-        label="📥 Télécharger ma Fiche Patient (PDF)",
+        label="📥 Enregistrer ma Fiche Patient (PDF)",
         data=pdf_bytes,
         file_name="Fiche_Patient_Tbibk.pdf",
         mime="application/pdf",
