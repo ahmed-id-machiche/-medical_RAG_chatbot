@@ -232,7 +232,7 @@ def calculate_cardio_risk(age, pas, tabac):
 
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, Image as RLImage
 
-def generate_patient_pdf(imc, imc_status, risk_status, messages):
+def generate_patient_pdf(imc, imc_status, risk_status, messages=None):
     buffer = BytesIO()
     doc = SimpleDocTemplate(buffer, pagesize=letter, leftMargin=54, rightMargin=54, topMargin=54, bottomMargin=54)
     styles = getSampleStyleSheet()
@@ -289,32 +289,7 @@ def generate_patient_pdf(imc, imc_status, risk_status, messages):
     ]
     t = Table(param_data, colWidths=[250, 250])
     t.setStyle(TableStyle([('GRID', (0,0), (-1,-1), 0.5, colors.HexColor("#E2E8F0")), ('BACKGROUND', (0,0), (-1,0), colors.HexColor("#F8FAFC")), ('VALIGN', (0,0), (-1,-1), 'MIDDLE'), ('BOTTOMPADDING', (0,0), (-1,-1), 6), ('TOPPADDING', (0,0), (-1,-1), 6)]))
-    story.extend([t, Spacer(1, 15), Paragraph("2. Historique de la Discussion Médicale", header_style)])
-    
-    def sanitize_for_pdf(text: str) -> str:
-        if not text: return ""
-        clean = text.replace("<br/>", " ").replace("<b>", "").replace("</b>", "").replace("<div class=\"arabic-text\">", "").replace("</div>", "").replace("**", "")
-        allowed = "éèêëàâäùûüçîïôöÉÈÊËÀÂÄÙÛÜÇÎÏÔÖ"
-        res = [c if (ord(c) < 128 or c in allowed) else " " for c in clean]
-        return " ".join("".join(res).split())
-
-    if not messages:
-        story.append(Paragraph("Aucune discussion enregistrée dans cette session.", body_style))
-    else:
-        for msg in messages:
-            role = "Patient" if msg["role"] == "user" else "Tbibk"
-            story.append(Paragraph(f"<b>{role} :</b>", bold_style))
-            
-            raw_text = msg["content"]
-            if msg["role"] == "user" and msg.get("query_fr"):
-                raw_text = f"Question : {msg['query_fr']}"
-            elif msg["role"] == "assistant" and msg.get("query_fr"):
-                raw_text = f"(Sujet : {msg['query_fr']})\n" + raw_text
-
-            clean_text = sanitize_for_pdf(raw_text)
-            if clean_text:
-                story.append(Paragraph(clean_text, body_style))
-            story.append(Spacer(1, 4))
+    story.extend([t, Spacer(1, 20)])
             
     story.extend([Spacer(1, 20), Paragraph("<i>Avertissement : Ce document est une fiche d'information automatique et ne remplace pas une consultation médicale.</i>", body_style)])
     doc.build(story)
@@ -513,23 +488,25 @@ elif page == "Risque Cardiovasculaire":
 
 elif page == "Fiche Patient":
     st.markdown('<div class="clean-title">📄 Votre Rapport de Consultation</div>', unsafe_allow_html=True)
-    st.markdown('<div class="clean-subtitle">Visualisez directement votre fiche clinique ci-dessous.</div>', unsafe_allow_html=True)
+    st.markdown('<div class="clean-subtitle">Téléchargez la synthèse clinique officielle de votre consultation ci-dessous.</div>', unsafe_allow_html=True)
 
     imc, imc_status, imc_color, _ = calculate_imc(st.session_state.poids, st.session_state.taille)
     risk_status, risk_color, _ = calculate_cardio_risk(st.session_state.age, st.session_state.pas, st.session_state.tabac)
-    pdf_bytes = generate_patient_pdf(imc, imc_status, risk_status, st.session_state.messages)
+    pdf_bytes = generate_patient_pdf(imc, imc_status, risk_status)
 
-    # Convert PDF bytes to Base64 to render directly inside browser iframe
-    pdf_b64 = base64.b64encode(pdf_bytes).decode('utf-8')
-    pdf_display = f'''
-    <div style="margin-bottom: 20px;">
-        <iframe src="data:application/pdf;base64,{pdf_b64}" width="100%" height="650" type="application/pdf" style="border: none; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.1); background-color: #FFFFFF;"></iframe>
+    st.markdown(f"""
+    <div class="premium-card" style="margin-bottom: 25px;">
+        <span style="font-size: 13px; color: #475569; font-weight: 700; text-transform: uppercase; text-align: center; display: block; margin-bottom: 15px;">Résumé Médical du Patient</span>
+        <table style="width: 100%; border-collapse: collapse;">
+            <tr style="border-bottom: 1px solid #E2ECF2;"><td style="padding: 10px 0;">Poids / Taille :</td><td style="text-align: right; font-weight: 700;">{st.session_state.poids} kg / {st.session_state.taille} cm</td></tr>
+            <tr style="border-bottom: 1px solid #E2ECF2;"><td style="padding: 10px 0;">IMC :</td><td style="text-align: right; font-weight: 700; color: {imc_color};">{imc:.1f} ({imc_status})</td></tr>
+            <tr><td style="padding: 10px 0;">Risque Cardiovasculaire / HTA :</td><td style="text-align: right; font-weight: 700; color: {risk_color};">{risk_status}</td></tr>
+        </table>
     </div>
-    '''
-    st.markdown(pdf_display, unsafe_allow_html=True)
+    """, unsafe_allow_html=True)
 
     st.download_button(
-        label="📥 Enregistrer la Fiche Patient (PDF)",
+        label="📥 Télécharger ma Fiche Patient (PDF)",
         data=pdf_bytes,
         file_name="Fiche_Patient_Tbibk.pdf",
         mime="application/pdf",
